@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=678000,RESOLUTION=768x432,CODECS="avc1.77.30, mp4a.40.2"
+http://livestream-f.akamaihd.net/i/1864610_1649849_lsi65q70piuwszzl0fi_1@407494/index_678_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1493830337~acl=%2fi%2f1864610_1649849_lsi65q70piuwszzl0fi_1%40407494%2f*~data=hdntl~hmac=90a85ac4aa7b60fa817c40545406fbebe4b5602f85f0b5adbe6ae3239120a132
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=678000,RESOLUTION=768x432,CODECS="avc1.77.30, mp4a.40.2"
+http://livestream-f.akamaihd.net/i/1864610_1649849_lsi65q70piuwszzl0fi_1@407494/index_678_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1493830337~acl=%2fi%2f1864610_1649849_lsi65q70piuwszzl0fi_1%40407494%2f*~data=hdntl~hmac=90a85ac4aa7b60fa817c40545406fbebe4b5602f85f0b5adbe6ae3239120a132
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=198000,RESOLUTION=480x270,CODECS="avc1.66.30, mp4a.40.2"
+http://livestream-f.akamaihd.net/i/1864610_1649849_lsi65q70piuwszzl0fi_1@407494/index_198_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1493830337~acl=%2fi%2f1864610_1649849_lsi65q70piuwszzl0fi_1%40407494%2f*~data=hdntl~hmac=90a85ac4aa7b60fa817c40545406fbebe4b5602f85f0b5adbe6ae3239120a132
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=198000,RESOLUTION=480x270,CODECS="avc1.66.30, mp4a.40.2"
+http://livestream-f.akamaihd.net/i/1864610_1649849_lsi65q70piuwszzl0fi_1@407494/index_198_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1493830337~acl=%2fi%2f1864610_1649849_lsi65q70piuwszzl0fi_1%40407494%2f*~data=hdntl~hmac=90a85ac4aa7b60fa817c40545406fbebe4b5602f85f0b5adbe6ae3239120a132
