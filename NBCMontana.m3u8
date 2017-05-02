@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=694272,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=768x432
+https://dai.google.com/linear/hls/event/60zL3aJmSI-3q3R900rEjA/variant/8f59954f824579a0df88709d3974add2/stream/13c29f87-68f6-4cc2-a532-63e4179e6edb:TUL2/bandwidth/694272.m3u8
