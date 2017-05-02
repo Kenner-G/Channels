@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=2375680,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=1280x720
+https://dai.google.com/linear/hls/event/njMVDGp-SOCX98_Wa8-qoQ/variant/0daa75d253cdab226bfcd84d255b4376/stream/e7b8a773-f9fe-417c-826c-cd1db4981c61:TUL2/bandwidth/2375680.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=202752,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=480x270
+https://dai.google.com/linear/hls/event/njMVDGp-SOCX98_Wa8-qoQ/variant/bc527216400014ea93217cf359f059db/stream/e7b8a773-f9fe-417c-826c-cd1db4981c61:TUL2/bandwidth/202752.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=694272,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=768x432
+https://dai.google.com/linear/hls/event/njMVDGp-SOCX98_Wa8-qoQ/variant/a0df2c2a2717a98b5ba56881c53f547f/stream/e7b8a773-f9fe-417c-826c-cd1db4981c61:TUL2/bandwidth/694272.m3u8
