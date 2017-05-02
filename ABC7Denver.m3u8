@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-UPLYNK-LIVE
+#EXT-X-START:TIME-OFFSET=0.00
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="unspecified",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=YES
+#UPLYNK-MEDIA0:896x504x30,main-31,2x48000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=896x504,BANDWIDTH=1554841,CODECS="mp4a.40.5,avc1.4d001f",FRAME-RATE=30.000,AUDIO="aac",AVERAGE-BANDWIDTH=1165989
+http://content-ausw2.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1/f.m3u8?tc=1&exp=1493744361&rn=6.213093035992688E8&ct=c&cid=64ca339f04964a5e961c3207a7771bf1&ad.cust_params=fname%3Dlive+video%26temp%3D32below%26weather%3Dcloudy%26iframed%3D0%26site%3Dprod&ad.pingf=3&ad=live&v=2&ad.sz=1x1000&ad.preroll=1&ad.cping=1&rays=fghe&sig=a72d2cfe17cdfc186f6bd24256b201bed41513395dc3a407b5d09705cc0a0db8&pbs=3146989a575f4bb58cdea4af619d6dd7
+#UPLYNK-MEDIA0:1280x720x30,main-31,2x48000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1280x720,BANDWIDTH=3328000,CODECS="mp4a.40.5,avc1.4d001f",FRAME-RATE=30.000,AUDIO="aac",AVERAGE-BANDWIDTH=2421153
+http://content-ausw2.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1/g.m3u8?tc=1&exp=1493744361&rn=6.213093035992688E8&ct=c&cid=64ca339f04964a5e961c3207a7771bf1&ad.cust_params=fname%3Dlive+video%26temp%3D32below%26weather%3Dcloudy%26iframed%3D0%26site%3Dprod&ad.pingf=3&ad=live&v=2&ad.sz=1x1000&ad.preroll=1&ad.cping=1&rays=fghe&sig=a72d2cfe17cdfc186f6bd24256b201bed41513395dc3a407b5d09705cc0a0db8&pbs=3146989a575f4bb58cdea4af619d6dd7
+#UPLYNK-MEDIA0:704x396x30,main-30,2x48000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=704x396,BANDWIDTH=873267,CODECS="mp4a.40.5,avc1.4d001e",FRAME-RATE=30.000,AUDIO="aac",AVERAGE-BANDWIDTH=674656
+http://content-ausw2.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1/e.m3u8?tc=1&exp=1493744361&rn=6.213093035992688E8&ct=c&cid=64ca339f04964a5e961c3207a7771bf1&ad.cust_params=fname%3Dlive+video%26temp%3D32below%26weather%3Dcloudy%26iframed%3D0%26site%3Dprod&ad.pingf=3&ad=live&v=2&ad.sz=1x1000&ad.preroll=1&ad.cping=1&rays=fghe&sig=a72d2cfe17cdfc186f6bd24256b201bed41513395dc3a407b5d09705cc0a0db8&pbs=3146989a575f4bb58cdea4af619d6dd7
