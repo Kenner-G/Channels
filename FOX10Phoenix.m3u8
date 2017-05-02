@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=202752,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=480x270
+https://dai.google.com/linear/hls/event/xgdMp7z3RzCy0NzWWrpdOg/variant/458bbd2d6d8c8cdbc193ab3b727f0ab4/stream/782b2c25-873c-4c65-a32d-243720d54244:TUL2/bandwidth/202752.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=694272,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=768x432
+https://dai.google.com/linear/hls/event/xgdMp7z3RzCy0NzWWrpdOg/variant/6a8785152f2743b4fbe619cfcd5c4365/stream/782b2c25-873c-4c65-a32d-243720d54244:TUL2/bandwidth/694272.m3u8
