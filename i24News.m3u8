@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,i24 news
+http://stream-07.vty.dailymotion.com/12/dm/1/x29atae/live.isml/events(live-1492001406)/live-audio=128000-video=1260000.m3u8
+#EXTINF:-1,i24 news HD
+http://stream-09.vty.dailymotion.com/12/dm/1/x29atae/live.isml/events(live-1492001406)/live-audio=128000-video=6300000.m3u8
