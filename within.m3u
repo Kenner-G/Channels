@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:1 tvg-logo="" group-title=“”,Popeye M3U
+https://raw.githubusercontent.com/fluxustv/Channels/master/Popeye02.m3u
+
+#EXTINF:1 tvg-logo="" group-title=“”,Popeye M3U8
+https://archive.org/download/youtube-KIhF6ulqWKk/https://raw.githubusercontent.com/fluxustv/Channels/master/Popeye.m3u8
