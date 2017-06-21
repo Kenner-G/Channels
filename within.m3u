@@ -1,7 +1,85 @@
 #EXTM3U
 
-#EXTINF:1 tvg-logo="" group-title=“”,Popeye M3U
-https://raw.githubusercontent.com/fluxustv/Channels/master/Popeye02.m3u
+#EXTINF:-1,TV GALICIA AMERICA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
 
-#EXTINF:1 tvg-logo="" group-title=“”,Popeye M3U8
-https://archive.org/download/youtube-KIhF6ulqWKk/https://raw.githubusercontent.com/fluxustv/Channels/master/Popeye.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+
+#EXTINF:-1,DMY TV
+http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8
+
+#EXTINF:-1,TELE MÚSICA
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+
+#EXTINF:-1,EXTRA TV
+http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
+
+#EXTINF:-1,HCH TV
+http://4.31.30.140:1935/live/hchtvdigital/livestream.m3u8
+
+#EXTINF:-1,INFORMACIÓN TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+
+Taber TV canal 17
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/live.m3u8
+
+#EXTINF:-1,CANAL 26 HD Arg
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:-1,CANAL 79
+http://painel.serveron.com.br:1935/8168/8168/live.m3u8
+
+#EXTINF:-1,CANAL TRECE
+http://stream02.cyberfuel.com:1935/SinartCanal13/livestream/live.m3u8
+
+#EXTINF:-1,CANAL ZOOM TV
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,EL PINGÜINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+
+#EXTINF:-1,NOTICIAS 16
+http://mek2.mekstream.com:1935/noticias16/live3/livestream.m3u8
+
+#EXTINF:-1,TDC brazil
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+
+#EXTINF:-1,TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+
+#EXTINF:-1,CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1,CANALE 21
+http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+
+#EXTINF:-1,TV LUNA
+http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
+
+#EXTINF:-1,TRM H24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+
+#EXTINF:-1,TG NORBA 24
+http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
+
+#EXTINF:-1,SÜDTIROL TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+
+#EXTINF:-1,RETE 55
+http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
+
+#EXTINF:-1,RETE 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
+
+#EXTINF:-1,ORLER TV
+http://77.92.76.135:1935/orler/livestream/live.m3u8
+
+#EXTINF:-1,Pianeta Neve Trentino
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+
+#EXTINF:-1,TV 2000 italy Rel.
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
