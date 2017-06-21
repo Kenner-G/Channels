@@ -1,4 +1,8 @@
 #EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:2
+#EXT-X-MEDIA-SEQUENCE:1
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.jpg" group-title=“POPEYE”,Popeye Meets Sinbad
 https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.mp4
