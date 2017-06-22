@@ -13,7 +13,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg" group-title="LABEL",~ POPEYE THE SAILOR ~
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+http://jay.mobile9.com/gQ5E9_t7rQs0BVe0UM6yUA/1498362126/vsdl/3/popeyering_dx2zwff9.mp3
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.jpg" group-title=“POPEYE”,Popeye 01 - Popeye Meets Sinbad
 https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.mp4
@@ -26,3 +26,11 @@ https://archive.org/download/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yAXsVjtzYdDYoEZ_pNKCdBW-yWCCLxvYZYwYXeZiqYp-2ICUo76S6u94hrtnIf-YebBNKo2T2ooy=w293-h220" group-title=“POPEYE”,Popeye 04 - Popeye for President
 https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://img-fotki.yandex.ru/get/197756/480438961.b/0_169da3_77ff11ab_orig.Jpg" group-title="LABEL",~ VINTAGE ANIMATION ~
+http://sc9106.xpx.pl:9106/
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hap3lS7tyQBUgeXgxky8L1OxC8iBbz3qrddzlattQPl2faxERINhlFSWVmlW8bF1xxs6htAnhdylFQ=w296-h220" group-title=“ANIMATION”,VA 01 - The Brave Tin Soldier
+https://archive.org/download/SOLDIER/SOLDIER_256k.mp4
+
+
