@@ -27,6 +27,12 @@ https://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.m
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51FlJK0RQHL.jpg" group-title="MOVIES",Concrete Cowboys (1979)
 https://archive.org/download/ConcreteCowboys/ConcreteCowboys_512kb.mp4
 
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/superman-1978/large_rLTdj7oB9oxsYwuweeglWRzRng7.jpg" group-title="MOVIES",Superman (1978)
+https://archive.org/download/Superman1978/Superman%201978.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/superman-1978/large_rLTdj7oB9oxsYwuweeglWRzRng7.jpg" group-title="MOVIES",Superman (1978) [AVI]
+https://archive.org/download/Superman1978/Superman%201978.avi
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g52vzJj2L.jpg" group-title="MOVIES",Rescue from Gilligan's Island (1978)
 https://archive.org/download/RescuefromGilligansIsland/RescuefromGilligansIsland_512kb.mp4
 
