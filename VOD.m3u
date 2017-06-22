@@ -30,6 +30,12 @@ https://archive.org/download/Return_of_the_Kung_Fu_Dragon/Return_of_the_Kung_Fu_
 #EXTINF:-1 tvg-logo="https://img.gqitalia.it/wp-content/uploads/2015/03/1425568516_Profondo-rosso-1975.jpeg" group-title="MOVIES",Deep Red (1975)
 https://archive.org/download/DeepRed1975/DeepRed_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Gone_with_the_West_FilmPoster.jpeg" group-title="MOVIES",Gone with the West (1975)
+https://archive.org/download/GonewiththeWest/GonewiththeWest_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2010/08/All-The-Kind-Strangers-poster-1.jpg" group-title="MOVIES",All the Kind Strangers (1974)
+https://archive.org/download/AlltheKindStrangers/AlltheKindStrangers_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/The_Gun_and_the_Pulpit_DVD_cover.jpg" group-title="MOVIES",The Gun and the Pulpit (1974)
 https://archive.org/download/cco_thegunandthepulpit/ccoPublicDomainThe_Gun_and_the_Pulpit_512kb.mp4
 
@@ -42,15 +48,26 @@ https://archive.org/download/DoomsdayMachine1972/DoomsdayMachine1972_512kb.mp4
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/pf/pfnqmk6c.jpg" group-title="MOVIES",Born to Win (1971)
 https://archive.org/download/BorntoWin/BorntoWin_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://thetelltalemind.files.wordpress.com/2014/12/gamera-vs-viras.jpg" group-title="MOVIES",Gamera vs. Viras (1968)
+https://archive.org/download/Destroy_All_Planets/Destroy_All_Planets_512kb.mp4
+
 #EXTINF:-1 tvg-logo="http://www.wildeast.net/images/DRHcovercomp.jpg" group-title="MOVIES",Death Rides A Horse (1967)
 https://archive.org/download/DeathRidesAHorse/DeathRidesAHorse1967_512kb.mp4
 
-#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/4c/6d/b1/4c6db1145a081b11353535a13b648c64.jpg
-" group-title="MOVIES",Hercules the Invincible (1964)
+#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/hercules-against-the-moon-men-movie-poster-1965-1020209127.jpg" group-title="MOVIES",Hercules Against the Moon Men (1964)
+https://archive.org/download/hercules_against_the_moon_men_1964/Hercules_Against_the_Moon_Men_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/4c/6d/b1/4c6db1145a081b11353535a13b648c64.jpg" group-title="MOVIES",Hercules the Invincible (1964)
 https://archive.org/download/SonofHerculesTheLandofDarkness/SonofHerculesTheLandofDarkness_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cinemaffiche.com/images/grandes/David%20et%20Goliath.jpg" group-title="MOVIES",David and Goliath (1960)
+https://archive.org/download/DavidandGoliath1960/DavidandGoliath1960_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://theuraniumcafe.files.wordpress.com/2011/07/hecules-unchained2b04.jpg" group-title="MOVIES",Hercules Unchained (1959)
 https://archive.org/download/HerculesUnchained/Hercules_Unchained_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/1958163.jpg" group-title="MOVIES",The Snow Queen (1957)
+https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://i43.tower.com/images/mm113268398/big-trees-kirk-douglas-dvd-cover-art.jpg" group-title="MOVIES",The Big Trees (1952)
 https://archive.org/download/big_trees/big_trees_512kb.mp4
