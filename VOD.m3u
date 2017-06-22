@@ -42,8 +42,14 @@ https://archive.org/download/cco_thegunandthepulpit/ccoPublicDomainThe_Gun_and_t
 #EXTINF:-1 tvg-logo="https://pikabox.net/img/2016/07/23/F7e2Uq.md.jpg" group-title="MOVIES",The Streetfighter (1974)
 https://archive.org/download/Streetfighter_778/StreetFighter_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/T.N.T._Jackson_%28movie_poster%29.jpg" group-title="MOVIES",TNT Jackson (1974)
+https://archive.org/download/T.n.t.Jackson/MoviePowderPresentsTntJackson_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Doomsday_Machine_FilmPoster.jpeg" group-title="MOVIES",Doomsday Machine (1972)
 https://archive.org/download/DoomsdayMachine1972/DoomsdayMachine1972_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://worldworthwatching.com/wp-content/uploads/2013/08/The_Proud_And_The_Damned1.jpg" group-title="MOVIES",The Proud and the Damned (1972)
+https://archive.org/download/TheProudAndTheDamned/ClaCinOnl_TheProudandtheDamned_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/pf/pfnqmk6c.jpg" group-title="MOVIES",Born to Win (1971)
 https://archive.org/download/BorntoWin/BorntoWin_512kb.mp4
@@ -60,6 +66,15 @@ https://archive.org/download/hercules_against_the_moon_men_1964/Hercules_Against
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/4c/6d/b1/4c6db1145a081b11353535a13b648c64.jpg" group-title="MOVIES",Hercules the Invincible (1964)
 https://archive.org/download/SonofHerculesTheLandofDarkness/SonofHerculesTheLandofDarkness_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sh/thumb/b/bc/Voittamaton_gladiaattori.jpg/400px-Voittamaton_gladiaattori.jpg" group-title="MOVIES",The Invincible Gladiator (1962)
+https://archive.org/download/AteneaFilmsPublicDomainTheInvincibleGladiator/Invincible_Gladiator_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://wrongsideoftheart.com/wp-content/gallery/posters-v/vulcan_son_of_jupiter_poster_02.jpg" group-title="MOVIES",Vulcan Son of Giove (1962)
+https://archive.org/download/VulcanSonOfJupiter/VulcanSonOfJupiter_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/2im_/http://upload.wikimedia.org/wikipedia/en/9/9c/Battle_of_the_Worlds.jpg" group-title="MOVIES",Battle Of The Worlds (1961)
+https://archive.org/download/BattleOfTheWorldsWidesceen/Battle%20of%20the%20Worlds%20NTSC_1.mp4
+
 #EXTINF:-1 tvg-logo="http://www.cinemaffiche.com/images/grandes/David%20et%20Goliath.jpg" group-title="MOVIES",David and Goliath (1960)
 https://archive.org/download/DavidandGoliath1960/DavidandGoliath1960_512kb.mp4
 
@@ -72,11 +87,23 @@ https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version
 #EXTINF:-1 tvg-logo="http://i43.tower.com/images/mm113268398/big-trees-kirk-douglas-dvd-cover-art.jpg" group-title="MOVIES",The Big Trees (1952)
 https://archive.org/download/big_trees/big_trees_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/83/a9/98/83a99809eaf485ffca5281ed2b0a98f3.jpg" group-title="MOVIES",The Big Cat (1949)
+https://archive.org/download/The_Big_Cat/The_Big_Cat_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://ocdviewer.files.wordpress.com/2012/07/under-california-stars.jpg" group-title="MOVIES",Under California Stars (1948)
 https://archive.org/download/under_california_stars/under_california_stars_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Here_Comes_Trouble_poster.jpg/220px-Here_Comes_Trouble_poster.jpg" group-title="MOVIES",Here Comes Trouble (1948)
+https://archive.org/download/HereComesTrouble1948/Here-Comes-Trouble-1948.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DrLp2N5kL._SY445_.jpg" group-title="MOVIES",Scared to Death (1947)
+https://archive.org/download/scared_to_death_ipod/Scared_to_Death_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/417AT1R532L.jpg" group-title="MOVIES",Till The Clouds Roll By (1946)
 https://archive.org/download/till_the_clouds_roll_by/till_the_clouds_roll_by_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/715cZmhAxhL._SL1500_.jpg" group-title="MOVIES",Northwest Trail (1945)
+https://archive.org/download/northwest_trail/northwest_trail_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" group-title="MOVIES",Jungle Book (1942)
 https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
