@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://casinofreespins.eu/wp-content/uploads/sites/19/2013/08/Casino-free-spins.gif" group-title="LABEL",* Our Service is FREE
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+
+#EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",+ paypal.me/FluxusTV
+http://sc9106.xpx.pl:9106/
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS VIDEO
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg" group-title="LABEL",~ POPEYE THE SAILOR ~
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.jpg" group-title=“POPEYE”, 01 - Popeye Meets Sinbad
+https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/youtube-gNmiK66MtFY/Popeye_the_Sailor_In_English_Cartoon_-_Greek_Mirthology_full_episodes_in_color-gNmiK66MtFY.jpg" group-title=“POPEYE”,02 - Greek Mirthology
+https://archive.org/download/youtube-gNmiK66MtFY/Popeye_the_Sailor_In_English_Cartoon_-_Greek_Mirthology_full_episodes_in_color-gNmiK66MtFY.mp4
