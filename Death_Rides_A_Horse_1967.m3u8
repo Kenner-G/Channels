@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,01
+https://archive.org/download/Death_Rides_A_Horse_pan_and_scan/deathridesahorse-1of4_512kb.mp4
+#EXTINF:10,02
+https://archive.org/download/Death_Rides_A_Horse_pan_and_scan/deathridesahorse-2of4_512kb.mp4
+#EXTINF:10,03
+https://archive.org/download/Death_Rides_A_Horse_pan_and_scan/deathridesahorse-3of4_512kb.mp4
+#EXTINF:10,04
+https://archive.org/download/Death_Rides_A_Horse_pan_and_scan/deathridesahorse-4of4_512kb.mp4
+#EXT-X-ENDLIST
