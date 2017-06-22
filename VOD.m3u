@@ -12,7 +12,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://wcdn4.dataknet.com/static/resources/icons/set99/865bafbd.png" group-title="LABEL",~ MOVIES + SHORTS ~
+#EXTINF:-1 tvg-logo="http://wcdn4.dataknet.com/static/resources/icons/set99/865bafbd.png" group-title="LABEL",~ MOVIES ~
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jY172Me4m0pUlgEou-I4S9lKcDjkYXRkd7HT1oZuuhlcwV9-nuwpPu2iQ-Bittw536egshM0cUW7Xg=w155-h220" group-title="MOVIES",Big Buck Bunny (2008)
@@ -27,11 +27,32 @@ https://archive.org/download/WarOfTheRobots/WarOfTheRobots1978.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_YI1eTNEqVo/VC_w2_HMfAI/AAAAAAAANUo/dDwOYj0BiOM/s1600/RETURN%2BOF%2BTHE%2BKUNG%2BFU%2BDRAGON.JPG" group-title="MOVIES",Return of the Kung Fu Dragon (1976)
 https://archive.org/download/Return_of_the_Kung_Fu_Dragon/Return_of_the_Kung_Fu_Dragon_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://img.gqitalia.it/wp-content/uploads/2015/03/1425568516_Profondo-rosso-1975.jpeg" group-title="MOVIES",Deep Red (1975)
+https://archive.org/download/DeepRed1975/DeepRed_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://pikabox.net/img/2016/07/23/F7e2Uq.md.jpg" group-title="MOVIES",The Streetfighter (1974)
 https://archive.org/download/Streetfighter_778/StreetFighter_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Doomsday_Machine_FilmPoster.jpeg" group-title="MOVIES",Doomsday Machine (1972)
+https://archive.org/download/DoomsdayMachine1972/DoomsdayMachine1972_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/pf/pfnqmk6c.jpg" group-title="MOVIES",Born to Win (1971)
+https://archive.org/download/BorntoWin/BorntoWin_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://theuraniumcafe.files.wordpress.com/2011/07/hecules-unchained2b04.jpg" group-title="MOVIES",Hercules Unchained (1959)
+https://archive.org/download/HerculesUnchained/Hercules_Unchained_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" group-title="MOVIES",Jungle Book (1942)
 https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://s.ecrater.com/stores/71847/4b412fa0cdda6_71847n.jpg" group-title="MOVIES",The Divorce of Lady X (1938)
+https://archive.org/download/Lady_X/The_Divorce_of_Lady_X_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)
+https://archive.org/download/The_Wonderful_Wizard_of_Oz/WizardOfOz1910_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)*
+https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg" group-title="LABEL",~ POPEYE THE SAILOR ~
 http://jay.mobile9.com/gQ5E9_t7rQs0BVe0UM6yUA/1498362126/vsdl/3/popeyering_dx2zwff9.mp3
@@ -57,5 +78,5 @@ https://archive.org/download/BettyBoopPoorCinderella/Betty%20Boop%20-%20Poor%20C
 #EXTINF:-1 tvg-logo="http://img-fotki.yandex.ru/get/197756/480438961.b/0_169da3_77ff11ab_orig.Jpg" group-title="LABEL",~ VINTAGE ANIMATION ~
 http://jay.mobile9.com/ahWuj0Wt0D8vpWFYs26C4A/1498362616/vsdl/3/cartoonnoi_48mb15eo.mp3
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hap3lS7tyQBUgeXgxky8L1OxC8iBbz3qrddzlattQPl2faxERINhlFSWVmlW8bF1xxs6htAnhdylFQ=w296-h220" group-title="ANIMATION",VA 01 - The Brave Tin Soldier
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hap3lS7tyQBUgeXgxky8L1OxC8iBbz3qrddzlattQPl2faxERINhlFSWVmlW8bF1xxs6htAnhdylFQ=w296-h220" group-title="ANIMATION",ANIMATION 01 - The Brave Tin Soldier
 https://archive.org/download/SOLDIER/SOLDIER_256k.mp4
