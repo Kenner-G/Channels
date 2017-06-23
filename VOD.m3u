@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://casinofreespins.eu/wp-content/uploads/sites/19/2013/08/Casino-free-spins.gif" group-title="LABEL",* Our Service is FREE
+#EXTINF:-1 tvg-logo="http://casinofreespins.eu/wp-content/uploads/sites/19/2013/08/Casino-free-spins.gif" group-title="LABEL",* Free Movies
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",+ paypal.me/FluxusTV
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS VOD
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS CINEMA
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -14,6 +14,9 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="http://wcdn4.dataknet.com/static/resources/icons/set99/865bafbd.png" group-title="LABEL",~ MOVIES ~
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Home-2009-film-images-2c1ae343-586b-43a5-b6db-f98c671b5da.jpg" group-title="MOVIES",Home (2009)
+https://archive.org/download/Home2009/Home2009_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jY172Me4m0pUlgEou-I4S9lKcDjkYXRkd7HT1oZuuhlcwV9-nuwpPu2iQ-Bittw536egshM0cUW7Xg=w155-h220" group-title="MOVIES",Big Buck Bunny (2008)
 https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
@@ -216,38 +219,35 @@ https://archive.org/download/iron_mask/iron_mask_256kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/The_Phantom_of_the_Opera_%281925_film%29.jpg" group-title="MOVIES",The Phantom of the Opera (1925)
 https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5a0OuD9nY0o/Uin0Wc-dU4I/AAAAAAAADAs/MLGWgU_2d0A/s1600/1920+the+mark+of+zorro.jpg" group-title="MOVIES",The Mark of Zorro (1920) [Silent]
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5a0OuD9nY0o/Uin0Wc-dU4I/AAAAAAAADAs/MLGWgU_2d0A/s1600/1920+the+mark+of+zorro.jpg" group-title="MOVIES",The Mark of Zorro (1920)
 https://archive.org/download/markofzorro-1920/markofzorro_512kb.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Poster_-_20%2C000_Leagues_under_the_Sea_%281916%29.jpg" group-title="MOVIES",20,000 Leagues Under the Sea (1916) [Silent]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Poster_-_20%2C000_Leagues_under_the_Sea_%281916%29.jpg" group-title="MOVIES",20,000 Leagues Under the Sea (1916)
 https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
-#EXTINF:-1 tvg-logo="https://static.comicvine.com/uploads/original/11/114183/5200265-popeye-the-sailor-man.jpg" group-title="LABEL",~ POPEYE THE SAILOR ~
-http://jay.mobile9.com/gQ5E9_t7rQs0BVe0UM6yUA/1498362126/vsdl/3/popeyering_dx2zwff9.mp3
+#EXTINF:-1 tvg-logo="http://wcdn4.dataknet.com/static/resources/icons/set99/865bafbd.png" group-title="LABEL",~ MOVIES IN SPANISH ~
+http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.jpg" group-title="POPEYE",Popeye 01 - Popeye Meets Sinbad
-https://archive.org/download/youtube-KIhF6ulqWKk/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_Cartoon_in_English_in_Color-KIhF6ulqWKk.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_RfqlGMQB7c/UIXeicroFWI/AAAAAAAAQow/a7AWw658uZM/s1600/gavilanes-negros.jpg" group-title="SPANISH",Los Gavilanes Negros (1966)
+https://archive.org/download/LosGavilanesNegros1966/Los%20Gavilanes%20Negros%201966.mp4
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/youtube-gNmiK66MtFY/Popeye_the_Sailor_In_English_Cartoon_-_Greek_Mirthology_full_episodes_in_color-gNmiK66MtFY.jpg" group-title="POPEYE",Popeye 02 - Greek Mirthology
-https://archive.org/download/youtube-gNmiK66MtFY/Popeye_the_Sailor_In_English_Cartoon_-_Greek_Mirthology_full_episodes_in_color-gNmiK66MtFY.mp4
+#EXTINF:-1 tvg-logo="https://st.kp.yandex.net/images/film_big/219453.jpg" group-title="SPANISH",Los Tres Salvajes (1966)
+https://archive.org/download/LosTresSalvajes1966/Los%20Tres%20Salvajes%201966.mp4
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/D9-5sNYyoz0nGbDk30oatDxtnlF0f-SfmikJj5Nxqpbs7llkObos0yS8LJdEgzuEnNGUDKi3RhiJ=w293-h220" group-title="POPEYE",Popeye 03 - Nearlyweds
-https://archive.org/download/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
+#EXTINF:-1 tvg-logo="http://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2015/10/23/18/52295851.jpg" group-title="SPANISH",Los Solterones (1953)
+https://archive.org/download/LosSolterones1953/Los%20Solterones%201953.mp4
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yAXsVjtzYdDYoEZ_pNKCdBW-yWCCLxvYZYwYXeZiqYp-2ICUo76S6u94hrtnIf-YebBNKo2T2ooy=w293-h220" group-title="POPEYE",Popeye 04 - Popeye for President
-https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/8f/58/ee/8f58eefe96099c7fa170dc78232c14bd.jpg" group-title="SPANISH",El Bombero Atomico (1952)
+https://archive.org/download/ElBomberoAtomico1952/El%20Bombero%20Atomico%201952.mp4
 
-#EXTINF:-1 tvg-logo="http://www.cartoon-clipart.co/amp/images/betty-boop-pudgy.png" group-title="LABEL",~ BETTY BOOP ~
-http://sc9106.xpx.pl:9106/
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/8/2/4/9/7/82497-los-tres-garcia-0-230-0-345-crop.jpg" group-title="SPANISH",Los Tres Garcia (1947)
+https://archive.org/download/LosTresGarcia1947/Los%20Tres%20Garcia%201947.mp4
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oEvDiEb6I00sOCtXQtxujaXWpFobKe0GIh7AO1beNb78amRpgt69rspPq1WsmjOXXq-v5rS8MezD9A=w290-h220" group-title="BETTY BOOP",Betty Boop 01 - Poor Cinderella
-https://archive.org/download/BettyBoopPoorCinderella/Betty%20Boop%20-%20Poor%20Cinderella.mp4
+#EXTINF:-1 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1378/13781605_sa.jpg" group-title="SPANISH",No Basta Ser Charro (1946)
+https://archive.org/download/NoBastaSerCharro1946/No%20Basta%20Ser%20Charro%201946.mp4
 
-#EXTINF:-1 tvg-logo="http://img-fotki.yandex.ru/get/197756/480438961.b/0_169da3_77ff11ab_orig.Jpg" group-title="LABEL",~ VINTAGE ANIMATION ~
-http://jay.mobile9.com/ahWuj0Wt0D8vpWFYs26C4A/1498362616/vsdl/3/cartoonnoi_48mb15eo.mp3
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/hap3lS7tyQBUgeXgxky8L1OxC8iBbz3qrddzlattQPl2faxERINhlFSWVmlW8bF1xxs6htAnhdylFQ=w296-h220" group-title="ANIMATION",ANIMATION 01 - The Brave Tin Soldier
-https://archive.org/download/SOLDIER/SOLDIER_256k.mp4
+
