@@ -27,14 +27,14 @@ https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
 #EXTINF:-1 tvg-logo="http://images.moviepostershop.com/escape-from-sobibor-tv-movie-poster-1987-1020469008.jpg" group-title="MOVIES",Escape From Sobibor (1987)
 https://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://le0pard13.files.wordpress.com/2012/05/high-risk-movie-poster-1981-a.jpg" group-title="MOVIES",High Risk (1981)
+https://archive.org/download/HighRisk/High_Risk_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51FlJK0RQHL.jpg" group-title="MOVIES",Concrete Cowboys (1979)
 https://archive.org/download/ConcreteCowboys/ConcreteCowboys_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/superman-1978/large_rLTdj7oB9oxsYwuweeglWRzRng7.jpg" group-title="MOVIES",Superman (1978)
 https://archive.org/download/Superman1978/Superman%201978.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/superman-1978/large_rLTdj7oB9oxsYwuweeglWRzRng7.jpg" group-title="MOVIES",Superman (1978) [AVI]
-https://archive.org/download/Superman1978/Superman%201978.avi
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g52vzJj2L.jpg" group-title="MOVIES",Rescue from Gilligan's Island (1978)
 https://archive.org/download/RescuefromGilligansIsland/RescuefromGilligansIsland_512kb.mp4
@@ -90,11 +90,20 @@ https://archive.org/download/cold_sweat.avi/Cold_Sweat_512kb.mp4
 #EXTINF:-1 tvg-logo="https://thetelltalemind.files.wordpress.com/2014/12/gamera-vs-viras.jpg" group-title="MOVIES",Gamera vs. Viras (1968)
 https://archive.org/download/Destroy_All_Planets/Destroy_All_Planets_512kb.mp4
 
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-night-of-the-living-dead-1968/large_aNAgmnLyK0EsPzsjR2i1wHQufjf.jpg" group-title="MOVIES",Night of the Living Dead (1968)
+https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p_512kb.mp4
+
 #EXTINF:-1 tvg-logo="http://www.wildeast.net/images/DRHcovercomp.jpg" group-title="MOVIES",Death Rides A Horse (1967)
 https://archive.org/download/DeathRidesAHorse/DeathRidesAHorse1967_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://www.whatismymovie.com/t/images/74837.jpg" group-title="MOVIES",In The Year 2889 (1967)
+https://archive.org/download/In_The_Year_2889/In_The_Year_2889_1967.avi_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Voyageplanetprehistoricwomen.jpg/220px-Voyageplanetprehistoricwomen.jpg" group-title="MOVIES",Voyage to the Planet of Prehistoric Women (1967)
 https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://bmoviemaniacs.com/kenttheclaw/wp-content/uploads/sites/3/2014/04/bloody_pit_of_horror-Copy.jpg" group-title="MOVIES",Bloody Pit of Horror (1965)
+https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/516XMMDM8SL.jpg" group-title="MOVIES",Dr. Sex (1964)
 https://archive.org/download/Dr.Sex/Dr.Sex.mp4
@@ -117,14 +126,26 @@ https://archive.org/download/VulcanSonOfJupiter/VulcanSonOfJupiter_512kb.mp4
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/2im_/http://upload.wikimedia.org/wikipedia/en/9/9c/Battle_of_the_Worlds.jpg" group-title="MOVIES",Battle Of The Worlds (1961)
 https://archive.org/download/BattleOfTheWorldsWidesceen/Battle%20of%20the%20Worlds%20NTSC_1.mp4
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Q5KGRH1VL._SY445_.jpg" group-title="MOVIES",The Phantom Planet (1961)
+https://archive.org/download/Phantom_Planet/The_Phantom_Planet_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/FiveMinutesTo_Live.jpg/220px-FiveMinutesTo_Live.jpg" group-title="MOVIES",Five Minutes To Live (1961)
+https://archive.org/download/Five_Minutes_To_Live.avi/Five_Minutes_to_Live_512kb.mp4
+
 #EXTINF:-1 tvg-logo="http://www.benitomovieposter.com/catalog/images/movieposter/3882.jpg" group-title="MOVIES",Hercules and the Captive Women (1961)
 https://archive.org/download/cco__HerculesandtheCaptiveWomen/cco_herculesandthecaptivewomen_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://www.cinemaffiche.com/images/grandes/David%20et%20Goliath.jpg" group-title="MOVIES",David and Goliath (1960)
 https://archive.org/download/DavidandGoliath1960/DavidandGoliath1960_512kb.mp4
 
+#EXTINF:-1 tvg-logo="http://www.millionmonkeytheater.com/moviepics/assignmentos.jpg" group-title="MOVIES",Assignment Outer Space (1960)
+https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space_512kb.mp4
+
 #EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2010/08/Little-Shop-Of-Horrors-poster-2.jpg" group-title="MOVIES",The Little Shop of Horrors (1960)
 https://archive.org/download/Little_ShopOf_Horrors.avi/The_Little_Shop_of_Horrors_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Attack_From_Space.jpg" group-title="MOVIES",Attack From Space (1959)
+https://archive.org/download/Attack_From_Space/Attack_From_Space_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://theuraniumcafe.files.wordpress.com/2011/07/hecules-unchained2b04.jpg" group-title="MOVIES",Hercules Unchained (1959)
 https://archive.org/download/HerculesUnchained/Hercules_Unchained_512kb.mp4
@@ -135,11 +156,20 @@ https://archive.org/download/The_House_On_Haunted_Hill/The_House_On_Haunted_Hill
 #EXTINF:-1 tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/1958163.jpg" group-title="MOVIES",The Snow Queen (1957)
 https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/cf/42/56/cf4256b4bfa92a26b8653f0958a4d0c1.jpg" group-title="MOVIES",Teaserama (1955)
+https://archive.org/download/Teaserama/Teaserama_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.movpins.com/big/MV5BNDY4NzQ0MTg1MV5BMl5BanBnXkFtZTgwODQ3MTMyMDE/cornel-wilde-and-jean-wallace-in-h-mndens-skugga-1955-large-picture.jpg" group-title="MOVIES",The Big Combo (1955)
+https://archive.org/download/TheBigComboCornellWilde1955BOO/TheBigComboCornellWilde1955BOO_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://filmmakeriq.com/wp-content/uploads/2011/06/the-fast-and-the-furious-movie-poster-1955-1020452824.jpg" group-title="MOVIES",The Fast and The Furious (1955)
 https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://www.orphanedentertainment.com/wp-content/uploads/2016/08/Suddenly-Poster-793x1024.jpg" group-title="MOVIES",Suddenly! (1954)
 https://archive.org/download/suddenly/suddenly_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://thetelltalemind.files.wordpress.com/2016/08/phantom-from-space-1.jpg" group-title="MOVIES",Phantom From Space (1953)
+https://archive.org/download/Phantom_From_Space/Phantom_From_Space_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://i43.tower.com/images/mm113268398/big-trees-kirk-douglas-dvd-cover-art.jpg" group-title="MOVIES",The Big Trees (1952)
 https://archive.org/download/big_trees/big_trees_512kb.mp4
@@ -147,14 +177,26 @@ https://archive.org/download/big_trees/big_trees_512kb.mp4
 #EXTINF:-1 tvg-logo="https://img.posterlounge.co.uk/images/wbig/poster-the-snows-of-kilimanjaro-susan-hayward-gregory-peck-ava-gardner-1952-364113.jpg" group-title="MOVIES",The Snows of Kilimanjaro (1952)
 https://archive.org/download/Kilimanjaro/The_Snows_of_Kilimanjaro_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/f5/8b/0d/f58b0d3f9daf7c7a1b219e09a3ce5acc.jpg" group-title="MOVIES",Utopia (1951)
+https://archive.org/download/utopia/Utopia_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://irissansfrontieres.files.wordpress.com/2015/02/cyrano-1951-poster.jpg" group-title="MOVIES",Cyrano De Bergerac (1950)
 https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BCm6jkMMvOA/ULu5N_Wk6dI/AAAAAAAAHOs/1qW-C2RfyM8/s1600/ThelmajordBig.jpg" group-title="MOVIES",The File On Thelma Jordon (1950)
+https://archive.org/download/TheFileonThelmaJordanBarbaraStanwyck1950ripHJXvid2/TheFileonThelmaJordanBarbaraStanwyck1950ripHJXvid2_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/DOA1950.jpg/220px-DOA1950.jpg" group-title="MOVIES",D.O.A. (1949)
 https://archive.org/download/doa_1949/doa_1949_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/83/a9/98/83a99809eaf485ffca5281ed2b0a98f3.jpg" group-title="MOVIES",The Big Cat (1949)
 https://archive.org/download/The_Big_Cat/The_Big_Cat_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.orphanedentertainment.com/wp-content/uploads/2013/10/600full-he-walked-by-night-poster.jpg" group-title="MOVIES",He Walked By Night (1948)
+https://archive.org/download/He_Walked_By_Night.avi/He_Walked_By_Night_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://torontofilmsociety.org/files/2017/03/Too-Late-for-Tears-1.jpg" group-title="MOVIES",Too Late for Tears (1949)
+https://archive.org/download/TooLateForTears/Too_Late_for_Tears_1949.mp4
 
 #EXTINF:-1 tvg-logo="http://68.media.tumblr.com/tumblr_m3ydo8Uu201rr0cpgo1_500.jpg" group-title="MOVIES",Superman (1948)
 https://archive.org/download/Superman1948/NEW%20SUPERMAN%20MOVIE%20HD%20_The%20Serial_.mp4
@@ -174,6 +216,9 @@ https://archive.org/download/dishonored_lady/dishonored_lady_512kb.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DrLp2N5kL._SY445_.jpg" group-title="MOVIES",Scared to Death (1947)
 https://archive.org/download/scared_to_death_ipod/Scared_to_Death_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Behind_Green_Lights_FilmPoster.jpeg" group-title="MOVIES",Behind Green Lights (1946)
+https://archive.org/download/BehindGreenLights_high_Q_mp4/behind_green_lights_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qnfPahZSMkk/maxresdefault.jpg" group-title="MOVIES",Dressed To Kill (1946)
 https://archive.org/download/dressed_to_kill/dressed_to_kill_512kb.mp4
 
@@ -186,11 +231,20 @@ https://archive.org/download/CaptainKidd_/CaptainKidd_512kb.mp4
 #EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/715cZmhAxhL._SL1500_.jpg" group-title="MOVIES",Northwest Trail (1945)
 https://archive.org/download/northwest_trail/northwest_trail_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg" group-title="MOVIES",Captain America (1944)
+https://archive.org/download/Comicweb-CaptainAmericaChapter1/Comicweb-CaptainAmericaChapter1ThePupleDeath_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://onceuponatimeinawestern.com/wp-content/uploads/2016/08/War-of-the-Wildcats-aka-In-Old-Oklahoma-1943-poster-325.jpg" group-title="MOVIES",In Old Oklahoma (1943)
+https://archive.org/download/WarOfTheWildcats-JohnWayne1943/JohnWayne-WarOfTheWildcats1943_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sherlock_Holmes_and_the_Secret_Weapon-786880804-large.jpg" group-title="MOVIES",Sherlock Holmes and the Secret Weapon (1943)
 https://archive.org/download/secret_weapon/sherlock_holmes_and_the_secret_weapon_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" group-title="MOVIES",Jungle Book (1942)
 https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NDQzNTkzMV5BMl5BanBnXkFtZTYwOTk1Njk5._V1_.jpg" group-title="MOVIES",The Mystery of Mr. Wong (1939)
+https://archive.org/download/The_Mystery_of_Mr._Wong/The_Mystery_of_Mr._Wong_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://img.moviepostershop.com/tarzans-revenge-movie-poster-1938-1010326152.jpg" group-title="MOVIES",Tarzan's Revenge (1938)
 https://archive.org/download/tarzans_revenge/tarzans_revenge_512kb.mp4
@@ -209,6 +263,9 @@ https://archive.org/download/Scrooge_1935/Scrooge_1935_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://movieposters.2038.net/p/Que-Viva-Mexico_2.jpg" group-title="MOVIES",Que Viva Mexico! (1932)
 https://archive.org/download/QuevivaMexico/Que.viva.Mexico_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.diariodecine.es/sssvengali.jpg" group-title="MOVIES",Svengali (1931)
+https://archive.org/download/SvengaliJohnBarrymoreBKCap1931/SvengaliJohnBarrymoreBKCap1931_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://www.doctormacro.com/Images/Posters/A/Poster%20-%20Abraham%20Lincoln%20(1930)_01.jpg" group-title="MOVIES",Abraham Lincoln (1930)
 https://archive.org/download/abraham_lincoln/abraham_lincoln_512kb.mp4
