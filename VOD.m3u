@@ -12,7 +12,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://wcdn4.dataknet.com/static/resources/icons/set99/865bafbd.png" group-title="LABEL",~ MOVIES ~
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES IN ENGLISH ~
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Home-2009-film-images-2c1ae343-586b-43a5-b6db-f98c671b5da.jpg" group-title="MOVIES",Home (2009)
@@ -228,7 +228,7 @@ https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea
 #EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
-#EXTINF:-1 tvg-logo="http://wcdn4.dataknet.com/static/resources/icons/set99/865bafbd.png" group-title="LABEL",~ MOVIES IN SPANISH ~
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ MOVIES IN SPANISH ~
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_RfqlGMQB7c/UIXeicroFWI/AAAAAAAAQow/a7AWw658uZM/s1600/gavilanes-negros.jpg" group-title="SPANISH",Los Gavilanes Negros (1966)
@@ -249,5 +249,15 @@ https://archive.org/download/LosTresGarcia1947/Los%20Tres%20Garcia%201947.mp4
 #EXTINF:-1 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1378/13781605_sa.jpg" group-title="SPANISH",No Basta Ser Charro (1946)
 https://archive.org/download/NoBastaSerCharro1946/No%20Basta%20Ser%20Charro%201946.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ MOVIES IN FRENCH ~
+http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
+#EXTINF:-1 tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/35/56/11/18406682.jpg" group-title="FRENCH",L'Age Ingrat (1964)
+https://archive.org/download/LgeIngrat1964/L'Âge%20ingrat%201964.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-IHLK8Ui8wDc/U-SWFRuyQJI/AAAAAAAAFQY/04IrGaNzWQ8/s1600/morirenmadrid1962_españa.jpg" group-title="FRENCH",Mourir a Madrid (1963)
+https://archive.org/download/MourirMadrid1963/Mourir%20à%20Madrid%201963.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/monsieur_fabre-249788521-large.jpg" group-title="FRENCH",Monsieur Fabre (1951)
+https://archive.org/download/MonsieurFabre1951/Monsieur%20Fabre%201951.mp4
 
