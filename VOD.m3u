@@ -15,14 +15,56 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES IN ENGLISH ~
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/TheRomanticPoster.jpg" group-title="MOVIES",The Romantic (2011)
+https://archive.org/download/TheRomantic-AnAnimatedHorrorAboutMonstersMagic/TheRomantic.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bprjQo7.jpg" group-title="MOVIES",Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Home-2009-film-images-2c1ae343-586b-43a5-b6db-f98c671b5da.jpg" group-title="MOVIES",Home (2009)
 https://archive.org/download/Home2009/Home2009_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1200px-Big_buck_bunny_poster_big.jpg" group-title="MOVIES",Big Buck Bunny (2008)
 https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
 
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/81eAhRldMCL._SL1500_.jpg" group-title="MOVIES",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aATVnFO.jpg" group-title="MOVIES",Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/3/7/8/7/4/37874-insecurity-0-230-0-345-crop.jpg" group-title="MOVIES",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/2/4/5/3/42453-steal-this-film-ii-0-230-0-345-crop.jpg" group-title="MOVIES",Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Zeitgeist-themovie.jpg" group-title="MOVIES",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+
 #EXTINF:-1 tvg-logo="https://cloud.blender.org/api/storage/file/eb/ebe66c8c24ea4f693c44f93076757e67-l.jpg" group-title="MOVIES",Elephants Dream (2006)
 https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.newvideo.com/wp-content/uploads/boxart/NNVG2062.jpg" group-title="MOVIES",Steal This Film (2006)
+https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Wsiposter.jpg" group-title="MOVIES",Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MljOjFa.jpg" group-title="MOVIES",Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/qD2UFEsha1HwyM8aR5jjEshUIMv.jpg" group-title="MOVIES",Nobody Needs To Know (2003)
+https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",The Devils Feast (1999)
+https://archive.org/download/The_Devils_Feast/the_devils_feast_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/szEAAOSwJ4hY8-3I/s-l300.jpg" group-title="MOVIES",Robotix The Movie (1985)
+https://archive.org/download/RobotixTheMovie1985/Robotix%20%20The%20Movie%20(1985).mp4
 
 #EXTINF:-1 tvg-logo="http://images.moviepostershop.com/escape-from-sobibor-tv-movie-poster-1987-1020469008.jpg" group-title="MOVIES",Escape From Sobibor (1987)
 https://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
@@ -39,11 +81,14 @@ https://archive.org/download/Monstroid/Monstroid.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51FlJK0RQHL.jpg" group-title="MOVIES",Concrete Cowboys (1979)
 https://archive.org/download/ConcreteCowboys/ConcreteCowboys_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g52vzJj2L.jpg" group-title="MOVIES",Rescue from Gilligan's Island (1978)
+https://archive.org/download/RescuefromGilligansIsland/RescuefromGilligansIsland_512kb.mp4
+
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/superman-1978/large_rLTdj7oB9oxsYwuweeglWRzRng7.jpg" group-title="MOVIES",Superman (1978)
 https://archive.org/download/Superman1978/Superman%201978.mp4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g52vzJj2L.jpg" group-title="MOVIES",Rescue from Gilligan's Island (1978)
-https://archive.org/download/RescuefromGilligansIsland/RescuefromGilligansIsland_512kb.mp4
+#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/the-adventures-of-pinocchio-movie-poster-1978-1020203208.jpg" group-title="MOVIES",The Adventures of Pinocchio (1978)
+https://archive.org/download/TheAdventuresOfPinocchio1978EnglishVersion/The%20Adventures%20of%20Pinocchio%201978%20(English%20Version).mp4
 
 #EXTINF:-1 tvg-logo="https://trashfilmguru.files.wordpress.com/2015/12/waroftherobots.jpg" group-title="MOVIES",War of the Robots (1978)
 https://archive.org/download/WarOfTheRobots/WarOfTheRobots1978.mp4
@@ -56,6 +101,9 @@ https://archive.org/download/ImageofBruceLee/ClaCinOnl_ImageofBruceLee_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://cerebrin.files.wordpress.com/2010/06/anno.jpg" group-title="MOVIES",War of the Planets (1977)
 https://archive.org/download/Cosmos_War_of_the_Planets/Cosmos_War_of_the_Planets_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://media.8ch.net/ra/src/1412720442151.jpg" group-title="MOVIES",Puss 'N Boots Travels Around the World (1976)
+https://archive.org/download/PussnBootsTravelsAroundTheWorld/Puss%20'n%20Boots%20Travels%20Around%20the%20World.mp4
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_YI1eTNEqVo/VC_w2_HMfAI/AAAAAAAANUo/dDwOYj0BiOM/s1600/RETURN%2BOF%2BTHE%2BKUNG%2BFU%2BDRAGON.JPG" group-title="MOVIES",Return of the Kung Fu Dragon (1976)
 https://archive.org/download/Return_of_the_Kung_Fu_Dragon/Return_of_the_Kung_Fu_Dragon_512kb.mp4
@@ -110,6 +158,9 @@ https://archive.org/download/Werewolf_of_Washington/Werewolf_of_Washington_512kb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Doomsday_Machine_FilmPoster.jpeg" group-title="MOVIES",Doomsday Machine (1972)
 https://archive.org/download/DoomsdayMachine1972/DoomsdayMachine1972_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/C0jUUYo.jpg" group-title="MOVIES",Fury of the Wolfman (1972)
+https://archive.org/download/1972FuryOfTheWolfmanWPaulNaschy/[1972]Fury%20Of%20The%20Wolfman%20w%20Paul%20Naschy.mp4
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/4d/32/93/4d3293648811a005d173233f83d7ed05.jpg" group-title="MOVIES",Horror Express (1972)
 https://archive.org/download/Horror_Express_WebM/horror_express_512kb.mp4
@@ -180,8 +231,8 @@ https://archive.org/download/VulcanSonOfJupiter/VulcanSonOfJupiter_512kb.mp4
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/2im_/http://upload.wikimedia.org/wikipedia/en/9/9c/Battle_of_the_Worlds.jpg" group-title="MOVIES",Battle Of The Worlds (1961)
 https://archive.org/download/BattleOfTheWorldsWidesceen/Battle%20of%20the%20Worlds%20NTSC_1.mp4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Q5KGRH1VL._SY445_.jpg" group-title="MOVIES",The Phantom Planet (1961)
-https://archive.org/download/Phantom_Planet/The_Phantom_Planet_512kb.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iii2ITk.jpg" group-title="MOVIES",Diary of a Nudist (1961)
+https://archive.org/download/DiaryOfANudistwidescreen/Diary%20of%20a%20Nudist%20(widescreen).mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/FiveMinutesTo_Live.jpg/220px-FiveMinutesTo_Live.jpg" group-title="MOVIES",Five Minutes To Live (1961)
 https://archive.org/download/Five_Minutes_To_Live.avi/Five_Minutes_to_Live_512kb.mp4
@@ -189,11 +240,23 @@ https://archive.org/download/Five_Minutes_To_Live.avi/Five_Minutes_to_Live_512kb
 #EXTINF:-1 tvg-logo="http://www.benitomovieposter.com/catalog/images/movieposter/3882.jpg" group-title="MOVIES",Hercules and the Captive Women (1961)
 https://archive.org/download/cco__HerculesandtheCaptiveWomen/cco_herculesandthecaptivewomen_512kb.mp4
 
-#EXTINF:-1 tvg-logo="http://www.cinemaffiche.com/images/grandes/David%20et%20Goliath.jpg" group-title="MOVIES",David and Goliath (1960)
-https://archive.org/download/DavidandGoliath1960/DavidandGoliath1960_512kb.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Q5KGRH1VL._SY445_.jpg" group-title="MOVIES",The Phantom Planet (1961)
+https://archive.org/download/Phantom_Planet/The_Phantom_Planet_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.benitomovieposter.com/catalog/images/movieposter/41138.jpg" group-title="MOVIES",The White Warrior (1961)
+https://archive.org/download/TheWhiteWarrior1961/TheWhiteWarrior1961_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://www.millionmonkeytheater.com/moviepics/assignmentos.jpg" group-title="MOVIES",Assignment Outer Space (1960)
 https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GHVG46JAL.jpg" group-title="MOVIES",Battle of Blood Island (1960)
+https://archive.org/download/BattleOfBloodIslandSmaller/Battle%20of%20Blood%20Island%20smaller.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cinemaffiche.com/images/grandes/David%20et%20Goliath.jpg" group-title="MOVIES",David and Goliath (1960)
+https://archive.org/download/DavidandGoliath1960/DavidandGoliath1960_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/27/60/1f/27601ff02dd0e530c54737d336ff788e.jpg" group-title="MOVIES",First Spaceship on Venus (1960)
+https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2010/08/Little-Shop-Of-Horrors-poster-2.jpg" group-title="MOVIES",The Little Shop of Horrors (1960)
 https://archive.org/download/Little_ShopOf_Horrors.avi/The_Little_Shop_of_Horrors_512kb.mp4
@@ -683,6 +746,15 @@ https://archive.org/download/OfficerOBrien1930/Officer%20O%27Brien%201930.mp4
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-E7FFE9S0K8E/UqVZ_hYGGII/AAAAAAAAALc/usSZCvwj4Wo/s1600/partyg.jpg" group-title="MOVIES",Party Girl (1930)
 https://archive.org/download/PartyGirl1930_201701/Party%20Girl%201930.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Poster_of_the_movie_The_Barn_Dance.jpg" group-title="MOVIES",The Barn Dance (1929)
+https://archive.org/download/TheBarnDance/The%20Barn%20Dance.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/de/d6/fc/ded6fcd816d8af06af355d8b5058c5cf.jpg" group-title="MOVIES",The Gallopin' Gaucho (1928)
+https://archive.org/download/TheGallopinGaucho/The%20Gallopin%27%20Gaucho.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Steamboat_Willie.jpg" group-title="MOVIES",Steamboat Willie (1928)
+https://archive.org/download/SteamboatWillie/Steamboat%20Willie.mp4
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/a8/2f/7d/a82f7d1f30dd70232ce459adeba5ad39.jpg" group-title="MOVIES",The Iron Mask (1929)
 https://archive.org/download/iron_mask/iron_mask_256kb.mp4
