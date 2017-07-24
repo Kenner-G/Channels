@@ -42,6 +42,9 @@ https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Zeitgeist-themovie.jpg" group-title="MOVIES",Zeitgeist - The Movie (2007)
 https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
 
+#EXTINF:-1 tvg-logo="http://basementrejects.com/wp-content/uploads/2013/12/bah-humduck-a-looney-tunes-christmas-dvd-scrooge-carol-daffy-duck-porky-pig-tasmanian-devil-yosemite-sam.jpg" group-title="MOVIES",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+
 #EXTINF:-1 tvg-logo="https://cloud.blender.org/api/storage/file/eb/ebe66c8c24ea4f693c44f93076757e67-l.jpg" group-title="MOVIES",Elephants Dream (2006)
 https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
 
@@ -77,6 +80,9 @@ https://archive.org/download/HighRisk/High_Risk_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://wrongsideoftheart.com/wp-content/gallery/posters-h/humanoids_from_deep_poster_05.jpg" group-title="MOVIES",Monster (1980)
 https://archive.org/download/Monstroid/Monstroid.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Bugs_Bunny_Roadrunner_movie.jpg" group-title="MOVIES",Bugs Bunny Road Runner Movie (1979)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Bugs%20Bunny%20Road%20Runner%20Movie%20(1979)%20-%20[arsenaloyal].mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51FlJK0RQHL.jpg" group-title="MOVIES",Concrete Cowboys (1979)
 https://archive.org/download/ConcreteCowboys/ConcreteCowboys_512kb.mp4
