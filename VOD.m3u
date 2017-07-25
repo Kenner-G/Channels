@@ -99,9 +99,6 @@ https://archive.org/download/Monstroid/Monstroid.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Bugs_Bunny_Roadrunner_movie.jpg" group-title="MOVIES",Bugs Bunny Road Runner Movie (1979)
 https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Bugs%20Bunny%20Road%20Runner%20Movie%20(1979)%20-%20[arsenaloyal].mp4
 
-#EXTINF:-1 tvg-logo="http://sv6.imageupload.be/wp-content/uploads/2016/12/Bugs-Bunny-Looney-Christmas-Tales.jpg" group-title="MOVIES",Bugs Bunny's Looney Christmas Tales (1979)
-https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Looney%20Christmas%20Tales%20(1979)%20-%20[arsenaloyal].mp4
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51FlJK0RQHL.jpg" group-title="MOVIES",Concrete Cowboys (1979)
 https://archive.org/download/ConcreteCowboys/ConcreteCowboys_512kb.mp4
 
@@ -1461,6 +1458,9 @@ https://archive.org/download/Bugs_Bunny_Collection/Special%20-%20Bugs%20Bunny%27
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Christmas Carol (1979)
 https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Christmas%20Carol%20(1979)%20-%20[arsenaloyal].mp4
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Bugs Bunny's Looney Christmas Tales (1979)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Looney%20Christmas%20Tales%20(1979)%20-%20[arsenaloyal].mp4
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Fright Before Christmas (1979)
 https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Fright%20Before%20Christmas%20(1979)%20-%20[arsenaloyal].mp4
 
@@ -1827,7 +1827,194 @@ https://archive.org/download/Bugs_Bunny_Collection/Bonus%20-%20Bugs%20Bunny%20-%
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - My Dream Is Yours (1949)
 https://archive.org/download/Bugs_Bunny_Collection/Bonus%20-%20Bugs%20Bunny%20-%20Bonus%20-%20My%20Dream%20Is%20Yours%20-%20[arsenaloyal].mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - A Feather In His Hare (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20A%20Feather%20In%20His%20Hare%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - A Lad In His Lamp (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20A%20Lad%20In%20His%20Lamp%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Buccaneer Bunny (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Buccaneer%20Bunny%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Bugs Bunny Rides Again (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Bugs%20Bunny%20Rides%20Again%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Gorilla My Dreams (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Gorilla%20My%20Dreams%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Splitter (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Splitter%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Haredevil Hare (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Haredevil%20Hare%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hot Cross Bunny (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hot%20Cross%20Bunny%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - My Bunny Lies Over The Sea (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20My%20Bunny%20Lies%20Over%20The%20Sea%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Rabbit Punch (1948)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Rabbit%20Punch%20(1948)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - A Hare Grows In Manhatten (1947)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20A%20Hare%20Grows%20In%20Manhatten%20(1947)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Easter Yeggs (1947)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Easter%20Yeggs%20(1947)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Rabbit Transit (1947)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Rabbit%20Transit%20(1947)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Slick Hare (1947)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Slick%20Hare%20(1947)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Acrobatty Bunny (1946)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Acrobatty%20Bunny%20(1946)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Baseball Bugs (1946)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Baseball%20Bugs%20(1946)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hair Raising Hare (1946)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hair%20Raising%20Hare%20(1946)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Remover (1946)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Remover%20(1946)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Racketeer Rabbit (1946)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Racketeer%20Rabbit%20(1946)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Rhapsody Rabbit (1946)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Rhapsody%20Rabbit%20(1946)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Big Snooze (1946)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Big%20Snooze%20(1946)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Conditioned (1945)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Conditioned%20(1945)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Tonic (1945)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Tonic%20(1945)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Trigger (1945)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Trigger%20(1945)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Herr Meets Hare (1945)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Herr%20Meets%20Hare%20(1945)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Unruly Hare (1945)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Unruly%20Hare%20(1945)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Buckaroo Bugs (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Buckaroo%20Bugs%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Bugs Bunny and the Three Bears (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Bugs%20Bunny%20And%20The%20Three%20Bears%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Force (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Force%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Ribbin' (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Ribbin%27%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Little Red Riding Rabbit (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Little%20Red%20Riding%20Rabbit%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Nips The Nips (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Nips%20The%20Nips%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Stage Door Cartoon (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Stage%20Door%20Cartoon%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Old Grey Hare (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Old%20Grey%20Hare%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - What's Cookin' Doc (1944)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20What%27s%20Cookin%27%20Doc%20(1944)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - A Corny Concerto (1943)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20A%20Corny%20Concerto%20(1943)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Falling Hare (1943)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Falling%20Hare%20(1943)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Jack Wabbit and the Beanstalk (1943)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Jack%20Wabbit%20And%20The%20Beanstalk%20(1943)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Super Rabbit (1943)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Super%20Rabbit%20(1943)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Tortoise Wins By A Hare (1943)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Tortoise%20Wins%20By%20A%20Hare%20(1943)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Wackiki Wabbit (1943)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Wackiki%20Wabbit%20(1943)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Chessmaster (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bonus%20-%20Bugs%20Bunny%20-%20Bonus%20-%20Chessmaster%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Bugs Bunny Gets The Boid (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Bugs%20Bunny%20Gets%20The%20Boid%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Case Of The Missing Hare (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Case%20Of%20The%20Missing%20Hare%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Crazy Cruise (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Crazy%20Cruise%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Fresh Hare (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Fresh%20Hare%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hold The Lion Please (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hold%20The%20Lion%2C%20Please%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Hare Brained Hypnotist (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Hare%20Brained%20Hypnotist%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Wabbit Who Came To Supper (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Wabbit%20Who%20Came%20To%20Supper%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Wacky Wabbit (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Wacky%20Wabbit%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Any Bonds Today (1942)
+https://archive.org/download/Bugs_Bunny_Collection/Bonus%20-%20Bugs%20Bunny%20-%20Bonus%20-%20Any%20Bonds%20Today%20(1942)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - All This And Rabbit Stew (1941)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20All%20This%20And%20Rabbit%20Stew%20(1941)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Elmer's Pet Rabbit (1941)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Elmer%27s%20Pet%20Rabbit%20(1941)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hiawatha's Rabbit Hunt (1941)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hiawatha%27s%20Rabbit%20Hunt%20(1941)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Heckling Hare (1941)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Heckling%20Hare%20(1941)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Tortoise Beats Hare (1941)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Tortoise%20Beats%20Hare%20(1941)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Wabbit Trouble (1941)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Wabbit%20Trouble%20(1941)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - A Wild Hare (1940)
+https://archive.org/download/MerrieMelodiesAWildHare1940/Merrie%20Melodies%20-%20A%20Wild%20Hare%20(1940).mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Elmer's Candid Camera (1940)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Elmer%27s%20Candid%20Camera%20(1940)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - The Wild Hare (1940)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20The%20Wild%20Hare%20(1940)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Hare Um Scare Um (1939)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Hare%20Um%20Scare%20Um%20(1939)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Prest O Change O (1939)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Prest%20O%20Change%20O%20(1939)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IorZ5VLC1u8/maxresdefault.jpg" group-title="BUGS BUNNY",Bugs Bunny - Porky's Hare Hunt (1938)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Porky's%20Hare%20Hunt%20(1938)%20-%20[arsenaloyal].mp4
 
 #EXTINF:-1 tvg-logo="http://www.davidlawrencejewellers.co.uk/images/Betty-Boop-Logo.jpg" group-title="BETTY BOOP",Betty Boop - Poor Cinderella
 https://archive.org/download/BettyBoopPoorCinderella/Betty%20Boop%20-%20Poor%20Cinderella.mp4
