@@ -45,15 +45,6 @@ https://archive.org/download/Angry.birds.2016.1080pDualLat/Angry.birds.2016.1080
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)
 https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
 
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)*
-https://archive.org/download/BadSanta22016UNRATED1080p60FPS/Bad%20Santa%202%20(2016)%20UNRATED%201080p%2060%20FPS.mp4
-
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)**
-https://archive.org/download/BadSanta22016UNRATED1080pSinFranjas/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20sin%20franjas.mp4
-
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)***
-https://archive.org/download/BadSanta22016UNRATED1080pFULLHD/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20FULL%20HD.mp4
-
 #EXTINF:-1 tvg-logo="http://i.hungrygowhere.com/cms/ce/73/6e/ea/158408/b547bb5401_345x518_c57e7c609e.jpg" group-title="MOVIES",Elvis and Nixon (2016)
 https://archive.org/download/Elvis.and.Nixon.2016.LIMITED.1080p.BluRay.x264GECKOS1/Elvis.and.Nixon.2016.LIMITED.1080p.BluRay.x264-GECKOS%20(1).mp4
 
@@ -1535,6 +1526,15 @@ https://archive.org/download/LeThtrelectriqueDeBob/1909SegundoDeChomnLeThtrelect
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ SPANISH ~
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)
+https://archive.org/download/BadSanta22016UNRATED1080p60FPS/Bad%20Santa%202%20(2016)%20UNRATED%201080p%2060%20FPS.mp4
+
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)*
+https://archive.org/download/BadSanta22016UNRATED1080pSinFranjas/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20sin%20franjas.mp4
+
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)**
+https://archive.org/download/BadSanta22016UNRATED1080pFULLHD/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20FULL%20HD.mp4
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/2b/a3/1e/2ba31e87f9222dd1404ba0c00de6401c.jpg" group-title="SPANISH",La Chica de al Lado (2004)
 https://archive.org/download/LaChicaDeAlLado1080pEspaolLatino/La%20Chica%20De%20Al%20Lado%201080p%20espa%C3%B1ol%20latino.mp4
