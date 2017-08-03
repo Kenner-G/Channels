@@ -1485,9 +1485,6 @@ https://archive.org/download/PhantasmagoriaTheater-DoctorX1932737/Phantasmagoria
 #EXTINF:-1 tvg-logo="http://movieposters.2038.net/p/Que-Viva-Mexico_2.jpg" group-title="MOVIES",Que Viva Mexico! (1932)
 https://archive.org/download/QuevivaMexico/Que.viva.Mexico_512kb.mp4
 
-#EXTINF:-1 tvg-logo="http://www.diariodecine.es/sssvengali.jpg" group-title="MOVIES",Svengali (1931)
-https://archive.org/download/SvengaliJohnBarrymoreBKCap1931/SvengaliJohnBarrymoreBKCap1931_512kb.mp4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Discarded_Lovers_FilmPoster.jpeg/220px-Discarded_Lovers_FilmPoster.jpeg" group-title="MOVIES",Discarded Lovers (1932)
 https://archive.org/download/DiscardedLovers1932/Discarded%20Lovers%201932.mp4
 
@@ -1520,6 +1517,9 @@ https://archive.org/download/Millie1931_201701/Millie%201931.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lmuHxHU.jpg" group-title="MOVIES",Parlor Bedroom and Bath (1931)
 https://archive.org/download/ParlorBedroomAndBath1931/Parlor%2C%20Bedroom%20and%20Bath%201931.mp4
+
+#EXTINF:-1 tvg-logo="http://www.diariodecine.es/sssvengali.jpg" group-title="MOVIES",Svengali (1931)
+https://archive.org/download/SvengaliJohnBarrymoreBKCap1931/SvengaliJohnBarrymoreBKCap1931_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://rarefilm.net/wp-content/uploads/2015/08/The-Royal-Bed-1931.jpg" group-title="MOVIES",The Royal Bed (1931)
 https://archive.org/download/TheRoyalBed1931/The%20Royal%20Bed%201931.mp4
