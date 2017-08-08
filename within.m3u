@@ -41,138 +41,105 @@ https://cdn.opencable.es/hls/live/boing/index.m3u8
 #EXTINF:-1,comedycentral
 https://cdn.opencable.es/hls/live/comedycentral/index.m3u8
 …
-#EXTINF:-1,gol
-
+#EXTINF:-1,gol next
 https://cdn.opencable.es/hls/live/goltv/index.m3u8
 
 #EXTINF:-1,ufc
-
 https://cdn.opencable.es/hls/live/fighttime/index.m3u8
 
 #EXTINF:-1,neox
-
 https://cdn.opencable.es/hls/live/neox/index.m3u8
 
 #EXTINF:-1,nova
-
 https://cdn.opencable.es/hls/live/nova/index.m3u8
 
 #EXTINF:-1,mega
-
 https://cdn.opencable.es/hls/live/mega/index.m3u8
 
 #EXTINF:-1,ten
-
 https://cdn.opencable.es/hls/live/ten/index.m3u8
 
 #EXTINF:-1,divinity
-
 https://cdn.opencable.es/hls/live/divinity/index.m3u8
 
 #EXTINF:-1,energy
-
 https://cdn.opencable.es/hls/live/energy/index.m3u8
 
 #EXTINF:-1,cosmo
-
 https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u
 
 #EXTINF:-1,fdf
-
 https://cdn.opencable.es/hls/live/fdf/index.m3u8
 
 #EXTINF:-1,tnt
-
 https://cdn.opencable.es/hls/live/tnt/index.m3u8
 
 #EXTINF:-1,fox
-
 https://cdn.opencable.es/hls/live/fox/index.m3u8
 
 #EXTINF:-1,fox life
-
 https://cdn.opencable.es/hls/live/foxlife/index.m3u8
 
 #EXTINF:-1,clan
-
-ttps://cdn.opencable.es/hls/live/clan/index.m3u8
+https://cdn.opencable.es/hls/live/clan/index.m3u8
 
 #EXTINF:-1,boing
-
 https://cdn.opencable.es/hls/live/boing/index.m3u8
 
 …
 
-#EXTINF:-1,gol
-
+#EXTINF:-1,gol next 2
 https://cdn.opencable.es/hls/live/goltv/index.m3u8
 
 #EXTINF:-1,ufc
-
 https://cdn.opencable.es/hls/live/fighttime/index.m3u8
 
 #EXTINF:-1,neox
-
 https://cdn.opencable.es/hls/live/neox/index.m3u8
 
 #EXTINF:-1,nova
-
 https://cdn.opencable.es/hls/live/nova/index.m3u8
 
 #EXTINF:-1,mega
-
 https://cdn.opencable.es/hls/live/mega/index.m3u8
 
 #EXTINF:-1,ten
-
 https://cdn.opencable.es/hls/live/ten/index.m3u8
 
 #EXTINF:-1,divinity
-
 https://cdn.opencable.es/hls/live/divinity/index.m3u8
 
 #EXTINF:-1,energy
-
 https://cdn.opencable.es/hls/live/energy/index.m3u8
 
 #EXTINF:-1,cosmo
-
 https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u
 
 #EXTINF:-1,fdf
-
 https://cdn.opencable.es/hls/live/fdf/index.m3u8
 
 #EXTINF:-1,tnt
-
 https://cdn.opencable.es/hls/live/tnt/index.m3u8
 
 #EXTINF:-1,fox
-
 https://cdn.opencable.es/hls/live/fox/index.m3u8
 
 #EXTINF:-1,fox life
-
 https://cdn.opencable.es/hls/live/foxlife/index.m3u8
 
 #EXTINF:-1,clan
-
-ttps://cdn.opencable.es/hls/live/clan/index.m3u8
+https://cdn.opencable.es/hls/live/clan/index.m3u8
 
 #EXTINF:-1,boing
-
 https://cdn.opencable.es/hls/live/boing/index.m3u8
 
 #EXTINF:-1,mega
-
 http://a3live-lh.akamaihd.net/i/mghls/geomega_1@328914/master.m3u8
 
 #EXTINF:-1,travel espa
-
 http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
 
 #EXTINF:-1,FIHGTIME
-
 https://cdn.opencable.es/hls/live/fighttime/index.m3u8
 
 
@@ -181,271 +148,186 @@ https://cdn.opencable.es/hls/live/fighttime/index.m3u8
 /////
 
 
-NHK World
-JP/NHK_World.png
-http://imgur.com/surWO0r
+#EXTINF:-1,NHK World
 http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 
-NHK G
-JP/NHK_G.png
-http://imgur.com/VL7n7gM
+#EXTINF:-1,NHK G
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
 
-NHK E
-JP/NHK_E.png
-http://imgur.com/4sa4KcF
+#EXTINF:-1,NHK E
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
 
-gd03
-JP/.png
+#EXTINF:-1,gd03
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
 
-gd04
-JP/.png
+#EXTINF:-1,gd04
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
 
-Fuji TV
-JP/FujiTV.png
-http://imgur.com/HkL07YU
+#EXTINF:-1,Fuji TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
 
-TV Asahi
-JP/TV_Asahi.png
-http://imgur.com/izGMC6T
+#EXTINF:-1,TV Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
 
-TV Tokyo
-JP/TV_Tokyo.png
-http://imgur.com/2ugDkmk
+#EXTINF:-1,TV Tokyo
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
 
-Tokyo MX
-JP/Tokyo_MX.png
-http://imgur.com/DEIErAZ
+#EXTINF:-1,Tokyo MX
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
 
-NHK-BS1
-JP/NHK_BS1.png
-http://imgur.com/4SuKCeT
+#EXTINF:-1,NHK-BS1
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
 
-BS-NTV
-JP/BS_NTV.png
-http://imgur.com/YKXis6V
+#EXTINF:-1,BS-NTV
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
 
-BS-Asahi
-JP/BS_Asahi.png
-http://imgur.com/PoKDPw9
+#EXTINF:-1,BS-Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
 
-BS-TBS
-JP/BS-TBS.png
-http://imgur.com/IYuAcCU
+#EXTINF:-1,BS-TBS
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
 
-BS-Fuji
-JP/BS-FujiTV.png
-http://imgur.com/MWOkDFE
+#EXTINF:-1,BS-Fuji
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
 
-bs06
-JP/.png
+#EXTINF:-1,bs06
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
 
-WOWOW Prime
-JP/WOWOW_Prime.png
-http://imgur.com/ki0ck6W
+#EXTINF:-1,WOWOW Prime
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 
-WOWOW Live
-JP/WOWOW_Live.png
-http://imgur.com/jhZ78lq
+#EXTINF:-1,WOWOW Live
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 
-WOWOW Cinema
-JP/WOWOW_Cinema.png
-http://imgur.com/Y3uOD5R
+#EXTINF:-1,WOWOW Cinema
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 
-Star Channel 1
-JP/Star_Channel.png
-http://imgur.com/Dt9Walz
+#EXTINF:-1,Star Channel 1
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
 
-Star Channel 2
+#EXTINF:-1,Star Channel 2
 JP/Star_Channel.png
 http://imgur.com/Dt9Walz
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
 
-Star Channel 3
-JP/Star_Channel.png
-http://imgur.com/Dt9Walz
+#EXTINF:-1,Star Channel 3
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 
-bs13
-JP/.png
+#EXTINF:-1,bs13
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
 
-NHK-BS Premium
-JP/NHK_BS_Premium.png
-http://imgur.com/p9UgJpw
+#EXTINF:-1,NHK-BS Premium
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
 
-Golf Network
-JP/Golf_Network.png
-http://imgur.com/MBoDeIO
+#EXTINF:-1,Golf Network
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
 
-J-Sports 1
-JP/J_Sports.png
-http://imgur.com/cCuSGcj
+#EXTINF:-1,J-Sports 1
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
 
-J-Sports 2
-JP/J_Sports.png
-http://imgur.com/cCuSGcj
+#EXTINF:-1,J-Sports 2
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
 
-J-Sports 3
-JP/J_Sports.png
-http://imgur.com/cCuSGcj
+#EXTINF:-1,J-Sports 3
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
 
-cs08
-JP/.png
+#EXTINF:-1,cs08
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
 
-J-Sports 4
-JP/J_Sports.png
-http://imgur.com/cCuSGcj
+#EXTINF:-1,J-Sports 4
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
 
-Movie Plus
-JP/MoviePlus.png
-http://imgur.com/wemNMqx
+#EXTINF:-1,Movie Plus
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
 
-cs11
-JP/.png
+#EXTINF:-1,cs11
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
 
-Kids Station
-JP/Kids_Station.png
-http://imgur.com/gqfa1pU
+#EXTINF:-1,Kids Station
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
 
-Discovery Channel
-Networks/Discovery.png
-http://imgur.com/40QxRV2
+#EXTINF:-1,Discovery Channel
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
 
-History
-Networks/History.png
-http://imgur.com/jtVQHml
+#EXTINF:-1,History
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
 
-J Music
+#EXTINF:-1,J Music
 JP/.png
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
 
-NN cs18
-JP/.png
+#EXTINF:-1,NN cs18
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
 
-NN cs19
-JP/.png
+#EXTINF:-1,NN cs19
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
 
-Disney Channel
-Networks/DisneyChannel.png
-http://imgur.com/WlIVl8B
+#EXTINF:-1,Disney Channel
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
 
 ///
 
-#EXTINF:-1,mega
-
+#EXTINF:-1,mega next 3
 http://a3live-lh.akamaihd.net/i/mghls/geomega_1@328914/master.m3u8
 
 #EXTINF:-1,travel espa
-
 http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
 
 #EXTINF:-1,FIHGTIME
-
 https://cdn.opencable.es/hls/live/fighttime/index.m3u8
 
 #EXTINF:-1,CULTURA:Animal Planet
-
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,CULTURA:Discovery
-
 http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1,CULTURA:Discovery Crimen e Investigación
-
 http://edge6.telesport.pw/live/canalcrimen/index.m3u8
 
 #EXTINF:-1,CULTURA:History
-
 https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
 
 #EXTINF:-1,CULTURA:National geographic
-
 http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1,CULTURA:Nat Geo Wild
-
 http://edge7.telesport.pw/live/nationalwild/index.m3u8
 
 #EXTINF:-1,CULTURA:ODISEA
-
 http://edge7.telesport.pw/live/odisea/index.m3u8
 
 #EXTINF:-1,DEPORTES:All Sports
-
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1,DEPORTES:Deport Tv
-
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
-#EXTINF:-1,group-title=”DEPORTES”
-
+#EXTINF:-1,???
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 
 #EXTINF:-1,DEPORTES:Claro Sports
-
 http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1,DEPORTES:DIRECTV SPORTS
-
 https://live96.vkuserlive.com/639901/live/CEgJOXJAf279xd8a/playlist.m3u8
 
 #EXTINF:-1,DEPORTES:Eurosport 2
-
 http://edge11.verliga.me/live/eurosport2/index.m3u8
 
 #EXTINF:-1,DEPORTES:ESPN
-
 http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
 
 #EXTINF:-1,DEPORTES:Fox sports
-
 http://wowza2.mysoltv.com:1992/Latino_Fox_Sports/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,DEPORTES:MLB Network
-
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1,DEPORTES:MOVISTAR DEPORTES 2
-
 http://edge16.verliga.me/live/plusdeportes2/index.m3u8
 
 #EXTINF:-1,DEPORTES:Olympic Channel SD
-
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
 
 #EXTINF:-1,DEPORTES:Real Madrid TV HD
