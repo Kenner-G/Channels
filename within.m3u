@@ -1,28 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://imgur.com/1oapo3E.png" group-title="",VOD - El Chavo
-http://tecnotv.xyz/media/chavo
-
-#EXTINF:-1 tvg-logo="http://imgur.com/cdXmXtl.jpg" group-title="",VOD - Futurama x
-http://tecnotv.xyz/media/futurama1
-
-#EXTINF:-1 tvg-logo="https://lascosasdedanny.files.wordpress.com/2017/04/the-simpsons-logo.jpg",24/7 Los Simpson 2
-http://tecnotv.xyz/media/simpsonmania
-
-#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/8/9/8/289833/289833_tvchespirito%2C640x360%2Cb:1.jpg",Chespirito TV
-http://tecnotv.xyz/media/chespirito
-
-#EXTINF:-1 tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png",L'CremeMax
-http://tecnotv.xyz/media/lcrememax
-
-#EXTINF:-1 tvg-logo="http://www.cinecalidad.to/wp-content/themes/gridthemeresponsive/images/logo.png",Cine Calidad
-http://tecnotv.xyz/media/cinecalidad
-
-#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2014-04/380666/list_640px.jpg",Ciencia Ficcion
-http://tecnotv.xyz/media/ficcion
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/91/CineStar_Logo.jpg",CineStar
-http://tecnotv.xyz/media/cinestar
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png" group-title="", Cine On Demand
-http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
