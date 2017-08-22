@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Creme Max
 http://tecnotv.xyz/media/lcrememax
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cinemax Latino
-http://tecnotv.xyz/media/cinemaxlatino
-
 #EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cine Calidad
 http://tecnotv.xyz/media/cinecalidad
 
@@ -18,29 +15,38 @@ http://tecnotv.xyz/media/ficcion
 #EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cine Star
 http://tecnotv.xyz/media/cinestar
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Katy HD
-http://tecnotv.xyz/media/katy
+#EXTINF:-1 tvg-logo="http://imgur.com/1oapo3E.png" group-title="24/7",El Chavo
+http://tecnotv.xyz/media/chavo2
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Vivato Tv
-http://tecnotv.xyz/media/vivato
+#EXTINF:-1 tvg-logo="http://imgur.com/cdXmXtl.jpg" group-title="24/7",Futurama
+http://tecnotv.xyz/media/futurama2
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Anime
-http://tecnotv.xyz/media/anime
+#EXTINF:-1 tvg-logo="http://www.myatltv.com/shows/simpsons/The-Simpsons-Logo.jpg" group-title="24/7",Los Simpson 1
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?www.tecnotv.info
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Broad Movies
-http://tecnotv.xyz/media/broad
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Los Simpson 2
+http://tecnotv.xyz/media/simpsonmania
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Dragon Ball HD
-http://tecnotv.xyz/media/dragon
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Univision TDN
+https://eventos1.dreamsmx.com/EVENTOS/UNIVICION_TDN15_153_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Morena Channel
-http://tecnotv.xyz/media/morena
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="LATINO", Univision
+https://freedom.dreamsmx.com/axlhd/HBO_USA15_155_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Series
-http://tecnotv.xyz/media/series
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k4CXN91Sil0/AAAAAAAAAAI/AAAAAAAAAAA/29oKBQtVc28/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Deportes", F1 Latinoamerica
+https://freedom.dreamsmx.com/axlhd/TELENOVELAS_179_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Los Simpson
-http://tecnotv.xyz/media/simpson3
+#EXTINF:-1 tvg-logo="http://imgur.com/Q7i8ILb.png",H2
+http://ryuk.onetvgratis.com/lstream4/59658927bfc3084b6ce20f18/5901123f970b1071e240b0de/_/History_2.flv
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Terror Tv
-http://tecnotv.xyz/media/terror
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes", TDN
+http://ryuk.onetvgratis.com/lstream4/591fa6cec40e12565f9ae0db/5900bc9a970b1071e240b0cd/_/TDN.flv
+
+#EXTINF:-1 tvg-logo="http://imgur.com/LpW986l.png" group-title="Deportes",GolTv
+http://ryuk.onetvgratis.com/lstream2/5908304f7efd824f7a2fe65c/5900bc9a970b1071e240b0cd/_/goltv.flv
+
+#EXTINF:-1 tvg-logo="http://imgur.com/IcPmFzV.png" group-title="Deportes",ESPN
+http://ryuk.onetvgratis.com/lstream4/5908304f7efd824f7a2fe65f/5900bc9a970b1071e240b0cd/_/516.flv
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_2249.png" group-title="DEPORTES", CDF Premium
+http://edga9.vergol.pw/live/cdf/index.m3u8
