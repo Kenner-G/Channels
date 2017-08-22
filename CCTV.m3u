@@ -1,5 +1,64 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Carcavelos [Portugal]
+http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Costa Da Caparica [Portugal]
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Da Ericeira [Portugal]
+http://213.13.26.11:1935/live/ericeira.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Da Luz [Portugal]
+http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Aveiro [Portugal]
+http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Espinho [Portugal]
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Peniche [Portugal]
+http://213.13.26.11:1935/live/peniche.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Sao Pedro [Portugal]
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Sao Torpes [Portugal]
+http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Do Guincho [Portugal]
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Do Norte [Portugal]
+http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Grande [Portugal]
+http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Leca Da Palmeira [Portugal]
+http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Liga Moche Surfe [Portugal]
+http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Madeira Jardim Do Mar [Portugal]
+http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Matosinhos [Portugal]
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Ribeira [Portugal]
+http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Santa Cruz [Portugal]
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Supertubos [Portugal]
+http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
+
+///
+
 #EXTINF:-1,Sudbury Ontario Science North Northern Ecosystem
 http://216.223.107.138/mjpg/video.mjpg
 
