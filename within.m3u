@@ -1,2 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Creme Max
+http://tecnotv.xyz/media/lcrememax
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cinemax Latino
+http://tecnotv.xyz/media/cinemaxlatino
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cine Calidad
+http://tecnotv.xyz/media/cinecalidad
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Chespirito TV
+http://tecnotv.xyz/media/chespirito
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Ciencia Ficcion
+http://tecnotv.xyz/media/ficcion
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cine Star
+http://tecnotv.xyz/media/cinestar
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Katy HD
+http://tecnotv.xyz/media/katy
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Vivato Tv
+http://tecnotv.xyz/media/vivato
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Anime
+http://tecnotv.xyz/media/anime
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Broad Movies
+http://tecnotv.xyz/media/broad
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Dragon Ball HD
+http://tecnotv.xyz/media/dragon
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Morena Channel
+http://tecnotv.xyz/media/morena
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Series
+http://tecnotv.xyz/media/series
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Los Simpson
+http://tecnotv.xyz/media/simpson3
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Terror Tv
+http://tecnotv.xyz/media/terror
