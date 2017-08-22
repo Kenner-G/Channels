@@ -22,7 +22,7 @@ http://tecnotv.xyz/media/chavo2
 http://tecnotv.xyz/media/futurama2
 
 #EXTINF:-1 tvg-logo="http://www.myatltv.com/shows/simpsons/The-Simpsons-Logo.jpg" group-title="24/7",Los Simpson 1
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?www.tecnotv.info
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Los Simpson 2
 http://tecnotv.xyz/media/simpsonmania
