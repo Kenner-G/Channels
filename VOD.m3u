@@ -1,4 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1,Calle 13
-http://cdn.opencable.es/hls/live/calle13/index.m3u8
+#EXTINF:-1,Jasmin TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,Jasmin TV SD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,Okadai TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
+
+#EXTINF:-1,Penthouse Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/playlist.m3u8
+
+#EXTINF:-1,Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/playlist.m3u8
+
+#EXTINF:-1,BUT GO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1,Sakura Porn TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:-1,Live Ting TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:-1,Babestation
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1,Visit-X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1,Fudorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1,Red Light
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
