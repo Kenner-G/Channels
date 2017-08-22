@@ -36,6 +36,9 @@ https://freedom.dreamsmx.com/axlhd/HBO_USA15_155_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k4CXN91Sil0/AAAAAAAAAAI/AAAAAAAAAAA/29oKBQtVc28/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Deportes", F1 Latinoamerica
 https://freedom.dreamsmx.com/axlhd/TELENOVELAS_179_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_2249.png" group-title="DEPORTES",CDF Premium
+http://edga9.vergol.pw/live/cdf/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgur.com/Q7i8ILb.png",H2
 http://ryuk.onetvgratis.com/lstream4/59658927bfc3084b6ce20f18/5901123f970b1071e240b0de/_/History_2.flv
 
@@ -48,5 +51,4 @@ http://ryuk.onetvgratis.com/lstream2/5908304f7efd824f7a2fe65c/5900bc9a970b1071e2
 #EXTINF:-1 tvg-logo="http://imgur.com/IcPmFzV.png" group-title="Deportes",ESPN
 http://ryuk.onetvgratis.com/lstream4/5908304f7efd824f7a2fe65f/5900bc9a970b1071e240b0cd/_/516.flv
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_2249.png" group-title="DEPORTES", CDF Premium
-http://edga9.vergol.pw/live/cdf/index.m3u8
+
