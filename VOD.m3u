@@ -1,36 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Jasmin TV HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Jasmin TV SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV SD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Babestation
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Babestation*
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation*
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Visit-X
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",FunDorado TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
 http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Red Light Central
+#EXTINF:-1 tvg-logo="http://i.imgur.com/05wfyrV.png" group-title="IPTV",Red Light Central
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Playboy TV Chat
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV Chat
 http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Nuart
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart
 http://78.111.176.132:8080/
 
 #EXTINF:-1 tvg-logo="" group-title="IPTV",Russian Night (Русская Ночь)
 http://78.111.176.132:8082
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Candyman
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman
 http://media.anycaster.tv/candyman/index.m3u8
 
 #EXTINF:-1,Adult 4K: VOD1
