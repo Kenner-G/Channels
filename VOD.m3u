@@ -27,7 +27,7 @@ http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV Chat
 http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="IPTV",Live Sex Latinas
+#EXTINF: -1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
 http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart
