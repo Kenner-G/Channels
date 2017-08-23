@@ -44,21 +44,3 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 http://81.89.48.215:1935/xyz555wkz/xy5/chunklist_w1238165397.m3u8
  #EXTINF: -1,PLAYRE
 http://81.89.48.215:1935/xyz112wkz/xy112_360p/chunklist_w2061559339.m3u8
- #EXTINF: -1,PLAYRE
-rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
- #EXTINF: -1,PLAYRE
-rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts2.stream  
- #EXTINF: -1,PLAYRE
-rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
-#EXTINF: -1,PLAYER
-rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
-#EXTINF: -1,PLAYER
-rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
-#EXTINF: -1,PLAYER
-rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
-#EXTINF: -1,PLAYER
-rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
-#EXTINF: -1,PLAYER
-rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
-#EXTINF: -1,PLAYER
-rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
