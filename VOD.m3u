@@ -36,7 +36,7 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3SP1Zo.png" group-title="IPTV",Babestation Xtreme
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
