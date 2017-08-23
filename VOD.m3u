@@ -15,10 +15,10 @@ http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IPTV",Visit-X
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Fudorado TV
+#EXTINF:-1 tvg-logo="" group-title="IPTV",FunDorado TV
 http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV",Red Light
+#EXTINF:-1 tvg-logo="" group-title="IPTV",Red Light Central
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IPTV",Playboy TV Chat
