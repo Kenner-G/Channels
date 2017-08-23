@@ -57,7 +57,7 @@ http://78.111.176.132:8080/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Nights (Русская Ночь)
 http://78.111.176.132:8082
 
-#EXTINF:-1,Seventeen Video 01
+#EXTINF:-1 tvg-logo="" group-title="OTHER",Seventeen Video 01
 http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
 
 #EXTINF:-1 tvg-logo="" group-title="OTHER",Girls + Studs 01
