@@ -15,6 +15,8 @@ http://191.252.102.161:8040/stream
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusLust
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
+#EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/C/7/0/8/A/5/bernabis2011/966.png" group-title="LABEL",@ ADULTS ONLY
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman (For Her)
 http://media.anycaster.tv/candyman/index.m3u8
 
