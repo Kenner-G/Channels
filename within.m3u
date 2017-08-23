@@ -1,46 +1,69 @@
 #EXTM3U
 
-#EXTINF: -1,PLAYRE
-http://46.105.116.183:1935/rlc/livestream_two1/playlist.m3u8
- #EXTINF: -1,PLAYRE
- http://46.105.116.183:1935/rlc/livestream1/playlist.m3u8
- #EXTINF: -1,PLAYRE
-http://publish.thewebstream.co:1935/ingest_cellcast/livestream1/playlist.m3u8
- #EXTINF: -1,PLAYRE
-http://publish.thewebstream.co:1935/ingest_cellcast/livestream_two1/playlist.m3u8
- #EXTINF: -1,PLAYRE
+ #EXTINF: -1,Studio 66 TV 11
  http://publish.thewebstream.co:1935/leved/studio66tv_channel11/playlist.m3u8
- #EXTINF: -1,PLAYRE
+ 
+ #EXTINF: -1,Studio 66 TV 21
 http://publish.thewebstream.co:1935/leved/studio66tv_channel21/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,Studio 66 TV 31
  http://publish.thewebstream.co:1935/leved/studio66tv_channel31/playlist.m3u8
- #EXTINF: -1,PLAYRE
+ 
+ #EXTINF: -1,Studio 66 TV 41
  http://publish.thewebstream.co:1935/leved/studio66tv_channel41/playlist.m3u8
- #EXTINF: -1,PLAYRE
+ 
+ #EXTINF: -1,Fleur De Lis
 http://publish.thewebstream.co:1935/leved/fleurdelis/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,Live Sex Latinas
 http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+
+#EXTINF: -1,PLAYRE 01
+http://46.105.116.183:1935/rlc/livestream_two1/playlist.m3u8
+
+ #EXTINF: -1,PLAYRE 02
+ http://46.105.116.183:1935/rlc/livestream1/playlist.m3u8
+ 
+ #EXTINF: -1,PLAYRE 03
+http://publish.thewebstream.co:1935/ingest_cellcast/livestream1/playlist.m3u8
+
+ #EXTINF: -1,PLAYRE 04
+http://publish.thewebstream.co:1935/ingest_cellcast/livestream_two1/playlist.m3u8
+
+ #EXTINF: -1,PLAYRE 05
  http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
- #EXTINF: -1,PLAYRE
+ 
+ #EXTINF: -1,PLAYRE 06
 http://publish.thewebstream.co:1935/cellcast/encoder41/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,PLAYRE 07
 http://publish.thewebstream.co:1935/cellcast/encoder51/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,PLAYRE 08
 http://publish.thewebstream.co:1935/cellcast/encoder61/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,PLAYRE 09
 http://publish.thewebstream.co:1935/cellcast/encoder71/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+
+ #EXTINF: -1,Hot + Wet
  http://46.105.116.183:1935/leved/hotandwet1/playlist.m3u8
- #EXTINF: -1,PLAYRE
+ 
+ #EXTINF: -1,Hot + Wet*
 http://publish.thewebstream.co:1935/leved/_definst_/hotandwet1/playlist.m3u8
-#EXTINF: -1,PLAYRE
+
+#EXTINF: -1,Foxx Babes
 http://publish.thewebstream.co:1935/leved/_definst_/foxxxbabes/playlist.m3u8
- #EXTINF: -1,PLAYRE
-http://188.165.15.225:1935/ppv/passionxxx/playlist.m3u8  
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,Passion XXX
+http://188.165.15.225:1935/ppv/passionxxx/playlist.m3u8 
+
+ #EXTINF: -1,PLAYRE A1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,PLAYRE A2
 http://81.89.48.215:1935/xyz555wkz/xy5/chunklist_w1238165397.m3u8
- #EXTINF: -1,PLAYRE
+
+ #EXTINF: -1,PLAYRE A3
 http://81.89.48.215:1935/xyz112wkz/xy112_360p/chunklist_w2061559339.m3u8
