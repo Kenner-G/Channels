@@ -21,7 +21,7 @@ http://184.173.142.117:21728/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman (For Her)
 http://media.anycaster.tv/candyman/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="LATINO",Miami TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV HD
