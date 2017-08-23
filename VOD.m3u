@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman (For Her)
+http://media.anycaster.tv/candyman/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="LATINO",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
@@ -35,9 +38,6 @@ http://78.111.176.132:8080/
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Nights (Русская Ночь)
 http://78.111.176.132:8082
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman (For Her)
-http://media.anycaster.tv/candyman/index.m3u8
 
 #EXTINF:-1,Seventeen Video 01
 http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
