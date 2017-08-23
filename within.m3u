@@ -1,54 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Creme Max
-http://tecnotv.xyz/media/lcrememax
-
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cine Calidad
-http://tecnotv.xyz/media/cinecalidad
-
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Chespirito TV
-http://tecnotv.xyz/media/chespirito
-
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Ciencia Ficcion
-http://tecnotv.xyz/media/ficcion
-
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Cine Star
-http://tecnotv.xyz/media/cinestar
-
-#EXTINF:-1 tvg-logo="http://imgur.com/1oapo3E.png" group-title="24/7",El Chavo
-http://tecnotv.xyz/media/chavo2
-
-#EXTINF:-1 tvg-logo="http://imgur.com/cdXmXtl.jpg" group-title="24/7",Futurama
-http://tecnotv.xyz/media/futurama2
-
-#EXTINF:-1 tvg-logo="http://www.myatltv.com/shows/simpsons/The-Simpsons-Logo.jpg" group-title="24/7",Los Simpson 1
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tecnotv.info/247.png",Los Simpson 2
-http://tecnotv.xyz/media/simpsonmania
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Univision TDN
-https://eventos1.dreamsmx.com/EVENTOS/UNIVICION_TDN15_153_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="LATINO", Univision
-https://freedom.dreamsmx.com/axlhd/HBO_USA15_155_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k4CXN91Sil0/AAAAAAAAAAI/AAAAAAAAAAA/29oKBQtVc28/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Deportes", F1 Latinoamerica
-https://freedom.dreamsmx.com/axlhd/TELENOVELAS_179_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_2249.png" group-title="DEPORTES",CDF Premium
-http://edga9.vergol.pw/live/cdf/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://imgur.com/Q7i8ILb.png",H2
-http://ryuk.onetvgratis.com/lstream4/59658927bfc3084b6ce20f18/5901123f970b1071e240b0de/_/History_2.flv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes", TDN
-http://ryuk.onetvgratis.com/lstream4/591fa6cec40e12565f9ae0db/5900bc9a970b1071e240b0cd/_/TDN.flv
-
-#EXTINF:-1 tvg-logo="http://imgur.com/LpW986l.png" group-title="Deportes",GolTv
-http://ryuk.onetvgratis.com/lstream2/5908304f7efd824f7a2fe65c/5900bc9a970b1071e240b0cd/_/goltv.flv
-
-#EXTINF:-1 tvg-logo="http://imgur.com/IcPmFzV.png" group-title="Deportes",ESPN
-http://ryuk.onetvgratis.com/lstream4/5908304f7efd824f7a2fe65f/5900bc9a970b1071e240b0cd/_/516.flv
-
-
+#EXTINF: -1,PLAYRE
+http://46.105.116.183:1935/rlc/livestream_two1/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+ http://46.105.116.183:1935/rlc/livestream1/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/ingest_cellcast/livestream1/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/ingest_cellcast/livestream_two1/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+ http://publish.thewebstream.co:1935/leved/studio66tv_channel11/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/leved/studio66tv_channel21/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+ http://publish.thewebstream.co:1935/leved/studio66tv_channel31/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+ http://publish.thewebstream.co:1935/leved/studio66tv_channel41/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/leved/fleurdelis/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+ http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/cellcast/encoder41/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/cellcast/encoder51/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/cellcast/encoder61/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/cellcast/encoder71/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+ http://46.105.116.183:1935/leved/hotandwet1/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/leved/_definst_/hotandwet1/playlist.m3u8
+#EXTINF: -1,PLAYRE
+http://publish.thewebstream.co:1935/leved/_definst_/foxxxbabes/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://188.165.15.225:1935/ppv/passionxxx/playlist.m3u8  
+ #EXTINF: -1,PLAYRE
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+ #EXTINF: -1,PLAYRE
+http://81.89.48.215:1935/xyz555wkz/xy5/chunklist_w1238165397.m3u8
+ #EXTINF: -1,PLAYRE
+http://81.89.48.215:1935/xyz112wkz/xy112_360p/chunklist_w2061559339.m3u8
+ #EXTINF: -1,PLAYRE
+rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
+ #EXTINF: -1,PLAYRE
+rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts2.stream  
+ #EXTINF: -1,PLAYRE
+rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
+#EXTINF: -1,PLAYER
+rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
+#EXTINF: -1,PLAYER
+rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
+#EXTINF: -1,PLAYER
+rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
+#EXTINF: -1,PLAYER
+rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
+#EXTINF: -1,PLAYER
+rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
+#EXTINF: -1,PLAYER
+rtsp://publish.thewebstream.co:1935/thaichat/_definst_/mpegts3.stream
