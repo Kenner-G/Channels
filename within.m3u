@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,7chan TV
+http://radio.7chan.org:8000/CH7
 #EXTINF:-1,BBC radio 3 HLS/.pls
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/apple-ipad-hls/vpid/bbc_radio_three/format/pls.pls
 #EXTINF:-1,BBC Radio 3 classical music -- shoutcast 320 kb/s
