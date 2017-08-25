@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Hunan Satellite TV - 湖南衛視
-http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
+#EXTINF:-1,O-la-la
+http://91.190.176.39:81/udp/239.195.5.33:1234
+#EXTINF:-1,Ночной Клуб
+http://91.190.176.39:81/udp/239.195.4.109:1234
