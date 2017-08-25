@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1,O-la-la
-http://91.190.176.39:81/udp/239.195.5.33:1234
+#EXTINF:-1,Русская Ночь
+http://95.85.92.240:34040/udp/239.191.254.13:15285
 #EXTINF:-1,Ночной Клуб
-http://91.190.176.39:81/udp/239.195.4.109:1234
-#EXTINF:-1,Erotic 1
-http://serv1.bihip.net/live/ed-david/siptv/1261.ts
-#EXTINF:-1,Erotic 2
-http://serv1.bihip.net/live/ed-david/siptv/1262.ts
-#EXTINF:-1,Erotic 3
-http://serv1.bihip.net/live/ed-david/siptv/1263.ts
-#EXTINF:-1,Erotic 4
-http://serv1.bihip.net/live/ed-david/siptv/1379.ts
-#EXTINF:-1,Brazzers TV
-http://serv1.bihip.net/live/ed-david/siptv/1492.ts
+http://95.85.92.240:34040/udp/239.191.254.38:15285
+#EXTINF:-1,Candyman
+http://95.85.92.240:34040/udp/239.191.254.114:15285
+#EXTINF:-1,O-la-la
+http://95.85.92.240:34040/udp/239.191.254.161:15285
+#EXTINF:-1,Candy TV
+http://95.85.92.240:34040/udp/239.191.254.173:15285
+#EXTINF:-1,Egoist TV
+http://95.85.92.240:34040/udp/239.191.254.249:15285
+#EXTINF:-1,NUART TV HD
+http://95.85.92.240:34040/udp/239.191.254.250:15285
+#EXTINF:-1,FrenchLover TV
+http://95.85.92.240:34040/udp/239.191.254.251:15285
