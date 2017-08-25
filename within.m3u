@@ -1,17 +1,81 @@
 #EXTM3U
-#EXTINF:-1,Русская Ночь
-http://95.85.92.240:34040/udp/239.191.254.13:15285
-#EXTINF:-1,Ночной Клуб
-http://95.85.92.240:34040/udp/239.191.254.38:15285
-#EXTINF:-1,Candyman
-http://95.85.92.240:34040/udp/239.191.254.114:15285
-#EXTINF:-1,O-la-la
-http://95.85.92.240:34040/udp/239.191.254.161:15285
-#EXTINF:-1,Candy TV
-http://95.85.92.240:34040/udp/239.191.254.173:15285
-#EXTINF:-1,Egoist TV
-http://95.85.92.240:34040/udp/239.191.254.249:15285
-#EXTINF:-1,NUART TV HD
-http://95.85.92.240:34040/udp/239.191.254.250:15285
-#EXTINF:-1,FrenchLover TV
-http://95.85.92.240:34040/udp/239.191.254.251:15285
+#EXTINF:-1,BBC radio 3 HLS/.pls
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/apple-ipad-hls/vpid/bbc_radio_three/format/pls.pls
+#EXTINF:-1,BBC Radio 3 classical music -- shoutcast 320 kb/s
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-aac-lc-a/format/pls/vpid/bbc_radio_three.pls
+#EXTINF:-1,BBC radio 4 HLS/.pls
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/apple-ipad-hls/vpid/bbc_radio_fourfm/format/pls.pls
+#EXTINF:-1,BBC radio 4 extra HLS/.pls
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/apple-ipad-hls/vpid/bbc_radio_four_extra/format/pls.pls
+#EXTINF:-1,BBC radio 5 live HLS/.pls
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/apple-ipad-hls/vpid/bbc_radio_five_live/format/pls.pls
+#EXTINF:-1,BBC radio 5 live HLS/.pls
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/apple-ipad-hls/vpid/bbc_radio_five_live_sports_extra/format/pls.pls
+#EXTINF:-1,BBC radio 1 AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+#EXTINF:-1,BBC radio 2 AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
+#EXTINF:-1,BBC radio 3 AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+#EXTINF:-1,BBC radio 4 AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1,BBC radio 4 Extra AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
+#EXTINF:-1,BBC radio 5 live AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
+#EXTINF:-1,BBC radio 5 live sports extra AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:-1,BBC radio 6 Music AAC/.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+#EXTINF:-1,BBC Radio 1
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/high/ak/bbc_radio_one.m3u8
+#EXTINF:-1,BBC Radio 1xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/high/ak/bbc_1xtra.m3u8
+#EXTINF:-1,BBC Radio 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/high/ak/bbc_radio_two.m3u8
+#EXTINF:-1,BBC Radio 3
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+#EXTINF:-1,BBC Radio 4FM
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/high/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1,BBC Radio 1 (England) PLS popular music
+http://www.radiofeeds.co.uk/bbcradio1.pls
+#EXTINF:-1,BBC Radio 2 PLS - more popular music
+http://www.radiofeeds.co.uk/bbcradio2.pls
+#EXTINF:-1,BBC Radio 3 PLS classical music
+http://www.radiofeeds.co.uk/bbcradio3.pls
+#EXTINF:-1,BBC Radio 4 (FM/DAB) PLS talk
+http://www.radiofeeds.co.uk/bbcradio4fm.pls
+#EXTINF:-1,BBC Radio 4 (LW) PLS talk
+http://www.radiofeeds.co.uk/bbcradio4lw.pls
+#EXTINF:-1,BBC Radio 4 Extra PLS radio plays and comedy
+http://www.radiofeeds.co.uk/bbcradio4extra.pls
+#EXTINF:-1,BBC Radio 5 Live PLS news and sport
+http://www.radiofeeds.co.uk/bbc5live.pls
+#EXTINF:-1,BBC R5 live sport extra PLS
+http://www.radiofeeds.co.uk/bbc5livesportsextra.pls
+#EXTINF:-1,BBC Radio 6 PLS slightly less popular music
+http://www.radiofeeds.co.uk/bbc6music.pls
+#EXTINF:-1,BBC Radio 1Xtra PLS urban music
+http://www.radiofeeds.co.uk/bbc1xtra.pls
+#EXTINF:-1,BBC world service shoutcast
+http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
+#EXTINF:-1,BBC - Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1,BBC - Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1,BBC - Radio 3
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-aac-lc-a/format/pls/vpid/bbc_radio_three.pls
+#EXTINF:-1,BBC - Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1,BBC - Radio 5 live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1,BBC - Radio 6
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1,BBC - Radio 1 Extra
+http://www.bbc.co.uk/radio/listen/live/r1x_aaclca.pls
+#EXTINF:-1,BBC - Radio 4 Extra
+http://www.bbc.co.uk/radio/listen/live/r4x_aaclca.pls
+#EXTINF:-1,BBC - Radio 5 Live sports extra
+http://www.bbc.co.uk/radio/listen/live/r5lsp_aaclca.pls
+#EXTINF:-1,BBC - Radio Asian Network
+http://www.bbc.co.uk/radio/listen/live/ran_aaclca.pls
