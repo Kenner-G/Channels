@@ -1,4 +1,58 @@
 #EXTM3U
+#EXTINF:-1,HD Porn TV 18+ 
+http://188.165.220.116:8081/live/x/playlist.m3u8
+ 
+#EXTINF:-1,Chinese 
+rtmp://149.3.141.210:1935/tv/ttv11 
+
+#EXTINF:-1,Blue Hustler 
+http://46.61.226.21/hls/CH_BLUEHUSTLER/variant.m3u8?version=2 
+
+#EXTINF:-1,Playboy TV 
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2 
+
+#EXTINF:-1,XXL 
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2 
+
+#EXTINF:-1,XXX 
+http://188.165.220.116:8081/live/3/playlist.m3u8 
+
+#EXTINF:-1,Brasileirinhas 
+http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8 
+
+#EXTINF:-1,Brazzers TV 
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+
+#EXTINF:-1,GAY TV
+http://95.211.163.54:1935/tv/3624/playlist.m3u8
+
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8? 
+
+#EXTINF:-1,Playboy TV 
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/bw1500000/variant.m3u8?version=2 
+
+#EXTINF:-1,Private 
+http://178.33.126.213:1935/leved/privateCom/.m3u8 
+
+#EXTINF:-1,Sex 18+ 
+mmsh://tv.webmisto.cz:7000 
+
+#EXTINF:-1,Sexstation 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u 
+
+#EXTINF:-1,XXX China 
+http://95.211.163.54:1935/tv/3310/playlist.m3u8 
+
+#EXTINF:-1,XXX China 2 
+rtmp://149.3.141.210:1935/tv/ttv11 
+
+#EXTINF:-1,XXX China 3 
+rtmp://149.3.141.210:1935/tv/ttv12 
+
+#EXTINF:-1,XXX Korea 
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8 
+
 #EXTINF:-1,7chan TV
 http://radio.7chan.org:8000/CH7
 #EXTINF:-1,BBC radio 3 HLS/.pls
