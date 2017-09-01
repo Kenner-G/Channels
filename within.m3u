@@ -1,71 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,YouFM 100.1
-http://95.85.10.201:8880/stream
-
-#EXTINF:-1,ISR: 101.5FM
-http://audio-darom.ecast.co.il/darom101
-
-#EXTINF:-1,Radio Activa 107.1 FM - Cañete
-http://212.129.33.202:9672
-
-#EXTINF:-1,Zone Mix
-http://laut.fm/zone-mix
-
-#EXTINF:-1,POL: I Love Back2School
-http://gr-relay-lb.gaduradio.pl/170
-
-#EXTINF:-1,MOL: Univers FM
-http://92.39.52.207:9000/UniversFm
-
-#EXTINF:-1,FRA: 48FM
-http://212.129.28.44/48FM.mp3
-
-#EXTINF:-1,FRA: Club Stars
-http://91.121.59.45:8009/stream
-
-#EXTINF:-1,FRA: Nord Radio
-http://91.121.59.45:8053/stream
-
-#EXTINF:-1,FRA: Shazamzee
-http://streaming.radio.co/s0ce169aac/listen
-
-#EXTINF:-1,AUS: Pacific Island Vinyl
-http://101.176.30.167:8000
-
-#EXTINF:-1,USA: DJ Castro Radio
-http://192.95.18.39:5016/;stream
-
-#EXTINF:-1,USA: AutoDJ
-http://192.95.18.39:5020/;stream
-
-#EXTINF:-1,USA: KSGN 89.7 FM
-http://1.ice1.firststreaming.com:8000/ksgn_fm.mp3
-
-#EXTINF:-1,USA: Illinois Public Radio
-http://64.202.98.51:7800/event
-
-#EXTINF:-1,USA: Radio Latina Lu?
-http://50.7.99.163:11291/2199/start/ckjsgxup
-
-#EXTINF:-1,DEN: GO! FM
-http://gofm.radiostreaming.dk:8050/gofm
-
-#EXTINF:-1,DEN: Radio Silkeborg
-http://silkeborg.radiostreaming.dk/silkeborg
-
-#EXTINF:-1,DEN: DK4 - Schlager
-http://radionord.radiostreaming.dk/DK4schlagerWeb
-
-#EXTINF:-1,Sen Radio FM
-http://174.142.76.50:9002/senradio
-
-#EXTINF:-1,Vatican Radio Channel 9
-http://174.142.76.50:9002/channel9.mp3
-
-#EXTINF:-1,Vatican Radio Europe 93.3 FM
-http://174.142.76.50:9002/channel1.mp3
-
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",* Fluxus Radio
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
@@ -393,12 +327,6 @@ http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="BULGARIA",City TV [Video]
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2788.jpeg" group-title="BULGARIA",Heavy Metal Television [Video]
-http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/MM_Television_logo_%28former_TV_station_in_Bulgaria%29.png" group-title="BULGARIA",MM TV [Video]
-http://live-24.viewer.dacast.com/i/dclive_1@407356/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qxpvvw1441477620.png" group-title="BULGARIA",Planeta HD [Video]
 http://84.43.207.130/planetahd/planetahd.m3u8
 
@@ -420,23 +348,8 @@ http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECH REP",Retro [Video]
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n-4-16.dcs.redcdn.pl/file/mm/multimedia/live/amazing/aMazingCover500x200.png" group-title="POLAND",aMazing TV [Video]
-http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/f/png/32041/stars-tv-logo.png" group-title="POLAND",Stars TV [Video]
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="HUNGARY",1Music [Video]
-http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mtsz.org/images/staticfilesimage/kunos/tv_m1_logo.png" group-title="HUNGARY",M1 TV [Video]
-http://cdns724ste1010secure.shooowit.net/m1tvlive/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="ARMENIA",MTV.AM [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="ARMENIAN",ARM: MTV.AM [Video]
 http://mtvam.ru/hlsam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/supersonic_tv_al.png" group-title="ALBANIA",Supersonic TV [Off] [Video]
-http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mywebtv.info/img/tvicons/560870.png" group-title="ROMANIA",Atomic TV [Video]
 http://5.154.185.153/hls/live.m3u8
