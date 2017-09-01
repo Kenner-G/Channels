@@ -153,10 +153,10 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="NEWS",GBR: BBC Radio 4 [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",GBR: BBC Radio 5 Live [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",GBR: BBC Radio 5 Live [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIETY",GBR: BBC Radio 6 Music [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="VARIETY",GBR: BBC Radio 6 Music [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg" group-title="TOP 40",GBR: Capital TV [VID]
