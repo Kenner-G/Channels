@@ -325,29 +325,29 @@ http://live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="INDIA",Raagam Radio
 http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV [Video]
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON",Hawacom TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON",Hawacom TV [Video]
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5 [Video]
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" group-title="KSA",Rotana Clip
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" group-title="KSA",Rotana Clip [Video]
 http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah [Video]
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="DJing”,DJing: Animation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="DJing”,DJing: Animation [Video]
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="DJing",DJing: Classics
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="DJing",DJing: Classics [Video]
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="DJing",DJing: Ibiza
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="DJing",DJing: Ibiza [Video]
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="DJing",DJing: Underground
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="DJing",DJing: Underground [Video]
 http://www.djing.com/tv/u-05.m3u8
