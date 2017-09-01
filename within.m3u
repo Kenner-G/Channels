@@ -203,6 +203,9 @@ http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="JAZZ",AUS: ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s273387d.png" group-title="",AUS: Pacific Island Vinyl
+http://101.176.30.167:8000
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="POP",DEU: Deluxe Music [VID]
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
@@ -217,6 +220,9 @@ http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="DANCE",AUT: KroneHit [VID]
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/7/7b/2889_logo.jpg" group-title="LATIN",LUX: Radio Latina
+http://50.7.99.163:11291/2199/start/ckjsgxup
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.538.nl/social_share.png" group-title="TOP 40",NLD: TV 538
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
@@ -353,6 +359,9 @@ http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.telemetro.com/radio/Especial-Telemetro-Radio_MEDDIR20160128_0004_47.jpg" group-title="LATIN",PAN: Telemetro Radio [VID]
 http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/orange/tabletop-radio-xxl.png" group-title="CLASSIC HITS",BOL: DJ Castro Radio
+http://192.95.18.39:5016/%3Bstream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/O2tvlogo.png" group-title="POP",RUS: O2 TV [VID]
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
 
@@ -403,6 +412,9 @@ http://95.85.10.201:8880/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKISH",TUR: Dream TV [VID]
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Music128/v4/d4/a8/c1/d4a8c1f6-d0f9-d73d-2af0-6f4034a95167/source/1200x630bb.jpg" group-title="DANCE",TUR: Radio Shazam
+http://streaming.radio.co/s0ce169aac/listen
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="HEBREW",ISR: Music 24 [NoKodi] [VID]
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
