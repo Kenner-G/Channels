@@ -27,7 +27,10 @@ http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="80S",USA: iHeart 80s Radio
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="CHRISTIAN ROCK",USA: Lite FM 106.7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATIN",USA: La Mega Mundial [Video]
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="ROCK",USA: Lite FM 106.7
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" group-title="POP",USA: MC - Main [VID]
@@ -105,8 +108,14 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="CHILDREN",USA: MC - Toddler Tunes [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/2a0002c.png" group-title="CLASSIC HITS",USA: Melody Channel [VID]
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="POP",USA: Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATIN",USA: Telemusica [VID]
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg" group-title="COUNTRY",USA: The Country Network [VID]
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
@@ -210,19 +219,10 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="POP",NLD: Qmusic [VID]
 http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="AMBIENT",NLD: Silence TV [VID]
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="DANCE",NLD: Slam! TV [VID]
 http://hls2.slamfm.nl/content/slamtv/slamtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="DANCE",NLD: Slam! TV* [VID]
-http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="TOP 40",BEL: NRJ Hits TV [VID]
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="TOP 40",BEL: NRJ Hits TV* [VID]
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="CARIBBEAN",FRA: Indies Live [VID]
@@ -252,19 +252,10 @@ http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3673.gif" group-title="ROCK",ITA: Radio Virgin TV [VID]
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATINO",LAT: La Mega Mundial [Video]
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/2a0002c.png" group-title="LATINO",LAT: Melody Channel [Video]
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATINO",LAT: Telemusica [Video]
-http://186.155.200.118:1935/live/telemusica/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7 [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="TOP 40",ARG: Cool 103.7 [VID]
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ESPN Radio 107.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ARG: ESPN Radio 107.9
 http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top [Video]
