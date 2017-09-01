@@ -207,13 +207,10 @@ http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="VARIETY",DEU: MagentaMusik 360
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_7/magentamusik1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="POP",AUT: KroneHit [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="DANCE",AUT: KroneHit [VID]
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="POP",AUT: KroneHit* [VID]
-http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.538.nl/social_share.png" group-title="NETHERLANDS",NLD: TV 538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.538.nl/social_share.png" group-title="TOP 40",NLD: TV 538
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.omropfryslan.nl/data/files/imagenodes/Klipkar_tv_logo_banner_nijesite.JPG" group-title="VARIETY",NLD: Klipkar TV [VID]
