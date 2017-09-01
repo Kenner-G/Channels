@@ -15,7 +15,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" group-title="TALK",USA: Fox News Radio [VID] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" group-title="NEWS",USA: Fox News Radio [VID] 
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" group-title="POP",USA: Music Choice [VID]
@@ -42,10 +42,10 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="TOP 40",USA: Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CAN: CBC Radio One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="NEWS",CAN: CBC Radio One
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CAN: CBC Radio 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CLASSICAL",CAN: CBC Radio 2
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title=“UK”,GBR: BBC World News
