@@ -118,6 +118,7 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="CLASSICAL",USA: NPR Illinois
+http://64.202.98.51:7800/event
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATIN",USA: Telemusica [VID]
 http://186.155.200.118:1935/live/telemusica/livestream.m3u8
