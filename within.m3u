@@ -156,37 +156,37 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="CARIBBEAN",FRA: Indies Live [VID]
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ottofmtv.com/img/logo.png" group-title="ITALY",OttoFM TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ottofmtv.com/img/logo.png" group-title="80s",ITA: OttoFM TV [VID]
 http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/149abbcb156b5e4b6d87697452d29fdf.jpeg" group-title="ITALY",Radio 105 TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/149abbcb156b5e4b6d87697452d29fdf.jpeg" group-title="POP",ITA: Radio 105 TV [VID]
 http://wow01.105.net:1935/live/105Test1/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="ITALY",Radio Capital TiVu [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="CLASSIC HITS",ITA: Radio Capital TiVu [VID]
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="ITALY",Radio Iglesias [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="TOP 40",ITA: Radio Iglesias [VID]
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY",Radio Italia TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="EASY LISTENING",ITA: Radio Italia TV [VID]
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="ITALY",Radio Monte Carlo [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="LOUNGE",ITA: Radio Monte Carlo [VID]
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="ITALY",Radio Taormina [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="TOP 40",Radio Taormina [VID]
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3673.gif" group-title="ITALY",Radio Virgin TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3673.gif" group-title="ROCK",ITA: Radio Virgin TV [VID]
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATINO",La Mega Mundial [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATINO",LAT: La Mega Mundial [Video]
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/2a0002c.png" group-title="LATINO",Melody Channel [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/2a0002c.png" group-title="LATINO",LAT: Melody Channel [Video]
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATINO",Telemusica [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATINO",LAT: Telemusica [Video]
 http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7 [Video]
