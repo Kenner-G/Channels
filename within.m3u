@@ -24,10 +24,10 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg" group-title="COUNTRY",USA: The Country Network [VID]
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="COUNTRY",USA: California Music Channel [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="COUNTRY",USA: California Music Channel [VID]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="AMERICANA",USA: Ditty TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="AMERICANA",USA: Ditty TV [VID]
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="80S",USA: iHeart 80s Radio
@@ -42,109 +42,109 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="TOP 40",USA: Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CAN: CBC Radio One
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CAN: CBC Radio 2
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title=“UK”,BBC World News
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title=“UK”,GBR: BBC World News
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",GBR: BBC Radio One
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio One [Audio]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",GBR: BBC Radio One [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio Two
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",GBR: BBC Radio Two
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio Two [Audio]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",GBR: BBC Radio Two [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BBC - Radio Three [Audio]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",GBR: BBC Radio Three [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio Four
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",GBR: BBC Radio Four
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio Four [Audio]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",GBR: BBC Radio Four [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BBC - Radio 5 Live [Audio]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",GBR: BBC Radio 5 Live [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Radio 6 Music [Audio]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",GBR: BBC Radio 6 Music [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg" group-title="UK",Capital TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg" group-title="UK",GBR: Capital TV [VID]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",GBR: Heart TV [Video]
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zuwB_9MtCL0/hqdefault.jpg" group-title="UK",Kool London Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zuwB_9MtCL0/hqdefault.jpg" group-title="UK",GBR: Kool London Radio
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",AUS: 2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",AUS: 2SM Sydney
 http://144.140.228.109:8220/mp3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",AUS: 2UE Sydney [VID]
 http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",AUS: 2UE Sydney
 http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="AUSTRALIA",3AW Melbourne [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="AUSTRALIA",AUS: 3AW Melbourne [VID]
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="AUSTRALIA",4BC Brisbane [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="AUSTRALIA",AUS: 4BC Brisbane [VID]
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",AUS: ABC Radio Sydney
 http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",ABC Radio Canberra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",AUS: ABC Radio Canberra
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",ABC Radio National
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",AUS: ABC Radio National
 http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",AUS: ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",Deluxe Music [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",DEU: Deluxe Music [VID]
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360 [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",DEU: MagentaMusik 360 [VID]
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",DEU: MagentaMusik 360
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_7/magentamusik1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",AUT: KroneHit [VID]
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit* [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",AUT: KroneHit* [VID]
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.omropfryslan.nl/data/files/imagenodes/Klipkar_tv_logo_banner_nijesite.JPG" group-title="NETHERLANDS",Klipkar TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.omropfryslan.nl/data/files/imagenodes/Klipkar_tv_logo_banner_nijesite.JPG" group-title="NETHERLANDS",NLD: Klipkar TV [VID]
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="NETHERLANDS",Qmusic [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="NETHERLANDS",NLD: Qmusic [VID]
 http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="NETHERLANDS",Silence TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="NETHERLANDS",NLD: Silence TV [VID]
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",Slam! TV [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",NLD: Slam! TV [VID]
 http://hls2.slamfm.nl/content/slamtv/slamtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",Slam! TV* [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",NLD: Slam! TV* [VID]
 http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV [Video]
