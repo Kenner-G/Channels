@@ -341,7 +341,7 @@ http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="LATIN",DOM: Naranja TV [VID]
 http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s248163d.png" group-title="LATIN",PER: Radio Activa 107.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s248163d.png" group-title="NEWS",PER: Radio Activa 107.1 FM
 http://212.129.33.202:9672
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oyetv.com.pa/assets/img/logo.png" group-title="LATIN",PAN: OyeTV [VID]
