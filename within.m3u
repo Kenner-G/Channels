@@ -1,5 +1,71 @@
 #EXTM3U
 
+#EXTINF:-1,YouFM 100.1
+http://95.85.10.201:8880/stream
+
+#EXTINF:-1,101.5FM
+http://audio-darom.ecast.co.il/darom101
+
+#EXTINF:-1,Radio Activa 107.1 FM - Cañete
+http://212.129.33.202:9672
+
+#EXTINF:-1,Zone Mix
+http://laut.fm/zone-mix
+
+#EXTINF:-1,POL: I Love Back2School
+http://gr-relay-lb.gaduradio.pl/170
+
+#EXTINF:-1,MOL: Univers FM
+http://92.39.52.207:9000/UniversFm
+
+#EXTINF:-1,FRA: 48FM
+http://212.129.28.44/48FM.mp3
+
+#EXTINF:-1,FRA: Club Stars
+http://91.121.59.45:8009/stream
+
+#EXTINF:-1,FRA: Nord Radio
+http://91.121.59.45:8053/stream
+
+#EXTINF:-1,FRA: Shazamzee
+http://streaming.radio.co/s0ce169aac/listen
+
+#EXTINF:-1,AUS: Pacific Island Vinyl
+http://101.176.30.167:8000
+
+#EXTINF:-1,USA: DJ Castro Radio
+http://192.95.18.39:5016/;stream
+
+#EXTINF:-1,USA: AutoDJ
+http://192.95.18.39:5020/;stream
+
+#EXTINF:-1,USA: KSGN 89.7 FM
+http://1.ice1.firststreaming.com:8000/ksgn_fm.mp
+
+#EXTINF:-1,USA: Illinois Public Radio
+http://64.202.98.51:7800/event
+
+#EXTINF:-1,USA: Radio Latina Lu?
+http://50.7.99.163:11291/2199/start/ckjsgxup
+
+#EXTINF:-1,DEN: GO! FM
+http://gofm.radiostreaming.dk:8050/gofm
+
+#EXTINF:-1,DEN: Radio Silkeborg
+http://silkeborg.radiostreaming.dk/silkeborg
+
+#EXTINF:-1,DEN: DK4 - Schlager
+http://radionord.radiostreaming.dk/DK4schlagerWeb
+
+#EXTINF:-1,Sen Radio FM
+http://174.142.76.50:9002/senradio
+
+#EXTINF:-1,Vatican Radio Channel 9
+http://174.142.76.50:9002/channel9.mp3
+
+#EXTINF:-1,Vatican Radio Europe 93.3 FM
+http://174.142.76.50:9002/channel1.mp3
+
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",* Fluxus Radio
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
