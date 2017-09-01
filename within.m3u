@@ -48,7 +48,7 @@ http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CLASSICAL",CAN: CBC Radio 2
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title=“NEWS”,GBR: BBC World News [AUD]
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="NEWS",GBR: BBC World News [AUD]
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="POP",GBR: BBC Radio 1
@@ -345,7 +345,7 @@ http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah [Video]
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="DJing”,DJing: Animation [Video]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="DJing",DJing: Animation [Video]
 http://www.djing.com/tv/a-05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="DJing",DJing: Classics [Video]
