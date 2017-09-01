@@ -40,7 +40,7 @@ http://192.95.18.39:5016/;stream
 http://192.95.18.39:5020/;stream
 
 #EXTINF:-1,USA: KSGN 89.7 FM
-http://1.ice1.firststreaming.com:8000/ksgn_fm.mp
+http://1.ice1.firststreaming.com:8000/ksgn_fm.mp3
 
 #EXTINF:-1,USA: Illinois Public Radio
 http://64.202.98.51:7800/event
