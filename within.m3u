@@ -236,6 +236,15 @@ http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="DANCE",NLD: Slam! TV [VID]
 http://hls2.slamfm.nl/content/slamtv/slamtv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/sf/fe5e595e2a02bdfe6554964984.jpg" group-title="CLASSIC HITS",DEN: Radio go!FM
+http://gofm.radiostreaming.dk:8050/gofm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/uploads/posts/2016-06/9b10f40c93ed7df04136791ee0757303.png" group-title="CLASSIC HITS",DEN: Radio Nord FM 98.6
+http://radionord.radiostreaming.dk/DK4schlagerWeb
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.radiovolna.net/_files/uploads/posts/2016-05/a88245113cf2eaec6a3f55b5780e04ba.png" group-title="",DEN: Radio Silkeborg 107.7 FM
+http://silkeborg.radiostreaming.dk/silkeborg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="TOP 40",BEL: NRJ Hits TV [VID]
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
@@ -284,8 +293,14 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="LOUNGE",ITA: Radio Monte Carlo [VID]
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="TOP 40",Radio Taormina [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="TOP 40",ITA: Radio Taormina [VID]
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-GfeAte-0pDo/VUT_7peB2CI/AAAAAAAARYE/vmHTZV2qVv0/s1600/Radio%2BVaticano.png" group-title="NEWS",ITA: Vatican Radio Europe 93.3 FM
+http://174.142.76.50:9002/channel1.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vatican.va/news_services/radio/img/logo-rv.jpg" group-title="NEWS",ITA: Vatican Radio Ch. 9
+http://174.142.76.50:9002/channel9.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3673.gif" group-title="ROCK",ITA: Radio Virgin TV [VID]
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
@@ -451,3 +466,7 @@ http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="ARABIC",SAU: Wanasah [VID]
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunuradiotv.com/wp-content/uploads/2017/06/sud-fm-1.jpg" group-title="AFRICAN",SEN: Sud FM 98.5
+http://174.142.76.50:9002/senradio
+
