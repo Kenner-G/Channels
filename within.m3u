@@ -270,13 +270,13 @@ http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3673.gif" group-title="ROCK",ITA: Radio Virgin TV [VID]
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="TOP 40",ARG: Cool 103.7 [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="LATIN",ARG: Cool 103.7 [VID]
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="SPORTS",ARG: ESPN Radio 107.9
 http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="TOP 40",ARG: Music Top [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="LATIN",ARG: Music Top [VID]
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="VARIETY",ARG: Power HD [VID]
