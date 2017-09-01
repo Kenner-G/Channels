@@ -99,76 +99,76 @@ http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" group-title="POP",USA: MC - Main [VID]
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Alternative [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="ALTERNATIVE",USA: MC - Alternative [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Brits + Hits [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="TOP 40",USA: MC - Brits + Hits [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Dance/EDM [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="DANCE",USA: MC - Dance/EDM [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Hip-Hop/R+B [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="HIP HOP",USA: MC - Hip-Hop/R+B [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Hit List [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="TOP 40",USA: MC - Hit List [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Indie [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="METAL",USA: MC - Indie [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Metal [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Pop + Country [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="POP",USA: MC - Pop + Country [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Pop Hits [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="POP",USA: MC - Pop Hits [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - R+B/Soul [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="R+B",USA: MC - R+B/Soul [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Rap [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="RAP",USA: MC - Rap [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Rap 2K [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="RAP",USA: MC - Rap 2K [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Rock [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="ROCK",USA: MC - Rock [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Today's Country [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="COUNTRY",USA: MC - Today's Country [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - 90s [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="90S",USA: MC - 90s [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Throwback Jamz [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="CLASSIC HITS",USA: MC - Throwback Jamz [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Y2K [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="POP",USA: MC - Y2K [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Mexicana [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LATIN",USA: MC - Mexicana [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Musica Urbana [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LATIN",USA: MC - Musica Urbana [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Pop Latino [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LATIN",USA: MC - Pop Latino [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Tropicales [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LATIN",USA: MC - Tropicales [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Teen Beats [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="CHILDREN",USA: MC - Teen Beats [VID]
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Kidz Only! [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="CHILDREN",USA: MC - Kidz Only! [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="",USA: MC - Toddler Tunes [VID]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="CHILDREN",USA: MC - Toddler Tunes [VID]
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="POP",USA: Nick Radio
