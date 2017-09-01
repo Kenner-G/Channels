@@ -144,7 +144,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="ADULT CONTEMPORARY",GBR: BBC Radio 2 [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CLASSICAL",GBR: BBC Radio 3 [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="CLASSICAL",GBR: BBC Radio 3 [AUD]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="NEWS",GBR: BBC Radio 4
