@@ -27,10 +27,13 @@ http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="80S",USA: iHeart 80s Radio
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ksgn.com/images/ksgn_logo.png" group-title="CHRISTIAN CONTEMPORARY",USA: KSGN 89.7 FM
+http://1.ice1.firststreaming.com:8000/ksgn_fm.mp3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATIN",USA: La Mega Mundial [Video]
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="ROCK",USA: Lite FM 106.7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="CHRISTIAN ROCK",USA: Lite FM 106.7
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" group-title="POP",USA: MC - Main [VID]
@@ -113,6 +116,8 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="POP",USA: Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="CLASSICAL",USA: NPR Illinois
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATIN",USA: Telemusica [VID]
 http://186.155.200.118:1935/live/telemusica/livestream.m3u8
@@ -201,6 +206,9 @@ http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="POP",DEU: Deluxe Music [VID]
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="DANCE",DEU: Laut.fm - Zone-Mix
+http://laut.fm/zone-mix
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="VARIETY",DEU: MagentaMusik 360 [VID]
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
 
@@ -225,6 +233,9 @@ http://hls2.slamfm.nl/content/slamtv/slamtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="TOP 40",BEL: NRJ Hits TV [VID]
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/62/c9/62c94e05fcdcb27298519bfd327665e0.jpg" group-title="POP",FRA: 48FM 105.0
+http://212.129.28.44/48FM.mp3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="DANCE",FRA: DJing - Animation [VID]
 http://www.djing.com/tv/a-05.m3u8
 
@@ -239,6 +250,12 @@ http://www.djing.com/tv/u-05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="CARIBBEAN",FRA: Indies Live [VID]
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://studioolinda.com/wp-content/uploads/2016/07/13654302_1767236573490635_4520788958911720813_n.jpg" group-title="JAZZ",FRA: Jazz Box Radio Int'l
+http://91.121.59.45:8053/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="TOP 40",FRA: Radio Club Stars
+http://91.121.59.45:8009/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="DANCE",ITA: m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
@@ -324,6 +341,9 @@ http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="LATIN",DOM: Naranja TV [VID]
 http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s248163d.png" group-title="LATIN",PER: Radio Activa 107.1 FM
+http://212.129.33.202:9672
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oyetv.com.pa/assets/img/logo.png" group-title="LATIN",PAN: OyeTV [VID]
 http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-720p/chunks.m3u8
 
@@ -335,6 +355,9 @@ http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/O2tvlogo.png" group-title="POP",RUS: O2 TV [VID]
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="VARIETY",MOL: Univers FM
+http://92.39.52.207:9000/UniversFm
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="TOP 40",BGR: City TV [VID]
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
@@ -360,6 +383,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mywebtv.info/img/tvicons/560870.png" group-title="POP",POL: Atomic TV [Video]
 http://5.154.185.153/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.pl/images/broadcasts/2d/54/16118/c175.png" group-title="POP",Open FM - I Love Back2School
+http://gr-relay-lb.gaduradio.pl/170
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="ARMENIAN",ARM: MTV.AM [Video]
 http://mtvam.ru/hlsam/playlist.m3u8
 
@@ -372,11 +398,17 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/rff1DsY.gif" group-title="GREEK",GRC: Fox TV [VID]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/youfm.png" group-title="TOP 40",GRC: YouFM 100.1
+http://95.85.10.201:8880/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKISH",TUR: Dream TV [VID]
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="HEBREW",ISR: Music 24 [NoKodi] [VID]
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/01/dibur1.jpg" group-title="HEBREW",ISR: Radio Darom 101.5 FM
+http://audio-darom.ecast.co.il/darom101
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="HINDI",IND: 9XM [VID]
 http://ind19-lh.akamaihd.net/i/ind19_9xm@440010/master.m3u8
