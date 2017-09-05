@@ -120,6 +120,9 @@ http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="CLASSICAL",USA: NPR Illinois
 http://64.202.98.51:7800/event
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="LATIN",USA: Pulso Digital
+http://67.227.220.171:8066/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATIN",USA: Telemusica [VID]
 http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 
@@ -222,9 +225,6 @@ http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="DANCE",AUT: KroneHit [VID]
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/7/7b/2889_logo.jpg" group-title="LATIN",LUX: Radio Latina
-http://50.7.99.163:11291/2199/start/ckjsgxup
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.538.nl/social_share.png" group-title="TOP 40",NLD: TV 538
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
@@ -273,6 +273,9 @@ http://91.121.59.45:8053/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="TOP 40",FRA: Radio Club Stars
 http://91.121.59.45:8009/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bluemelodyschoolradio.com/upload/design/54c6cfaee9ac06.50082848.png" group-title="GOSPEL",GLP: Blue Melody School Radio
+http://212.83.172.22/radio/593/stream/62896
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="DANCE",ITA: m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
@@ -293,6 +296,9 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="LOUNGE",ITA: Radio Monte Carlo [VID]
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2488958554/radiopadania-logo_400x400.jpg" group-title="EASY LISTENING",ITA: Radio Padania Libera
+http://onair11.xdevel.com:9986/%3Bstream.m4a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="TOP 40",ITA: Radio Taormina [VID]
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
@@ -407,6 +413,9 @@ http://ice3.abradio.cz/alternative128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="REGGAE",CZE: ABradio.cz - RFX
 http://ice3.abradio.cz/rfx128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="COUNTRY",CZE: ABradio.cz - Country
+http://mp3stream4.abradio.cz/country128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ADULT CONTEMPORARY",CZE: ABradio.cz - Blanik
 http://ice.abradio.cz/blanikcz128.mp3
