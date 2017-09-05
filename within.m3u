@@ -393,13 +393,13 @@ http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CHILL",CZE: ABradio.cz - Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="DRUM + BASS",#EXTINF:-1,CZE: ABradio.cz - ShadowBox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="DRUM + BASS",CZE: ABradio.cz - ShadowBox
 http://ice3.abradio.cz/shadowbox128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CLASSIC HITS",CZE: ABradio.cz - Oldies Radio
 http://ice.abradio.cz/oldiesradio128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ROCK",#EXTINF:-1,CZE: ABradio.cz - Oldies Rock
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ROCK",CZE: ABradio.cz - Oldies Rock
 http://mp3stream4.abradio.cz/oldiesrock128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ALTERNATIVE",CZE: ABradio.cz - Alternative
@@ -408,19 +408,19 @@ http://ice3.abradio.cz/alternative128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="REGGAE",CZE: ABradio.cz - RFX
 http://ice3.abradio.cz/rfx128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ADULT CONTEMPORARY",#EXTINF:-1,CZE: ABradio.cz - Blanik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ADULT CONTEMPORARY",CZE: ABradio.cz - Blanik
 http://ice.abradio.cz/blanikcz128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="FOLK",CZE: ABradio.cz - Folk
 http://mp3stream2.abradio.cz:8000/folk.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",#EXTINF:-1,CZE: ABradio.cz - Relax - Sea
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",CZE: ABradio.cz - Relax - Sea
 http://ice6.abradio.cz/relax-sea128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",#EXTINF:-1,CZE: ABradio.cz - Relax - Thunder + Rain
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",CZE: ABradio.cz - Relax - Thunder + Rain
 http://ice6.abradio.cz/relax-thunder-rain128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",#EXTINF:-1,CZE: ABradio.cz - Relax - Fire
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",CZE: ABradio.cz - Relax - Fire
 http://ice6.abradio.cz/relax-fire128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CHILDREN",CZE: ABradio.cz - Pohadka
