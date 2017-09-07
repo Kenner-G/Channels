@@ -1,59 +1,250 @@
 #EXTM3U
-#EXTINF:-1,Frenchlover TV
-http://89.208.196.62:5050/udp/230.3.4.89:5678
-#EXTINF:-1,Frenchlover TV
-http://89.208.200.194:5050/udp/230.3.4.89:5678
-#EXTINF:-1,Frenchlover TV
-http://95.163.161.115:27500/udp/230.3.4.89:5678
-#EXTINF:-1,FrenchLover
-http://31.128.132.159:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover TV
-http://95.181.238.7:81/udp/239.191.254.251:15285
-#EXTINF:-1,Hustler HD
-http://46.23.145.242:1234/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://5.100.73.204:52349/udp/224.3.23.26:1234
-#EXTINF:-1,Hustler HD
-http://109.237.144.202:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://37.192.128.59:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
-#EXTINF:-1,Redlight HD
-http://s5.telek.me/1393/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
-#EXTINF:-1,Redlight_HD
-http://212.47.244.173:8081/live/redlighthd/chunks.m3u8
-#EXTINF:-1,Redlight HD
-http://176.123.217.23:8159/channels/play?id=3560
-#EXTINF:-1,FrenchLover
-http://31.128.148.102:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover
-http://31.128.141.209:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover
-http://164.215.92.163:81/udp/233.12.144.217:5050
-#EXTINF:-1,Frenchlover
-http://37.235.249.181:81/udp/225.50.70.7:1234
-#EXTINF:-1,Frenchlover
-http://37.235.153.56:81/udp/225.50.70.7:1234
-#EXTINF:-1,FrenchLover
-http://31.128.137.138:3371/udp/239.1.13.4:1234
-#EXTINF:-1,Frenchlover TV
-http://92.38.190.231:5050/udp/230.3.4.89:5678
-#EXTINF:-1,FrenchLover TV
-http://176.100.127.107:8881/udp/239.1.1.205:32517
-#EXTINF:-1,FrenchLover TV
-http://176.100.127.107:35555/udp/239.1.1.205:32517
-#EXTINF:-1,FrenchLover TV
-http://176.100.127.107:64128/udp/239.1.1.205:32517
-#EXTINF:-1,Frenchlover
-http://178.163.3.32:4022/udp/234.0.0.4:2000
-#EXTINF:-1,FrenchLover
-http://188.168.146.211:81/udp/233.12.144.217:5050
-#EXTINF:-1,FrenchLover
-http://89.23.131.198:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover TV
-http://176.100.87.211:81/udp/239.1.1.205:32517
-#EXTINF:-1,Hustler HD
-http://94.230.124.69:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://94.230.126.220:1234/udp/239.1.6.35:1234
+#EXTINF:-1 tvg-id="id1" tvg-name="BBC One HD" tvg-logo="logo1" group-title="Entertainment",BBC One HD                  
+http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:-1, BBC Two HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
+#EXTINF:-1, BBC Four HD
+http://s03iptv.ddns.net/live?channelId=721&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, BBC NEWS HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1, BBC Parliament
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
+#EXTINF:-1, Bloomberg
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+#EXTINF:-1, Sky News
+http://s03iptv.ddns.net/live?channelId=791&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, ITV1 HD
+http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
+#EXTINF:-1, ITV2 HD
+http://s08iptv.ddns.net/live?channelId=758&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, ITV3 HD
+http://s08iptv.ddns.net/live?channelId=759&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, ITV4 HD
+http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+#EXTINF:-1, ITVBe
+http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8
+#EXTINF:-1, Channel 4
+http://s03iptv.ddns.net/live?channelId=734&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, E4 HD
+http://50.7.69.42:8899/GB/UK/E4_HD/index.m3u8
+#EXTINF:-1, More4 HD
+http://163.172.219.53:3135/MORE4UK/UK/index.m3u8?token=NWIwZWQ4NmZmMGRiMDA1NTVhMjhjNGEwNzE5N2ZhYjI6MTQ4NjAyMzg3NQ==
+#EXTINF:-1, Channel 5
+http://s03iptv.ddns.net/live?channelId=752&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Tru TV
+http://llnw.live.btv.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
+#EXTINF:-1, Watch
+http://50.7.69.42:8899/GB/UK/W_HD/index.m3u8?
+#EXTINF:-1, Home
+http://uk4all.mine.nu:8888/uk_HOME/index.m3u8?
+#EXTINF:-1, alibi HD
+http://50.7.69.42:8899/GB/UK/ALIBI_HD/index.m3u8
+#EXTINF:-1, Comedy Central
+http://s03iptv.ddns.net/live?channelId=738&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Dave HD
+http://s03iptv.ddns.net/live?channelId=739&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, CBS Action
+http://s03iptv.ddns.net/live?channelId=732&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, CBS Drama
+http://s03iptv.ddns.net/live?channelId=733&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Food Network
+http://s03iptv.ddns.net/live?channelId=753&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, GOLD
+http://s03iptv.ddns.net/live?channelId=754&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Living HD
+http://s03iptv.ddns.net/live?channelId=781&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Atlantic HD
+http://s03iptv.ddns.net/live?channelId=777&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky1
+http://s03iptv.ddns.net/live?channelId=792&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky2
+http://s03iptv.ddns.net/live?channelId=801&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, DMAX
+http://50.7.69.42:8899/GB/UK/DMAX/index.m3u8
+#EXTINF:-1, Challenge
+http://50.7.69.42:8899/GB/UK/CHALLENGE/index.m3u8?
+#EXTINF:-1, FOX
+http://50.7.69.42:8899/GB/UK/FOX_HD/index.m3u8
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1, RTE One
+http://s03iptv.ddns.net/live?channelId=774&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, RTE Two
+http://s03iptv.ddns.net/live?channelId=775&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, TG4
+http://csm-e-ces1eurxaws101-57fwafhkxzj0.cds1.yospace.com/csm/live/74246540/4.m3u8;jsessionid=39C50E1FAF66774216005D55AD366EDA.csm-e-ces1eurxaws101-57fwafhkxzj0.cds1.yospace.com
+#EXTINF:-1 tvg-id="id1" tvg-name="CBBC HD" tvg-logo="logo1" group-title="Kids",CBBC HD
+http://s03iptv.ddns.net/live?channelId=724&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, CBeebies
+http://s03iptv.ddns.net/live?channelId=721&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Disney XD
+http://s03iptv.ddns.net/live?channelId=747&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Nick Jnr
+http://s03iptv.ddns.net/live?channelId=770&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Nicktoons
+http://s03iptv.ddns.net/live?channelId=771&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, RTEjr
+http://uk4all.mine.nu:8888/sd_uk_rte_junior/index.m3u8?
+#EXTINF:-1, Cartoon Network
+http://uk4all.mine.nu:8888/sd_uk_cartoon_net/index.m3u8?
+#EXTINF:-1, Cartoon Network+1
+http://s03iptv.ddns.net/live?channelId=731&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Disney Chnl
+http://mcdn-play-358.5centscdn.net/disneyextv/stream1.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1, POP
+http://mcdn-play-358.5centscdn.net/popextv/stream1.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1, Tiny Pop
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/160.m3u8
+#EXTINF:-1, CITV
+http://mcdn-play-358.5centscdn.net/citvextv/stream1.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="Animal Planet" tvg-logo="logo1" group-title="Documentary",Animal Planet
+http://50.7.69.42:8899/GB/UK/ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:-1, Discovery
+http://s03iptv.ddns.net/live?channelId=740&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Discovery+1
+http://uk4all.mine.nu:8888/lsi_Discovery/index.m3u8?
+#EXTINF:-1, Disc.History
+http://s03iptv.ddns.net/live?channelId=741&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Disc Science
+http://s03iptv.ddns.net/live?channelId=743&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Disc Turbo
+http://s03iptv.ddns.net/live?channelId=744&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Discovery Shed
+http://uk4all.mine.nu:8888/uk_discovery_shed/index.m3u8?
+#EXTINF:-1, Nat Geo HD
+http://s03iptv.ddns.net/live?channelId=768&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Nat Geo+1
+http://s03iptv.ddns.net/live?channelId=768&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, NatGeoWild HD
+http://s03iptv.ddns.net/live?channelId=769&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, History
+http://50.7.69.42:8899/GB/USA/HISTORY_HD/index.m3u8?
+#EXTINF:-1, H2
+http://50.7.69.42:8899/GB/USA/H2_HD/index.m3u8?
+#EXTINF:-1, QUEST
+http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/555.m3u8
+#EXTINF:-1, Really
+http://50.7.69.42:8899/GB/UK/REALLY/index.m3u8?
+#EXTINF:-1, TLC
+http://50.7.69.42:8899/GB/UK/TLC_HD/index.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="Sky Sports 1" tvg-logo="logo1" group-title="Sports",Sky Sports 1
+http://s03iptv.ddns.net/live?channelId=600&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Sports 2
+http://s03iptv.ddns.net/live?channelId=601&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Sports 3
+http://s03iptv.ddns.net/live?channelId=602&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Sports 4
+http://s03iptv.ddns.net/live?channelId=603&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Sports 5
+http://s03iptv.ddns.net/live?channelId=604&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Sports F1
+http://163.172.218.181:3135/SF1/Sports/index.m3u8?token=ZGQ1M2I2YTg2NWZhZDVhOGIyNGNkZDBlNzcwMDBkOTI6MTQ4NDkxNjA0Ng==
+#EXTINF:-1, Sky Sports 1 HD
+http://uk4all.mine.nu:8888/UK_ENG_sky_sports_1hd/index.m3u8
+#EXTINF:-1, Sky Sports 2 HD
+http://uk4all.mine.nu:8888/UK_ENG_sky_sports_2hd/index.m3u8
+#EXTINF:-1, Sky Sports 3 HD
+http://uk4all.mine.nu:8888/UK_ENG_sky_sports_3hd/index.m3u8
+#EXTINF:-1, Sky Sports 4 HD
+http://uk4all.mine.nu:8888/UK_ENG_sky_sports_4hd/index.m3u8
+#EXTINF:-1, Sky Sports 5 HD
+http://uk4all.mine.nu:8888/UK_ENG_sky_sports_5hd/index.m3u8
+#EXTINF:-1, Sky Sports F1 HD
+http://163.172.218.181:3135/SF1/Sports/index.m3u8?token=ZGQ1M2I2YTg2NWZhZDVhOGIyNGNkZDBlNzcwMDBkOTI6MTQ4NDkxNjA0Ng==
+#EXTINF:-1, Sky Sports Mix
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/2997.m3u8
+#EXTINF:-1, Sky Sp NewsHQ
+http://s03iptv.ddns.net/live?channelId=799&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, BoxNation
+http://50.7.69.42:8899/GB/UK/BOXNATION/index.m3u8
+#EXTINF:-1, Eurosport 1 HD
+http://s03iptv.ddns.net/live?channelId=749&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Eurosport 2 HD
+http://s03iptv.ddns.net/live?channelId=750&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Premier Sports
+http://s03iptv.ddns.net/live?channelId=772&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Racing UK
+http://s03iptv.ddns.net/live?channelId=773&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, At The Races
+http://163.172.218.181:3135/1ATTHE/RACES3/index.m3u8?token=NDkyOWI1NGQwNDcxM2I3NTJmYWYzYTQyZGI0Y2U1OGY6MTQ4NDkxNjA0Ng==
+#EXTINF:-1, MUTV HD
+http://s03iptv.ddns.net/live?channelId=767&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Eir Sports 1
+http://s03iptv.ddns.net/live?channelId=776&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, BT Sports 1 HD
+http://s03iptv.ddns.net/live?channelId=795&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, BT Sports 2 HD
+http://s03iptv.ddns.net/live?channelId=794&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, BT Sports 3 HD
+http://79.143.187.100/BTSPORTS3/index.m3u8
+#EXTINF:-1, BT Sport/ESPN
+http://s03iptv.ddns.net/live?channelId=748&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, BT Sport 1
+http://iptv.indiansat.net/live/amancio/correia/14391.ts
+#EXTINF:-1, BT Sport 2
+http://iptv.indiansat.net/live/amancio/correia/14390.ts
+#EXTINF:-1, BT Sport 3
+http://79.143.187.100/BTSPORTS3/index.m3u8
+#EXTINF:-1, Arena sport 1 HD
+http://163.172.218.181:3135/Arena1/Sports/index.m3u8?token=MTMzODAzODFiOTRmZmMyMmE2NGQxN2NmN2VmZDk1ZDA6MTQ4NjA3NTkyNA==
+#EXTINF:-1, Arena sport 2 HD
+http://163.172.218.181:3135/Arena2/Sports/index.m3u8?token=NGE3NjQwOWU3YWYwNWZmOTk5N2E1ZGNmNTk0Mjg2ODg6MTQ4NjA3NTkyNA==
+#EXTINF:-1, Arena sport 3 HD
+http://149.202.207.8:8080/cHeekNe3Yyyairoona-3/Strm/index.m3u8
+#EXTINF:-1, Arena sport 4 HD
+http://163.172.218.181:3135/Arena4/Sportys/index.m3u8?token=NDkzZWE4ZDU5Yzc3MTA0YzE5Zjg1NTk3NDEwODM3ZWU6MTQ4NjA3NTkyNA==
+#EXTINF:-1, Arena sport 5 HD
+http://149.202.207.8:8080/cHeekNe3Yyyairoona-5/Strm/index.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="B4U Movies" tvg-logo="logo1" group-title="Movies",B4U Movies
+http://s03iptv.ddns.net/live?channelId=720&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Film4
+http://s03iptv.ddns.net/live?channelId=751&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Family HD
+http://s03iptv.ddns.net/live?channelId=779&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Action HD
+http://s03iptv.ddns.net/live?channelId=782&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Comedy HD
+http://s03iptv.ddns.net/live?channelId=783&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Disney HD
+http://s03iptv.ddns.net/live?channelId=784&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky DraRomHD
+http://s03iptv.ddns.net/live?channelId=785&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Movies Greats HD
+http://s03iptv.ddns.net/live?channelId=787&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, SkyPremiereHD
+http://s03iptv.ddns.net/live?channelId=788&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky ScFi/HorHD
+http://s03iptv.ddns.net/live?channelId=789&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Thriller HD
+http://s03iptv.ddns.net/live?channelId=790&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, Sky Select HD
+http://s03iptv.ddns.net/live?channelId=793&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, movies4men
+http://s03iptv.ddns.net/live?channelId=765&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1 tvg-id="id1" tvg-name="MTV Music" tvg-logo="logo1" group-title="Music",MTV Music
+#EXTINF:-1, MTV Music
+http://s03iptv.ddns.net/live?channelId=766&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, 1 HD
+http://s03iptv.ddns.net/live?channelId=803&uid=256&deviceUser=hak&devicePass=hakeem
+#EXTINF:-1, 4Music
+http://llnw.live.btv.simplestream.com/coder9/coder.channels.channel6/hls/4/playlist.m3u8
+#EXTINF:-1, The Box
+http://llnw.live.btv.simplestream.com/coder9/coder.channels.channel12/hls/4/playlist.m3u8
+#EXTINF:-1, Box Hits
+http://llnw.live.btv.simplestream.com/coder9/coder.channels.channel2/hls/4/playlist.m3u8
+#EXTINF:-1, Box Upfront
+http://llnw.live.btv.simplestream.com/coder9/coder.channels.channel8/hls/4/playlist.m3u8
+#EXTINF:-1, CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Channel AKA
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1, Kerrang!
+http://llnw.live.btv.simplestream.com/coder11/coder.channels.channel4/hls/4/playlist.m3u8
+#EXTINF:-1, KISS
+http://llnw.live.btv.simplestream.com/coder9/coder.channels.channel14/hls/4/playlist.m3u8
+#EXTINF:-1, Chelsea TV
+http://149.202.207.8:8080/cHeekNe3Yyycehlsee/Strm/index.m3u8
+#EXTINF:-1, Motors TV
+http://iptv.indiansat.net/live/amancio/correia/13660.m3u8
