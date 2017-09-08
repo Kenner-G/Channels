@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="USA",ABC
+https://freeeucache3.streamlive.to/live/nz7l9vc5nv1og7b/index.m3u8?st=e2DhgteWfHjP-iIt0cHlLw&expires=1505447798
+
+#EXTINF:-1 tvg-logo="http://i1.wp.com/www.mangaforever.net/wp-content/uploads/2017/05/Upfronts2017_CBS.jpg" group-title="USA",CBS
+https://freeeucache3.streamlive.to/live/vp4q2gonwzh2dku/index.m3u8?st=fYDtUrWkcizW6nHlZxrnJw&expires=1505448629
+
+#EXTINF:-1 tvg-logo="http://corporate.comcast.com/images/nbc-logo-thumbnail.jpg" group-title="USA",NBC
+https://freeeucache3.streamlive.to/live/kjgkefh6la1di6g/index.m3u8?st=az4joS2VBHPMGhTT8vijBg&expires=1505448667
