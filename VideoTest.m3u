@@ -1,10 +1,319 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="USA",ABC
-https://freeeucache3.streamlive.to/live/nz7l9vc5nv1og7b/index.m3u8?st=e2DhgteWfHjP-iIt0cHlLw&expires=1505447798
-
-#EXTINF:-1 tvg-logo="http://i1.wp.com/www.mangaforever.net/wp-content/uploads/2017/05/Upfronts2017_CBS.jpg" group-title="USA",CBS
-https://freeeucache3.streamlive.to/live/vp4q2gonwzh2dku/index.m3u8?st=fYDtUrWkcizW6nHlZxrnJw&expires=1505448629
-
-#EXTINF:-1 tvg-logo="http://corporate.comcast.com/images/nbc-logo-thumbnail.jpg" group-title="USA",NBC
-https://freeeucache3.streamlive.to/live/kjgkefh6la1di6g/index.m3u8?st=az4joS2VBHPMGhTT8vijBg&expires=1505448667
+#EXTINF:-1,CITV
+http://5.255.90.226:5000/play/a00d
+#EXTINF:-1,BBC One S West
+http://5.255.90.226:5000/play/a010
+#EXTINF:-1,BBC One East E
+http://5.255.90.226:5000/play/a00l
+#EXTINF:-1,CBeebies HD
+http://5.255.90.226:5000/play/a01g
+#EXTINF:-1,ITV
+http://5.255.90.226:5000/play/a00b
+#EXTINF:-1,BBC One Wal HD
+http://5.255.90.226:5000/play/a01d
+#EXTINF:-1,CBeebies
+http://5.255.90.226:5000/play/a005
+#EXTINF:-1,BBC One Scot
+http://5.255.90.226:5000/play/a00r
+#EXTINF:-1,BBC One E Mid
+http://5.255.90.226:5000/play/a00k
+#EXTINF:-1,BBC NEWS
+http://5.255.90.226:5000/play/a012
+#EXTINF:-1,BBC One CI
+http://5.255.90.226:5000/play/a008
+#EXTINF:-1,ITVBe
+http://5.255.90.226:5000/play/a00g
+#EXTINF:-1,CBBC
+http://5.255.90.226:5000/play/a014
+#EXTINF:-1,BBC One N West
+http://5.255.90.226:5000/play/a00v
+#EXTINF:-1,BBC One Lon
+http://5.255.90.226:5000/play/a002
+#EXTINF:-1,BBC One Yk&Li
+http://5.255.90.226:5000/play/a00j
+#EXTINF:-1,BBC RB1
+http://5.255.90.226:5000/play/a01i
+#EXTINF:-1,BBC Four
+http://5.255.90.226:5000/play/a004
+#EXTINF:-1,BBC RB1
+http://5.255.90.226:5000/play/a00a
+#EXTINF:-1,BBC One Yorks
+http://5.255.90.226:5000/play/a00w
+#EXTINF:-1,ITV4
+http://5.255.90.226:5000/play/a00e
+#EXTINF:-1,BBC Two HD
+http://5.255.90.226:5000/play/a018
+#EXTINF:-1,BBC One NI HD
+http://5.255.90.226:5000/play/a01a
+#EXTINF:-1,BBC NEWS HD
+http://5.255.90.226:5000/play/a01e
+#EXTINF:-1,BBC One S East
+http://5.255.90.226:5000/play/a00x
+#EXTINF:-1,BBC One Wales
+http://5.255.90.226:5000/play/a00n
+#EXTINF:-1,BBC Parliament
+http://5.255.90.226:5000/play/a00m
+#EXTINF:-1,BBC One ScotHD
+http://5.255.90.226:5000/play/a01c
+#EXTINF:-1,BBC ALBA
+http://5.255.90.226:5000/play/a00t
+#EXTINF:-1,ITV2
+http://5.255.90.226:5000/play/a00c
+#EXTINF:-1,BBC One East W
+http://5.255.90.226:5000/play/a007
+#EXTINF:-1,ITV4+1
+http://5.255.90.226:5000/play/a00f
+#EXTINF:-1,BBC One HD
+http://5.255.90.226:5000/play/a019
+#EXTINF:-1,ETV2
+http://5.255.90.226:5000/play/a00q
+#EXTINF:-1,BBC Four HD
+http://5.255.90.226:5000/play/a01f
+#EXTINF:-1,ETV5
+http://5.255.90.226:5000/play/a00p
+#EXTINF:-1,ETV1
+http://5.255.90.226:5000/play/a001
+#EXTINF:-1,BBC Two NI
+http://5.255.90.226:5000/play/a016
+#EXTINF:-1,BBC Two Eng
+http://5.255.90.226:5000/play/a003
+#EXTINF:-1,BBC One W Mid
+http://5.255.90.226:5000/play/a00i
+#EXTINF:-1,CBBC HD
+http://5.255.90.226:5000/play/a017
+#EXTINF:-1,BBC One NE&C
+http://5.255.90.226:5000/play/a00y
+#EXTINF:-1,BBC One NI
+http://5.255.90.226:5000/play/a015
+#EXTINF:-1,BBC Two Scot
+http://5.255.90.226:5000/play/a00s
+#EXTINF:-1,BBC One South
+http://5.255.90.226:5000/play/a00z
+#EXTINF:-1,BBC One Oxford
+http://5.255.90.226:5000/play/a011
+#EXTINF:-1,BBC One West
+http://5.255.90.226:5000/play/a006
+#EXTINF:-1,ETV6
+http://5.255.90.226:5000/play/a013
+#EXTINF:-1,BBC Two Wales
+http://5.255.90.226:5000/play/a00o
+#EXTINF:-1,ITV +1
+http://5.255.90.226:5000/play/a00h
+#EXTM3U
+#EXTINF:-1,ITV Encore
+http://5.255.90.226:5001/play/a00s
+#EXTINF:-1,ITV Encore+1
+http://5.255.90.226:5001/play/a00o
+#EXTINF:-1,STV East +1
+http://5.255.90.226:5001/play/a00h
+#EXTINF:-1,5 USA
+http://5.255.90.226:5001/play/a01d
+#EXTINF:-1,ITV Tyne Tees
+http://5.255.90.226:5001/play/a00r
+#EXTINF:-1,ITV London +1
+http://5.255.90.226:5001/play/a00x
+#EXTINF:-1,Channel 5+1
+http://5.255.90.226:5001/play/a01i
+#EXTINF:-1,5STAR +1
+http://5.255.90.226:5001/play/a01h
+#EXTINF:-1,ITV Border
+http://5.255.90.226:5001/play/a00p
+#EXTINF:-1,ITV3+1
+http://5.255.90.226:5001/play/a00n
+#EXTINF:-1,ITV Yorkshire West
+http://5.255.90.226:5001/play/a00y
+#EXTINF:-1,Cartoon Netwrk
+http://5.255.90.226:5001/play/a016
+#EXTINF:-1,ITVBe+1
+http://5.255.90.226:5001/play/a00t
+#EXTINF:-1,ITV Central West HD
+http://5.255.90.226:5001/play/a012
+#EXTINF:-1,ITV Meridian South East HD
+http://5.255.90.226:5001/play/a011
+#EXTINF:-1,Spike
+http://5.255.90.226:5001/play/a01j
+#EXTINF:-1,ITV4 HD
+http://5.255.90.226:5001/play/a015
+#EXTINF:-1,ITV Meridian South
+http://5.255.90.226:5001/play/a00u
+#EXTINF:-1,ITV Westcountry South West +1
+http://5.255.90.226:5001/play/a00q
+#EXTINF:-1,ITV Meridian South East
+http://5.255.90.226:5001/play/a00w
+#EXTINF:-1,Boomerang +1
+http://5.255.90.226:5001/play/a018
+#EXTINF:-1,Boomerang
+http://5.255.90.226:5001/play/a017
+#EXTINF:-1,My5
+http://5.255.90.226:5001/play/a01g
+#EXTINF:-1,ITV3
+http://5.255.90.226:5001/play/a00m
+#EXTINF:-1,Channel 5HD
+http://5.255.90.226:5001/play/a01k
+#EXTINF:-1,CNN HD
+http://5.255.90.226:5001/play/a01b
+#EXTINF:-1,ITV3 HD
+http://5.255.90.226:5001/play/a014
+#EXTINF:-1,ITV 1 Westcountry South West
+http://5.255.90.226:5001/play/a00k
+#EXTINF:-1,5STAR
+http://5.255.90.226:5001/play/a01f
+#EXTINF:-1,CN+1
+http://5.255.90.226:5001/play/a019
+#EXTINF:-1,5 USA +1
+http://5.255.90.226:5001/play/a01e
+#EXTINF:-1,STV West
+http://5.255.90.226:5001/play/a00f
+#EXTINF:-1,ITV Yorkshire West HD
+http://5.255.90.226:5001/play/a013
+#EXTINF:-1,Channel 5
+http://5.255.90.226:5001/play/a01c
+#EXTINF:-1,STV East
+http://5.255.90.226:5001/play/a00g
+#EXTINF:-1,CNN
+http://5.255.90.226:5001/play/a01a
+#EXTINF:-1,STV North
+http://5.255.90.226:5001/play/a00e
+#EXTINF:-1,ITV Central West +1
+http://5.255.90.226:5001/play/a00v
+#EXTINF:-1,talkSPORT
+http://5.255.90.226:5001/play/a00j
+#EXTINF:-1,ITV London HD
+http://5.255.90.226:5001/play/a010
+#EXTINF:-1,ITV2+1
+http://5.255.90.226:5001/play/a00z
+#EXTINF:-1,ITV Channel
+http://5.255.90.226:5001/play/a00d
+#EXTINF:-1,UTV
+http://5.255.90.226:5001/play/a00i
+#EXTM3U
+#EXTINF:-1,CBS Reality
+http://5.255.90.226:5002/play/a02e
+#EXTINF:-1,Disney XD
+http://5.255.90.226:5002/play/a01y
+#EXTINF:-1,Sky2 (a)
+http://5.255.90.226:5002/play/a01x
+#EXTINF:-1,AMC from BT
+http://5.255.90.226:5002/play/a02a
+#EXTINF:-1,Sky Atlantic
+http://5.255.90.226:5002/play/a01l
+#EXTINF:-1,propeller
+http://5.255.90.226:5002/play/a02m
+#EXTINF:-1,Disney Junior
+http://5.255.90.226:5002/play/a020
+#EXTINF:-1,Sky Sports 3 (c)
+http://5.255.90.226:5002/play/a01t
+#EXTINF:-1,CBS Drama
+http://5.255.90.226:5002/play/a026
+#EXTINF:-1,BT Sport 3
+http://5.255.90.226:5002/play/a02l
+#EXTINF:-1,Sky Living+1
+http://5.255.90.226:5002/play/a01m
+#EXTINF:-1,BT Sport 1
+http://5.255.90.226:5002/play/a02k
+#EXTINF:-1,ComedyXtra
+http://5.255.90.226:5002/play/a01j
+#EXTINF:-1,CBS Reality+1
+http://5.255.90.226:5002/play/a02g
+#EXTINF:-1,TCM
+http://5.255.90.226:5002/play/a01o
+#EXTINF:-1,Sky Sp NewsHQ
+http://5.255.90.226:5002/play/a01b
+#EXTINF:-1,SkyRyderCup
+http://5.255.90.226:5002/play/a01k
+#EXTINF:-1,Eurosport 2
+http://5.255.90.226:5002/play/a01g
+#EXTINF:-1,Psychic Today
+http://5.255.90.226:5002/play/a02j
+#EXTINF:-1,Disney XD+1
+http://5.255.90.226:5002/play/a021
+#EXTINF:-1,Pick
+http://5.255.90.226:5002/play/a01u
+#EXTINF:-1,horror channel
+http://5.255.90.226:5002/play/a027
+#EXTINF:-1,Disney Junior+
+http://5.255.90.226:5002/play/a023
+#EXTINF:-1,Lucky Star
+http://5.255.90.226:5002/play/a028
+#EXTINF:-1,XXX Mums
+http://5.255.90.226:5002/play/a01w
+#EXTINF:-1,SkyRyderCup (a)
+http://5.255.90.226:5002/play/a01i
+#EXTINF:-1,Sky Sports 1 (b)
+http://5.255.90.226:5002/play/a01f
+#EXTINF:-1,SkySpBoxOff
+http://5.255.90.226:5002/play/a01a
+#EXTINF:-1,High Street TV 2
+http://5.255.90.226:5002/play/a02d
+#EXTINF:-1,Sky Box Office
+http://5.255.90.226:5002/play/a017
+#EXTINF:-1,Sky Atlantic+1
+http://5.255.90.226:5002/play/a01s
+#EXTINF:-1,CBS Action
+http://5.255.90.226:5002/play/a02b
+#EXTINF:-1,Sky Sports 1 (c)
+http://5.255.90.226:5002/play/a018
+#EXTINF:-1,SkyRyderCup (b)
+http://5.255.90.226:5002/play/a01v
+#EXTINF:-1,BT Sport Mosaic
+http://5.255.90.226:5002/play/a02i
+#EXTINF:-1,BT Sport 3 (a)
+http://5.255.90.226:5002/play/a02c
+#EXTINF:-1,FOX+
+http://5.255.90.226:5002/play/a01h
+#EXTINF:-1,BT Sport Extra 1
+http://5.255.90.226:5002/play/a02f
+#EXTINF:-1,Eurosport 1
+http://5.255.90.226:5002/play/a01n
+#EXTINF:-1,horror ch+1
+http://5.255.90.226:5002/play/a02h
+#EXTINF:-1,Sky Sports 5 (c)
+http://5.255.90.226:5002/play/a01q
+#EXTINF:-1,Disney Channel+1
+http://5.255.90.226:5002/play/a022
+#EXTINF:-1,Disney Channel
+http://5.255.90.226:5002/play/a01z
+#EXTINF:-1,BT Sport 1 (a)
+http://5.255.90.226:5002/play/a029
+#EXTINF:-1,Sky Sports 5 (b)
+http://5.255.90.226:5002/play/a01r
+#EXTM3U
+#EXTINF:-1,Sky Hits
+http://5.255.90.226:5003/play/a00k
+#EXTINF:-1,Sky1a
+http://5.255.90.226:5003/play/a00i
+#EXTINF:-1,Sky Sports F1a
+http://5.255.90.226:5003/play/a004
+#EXTINF:-1,Sky Sports 3a
+http://5.255.90.226:5003/play/a00c
+#EXTINF:-1,Sky Sports 1b
+http://5.255.90.226:5003/play/a009
+#EXTINF:-1,Sky Sports 3
+http://5.255.90.226:5003/play/a00d
+#EXTINF:-1,ComedyCentral
+http://5.255.90.226:5003/play/a00m
+#EXTINF:-1,TV3
+http://5.255.90.226:5003/play/a00f
+#EXTINF:-1,Sky Sports 2
+http://5.255.90.226:5003/play/a007
+#EXTINF:-1,Sky Sports 3b
+http://5.255.90.226:5003/play/a00a
+#EXTINF:-1,Sky Sports 1a
+http://5.255.90.226:5003/play/a00b
+#EXTINF:-1,Sky Living
+http://5.255.90.226:5003/play/a00l
+#EXTINF:-1,Sky Arts
+http://5.255.90.226:5003/play/a00j
+#EXTINF:-1,Sky1
+http://5.255.90.226:5003/play/a00e
+#EXTINF:-1,Sky Sports 1c
+http://5.255.90.226:5003/play/a008
+#EXTINF:-1,Sky1 +1
+http://5.255.90.226:5003/play/a006
+#EXTINF:-1,Sky Sports F1
+http://5.255.90.226:5003/play/a005
+#EXTINF:-1,Cartoonito
+http://5.255.90.226:5003/play/a00h
+#EXTINF:-1,FOX
+http://5.255.90.226:5003/play/a00g
