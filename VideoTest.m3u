@@ -17,8 +17,6 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", 8tv
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://kal-images.ono.es/app_posters/9f8d50c3e38541ec89b864e2d174b33f_302X170.png", ETB 
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://files.ondalitoralcadiz.webnode.es/200000217-c70eac80a6/DJUETRYUERT.jpg", 8 CADIZ TV
 http://cls.todostreaming.eu/unatv/live/playlist.m3u8
@@ -100,6 +98,9 @@ http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://television.estepona.es/wp-content/uploads/2016/04/logortvs.png", ESTEPONA TV
 http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://kal-images.ono.es/app_posters/9f8d50c3e38541ec89b864e2d174b33f_302X170.png", ETB 
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.cepymeweb.com/wp-content/uploads/2016/03/fuengirolatvlogo-1-300x273-1.jpg", FUENGIROLA TV
 http://cls2.todostreaming.eu/nerja/livestream/chunklist.m3u8
