@@ -2,9 +2,6 @@
 
 ///
 
-#EXTINF:-1 tvg-logo="" group-title="SPANISH",Resident Evil ???
-http://www.cinevall.es/videos/resident_evil.m4v
-
 ///
 
 #EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13466999.jpg" group-title="SPANISH",Beauty and the Beast (2017)
@@ -53,6 +50,9 @@ http://www.cinevall.es/videos/no_manches_frida.m4v
 
 #EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/sony-pictures/passengers-poster-4.jpg" group-title="SPANISH",Passengers (2016)
 http://www.cinevall.es/videos/pasajeros.m4v
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/cinemorgue/images/9/9e/Resident_evil_the_final_chapter_ver7_xlg.jpg" group-title="SPANISH",Resident Evil - The Final Chapter (2016)
+http://www.cinevall.es/videos/resident_evil.m4v
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg" group-title="SPANISH",Pet (2016) 
 https://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
