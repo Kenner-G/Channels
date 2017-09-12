@@ -1,223 +1,318 @@
 #EXTM3U
 
-#EXTINF:-1,---TV NACIONAL ESPAÑA EN ABIERTO---
-
-#EXTINF:0 type="stream" channelId="-1", ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 type="stream" channelId="-1", la sexta
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 type="stream" channelId="-1", NEOX
-http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2015/05/logo-mega.jpg", MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 type="stream" channelId="-1", 13 tv
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", NOVA
-http://a3live-lh.akamaihd.net/i/geonova_1@379404/index_2_av-b.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://valdeolmos-alalpardo.org/wp-content/uploads/Intereconomia-tv.png", INTERECONOMIA
-https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1699967286_b300000.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://omicrono.elespanol.com/wp-content/uploads/2015/11/atresseries-a3.jpg", ATRESERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://vercanalestv.com/logos/realmadrid.png", REAL MADRID TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_2_av-b.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/679683716860477441/zWYv20t3.jpg", HIT TV SPAIN
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
-#EXTINF:-1,---TV AUTONOMICAS ESPAÑA---
-#EXTINF:0 type="stream" channelId="-1", TELEMADRID
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:0 type="stream" channelId="-1", LA OTRA
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.disfrutalogratis.com/images/canal-extremadura.jpg", CANAL EXTREMADURA
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_RTVCYL.svg/245px-Logo_RTVCYL.svg.png", CASTILLA LEON TV
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg", CASTILLA LA MANCHA TV
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/786534935540760577/SQoOAFUY_400x400.jpg", ARAGON TV
-http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://satcesc.com/web/wp-content/uploads/2016/03/ib3-e1457701118648.png", IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.clag.es/sites/default/files/noticias/imagen/2014/07/04/galicia_tv_eu.png", TVG EUROPA
-http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.clag.es/sites/default/files/noticias/imagen/2014/07/04/galicia_tv_eu.png", TVG AMERICA
-http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh3.googleusercontent.com/ROnKMLNPC81Z0j5PHEaBge_F22JOMR-_HROonkrTXywOlOns47VYbhMi371J_fyeDSg=w300", XABARIN TVG
-http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.gruposecuoya.es/wp-content/uploads/2015/03/tpa_p.jpg", TPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://3.bp.blogspot.com/-s8FyjBvYocA/T7EEGUfqU7I/AAAAAAAAAVk/EADGeLW0kkA/s1600/navarra%2Btv.jpg", NAVARRA TV
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg", 7 MURCIA
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png", RIOJA TV
-http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg", TV CANARIA
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.vimeocdn.com/portrait/2749993_300x300", TV MEDITERRÁNEO
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.ceutadeportiva.com/wp-content/themes/ceutadeportiva-2/pub/rtvce_270.png", RTVCEUTA
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Ceuta TV
-http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/tvmelilla.png", MELILLA TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=ULQ-UZ-lbe+raCzOhQxLU01h.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=41&pfdrid_c=false&uid=9b09070e-d665-415f-a8cd-e66850dfbaf8", ANDORRA TV
 http://194.158.80.31:443/live/rtva/playerlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://statics.ccma.cat/img/logos/tv3_colorBgBlanc.svg", TV3
-http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.bp.blogspot.com/-9Lm3OFa1MW8/T5xsL3GG-RI/AAAAAAAABY8/YUQhIbQmbWg/s1600/tv3cat.pngç", TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", 13 tv
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/25-tv-barcelona-en-directo-online.png", 25 TELEVISIO
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg", 3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.zeewavesound.com/wp-content/uploads/2013/05/logotip_super313.jpg", SUPER 3
-http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png", ESPORT3
-http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg", 7 MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", 8tv
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://kal-images.ono.es/app_posters/9f8d50c3e38541ec89b864e2d174b33f_302X170.png", ETB 
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://files.ondalitoralcadiz.webnode.es/200000217-c70eac80a6/DJUETRYUERT.jpg", 8 CADIZ TV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8
 
-#EXTINF:-1,---TV LOCAL ESPAÑA---
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/851864545459146752/AANZ-LBK.jpg", 101 TV MALAGA
+http://cls.todostreaming.eu/101tv/livestream2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", ALCARRIA TV
+http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.programacion-tv.es/uploads/programs/2017/04/large/30003958.jpg", ANDALUCIA TURISMO
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/786534935540760577/SQoOAFUY_400x400.jpg", ARAGON TV
+http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://omicrono.elespanol.com/wp-content/uploads/2015/11/atresseries-a3.jpg", ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg", Betis tv
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg", BETEVE
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg", CANAL 4 CENTRO MANCHA
+http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png",CANAL 4 TENERIFE
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SPAIN",Canal 7
 http://163.172.15.219:1935/live/vivatv/playlist.m3u8
 
-EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg", TELEBILBAO
-http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.sotodelamarina.com/Logos/Populartv_Cantabria.jpg", POPULAR TV
-http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg", LEVANTE TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png", TELEVALENCIA
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i2.wp.com/www.riberatelevisio.com/wp-content/uploads/2015/03/LOGO-RIBERA-TV-1.png?fit=134%2C143", RIBERA TV
-http://188.165.135.22/ribera/livestream/.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://4.bp.blogspot.com/-FoNALNEhfeI/VANaQSG4OWI/AAAAAAAABak/XMut--k-kKs/s1600/el-correo-de-andalu%C3%ADa-tv-logo.png", EL CORREO TV
-http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-fkIjzqkFU74/AAAAAAAAAAI/AAAAAAAAAAA/PQ0kXIXq12o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", ONDA AZUL MALAGA
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Sevilla
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Cadiz
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Jerez
-http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Marbella
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Costa Noroeste
-http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Costa del Sol
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/851864545459146752/AANZ-LBK.jpg", 101 TV MALAGA
-http://cls.todostreaming.eu/101tv/livestream2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL.jpg", LEBRIJA TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://files.ondalitoralcadiz.webnode.es/200000217-c70eac80a6/DJUETRYUERT.jpg", 8 CADIZ TV
-http://cls.todostreaming.eu/unatv/live/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg", Onda Cadiz
-http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", ALCARRIA TV
-http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", VEGA BAJA TV
-http://185.29.68.24/tvb.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canal25tv.es/images/template-content/untitled.png", CANAL 25
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2015/11/logooatv.png", Onda Algeciras
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/3151765776/5dae8254e490f9b8e14143b3175497af_400x400.jpeg", LUCENA TV
-http://78.136.66.6:1935/live/liveStream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg", HTV HUELVA
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.extradigital.es/wp-content/uploads/2016/10/LaTELETV2.jpg", LA TELE TV
-http://cls2.todostreaming.eu/generaltv/livestream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://television.estepona.es/wp-content/uploads/2016/04/logortvs.png", ESTEPONA TV
-http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.cepymeweb.com/wp-content/uploads/2016/03/fuengirolatvlogo-1-300x273-1.jpg", FUENGIROLA TV
-http://cls2.todostreaming.eu/nerja/livestream/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/1375951694/logo_400x400.png", Canal Costa
 http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/710501972684750848/sdqlGKJg.jpg", TELEONUBA
-http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/378800000405870591/d609f900d99194ba7cc9404f32ea31e0_400x400.png", CONDAVISION
-http://cls2.todostreaming.eu/azahara/uSCQc5ky/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.jaenfs.com/wp-content/uploads/2015/11/ondajaen.gif", Onda Jaen
-http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/831540301160411137/NIDUk9Rt.jpg", PTV MALAGA
-http://149.91.98.146:1935/live/stream/chunklist_w1286291698.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/824584001096679425/vKVIOvEs.jpg", PTV CORDOBA
-http://149.91.98.146:1935/cordoba/stream/chunklist_w334374467.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/657174095382106112/CCEPbIKi.jpg", MOGAN TV
-http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://files.antenista.webnode.es/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png", COSTA DEL SOL TV
-http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.imastv.es/imagenes/logos/CABEZERA%20WEB%201.png", IMAS TV
-http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg", Betis tv
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.freeetv.com/images/01_logo/sfc_tv.jpg", Sevilla FC TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png", LANCELOT TV
-http://62.210.141.18:1935/directo/lancelot.television/.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.vimeocdn.com/portrait/2838028_300x300", MIRAME TV
-http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Tindaya-TV.png", TINDAYA TV
-http://188.165.135.22/tindayatv/livestream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png",CANAL 4 TENERIFE
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/580681250429513729/ftiH-vHY.jpg", TRAVEL TV
-http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.programacion-tv.es/uploads/programs/2017/04/large/30003958.jpg", ANDALUCIA TURISMO
-http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i1.wp.com/blogs.canalsur.es/saladeprensa/files/11_16_16_flamencoradio5-e1479209627998.jpg", CANAL SUR FLAMENCO
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canalsur.es/resources/archivos_offline/2016/10/5/1475662643049La_Banda_TV_310x226.svg", LA BANDA TV
-http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.disfrutalogratis.com/images/canal-extremadura.jpg", CANAL EXTREMADURA
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.geogebra.es/cvg/banco/img/logos/andalucia_tv.png", CANAL SUR COCINA
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg", informacion tv
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg", CANAL 4 CENTRO MANCHA
-http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-J3V2v8xCup4/AAAAAAAAAAI/AAAAAAAAAAA/B8BLxY30p98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", SAN ROQUE TV
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.hernandezpsicologos.es/wp-content/uploads/colaboraciones-radio-television-marbella-alejandra-hernandez-psicologos-marbella-fuengirola-malaga.jpg", MARBELLA TV
-http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png", TEFTV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://certamencoralfiratotssants.com/wp-content/uploads/2012/05/TVA-ALCOI.jpg", TV ALCOY
-http://92.222.37.18/hls/tvaxa.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Tv-Castellon.png", TCS MEDITERRANEO
-http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh5.googleusercontent.com/-9PLgxPlDPwI/UJuu6yeS7WI/AAAAAAAAAXI/EMp3l9mR8LQ/s800/Teve4-LaVall_logo.jpg", TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-Y7lXpb2dxyg/AAAAAAAAAAI/AAAAAAAAAAA/XMQLc208kY8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Terrassa TV
-http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/511415725441826816/i27TQxCu_400x400.jpeg", teleelx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://bibliotecavirtual.diba.cat/image/image_gallery?uuid=189f0f87-ef05-40c9-8c59-4105fdc1af15&groupId=344806&t=1350480039826", TELEBADALONA
-http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://admin2.compsaonline.com/img4/20120620113608116elecson.jpg", LLEIDA TV
-http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/b/bc/COMR%C3%A0dio_logo_2012.jpg", La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/434338680979730432/T3j8qrtx_400x400.jpeg", OLOT TV
-http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canal10.cat/img/logofacebook_400x400.jpg", EMPORDA TV
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/25-tv-barcelona-en-directo-online.png", 25 TELEVISIO
-http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i1.wp.com/blogs.canalsur.es/saladeprensa/files/11_16_16_flamencoradio5-e1479209627998.jpg", CANAL SUR FLAMENCO
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg", CASTILLA LA MANCHA TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_RTVCYL.svg/245px-Logo_RTVCYL.svg.png", CASTILLA LEON TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/378800000405870591/d609f900d99194ba7cc9404f32ea31e0_400x400.png", CONDAVISION
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://files.antenista.webnode.es/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png", COSTA DEL SOL TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://4.bp.blogspot.com/-FoNALNEhfeI/VANaQSG4OWI/AAAAAAAABak/XMut--k-kKs/s1600/el-correo-de-andalu%C3%ADa-tv-logo.png", EL CORREO TV
+http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/458883988203917312/4QS-I2Nr_400x400.png", El Punt Avui TV
 http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg", BETEVE
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.xal.cat/media/entity/logo/45244/tac12.jpg?1300362502", TAC12
-http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canal10.cat/img/logofacebook_400x400.jpg", EMPORDA TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png", ESPORT3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://television.estepona.es/wp-content/uploads/2016/04/logortvs.png", ESTEPONA TV
+http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.cepymeweb.com/wp-content/uploads/2016/03/fuengirolatvlogo-1-300x273-1.jpg", FUENGIROLA TV
+http://cls2.todostreaming.eu/nerja/livestream/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.catosfera.cat/2016/images/logos/tvgirona.jpg", GIRONA TV
 http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/679683716860477441/zWYv20t3.jpg", HIT TV SPAIN
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg", HTV HUELVA
+http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://satcesc.com/web/wp-content/uploads/2016/03/ib3-e1457701118648.png", IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.imastv.es/imagenes/logos/CABEZERA%20WEB%201.png", IMAS TV
+http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg", informacion tv
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://valdeolmos-alalpardo.org/wp-content/uploads/Intereconomia-tv.png", INTERECONOMIA
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1699967286_b300000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canalsur.es/resources/archivos_offline/2016/10/5/1475662643049La_Banda_TV_310x226.svg", LA BANDA TV
+http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", la sexta
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1", LA OTRA
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.extradigital.es/wp-content/uploads/2016/10/LaTELETV2.jpg", LA TELE TV
+http://cls2.todostreaming.eu/generaltv/livestream/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/b/bc/COMR%C3%A0dio_logo_2012.jpg", La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png", LANCELOT TV
+http://62.210.141.18:1935/directo/lancelot.television/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL.jpg", LEBRIJA TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg", LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://admin2.compsaonline.com/img4/20120620113608116elecson.jpg", LLEIDA TV
+http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/3151765776/5dae8254e490f9b8e14143b3175497af_400x400.jpeg", LUCENA TV
+http://78.136.66.6:1935/live/liveStream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.hernandezpsicologos.es/wp-content/uploads/colaboraciones-radio-television-marbella-alejandra-hernandez-psicologos-marbella-fuengirola-malaga.jpg", MARBELLA TV
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2015/05/logo-mega.jpg", MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/tvmelilla.png", MELILLA TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.vimeocdn.com/portrait/2838028_300x300", MIRAME TV
+http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/657174095382106112/CCEPbIKi.jpg", MOGAN TV
+http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://3.bp.blogspot.com/-s8FyjBvYocA/T7EEGUfqU7I/AAAAAAAAAVk/EADGeLW0kkA/s1600/navarra%2Btv.jpg", NAVARRA TV
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", NEOX
+http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1", NOVA
+http://a3live-lh.akamaihd.net/i/geonova_1@379404/index_2_av-b.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/434338680979730432/T3j8qrtx_400x400.jpeg", OLOT TV
+http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2015/11/logooatv.png", Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-fkIjzqkFU74/AAAAAAAAAAI/AAAAAAAAAAA/PQ0kXIXq12o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg", Onda Cadiz
+http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.jaenfs.com/wp-content/uploads/2015/11/ondajaen.gif", Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Cadiz
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Costa del Sol
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Costa Noroeste
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Jerez
+http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Marbella
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg", Ondaluz Sevilla
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.sotodelamarina.com/Logos/Populartv_Cantabria.jpg", POPULAR TV
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/824584001096679425/vKVIOvEs.jpg", PTV CORDOBA
+http://149.91.98.146:1935/cordoba/stream/chunklist_w334374467.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/831540301160411137/NIDUk9Rt.jpg", PTV MALAGA
+http://149.91.98.146:1935/live/stream/chunklist_w1286291698.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://vercanalestv.com/logos/realmadrid.png", REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_2_av-b.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i2.wp.com/www.riberatelevisio.com/wp-content/uploads/2015/03/LOGO-RIBERA-TV-1.png?fit=134%2C143", RIBERA TV
+http://188.165.135.22/ribera/livestream/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvr.es/wp-content/uploads/2013/04/logo_transparente3.png", RIOJA TV
+http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.ceutadeportiva.com/wp-content/themes/ceutadeportiva-2/pub/rtvce_270.png", RTVCEUTA
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-J3V2v8xCup4/AAAAAAAAAAI/AAAAAAAAAAA/B8BLxY30p98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", SAN ROQUE TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.freeetv.com/images/01_logo/sfc_tv.jpg", Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.zeewavesound.com/wp-content/uploads/2013/05/logotip_super313.jpg", SUPER 3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.xal.cat/media/entity/logo/45244/tac12.jpg?1300362502", TAC12
+http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Tv-Castellon.png", TCS MEDITERRANEO
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png", TEFTV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://bibliotecavirtual.diba.cat/image/image_gallery?uuid=189f0f87-ef05-40c9-8c59-4105fdc1af15&groupId=344806&t=1350480039826", TELEBADALONA
+http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
+
+EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg", TELEBILBAO
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/511415725441826816/i27TQxCu_400x400.jpeg", teleelx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/710501972684750848/sdqlGKJg.jpg", TELEONUBA
+http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png", TELESAFOR
 http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png", TELEVALENCIA
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://yt3.ggpht.com/-Y7lXpb2dxyg/AAAAAAAAAAI/AAAAAAAAAAA/XMQLc208kY8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Terrassa TV
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Tindaya-TV.png", TINDAYA TV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.gruposecuoya.es/wp-content/uploads/2015/03/tpa_p.jpg", TPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/580681250429513729/ftiH-vHY.jpg", TRAVEL TV
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://statics.ccma.cat/img/logos/tv3_colorBgBlanc.svg", TV3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://1.bp.blogspot.com/-9Lm3OFa1MW8/T5xsL3GG-RI/AAAAAAAABY8/YUQhIbQmbWg/s1600/tv3cat.png", TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh5.googleusercontent.com/-9PLgxPlDPwI/UJuu6yeS7WI/AAAAAAAAAXI/EMp3l9mR8LQ/s800/Teve4-LaVall_logo.jpg", TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://certamencoralfiratotssants.com/wp-content/uploads/2012/05/TVA-ALCOI.jpg", TV ALCOY
+http://92.222.37.18/hls/tvaxa.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg", TV CANARIA
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.vimeocdn.com/portrait/2749993_300x300", TV MEDITERRÁNEO
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.clag.es/sites/default/files/noticias/imagen/2014/07/04/galicia_tv_eu.png", TVG AMERICA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.clag.es/sites/default/files/noticias/imagen/2014/07/04/galicia_tv_eu.png", TVG EUROPA
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://parrillatv.mundo-r.com/parrillatv/imagenes/canales/vaughan-tv.jpg", VAUGHAN TV
 http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", VEGA BAJA TV
+http://185.29.68.24/tvb.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh3.googleusercontent.com/ROnKMLNPC81Z0j5PHEaBge_F22JOMR-_HROonkrTXywOlOns47VYbhMi371J_fyeDSg=w300", XABARIN TVG
+http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
