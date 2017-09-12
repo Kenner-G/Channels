@@ -1,7 +1,152 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1",La bella y la bestia
+#EXTINF:-1 tvg-logo="https://imgur.com/y4e7YYI.jpg" group-title="SPANISH",Tranformers 5
+http://www.cinevall.com/videos/transformers_5.m4v
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uUsx5cB.jpg" group-title="SPANISH",Noche de venganza
+http://www.cinevall.com/videos/noche_de_venganza.m4v
+
+#EXTINF:-1 tvg-logo="http://imgur.com/6kfXPdg.jpg" group-title="SPANISH",Sing
+http://www.cinevall.es/videos/sing.m4v
+
+#EXTINF:-1 tvg-logo="http://imgur.com/yv0Joae.jpg" group-title="SPANISH",Moana
+http://www.cinevall.es/videos/moana.m4v
+
+#EXTINF:-1 tvg-logo="http://imgur.com/Z9DH16e.jpg" group-title="SPANISH",Trolls
+http://www.cinevall.es/videos/trolls.m4v
+
+#EXTINF:-1 tvg-logo="http://imgur.com/gbKX0zt.jpg" group-title="SPANISH",La bella y la bestia
 https://ia800603.us.archive.org/29/items/06052017MYO5MYO06052017/06052017_MYO5.mkv
 
-#EXTINF:0 type="stream" channelId="-1",Capitán América Civil War XXX
-https://goo.gl/XCdO2R
+#EXTINF:-1 tvg-logo="http://bit.ly/PBAILA" group-title="SPANISH",Bailarina
+https://ia801600.us.archive.org/4/items/123456789UHYGBVG27042017/123456789UHYGBV%20G.mkv
+
+#EXTINF:-1 tvg-logo="http://imgur.com/J5upZvo.jpg" group-title="SPANISH",El Rey Leon
+https://ia801603.us.archive.org/7/items/MRAQC28042017DIDI280417/28042017.mp4
+
+#EXTINF:-1 tvg-logo="http://imgur.com/imePAPq.jpg" group-title="SPANISH",Harry Potter 1
+https://ia800603.us.archive.org/27/items/10052017Aqc710052017aqc/10052017_aqc.mkv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKKQuNf.jpg.jpg" group-title="SPANISH",Harry Potter 2
+https://ia601605.us.archive.org/3/items/10052017AQCH210052017h2/10052017_AQC-H2.mkv
+
+#EXTINF:-1 tvg-logo="http://imgur.com/etIRx7J.jpg" group-title="SPANISH",Harry Potter 3
+https://ia800609.us.archive.org/34/items/10052017AqcH310052017h3qr/10052017_aqc_h3.mkv
+
+#EXTINF:-1 tvg-logo="http://imgur.com/BdUdrCr.jpg" group-title="SPANISH",Harry Potter 4
+https://ia800604.us.archive.org/2/items/10052017AQH410052017h4/10052017_AQ_H4.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",La fabrica de chocolate
+https://ia800605.us.archive.org/31/items/04052017AQCFACT04052017FACTYAQC/04052017AQCFACT.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Daniel el Travieso
+https://ia600605.us.archive.org/3/items/31052017_201705678678687687/31052017.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",La pantera rosa
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Alto Impacto
+http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Espía por accidente
+http://media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Luna de miel en familia
+https://ia601601.us.archive.org/35/items/17052017Aqc54646456456/17052017_aqc.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",El Señor de la guerra
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Un perdedor con suerte
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Zona de miedo
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Premoniciones
+http://media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",La LLegada
+http://www.cinevall.es/videos/la_llegada.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Jack Reacher
+http://www.cinevall.es/videos/jack_reacher.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Pasajeros
+http://www.cinevall.es/videos/pasajeros.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",No Manches Frida
+http://www.cinevall.es/videos/no_manches_frida.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",La Luz entre los Océanos
+http://www.cinevall.es/videos/la_luz_entre_los_oceanos.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Atentado en París
+http://www.cinevall.es/videos/atentado_en_paris.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Resident Evil ???
+http://www.cinevall.es/videos/resident_evil.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Horizonte Profundo
+http://www.cinevall.es/videos/horizonte_profundo.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Volver al Futuro
+https://ia801303.us.archive.org/35/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Volver al Futuro 2
+https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Volver al Futuro 3
+https://ia801303.us.archive.org/35/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Triste San Valentin
+http://media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Mensajero de la oscuridad
+http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Horas de oscuridad
+http://media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",La marca de la bestia
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",El día del apocalipsis
+http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",LA GRAN MURALLA
+https://ia801606.us.archive.org/31/items/27042017MRAQCFILES270417/27042017_MRAQC.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Mascota Humana 
+https://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",THE DARK TAPES 
+https://ia800607.us.archive.org/10/items/02052017AQCMRAQC020517/02052017AQC.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Ghost In The Shell
+https://ia801601.us.archive.org/7/items/04052017AQCGH04052017298746/04052017AQCGH.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",la la Land
+https://ia801609.us.archive.org/16/items/06052017001298320170605/06052017%200012983.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Sand Castle
+https://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Mientras el lobo no esta
+https://ia801604.us.archive.org/30/items/IUFHNIUFDNVIF03052017dhyufhjjsd/IUFHNIUFDNVIF.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Sandy Wexler
+https://ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",Cementerio de mascotas
+https://ia801603.us.archive.org/6/items/06052017AQC06052017/06052017_AQC.avi
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",El Muñeco diabólico
+https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",El Muñeco diabólico 2
+https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SPANISH",It
+https://ia800608.us.archive.org/22/items/MRAQC28042017jn28042017/MRAQC28042017.mkv
+
