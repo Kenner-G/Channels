@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/9f/20e9705ccf030e9c14d14546199916f9_500x735.jpg" group-title="LABEL”, 29+1 (2017) Chinese? +
+http://dl.movieo.ir/dlha/files/2017/29.plus.1.2017.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:0,dota 2 live directo
 https://www.youtube.com/watch?v=Bt30vSRoelA
 #EXTINF:-1tvg-logo="http://cdn.marketplaceimages.windowsphone.com/v8/images/c16cf1ba-f1dd-4db1-8fa7-e0b3ad5097d2?imageType=ws_icon_large" group-title="24/7", Anime TV
