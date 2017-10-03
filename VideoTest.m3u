@@ -18,6 +18,9 @@ http://79.137.106.229/hls/4f9ec7f227f9940eee2e84e61d7bd8b1/1507039553/7b22697022
 #EXTINF:-1,FXX
 http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
 
+#EXTINF:-1,USA Network
+http://ww3.cast2.cricket/channels/1080.m3u8
+
 #EXTINF:-1,TLC Brazil
 http://2.15.79.67:9985/play/a03r?.ts
 
