@@ -21,6 +21,9 @@ http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
 #EXTINF:-1,USA Network
 http://ww3.cast2.cricket/channels/1080.m3u8
 
+#EXTINF:-1,USA Network*
+https://freecacache.streamlive.to/live/h5eovaj1jeegluq_360.m3u8
+
 #EXTINF:-1,TLC Brazil
 http://2.15.79.67:9985/play/a03r?.ts
 
