@@ -1,61 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Cuatro HD
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
-
-#EXTINF:-1,Macedonia TV HD
-http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/master.m3u8
-
-#EXTINF:-1,ANT1
-http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
-
-#EXTINF:-1,Sky Sport News HD Germany
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
-
-#EXTINF:-1,Turkish: TRT Spor HD 720p (high internet)
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-b.m3u8
-
-#EXTINF:-1,evine
-http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-
-#EXTINF:-1,RTL TVI HD
-http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-
-#EXTINF:-1,RPC TV x
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-480p/chunks.m3u8
-
-#EXTINF:-1,ECOTV ???
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
-
-#EXTINF:-1,COS x
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-
-#EXTINF:-1,COSFC x
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
-
-#EXTINF:-1,TSC-Canada
-http://tscstreaming-lh.akamaihd.net:80/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
-
-#EXTINF:-1,Arabic: nessma tv tunesie x
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
-
-#EXTINF:-1,VOA tiếng Việt
-http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
-
-#EXTINF:-1,VOA tiếng Việt
-http://voa-56.ng.akacast.akamaistream.net:80/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
-
-#EXTINF:-1,Smile of a Child
-http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-
-#EXTINF:-1,3 news nz
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
-
-#EXTINF:-1,3 news nz
-http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
-
-#EXTINF:-1,Vision 4 ???
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1,The Omen (1976)
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/19/239/140389D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
 
 ///
 
