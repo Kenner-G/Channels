@@ -1,208 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1,BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:-1,A G67
-http://aztecahls2-lh.akamaihd.net:80/i/aztecahls2_1@455692/index_3_av-b.m3u8
-
-#EXTINF:-1,tele 5
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_2.m3u8
-
-#EXTINF:-1,tele 5
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_3.m3u8
-
-#EXTINF:-1,tele 5
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
-
-#EXTINF:-1,CUATRO
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_1.m3u8
-
-#EXTINF:-1,CUATRO
+#EXTINF:-1,Cuatro HD
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
-
-#EXTINF:-1,CUATRO
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_3.m3u8
 
 #EXTINF:-1,Macedonia TV HD
 http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/master.m3u8
 
-#EXTINF:-1,HD [1080p]
-http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/index_700_av-p.m3u8
-
-#EXTINF:-1,HD [Audio]
-http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/index_700_a-p.m3u8
-
-#EXTINF:-1,Greek
-http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-
 #EXTINF:-1,ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 
-#EXTINF:-1,Das Erste
-http://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8
-
-#EXTINF:-1,Sky Sport News HD
+#EXTINF:-1,Sky Sport News HD Germany
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
-
-#EXTINF:-1,ARD Live
-http://daserstelive-lh.akamaihd.net:80/i
-
-#EXTINF:-1,ZDF Live
-http://zdf1314-lh.akamaihd.net:80/i
-
-#EXTINF:-1,ZDF
-http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
-
-#EXTINF:-1,TAGESSCHAU 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
-#EXTINF:-1,ZDF NEO
-http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
-
-#EXTINF:-1,ZDF INFO
-http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
-
-#EXTINF:-1,3SAT
-http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
-
-#EXTINF:-1,PHOENIX
-http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
-
-#EXTINF:-1,ARTE
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-
-#EXTINF:-1,SERVUS TV
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
-
-#EXTINF:-1,N24
-http://bsn246u6-i.akamaihd.net/hls/live/237201/Live2N24CMS/index.m3u8
-
-#EXTINF:-1,MDR THÜRINGEN
-http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
-
-#EXTINF:-1,MDR SACHSEN-ANHALT
-http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
-
-#EXTINF:-1,MDR SACHSEN
-http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8
-
-#EXTINF:-1,NDR HAMBURG
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
-
-#EXTINF:-1,NDR MECKLENBURG-VORPOMMERN
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
-
-#EXTINF:-1,NDR NIEDERSACHSEN
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
-
-#EXTINF:-1,NDR SCHLESWIG-HOLSTEIN
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/master.m3u8
-
-#EXTINF:-1,SR
-http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
-
-#EXTINF:-1,SWR RHEINLAND-PFALZ
-http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
-
-#EXTINF:-1,SWR BADEN-WÜRTTEMBERG https://iptv.zone
-http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
-
-#EXTINF:-1,WDR
-http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
-
-#EXTINF:-1,ONE
-http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8
-
-#EXTINF:-1,HR-FERNSEHEN
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-
-#EXTINF:-1,RBB BRANDENBURG
-http://rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/master.m3u8
-
-#EXTINF:-1,RBB BERLIN
-http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8
-
-#EXTINF:-1,DEUTSCHE WELLE
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL
-https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
-
-#EXTINF:-1,KIKA
-http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
-
-#EXTINF:-1,JOIZ
-http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8
-
-#EXTINF:-1,NDR HD
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
-
-#EXTINF:-1,ZDF Olympia 1
-http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/master.m3u8
-
-#EXTINF:-1,ZDF Olympia 2
-http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/master.m3u8
-
-#EXTINF:-1,ZDF Olympia 3
-http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/master.m3u8
-
-#EXTINF:-1,ZDF Olympia 4
-http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/master.m3u8
-
-#EXTINF:-1,ZDF Olympia 5
-http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/master.m3u8
-
-#EXTINF:-1,ZDF Olympia 6
-http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/master.m3u8
 
 #EXTINF:-1,Turkish: TRT Spor HD 720p (high internet)
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-b.m3u8
 
 #EXTINF:-1,evine
-http://shophqlivehls-i.akamaihd.net:80/hls/live/217244/onair/master.m3u8
-
-#EXTINF:-1,evine
 http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-
-#EXTINF:-1,Italian: DW HD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8
 
 #EXTINF:-1,RTL TVI HD
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
-#EXTINF:-1,TSC
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8
-
-#EXTINF:-1,RPC
+#EXTINF:-1,RPC TV x
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-480p/chunks.m3u8
 
-#EXTINF:-1,ECOTV
+#EXTINF:-1,ECOTV ???
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
 
-#EXTINF:-1,COS
+#EXTINF:-1,COS x
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 
-#EXTINF:-1,COSFC
+#EXTINF:-1,COSFC x
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
 
 #EXTINF:-1,TSC-Canada
 http://tscstreaming-lh.akamaihd.net:80/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 
-#EXTINF:-1,Arabic: nessma tv tunesie
+#EXTINF:-1,Arabic: nessma tv tunesie x
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
-
-#EXTINF:-1,Arabic: nessma tv tunesie
-http://cdnamd-hls-globecast.akamaized.net:80/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
 #EXTINF:-1,VOA tiếng Việt
 http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
 
 #EXTINF:-1,VOA tiếng Việt
 http://voa-56.ng.akacast.akamaistream.net:80/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
-
-#EXTINF:-1,RAI 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 
 #EXTINF:-1,Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
@@ -213,20 +54,13 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 #EXTINF:-1,3 news nz
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 
-#EXTINF:-1,RTV TOROS
-http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
+#EXTINF:-1,Vision 4 ???
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
-#EXTINF:-1,RTV TOROS
-http://klive-a.akamaihd.net:80/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
+///
 
 #EXTINF:-1,PAJUCARA FM
 http://slrp.sambavideos.sambatech.com/radio/pajucara5_7fbed8aac5d5d915877e6ec61e3cf0db/livestream/playlist.m3u8
-
-#EXTINF:-1,Vision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
-#EXTINF:-1,unknown23
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 
 #EXTINF:-1,bbc_radio_one
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
