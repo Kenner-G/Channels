@@ -18,16 +18,16 @@ http://173.208.216.114:8082/live/flintstones/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graphic-engine.swarthmore.edu/wp-content/uploads/2008/09/fringe_apple.jpg" group-title="24/7",Fringe
 http://173.208.216.114:8082/live/fringe/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Looney Tunes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wbkidsgo.com/portals/4/Images/Content/Properties/Looney%20Tunes/show-logo-looneyTunes.png?ver=2015-12-03-184959-977" group-title="24/7",Looney Tunes
 http://173.208.216.114:8082/live/looney/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Lost
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.indiewire.com/wp-content/uploads/2014/09/lost-season-six.jpg" group-title="24/7",Lost
 http://173.208.216.114:8082/live/lost/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7",Mr. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",New Girl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/81/ab/fa/81abfa244f3a2a825968644e069da1d6.jpg" group-title="24/7",New Girl
 http://173.208.216.114:8082/live/newgirl/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",Off The Air
@@ -36,7 +36,7 @@ http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Steven Universe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Steven_Universe_logo.svg/1200px-Steven_Universe_logo.svg.png" group-title="24/7",Steven Universe
 https://live.ponies.fr/hls/sug-hd/sug.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
@@ -45,13 +45,13 @@ http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",The Venture Bros.
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Walking Dead
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.amcnetworks.com/amc.com/wp-content/uploads/2010/12/the-walking-dead-logo-white-C.png" group-title="24/7",The Walking Dead
 http://173.208.216.114:8082/live/twd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Tom and Jerry
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wallpaper.pickywallpapers.com/1600x1200/tom-and-jerry.jpg" group-title="24/7",Tom and Jerry
 http://173.208.216.114:8082/live/tomnjerry/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream
