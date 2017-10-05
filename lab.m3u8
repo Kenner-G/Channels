@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flat-icons-19/512/Chimestry_flask.png" group-title="LABEL",* Fluxus Lab
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
+#EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title="LABEL",~ 24/7 ~
+http://stream.dubstep.fm:80/256mp3
+
 #EXTINF:-1,24/7 Action Movies [NoKodi]
 https://videoserver2.org/live/i96gRVuvmcUc7Tx4uCB1iA/1507192429/90ce2364e02379b96643fe4d0f2d7c25.m3u8
 
@@ -12,7 +15,7 @@ https://videoserver1.org/live/O9jXIrq6FfxfDxiy_1D8Cg/1507192609/7e18e745bf13ed4e
 #EXTINF:-1,24/7 Anime [NoKodi]
 https://videoserver2.org/live/VmBl0lXBqBmGreR14YcjFA/1507192669/d4fda09f200a7fcb0c05ad251b18d380.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="24/7",24/7 Classic Cartoons [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",24/7 Classic Cartoons [NoKodi]
 https://videoserver2.org/live/B20YLB1NAdDnJ4Q_q7NSNg/1507192188/d91af6958918af87d6a057c1cdf5b225.m3u8
 
 #EXTINF:-1,24/7 Comedy Movies [NoKodi]
@@ -39,6 +42,9 @@ https://videoserver2.org/live/fqixTIPYMUlC4tagCc0PBg/1507192669/3248e60a5820cec6
 #EXTINF:-1,24/7 Musicals [NoKodi]
 https://videoserver2.org/live/p7zW9o6o0BQzHNJTdrTp5w/1507192729/9a7a05ed6d0e14916923fa226501bd2c.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="ADULT SWIM",24/7 Adult Swim Live
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+
 #EXTINF:-1,24/7 American Dad [NoKodi]
 https://videoserver2.org/live/hVEWM9sBOLXVd1MdTSetkQ/1507193509/523af537946b79c4f8369ed39ba78605.m3u8
 
@@ -59,6 +65,9 @@ https://videoserver1.org/live/fKoMVp4JxOY4ghi_fbV6GA/1507193509/7585390460dc9ef5
 
 #EXTINF:-1,24/7 Better Call Saul [NoKodi]
 https://videoserver2.org/live/hFIXKmpZcoC7wfIz1bYMQw/1507193689/5360af35bde9ebd8f01f492dc059593c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="ADULT SWIM",24/7 Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
 #EXTINF:-1,24/7 Blue Bloods [NoKodi]
 https://videoserver2.org/live/lTju68alxPg3nhnxBWSx9Q/1507194229/9ccb6d939dd20822476e4467a81bede6.m3u8
@@ -129,17 +138,26 @@ http://173.208.216.114:8082/live/lost/chunks.m3u8
 #EXTINF:-1,24/7 Malcom in the Middle [NoKodi]
 https://videoserver2.org/live/VyMV35cJeJIPcd3JiQpnBg/1507195068/6897191107b1003196abb2efaf0b1e12.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="ADULT SWIM",24/7 Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
 #EXTINF:-1,24/7 Narcos [NoKodi]
 https://videoserver2.org/live/RVAhqz0h9REwkBkqzXiwCQ/1507194529/61bf01cfdd60948087f3ea25e8a5939f.m3u8
 
 #EXTINF:-1,24/7 New Girl*
 http://173.208.216.114:8082/live/newgirl/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="ADULT SWIM",24/7 Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+
 #EXTINF:-1,24/7 Prison Break [NoKodi]
 https://videoserver1.org/live/tnrMacmc_8Q5Rw9WSwWopA/1507194289/36d081b5bcf1efe2bf11e97f45c1155f.m3u8
 
 #EXTINF:-1,24/7 Regular Show [NoKodi]
 https://videoserver1.org/live/ez0UtPHra3z4eDM9Yeoapg/1507193569/af37d08ae228a87dc6b265fd1019c97d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="ADULT SWIM",24/7 Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 #EXTINF:-1,24/7 Samurai Jack [NoKodi]
 https://videoserver1.org/live/VOxc_FraPoWj7anCLmYIEQ/1507193689/b5bf27b2555de44e3df2230080db5a1d.m3u8
@@ -171,6 +189,9 @@ https://videoserver2.org/live/8xy7MQqC_gBIgVVp1mDFfw/1507194829/a0bc9791616492b1
 #EXTINF:-1,24/7 The Boondocks
 https://videoserver2.org/live/ZOBFo__BcflVZr_MCDRlvA/1507194409/e7093d33e3f0f52bcb7284e45581a3e8.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="ADULT SWIM",24/7 The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
 #EXTINF:-1,24/7 The Fresh Prince [NoKodi]
 https://videoserver1.org/live/4t3ASD1weJxFenSLf_tb4w/1507192069/0666f0acdeed38d4cd9084ade1739498.m3u8
 
@@ -192,8 +213,14 @@ https://videoserver2.org/live/_CtPXlKVAi_fGTbIOe0jVQ/1507195068/e77bb02d647edb20
 #EXTINF:-1,24/7 The Vampire Diaries [NoKodi]
 https://videoserver1.org/live/zOLuSu7YoXu6ffYhcP3lLg/1507194829/52b8a5f24dc760714094959c4b5edb0f.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="ADULT SWIM",24/7 The Venture Bros.
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+
 #EXTINF:-1,24/7 The Walking Dead*
 http://173.208.216.114:8082/live/twd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="ADULT SWIM",24/7 Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
 #EXTINF:-1,24/7 Tom and Jerry*
 http://173.208.216.114:8082/live/tomnjerry/chunks.m3u8
@@ -207,5 +234,15 @@ https://videoserver1.org/live/_TqJrODataEkIPH1pKrmjA/1507195189/d12d2c37e8c211f0
 #EXTINF:-1,24/7 Who’s Line [NoKodi]
 https://videoserver1.org/live/dkAvwQWpPZSgWvWX7hISyg/1507194769/9185defbf5f091cd98fe4751b66f91b8.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="ADULT SWIM",24/7 Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
 #EXTINF:-1,24/7 Workaholics [NoKodi]
 https://videoserver2.org/live/60XwwksSxc9UwddjYs217A/1507193569/742523daef59db4b718409f46de05d0c.m3u8
+
+///
+
+
+
+
+
