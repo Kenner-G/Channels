@@ -45,74 +45,71 @@ https://videoserver2.org/live/fqixTIPYMUlC4tagCc0PBg/1507192669/3248e60a5820cec6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="24/7",Adult Swim Live
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",American Dad [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/08/23/americandad2-compressor.png" group-title="24/7",American Dad [NoKodi]
 https://videoserver2.org/live/hVEWM9sBOLXVd1MdTSetkQ/1507193509/523af537946b79c4f8369ed39ba78605.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Archer [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Archer_2010_Intertitle.png" group-title="24/7",Archer [NoKodi]
 https://videoserver2.org/live/bMg6wLYhwzwt30Poi8cguw/1507194168/4124bc0a9335c27f086f24ba207a4912.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Arrested Development [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arrested_Development.svg/1200px-Arrested_Development.svg.png" group-title="24/7",Arrested Development [NoKodi]
 https://videoserver2.org/live/WiXXRzKygCensC2McDL1pQ/1507193209/f8b497df140e06c897e44cd2a79fd305.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Adventure Time [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/adventuretimewithfinnandjake/images/6/6f/Adventure_Time_logo.png" group-title="24/7",Adventure Time [NoKodi]
 https://videoserver1.org/live/jaxcI3kZKyBt3yDxQ38x7A/1507193389/7d0db380a5b95a8ba1da0bca241abda1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",American Horror Story [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ecran_Titre_d%27American_Horror_Story.png/1200px-Ecran_Titre_d%27American_Horror_Story.png" group-title="24/7",American Horror Story [NoKodi]
 https://videoserver2.org/live/G618tR4ML4pYvpUwY4dWvQ/1507194409/9473408d814743efc7c203eb79782f8b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Battlestar Galactica [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.shopify.com/s/files/1/0346/5761/files/battlestar_galactica_logo_3.png?18088446815226890730" group-title="24/7",Battlestar Galactica [NoKodi]
 https://videoserver1.org/live/fKoMVp4JxOY4ghi_fbV6GA/1507193509/7585390460dc9ef5a38e1d8056c013b1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Better Call Saul [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Better_Call_Saul_logo.png" group-title="24/7",Better Call Saul [NoKodi]
 https://videoserver2.org/live/hFIXKmpZcoC7wfIz1bYMQw/1507193689/5360af35bde9ebd8f01f492dc059593c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Blue Bloods [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71qbFuPjEhL._RI_.jpg" group-title="24/7",Blue Bloods [NoKodi]
 https://videoserver2.org/live/lTju68alxPg3nhnxBWSx9Q/1507194229/9ccb6d939dd20822476e4467a81bede6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Bob's Burgers [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/05/21/BobsBurgers.png" group-title="24/7",Bob's Burgers [NoKodi]
 https://videoserver2.org/live/dmvdS_JpPnwMIIO9o0GAmA/1507194168/21ad0bd836b90d08f4cf640b4c298e7c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Bones [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.returndates.com/backgrounds/bones.logo.png" group-title="24/7",Bones [NoKodi]
 https://videoserver1.org/live/u1YVxT2gZ957sSq86d1CbA/1507193149/775f172869d40d605be241a5070b0afa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Breaking Bad [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/1200px-Breaking_Bad_logo.svg.png" group-title="24/7",Breaking Bad [NoKodi]
 https://videoserver2.org/live/Nl9_9JbJGsxsPWLnKlRiNA/1507193148/8df117ec818106efa6490b2a8ad02ee4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Celebrity Death Match [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.minimatedatabase.com/img/line/cdm.png" group-title="24/7",Celebrity Deathmatch [NoKodi]
 https://videoserver1.org/live/vRqYxSpC_5TPPT0LHazGbg/1507195069/161747ec4dc9f55f1760195593742232.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Community [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.racebending.com/v4/wp-content/uploads/2012/05/community-nbc-logo-480x271.png" group-title="24/7",Community [NoKodi]
 https://videoserver1.org/live/EJqA70R4gdQwOaOKw4DTmA/1507193629/820eb5b696ea2a657c0db1e258dc7d81.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Downton Abbey [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://carpoolcandy.files.wordpress.com/2014/01/downton-abbey-title.jpg" group-title="24/7",Downton Abbey [NoKodi]
 https://videoserver1.org/live/fGEh9Ac3cbRatitR0v7GKw/1507194289/9c474e19272a393afd49ad65dfdd124d.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Dragon Ball Z [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sehAJzZ.png" group-title="24/7",Dragon Ball Z [NoKodi]
 https://videoserver2.org/live/d5GiFWM1o_im5YMLtoHVgw/1507193208/0de7b6a61a70688b26e6eeb3113531a3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Family Guy [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Family_Guy_Logo.svg/1200px-Family_Guy_Logo.svg.png" group-title="24/7",Family Guy [NoKodi]
 https://videoserver1.org/live/4m6ZpkgpX_M1bUQrOu2kpA/1507192909/3d4044d65abdda407a92991f1300ec97.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Fawlty Towers [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.proprofs.com/images/QM/user_images/1826446/1492085253.jpg" group-title="24/7",Fawlty Towers [NoKodi]
 https://videoserver1.org/live/1c4sTZn5JQIvd4u15NH3rg/1507195069/8ab53a2b077535aeefb794db289a9f11.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Flintstones
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wbkidsgo.com/portals/4/Images/Content/Properties/The%20Flintstones/character-logo-flintstones.png?ver=2016-01-17-155623-623" group-title="24/7",Flintstones
 http://173.208.216.114:8082/live/flintstones/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Frasier [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.geeksofdoom.com/GoD/img/2012/04/2012-04-08-frasier.jpg" group-title="24/7",Frasier [NoKodi]
 https://videoserver2.org/live/KHufVBfx0UlNmipoo_Eh0Q/1507194889/c485bb561918025e75545506984d363c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Fringe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graphic-engine.swarthmore.edu/wp-content/uploads/2008/09/fringe_apple.jpg" group-title="24/7",Fringe
 http://173.208.216.114:8082/live/fringe/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Futurama [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="24/7",Futurama [NoKodi]
 https://videoserver2.org/live/5BXgKOpuqoj6vC1Ou1Ycuw/1507193389/89e6d2b383471fc370d828e552c19e65.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Flapjack [NoKodi]
-https://videoserver1.org/live/YisygnM9bMFeuYbeySZ7BA/1507193629/3be041f44c2035c41eea8268f238e741.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Game of Thrones [NoKodi]
 https://videoserver2.org/live/4cGD7xS_DSAxIiytmmxOvw/1507192848/4a1a27296188c273f6733ead4fe4eff6.m3u8
@@ -194,6 +191,9 @@ http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Fresh Prince [NoKodi]
 https://videoserver1.org/live/4t3ASD1weJxFenSLf_tb4w/1507192069/0666f0acdeed38d4cd9084ade1739498.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xlCpMqR.png" group-title="24/7",The Marvelous Misadventures of Flapjack [NoKodi]
+https://videoserver1.org/live/YisygnM9bMFeuYbeySZ7BA/1507193629/3be041f44c2035c41eea8268f238e741.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Office [NoKodi]
 https://videoserver1.org/live/LAUyZvGEp4d4qtQN2sKNXA/1507193629/e72f4545eb68c96c754f91fc01573517.m3u8
