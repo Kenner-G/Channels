@@ -99,13 +99,13 @@ https://videoserver1.org/live/4m6ZpkgpX_M1bUQrOu2kpA/1507192909/3d4044d65abdda40
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Fawlty Towers [NoKodi]
 https://videoserver1.org/live/1c4sTZn5JQIvd4u15NH3rg/1507195069/8ab53a2b077535aeefb794db289a9f11.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Flintstones*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Flintstones
 http://173.208.216.114:8082/live/flintstones/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Frasier [NoKodi]
 https://videoserver2.org/live/KHufVBfx0UlNmipoo_Eh0Q/1507194889/c485bb561918025e75545506984d363c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Fringe*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Fringe
 http://173.208.216.114:8082/live/fringe/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Futurama [NoKodi]
@@ -129,10 +129,10 @@ https://videoserver2.org/live/UkylgIeeYKkY2oKVlRFaWw/1507193569/f970e2767d0cfe75
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",King of the Hill [NoKodi]
 https://videoserver2.org/live/cZAqiddJCg4V8t32Qcyb3Q/1507193029/fa46ec0b4924e8c2194a53ef61b94039.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Looney Tunes*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Looney Tunes
 http://173.208.216.114:8082/live/looney/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Lost*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Lost
 http://173.208.216.114:8082/live/lost/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Malcom in the Middle [NoKodi]
@@ -144,7 +144,7 @@ http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Narcos [NoKodi]
 https://videoserver2.org/live/RVAhqz0h9REwkBkqzXiwCQ/1507194529/61bf01cfdd60948087f3ea25e8a5939f.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",New Girl*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",New Girl
 http://173.208.216.114:8082/live/newgirl/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",Off The Air
@@ -174,7 +174,7 @@ https://videoserver2.org/live/RbSOBJtxzqTPYMU0jKnNew/1507194469/6bbdfedc377a82e1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",South Park [NoKodi]
 https://videoserver2.org/live/_IM_P8QiOgQDXnE0yUG3sw/1507193148/1952a01898073d1e561b9b4f2e42cbd7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Steven Universe*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Steven Universe
 https://live.ponies.fr/hls/sug-hd/sug.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Studio Ghibli [NoKodi]
@@ -186,7 +186,7 @@ https://videoserver1.org/live/GZ8sd6e2KnUZjSi7pUgxsg/1507193509/10174e112d64ae5e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Blacklist [NoKodi]
 https://videoserver2.org/live/8xy7MQqC_gBIgVVp1mDFfw/1507194829/a0bc9791616492b14e330a7e0ef35512.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Boondocks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Boondocks
 https://videoserver2.org/live/ZOBFo__BcflVZr_MCDRlvA/1507194409/e7093d33e3f0f52bcb7284e45581a3e8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
@@ -216,13 +216,13 @@ https://videoserver1.org/live/zOLuSu7YoXu6ffYhcP3lLg/1507194829/52b8a5f24dc76071
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",The Venture Bros.
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Walking Dead*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Walking Dead
 http://173.208.216.114:8082/live/twd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Tom and Jerry*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Tom and Jerry
 http://173.208.216.114:8082/live/tomnjerry/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Top Gear [NoKodi]
