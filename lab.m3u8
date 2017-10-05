@@ -30,6 +30,9 @@ https://videoserver1.org/live/LxtvLVsubrcACiGGSYgsKw/1507192669/993ce9ee723cef89
 #EXTINF:-1,24/7 Horror Movies [NoKodi]
 https://videoserver1.org/live/qFLBZQGHgMcKtH5ksgzk5A/1507192669/377feb82d0b63676a18f18f152f6c721.m3u8
 
+#EXTINF:-1,24/7 Musicals [NoKodi]
+https://videoserver2.org/live/p7zW9o6o0BQzHNJTdrTp5w/1507192729/9a7a05ed6d0e14916923fa226501bd2c.m3u8
+
 #EXTINF:-1,24/7 Mystery Movies [NoKodi]
 https://videoserver2.org/live/tUEQx9oe5_w8aJDgI8oxiA/1507192369/cd0f46533a7ff32277171001db8ea982.m3u8
 
@@ -38,9 +41,6 @@ https://videoserver2.org/live/SRHbDU9vbHdUjYF9evUKFw/1507192489/94d035945b3d8218
 
 #EXTINF:-1,24/7 Romance Movies [NoKodi]
 https://videoserver2.org/live/fqixTIPYMUlC4tagCc0PBg/1507192669/3248e60a5820cec655cb031cc2662925.m3u8
-
-#EXTINF:-1,24/7 Musicals [NoKodi]
-https://videoserver2.org/live/p7zW9o6o0BQzHNJTdrTp5w/1507192729/9a7a05ed6d0e14916923fa226501bd2c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="ADULT SWIM",24/7 Adult Swim Live
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
