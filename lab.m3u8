@@ -939,13 +939,20 @@ http://www.deadlyblogger.com/NewRelease/turbo.mp4
 http://www.deadlyblogger.com/NewRelease/smaug2013.mp4 
 
 
-xmen1          http://www.deadlyblogger.com/NewRelease/xmen1.mp4
-xmen2          http://www.deadlyblogger.com/NewRelease/xmen2.mp4
-xmen3          http://www.deadlyblogger.com/NewRelease/xmen3.mp4
-xmen origin    http://www.deadlyblogger.com/NewRelease/origin.mp4
-xmen the last stand  http://www.deadlyblogger.com/NewRelease/xmen3.mp4
-xmen first class     http://www.deadlyblogger.com/NewRelease/xmen4.mp4
-The Wolverine (FILM  http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1,xmen1          
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1,xmen2          
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1,xmen3          
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1,xmen origin    
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1,xmen the last stand  
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1,xmen first class     
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1,The Wolverine (FILM  
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
 #EXTINF:-1, A Brilliant Young Mind FTA 
 http://iptvnation.com/30.mp4 
 #EXTINF:-1, All Creatures Big and Small FTA 
