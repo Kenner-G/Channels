@@ -41,7 +41,8 @@ http://95.107.132.100/out/u/269_1.m3u8
 http://95.107.132.100/out/u/212_3.m3u8
 #EXTINF:-1,JOLLY
 http://95.107.132.100/out/u/231_1.m3u8  
-#EXTINF:-1,3+ http://5.135.92.130:5749/out/u/235_182.m3u8
+#EXTINF:-1,3+ 
+http://5.135.92.130:5749/out/u/235_182.m3u8
 #EXTINF:-1 ,ALB Movie
 http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
 #EXTINF:-1 ,ALBUK
