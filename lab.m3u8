@@ -68,16 +68,6 @@ http://212.200.102.3:5000/udp/239.99.99.99:23999
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 ,SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,DIGI SPORT 2
-http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
-#EXTINF:-1,DIGI SPORT 3
-http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
-#EXTINF:-1,DIGI SPORT 4
-http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
-#EXTINF:-1,EUROSPORT
-http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
 #EXTINF:-1,A Sport HD
 http://85.132.71.6/turk/aspor/index.m3u8
 #EXTINF:-1,TRING NEWS
