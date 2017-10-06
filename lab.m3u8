@@ -100,7 +100,8 @@ http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 http://109.236.81.91/hls/oranews/index.m3u8  
 #EXTINF:-1,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1,ALB Muzic LIVE http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1,ALB Muzic LIVE
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
 ##EXTINF:-1 ,ALB Movie
 http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
 #EXTINF:-1 ,ALBUK
