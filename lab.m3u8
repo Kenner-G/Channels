@@ -59,34 +59,7 @@ http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
 http://46.19.228.174:8001/hd/tracks-v1a1/index.m3u8
 #EXTINF:-1,dielli
 http://stream2.itprishtina.com:90/dielli/index.m3u8 
-#EXTINF:-1,Animal Planet
-http://smart-iptv.ro:8880/live/walti/valtiger/501.m3u8
-#EXTINF:-1,Discovery Science
-http://smart-iptv.ro:8880/live/walti/valtiger/499.m3u8
-#EXTINF:-1,Discovery Channel Romania
-http://smart-iptv.ro:8880/live/walti/valtiger/399.m3u8
-#EXTINF:-1,Discovery ID EXTRA
-http://smart-iptv.ro:8880/live/walti/valtiger/420.m3u8
-#EXTINF:-1,NATIONAL GEO WILD
-http://smart-iptv.ro:8880/live/walti/valtiger/33.m3u8
-#EXTINF:-1,NATIONAL GEO
-http://smart-iptv.ro:8880/live/walti/valtiger/34.m3u8
-#EXTINF:-1,DIGI WORLD
-http://smart-iptv.ro:8880/live/walti/valtiger/32.m3u8
-#EXTINF:-1,DIGI ANIMAL WORD
-http://smart-iptv.ro:8880/live/walti/valtiger/394.m3u8
-#EXTINF:-1,VIASAT EXPLORE
-http://smart-iptv.ro:8880/live/walti/valtiger/397.m3u8
-#EXTINF:-1,VIASAT HISTORY
-http://smart-iptv.ro:8880/live/walti/valtiger/395.m3u8
-#EXTINF:-1,VIASAT NATURE
-http://smart-iptv.ro:8880/live/walti/valtiger/396.m3u8
-#EXTINF:-1,MEGAMAX
-http://smart-iptv.ro:8880/live/walti/valtiger/398.m3u8
-#EXTINF:-1,HISTORY CHANNAL
-http://smart-iptv.ro:8880/live/walti/valtiger/35.m3u8
-#EXTINF:-1,BBC EARTH
-http://smart-iptv.ro:8880/live/walti/valtiger/470.m3u8
+///
 #EXTINF:-1,CHELSSA TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:0,1 Partizan
