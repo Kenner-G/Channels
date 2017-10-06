@@ -77,10 +77,11 @@ http://95.107.132.100/out/u/287_3.m3u8
 #EXTINF:-1,TRING SPORT 2
 http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8  
 #EXTINF:-1,INtv
-http://80.91.115.211:1935/live/livestream/playlist.m3u8 #EXTINF:-1,LIVING
+http://80.91.115.211:1935/live/livestream/playlist.m3u8 
+#EXTINF:-1,LIVING
 http://95.107.132.100/out/u/212_3.m3u8
 #EXTINF:-1,StarplusAl
- http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
+http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
 #EXTINF:-1,channelone
 http://81.7.13.162/hls/channelone/index.m3u8  
 #EXTINF:-1,TV Jug
@@ -89,7 +90,8 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,tvr
 http://stream1.megaiptv.info/tvrPr/playlist.m3u8
-#EXTINF:0,APOLLON TV http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8  
+#EXTINF:0,APOLLON TV
+http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8  
 #EXTINF:-1,Wedding Channel AL
 http://wedding-channel.tv/stream.m3u8
 #EXTINF:-1,A1 report
