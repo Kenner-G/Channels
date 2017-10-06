@@ -3,123 +3,8 @@
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flat-icons-19/512/Chimestry_flask.png" group-title="LABEL",* Fluxus Lab : F*ck OFF!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/0TT4SFT.jpg" group-title="VIETNAM",VOA Tieng Viet (USA)
-http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56
-
-///
-
-Unknown
-
-#EXTINF:0,tribuna TTV tves
-http://cm.hostlagarto.com:8081/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
-
-#EXTINF:-1,TJK TV
-http://tjktv.ercdn.net/tjktv_576p.m3u8
-
-
-///
-
-#EXTINF:-1, Sky News UK
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1,ALL Sports Brazil
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
 #EXTINF:-1,HD Media 3D Russia?
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
-
-#EXTINF:-1,TV5MONDE France
-https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
-
-
-///
-
-Germany
-
-#EXTINF:-1,MDF1 DE
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-
-#EXTINF:-1,BCTV DE
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
-
-#EXTINF:-1,ISAR TV DE
-http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-
-#EXTINF:-1,MDF1 DE
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-
-#EXTINF:-1,MUENCHEN TV DE
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
-
-#EXTINF:-1,O TV DE
-http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-
-#EXTINF:-1,OKD Dessau DE
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-
-#EXTINF:-1,OKD Magdeburg DE Offener Kanal Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-
-#EXTINF:-1,OKD Wernigerode DE Campus TV
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-
-///
-
-UAE
-
-#EXTINF:-1 ,AD SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 ,AD SPORT 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1,Abu Dabi Sport 1
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:-1,Abu Dabi Sport 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-
-
-
-///
-
-Romania
-
-#EXTINF:-1,A1 TV RO
-http://89.43.138.29/live/playlist13.m3u8
-
-#EXTINF:-1,ALFAOMEGA TV RO Rel?
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-
-#EXTINF:-1,BANAT TV RO
-http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
-
-#EXTINF:-1,Casa Mia TV
-http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
-
-#EXTINF:-1,DIGI 24 RO x
-http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w811272067.m3u8
-
-#EXTINF:-1,ISAI TV RO
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-
-#EXTINF:-1,ITV RO
-http://s1.streamnet.ro:8014/stream.flv
-
-#EXTINF:-1,TV7 RO
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-
-#EXTINF:-1,IBS TVR??? [FLV]
-http://s1.streamnet.ro:8006/stream.flv
-
-#EXTINF:-1,KANAL D RO
-http://80.86.107.169/iphone/live.m3u8
-
-#EXTINF:-1,TELESHOPPING RO IDA???
-http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?wowzasessionid=1144202524
-
-#EXTINF:-1,S TV RO [FLV]
-http://s2.streamnet.ro:8035/stream.flv
 
 #EXTINF:-1,TELEMOIA RO
 http://89.35.208.130
@@ -127,111 +12,17 @@ http://89.35.208.130
 #EXTINF:-1,TELESTAR 1 RO
 http://193.34.109.10:8090
 
-#EXTINF:-1,ALFA MEDIA RO
-http://188.173.22.231:8080/video/emisie.m3u8
-
 #EXTINF:-1,TV PLUS RO
 http://85.186.146.34:8080
 
 #EXTINF:-1,TV SE RO
 http://iptv.tvsatrm.ro/livestream/tvse.m3u8
 
-#EXTINF:-1,U TV RO x?
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1358444381.m3u8
+#EXTINF:-1,ITV
+http://s1.streamnet.ro:8014/stream.flv
 
-#EXTINF:-1,INtv
-http://80.91.115.211:1935/live/livestream/playlist.m3u8 
+#EXTINF:-1,IBS TVR???
+http://s1.streamnet.ro:8006/stream.flv
 
-#EXTINF:-1,DIGI SPORT 2
-http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
-
-#EXTINF:-1,DIGI SPORT 3
-http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
-
-#EXTINF:-1,DIGI SPORT 4
-http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
-
-#EXTINF:-1,EUROSPORT
-http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
-
-#EXTINF:-1,EUROSPORT 2
-http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
-
-
-///
-
-Turkey
-
-#EXTINF:0,KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-
-#EXTINF:0,SHOW MAX
-http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
-
-#EXTINF:0,SEMERKAND rel?
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-
-#EXTINF:0,SEMERKAND HD
-http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-
-#EXTINF:0,TV 4 karamel
-http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
-
-#EXTINF:0,TVNET
-http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
-
-#EXTINF:0,BENGüTüRK TV
-http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
-
-#EXTINF:0,DREAM ?
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-#EXTINF:0,DREAMTüRK ?
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-
-#EXTINF:0,TGRT BELGESEL
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
-
-#EXTINF:0,ÇAY TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-
-#EXTINF:0,PLANET TüRK [RMTP]
-rtmp://77.223.146.117/live/planett
-
-#EXTINF:0,KANAL A
-http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
-
-#EXTINF:0,AKSU TV
-http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-
-#EXTINF:0,IBB TV [RMTP]
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
-
-#EXTINF:0,DOST TV  Rel.
-http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
-
-#EXTINF:0,VUSLAT TV
-http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-
-#EXTINF:0,KANAL V [RMTP]
-rtmp://stream2.taksimbilisim.com/kanalvip/bant1
-
-#EXTINF:0,TV 2000 [RMTP]
-rtmp://stream.taksimbilisim.com/tv2000/bant1
-
-#EXTINF:0,TV52 [RMTP]
-rtmp://stream.taksimbilisim.com/tv52/bant1
-
-#EXTINF:0,TV41 [RMTP]
-rtmp://stream.taksimbilisim.com/tv41/bant1
-
-#EXTINF:0,TV10 [RMTP]
-rtmp://5.135.142.60:1935/tv10/xetero
-
-#EXTINF:0,TARSUS GüNEY TV [RMTP]
-rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
-
-#EXTINF:0,MERSIN SUN TV [RMTP]
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
-
-///
+#EXTINF:-1,S TV RO
+http://s2.streamnet.ro:8035/stream.flv
