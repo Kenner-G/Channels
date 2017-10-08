@@ -6,7 +6,10 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png" group-title="24/7",Action Movies test3
 https://raw.githubusercontent.com/fluxustv/Channels/master/action2.m3u8
 
- tvg-id="" tvg-name="" tvg-logo="" group-title="24/7"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",USTVNOW test
+http://anonymouse.org/cgi-bin/anon-www.cgi/http://ilvc06.ll.ustvnow.com/ilv10/pr/xxl/smil:341A2COMEUSTVNOW/playlist.m3u8?p=29&ip=193.200.150.82&ci=28800&cd=300&e=1507530664&cf=1507674664&
+
+
 
 ///
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2739.jpg" group-title="24/7", Action Movies [NoKodi]
