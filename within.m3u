@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="" group-title="LABEL",* Fluxus Within : F*ck OFF!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
+#EXTINF:-1,Action test
+https://videoserver1.org/live/bJjk0ifr4ieScEkYCIYPqw/1507501864/90ce2364e02379b96643fe4d0f2d7c25.m3u8
+
 #EXTINF:-1 group-title="FILMES",101 DALMATIONS
 http://www.deadlyblogger.com/NewRelease/dal1.mp4
 #EXTINF:-1 group-title="FILMES",A CHRISTMAS CAROL
