@@ -1,0 +1,10 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-MEDIA-SEQUENCE:42405 
+#EXT-X-TARGETDURATION:14 
+#EXTINF:7.160, https://videoserver1.org/hls/90ce2364e02379b96643fe4d0f2d7c25-42405.ts 
+#EXTINF:7.160, https://videoserver1.org/hls/90ce2364e02379b96643fe4d0f2d7c25-42406.ts 
+#EXTINF:13.600, https://videoserver1.org/hls/90ce2364e02379b96643fe4d0f2d7c25-42407.ts 
+#EXTINF:10.000, https://videoserver1.org/hls/90ce2364e02379b96643fe4d0f2d7c25-42408.ts 
+#EXTINF:10.000, https://videoserver1.org/hls/90ce2364e02379b96643fe4d0f2d7c25-42409.ts 
+#EXTINF:10.000, https://videoserver1.org/hls/90ce2364e02379b96643fe4d0f2d7c25-42410.ts 
