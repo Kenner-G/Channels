@@ -6,262 +6,264 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png" group-title="24/7",Action Movies test
 https://videoserver1.org/live/bJjk0ifr4ieScEkYCIYPqw/1507501864/90ce2364e02379b96643fe4d0f2d7c25.m3u8
 
+ tvg-id="" tvg-name="" tvg-logo="" group-title="24/7"
+
 ///
 
 
-#EXTINF:0, Action Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Action Movies [NoKodi]
 https://videoserver1.org/live/bJjk0ifr4ieScEkYCIYPqw/1507501864/90ce2364e02379b96643fe4d0f2d7c25.m3u8
 
-#EXTINF:0, Adult Swim [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Adult Swim [NoKodi]
 https://videoserver2.org/live/T03IyZOiMZ5mpEUGSPw6RQ/1507501642/539125fdf85ba9fc38e2550c3c838e4d.m3u8
 
-#EXTINF:0, Adventure Time [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Adventure Time [NoKodi]
 https://videoserver1.org/live/FV-C1qqxExTNX1H7vvs_UA/1507500854/7d0db380a5b95a8ba1da0bca241abda1.m3u8
 
-#EXTINF:0, Always Sunny In Philadelphia [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Always Sunny In Philadelphia [NoKodi]
 https://videoserver2.org/live/W9M7g4tHYOVGvFQmaddKjQ/1507501868/f970e2767d0cfe75876ea857f92e319b.m3u8
 
-#EXTINF:0, American Dad [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", American Dad [NoKodi]
 https://videoserver1.org/live/uAR7CQ8d9ySVAzPuMGLT9g/1507500963/523af537946b79c4f8369ed39ba78605.m3u8
 
-#EXTINF:0, American Horror Story [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", American Horror Story [NoKodi]
 https://videoserver1.org/live/XKjHpIZMaxZnaS7MWy5asQ/1507500087/9473408d814743efc7c203eb79782f8b.m3u8
 
-#EXTINF:0, Animated Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Animated Movies [NoKodi]
 https://videoserver1.org/live/nkmtA856mDMKzMafDYsX9w/1507500858/7e18e745bf13ed4e73c5e612599b4cf5.m3u8
 
-#EXTINF:0, Anime Channel [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Anime Channel [NoKodi]
 https://videoserver2.org/live/5chkV2T4WsaY3DjoROIpjw/1507500964/d4fda09f200a7fcb0c05ad251b18d380.m3u8
 
-#EXTINF:0, Archer [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Archer [NoKodi]
 https://videoserver1.org/live/2DrWc_wC-RaA_Dl60lCkjA/1507501874/4124bc0a9335c27f086f24ba207a4912.m3u8
 
-#EXTINF:0, Arrested Development [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Arrested Development [NoKodi]
 https://videoserver2.org/live/bp5N7nXJXXNThvF2wzAgvg/1507500490/f8b497df140e06c897e44cd2a79fd305.m3u8
 
-#EXTINF:0, Avatar: The Last Air Bender and The Legend of Korra (Beavis and Butthead - Mike Judge) [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Avatar: The Last Air Bender and The Legend of Korra (Beavis and Butthead - Mike Judge) [NoKodi]
 https://videoserver2.org/live/dPnsCLVd03uU8oc6Gt9m4Q/1507500233/fcea6bfa2ba6ec8e6278b9003da42b0c.m3u8
 
-#EXTINF:0, Batman 1966 TV [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Batman 1966 TV [NoKodi]
 https://videoserver1.org/live/tggu1ojepi5QfrTDFtXasw/1507501212/2c26054f8ae1cee38e89b1983bbf1c63.m3u8
 
-#EXTINF:0, Battlestar Galactica [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Battlestar Galactica [NoKodi]
 https://videoserver2.org/live/3MERsBXlaHdQgGAuDjh8KQ/1507500492/7585390460dc9ef5a38e1d8056c013b1.m3u8
 
-#EXTINF:0, Beavis and Butthead Mike Judge [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Beavis and Butthead Mike Judge [NoKodi]
 https://videoserver2.org/live/h4WU6tpDN9Um__OAKWc9kg/1507500869/d61aab1489b27a5cffd192451d68f8b2.m3u8
 
-#EXTINF:0, Better Call Saul [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Better Call Saul [NoKodi]
 https://videoserver2.org/live/nYVajyDWrWkcOURKiu9zjQ/1507501342/5360af35bde9ebd8f01f492dc059593c.m3u8
 
-#EXTINF:0, Blacklist [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Blacklist [NoKodi]
 https://videoserver2.org/live/r0GneHJbe1wLkU3hY-Medg/1507501344/a0bc9791616492b14e330a7e0ef35512.m3u8
 
-#EXTINF:0, Blue Bloods [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Blue Bloods [NoKodi]
 https://videoserver1.org/live/iiEEtGi1vkzHiVPQjr9RPA/1507501216/9ccb6d939dd20822476e4467a81bede6.m3u8
 
-#EXTINF:0, Bobs Burgers [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Bobs Burgers [NoKodi]
 https://videoserver1.org/live/7_yyenZcjHgG80qHzRWr_w/1507501343/21ad0bd836b90d08f4cf640b4c298e7c.m3u8
 
-#EXTINF:0, Bones [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Bones [NoKodi]
 https://videoserver2.org/live/U_i4Or8jZohO6_o96cWgSw/1507500243/775f172869d40d605be241a5070b0afa.m3u8
 
-#EXTINF:0, Breaking Bad [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Breaking Bad [NoKodi]
 https://videoserver2.org/live/nev-snQMwexFKw-PLwfHWA/1507501659/8df117ec818106efa6490b2a8ad02ee4.m3u8
 
-#EXTINF:0, Celebrity Deathmatch [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Celebrity Deathmatch [NoKodi]
 https://videoserver2.org/live/-ipWwRpgUsn2z5-tj-WLvA/1507501662/161747ec4dc9f55f1760195593742232.m3u8
 
-#EXTINF:0, Christmas Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Christmas Movies [NoKodi]
 https://videoserver2.org/live/x1BsEkpxaxURXncBGHmvnQ/1507500640/17d6b59f16d493db84234ade495c6ce6.m3u8
 
-#EXTINF:0, Classic Toons [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Classic Toons [NoKodi]
 https://videoserver2.org/live/XBW4tT03E3e95x-85KU43A/1507500247/d91af6958918af87d6a057c1cdf5b225.m3u8
 
-#EXTINF:0, Comedy Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Comedy Movies [NoKodi]
 https://videoserver2.org/live/5jD1oMS7gY-34JQb9hl-3g/1507501538/6fd04bc5b53697040f6f43a3c96d7658.m3u8
 
-#EXTINF:0, Community [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Community [NoKodi]
 https://videoserver2.org/live/LXgnu1JA9glwdc8deO7kqA/1507500980/820eb5b696ea2a657c0db1e258dc7d81.m3u8
 
-#EXTINF:0, Cops [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Cops [NoKodi]
 https://videoserver2.org/live/D9ijg9ICk7RJCAfn7nimXA/1507500253/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8
 
-#EXTINF:0, Curb your Enthusiasm [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Curb your Enthusiasm [NoKodi]
 https://videoserver1.org/live/9oxSDXIlUzQydlY41-otCw/1507500509/9b5394fd929896fb9e90e26b3d18e63d.m3u8
 
-#EXTINF:0, Doctor Who [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Doctor Who [NoKodi]
 https://videoserver2.org/live/xGAQC9yuIfHpQuwaJP1y9Q/1507501542/c0e67c407905103dbce3984c756f3f21.m3u8
 
-#EXTINF:0, Documentary Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Documentary Movies [NoKodi]
 https://videoserver2.org/live/TmhdB9aEMK2gxFlft1UJSw/1507501671/993ce9ee723cef89c679b7a55e42472a.m3u8
 
-#EXTINF:0, Downton Abbey [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Downton Abbey [NoKodi]
 https://videoserver2.org/live/f2r7WIFxuUgK41NOKWkgMw/1507500124/9c474e19272a393afd49ad65dfdd124d.m3u8
 
-#EXTINF:0, Dragonball Z [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Dragonball Z [NoKodi]
 https://videoserver1.org/live/rH310RGl4o4Jrs5nKxVZQw/1507501898/0de7b6a61a70688b26e6eeb3113531a3.m3u8
 
-#EXTINF:0, Family Guy [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Family Guy [NoKodi]
 https://videoserver2.org/live/v8tB4B4KJ5D5cErIeolyGQ/1507500515/3d4044d65abdda407a92991f1300ec97.m3u8
 
-#EXTINF:0, Fawlty Towers [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Fawlty Towers [NoKodi]
 https://videoserver2.org/live/pFxgTe2dgE9Ngif4T1wkyQ/1507500987/28f20a02bf8a021fab4fcec48afb584e.m3u8
 
-#EXTINF:0, Frasier [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Frasier [NoKodi]
 https://videoserver2.org/live/vyhpzVvD1s82qn8j-JYZcg/1507500128/c485bb561918025e75545506984d363c.m3u8
 
-#EXTINF:0, Fresh Prince of Bel Air [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Fresh Prince of Bel Air [NoKodi]
 https://videoserver2.org/live/HExh3axjlcssnmBdOP3WrQ/1507501363/0666f0acdeed38d4cd9084ade1739498.m3u8
 
-#EXTINF:0, Friends [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Friends [NoKodi]
 https://videoserver2.org/live/pFxgTe2dgE9Ngif4T1wkyQ/1507500987/28f20a02bf8a021fab4fcec48afb584e.m3u8
 
-#EXTINF:0, Futurama [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Futurama [NoKodi]
 https://videoserver2.org/live/OgJzSqAtMip9tn7EycKxjQ/1507501553/89e6d2b383471fc370d828e552c19e65.m3u8
 
-#EXTINF:0, Game of Thrones [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Game of Thrones [NoKodi]
 https://videoserver2.org/live/4qxh10X-IZVtVIYeXDNF4A/1507500991/4a1a27296188c273f6733ead4fe4eff6.m3u8
 
-#EXTINF:0, Harry Potter and Lord of the Rings [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Harry Potter and Lord of the Rings [NoKodi]
 https://videoserver2.org/live/19Ls6HH6fdAPBU9KyN1H9g/1507499134/cba19b64326f3f317a6af74844d32d17.m3u8
 
-#EXTINF:0, Home Improvement [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Home Improvement [NoKodi]
 https://videoserver1.org/live/6MJsgGX_aQEf6wcpuYKnJw/1507500524/b5ee54bba2ae28a03173618f93df9835.m3u8
 
 #EXTINF:0, Horror Movies [NoKodi]
 https://videoserver2.org/live/dDHkJuxhox5EADJfjq32wQ/1507500141/377feb82d0b63676a18f18f152f6c721.m3u8
 
-#EXTINF:0, I love Lucy [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", I love Lucy [NoKodi]
 https://videoserver1.org/live/Cw9Mw3yAu0BGcPLIKJ9K7Q/1507501243/67eea2632a01c967653555f98cb84b36.m3u8
 
-#EXTINF:0, Invader Zim [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Invader Zim [NoKodi]
 https://videoserver2.org/live/g3H9ETknEo4uf3U2OfaNjg/1507500281/018d4d19ee6a779b041a625a60df0e2c.m3u8
 
-#EXTINF:0, King of the Hill [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", King of the Hill [NoKodi]
 https://videoserver2.org/live/2YwVmZ0G_fwudA2H93oUGQ/1507499244/fa46ec0b4924e8c2194a53ef61b94039.m3u8
 
-#EXTINF:0, Mafia Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Mafia Movies [NoKodi]
 https://videoserver1.org/live/IXiuynmooauFcZQZY_GjaQ/1507501246/e24cc804755b8bdedb516e1a1739300f.m3u8
 
-#EXTINF:0, Malcolm in the Middle [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Malcolm in the Middle [NoKodi]
 https://videoserver2.org/live/KH1VEIRUfq0ikDWvu7x9Tw/1507501000/6897191107b1003196abb2efaf0b1e12.m3u8
 
-#EXTINF:0, Married with Children [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Married with Children [NoKodi]
 https://videoserver2.org/live/qCQ1DlPRW11dLs9xDfLR6w/1507500667/668ada832799cc84747f015346e54eb0.m3u8
 
-#EXTINF:0, Modern Family [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Modern Family [NoKodi]
 https://videoserver1.org/live/BzFiYeLyUzwXYWNLjPAX9A/1507500669/d6ee239752e6871291712a3acababfe6.m3u8
 
-#EXTINF:0, Mystery Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Mystery Movies [NoKodi]
 https://videoserver2.org/live/KAcHQQLIU5yGODUyKueBvw/1507501250/cd0f46533a7ff32277171001db8ea982.m3u8
 
-#EXTINF:0, Narcos [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Narcos [NoKodi]
 https://videoserver2.org/live/ndgRPuEJk4BSOV-wEuAJNQ/1507500899/61bf01cfdd60948087f3ea25e8a5939f.m3u8
 
-#EXTINF:0, New Movie Releases [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", New Movie Releases [NoKodi]
 https://videoserver1.org/live/mjy4uYOhBhWgwD8D6X1pYA/1507501380/9a7a05ed6d0e14916923fa226501bd2c.m3u8
 
-#EXTINF:0, Prison Break [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Prison Break [NoKodi]
 https://videoserver2.org/live/7Ly3mUDkLdVLeo03X43GsA/1507500902/36d081b5bcf1efe2bf11e97f45c1155f.m3u8
 
-#EXTINF:0, Random Movies [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Random Movies [NoKodi]
 https://videoserver2.org/live/YZAs9QtzXQJX7RjzuvExsg/1507501381/94d035945b3d82182669c4d3f6daa104.m3u8
 
-#EXTINF:0, Random Stream [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Random Stream [NoKodi]
 https://videoserver2.org/live/HYvtJq_pK17WaJLvOZ320Q/1507500540/28f550f1a6953e830a31f9ebf7af0333.m3u8
 
-#EXTINF:0, Regular Show [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Regular Show [NoKodi]
 https://videoserver2.org/live/_FocjqXj89DboP3ETbCqiQ/1507500676/af37d08ae228a87dc6b265fd1019c97d.m3u8
 
-#EXTINF:0, Ren and Stimpy [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Ren and Stimpy [NoKodi]
 https://videoserver2.org/live/wTrr2i-dJMrJ8mpNsw_nOA/1507500904/3a2d7564baee79182ebc7b65084aabd1.m3u8
 
-#EXTINF:0, Rick and Morty [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Rick and Morty [NoKodi]
 https://videoserver1.org/live/yRuHPDWiteZ03NIw14oisQ/1507501574/d67f249b90615ca158b1258712c3a9fc.m3u8
 
-#EXTINF:0, Romance Films [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Romance Films [NoKodi]
 https://videoserver2.org/live/IGEOEkANlqxgTrh6l43HkQ/1507501387/3248e60a5820cec655cb031cc2662925.m3u8
 
-#EXTINF:0, Samurai Jack [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Samurai Jack [NoKodi]
 https://videoserver1.org/live/gyAD_7KHII8fqD_5TF61qQ/1507501261/b5bf27b2555de44e3df2230080db5a1d.m3u8
 
-#EXTINF:0, Scrubs [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Scrubs [NoKodi]
 https://videoserver2.org/live/CB5vfGR8tAoys3t_K6uToQ/1507500162/456727ac6d97e749f87ec95009617bd2.m3u8
 
-#EXTINF:0, Seinfeld [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Seinfeld [NoKodi]
 https://videoserver2.org/live/yYh58hkyFRTDxg1iyG-yWw/1507501935/af1f8d9839dd6ffefedebab89761ee7e.m3u8
 
-#EXTINF:0, Shark Tank [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Shark Tank [NoKodi]
 https://videoserver1.org/live/PDHXCeU-aqiqK1qKe_mu_w/1507500300/6e5c05d83065de5035a874e9ce581273.m3u8
 
-#EXTINF:0, Silicon Valley [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Silicon Valley [NoKodi]
 https://videoserver1.org/live/zfT3WqKyc4xkpAc8LbEydg/1507501014/6bbdfedc377a82e142f58e42b4f0f66e.m3u8
 
-#EXTINF:0, Simpsons [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Simpsons [NoKodi]
 https://videoserver2.org/live/spjrSAe_rk_0SQfOGnB7Ow/1507500910/3691308f2a4c2f6983f2880d32e29c84.m3u8
 
-#EXTINF:0, South Park [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", South Park [NoKodi]
 https://videoserver1.org/live/mAHMu3UMLSHgvmhyCZPSRg/1507500171/1952a01898073d1e561b9b4f2e42cbd7.m3u8
 
-#EXTINF:0, SpongeBob SquarePants [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", SpongeBob SquarePants [NoKodi]
 https://videoserver2.org/live/Asc_SlhHZd1m2DQhqOL8PA/1507501942/2f2c4b3c9681d732d678ae4094241250.m3u8
 
-#EXTINF:0, Star Wars & Star Trek [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Star Wars & Star Trek [NoKodi]
 https://videoserver2.org/live/Dl20UKtHL5Fdsre4Kb8ppQ/1507501395/9a045dead94fad2ceb3c5c808dd964b6.m3u8
 
-#EXTINF:0, Studio Ghibli [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Studio Ghibli [NoKodi]
 https://videoserver2.org/live/H1NjDn4qUKNopo6UNU_QJg/1507501271/57f1a338fcf6edaa3378c10cd5beefd6.m3u8
 
-#EXTINF:0, That 70s Show [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", That 70s Show [NoKodi]
 https://videoserver1.org/live/M_94JmidLs8ozeA0Vfo5Ow/1507501712/10174e112d64ae5e09f8f955865a5993.m3u8
 
-#EXTINF:0, The Big Bang Theory [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Big Bang Theory [NoKodi]
 https://videoserver1.org/live/JXL-FcdTLiN-PikTog6mFg/1507500559/d3517d7d92455b3cf3eb3e774acb4406.m3u8
 
-#EXTINF:0, The Boondocks [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Boondocks [NoKodi]
 https://videoserver2.org/live/qwtGbsp5VVGHrnbDHHnr0w/1507501945/e7093d33e3f0f52bcb7284e45581a3e8.m3u8
 
-#EXTINF:0, The Marvelous Misadventures of Flapjack [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Marvelous Misadventures of Flapjack [NoKodi]
 https://videoserver1.org/live/7rxqUwVHQKuq_GS455yupw/1507500918/3be041f44c2035c41eea8268f238e741.m3u8
 
-#EXTINF:0, The Musketeers [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Musketeers [NoKodi]
 https://videoserver2.org/live/1RVNnNbVRdvbokNldiFDnw/1507501949/547ec0808af5da4e91c23fcd43738efe.m3u8
 
-#EXTINF:0, The Office [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Office [NoKodi]
 https://videoserver2.org/live/Y6ewNIoENuh873BOP3AW_A/1507501717/e72f4545eb68c96c754f91fc01573517.m3u8
 
-#EXTINF:0, The Outer Limits [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Outer Limits [NoKodi]
 https://videoserver2.org/live/BlnMp4kbGZmHLq6pOi0ntA/1507501281/28f550f1a6953e830a31f9ebf7af0333.m3u8
 
-#EXTINF:0, The Sopranos [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Sopranos [NoKodi]
 https://videoserver2.org/live/bDDOoGNEfsq5hh4q00YLjQ/1507500565/a7f53103240c2f3f1679d704eeed1892.m3u8
 
-#EXTINF:0, The Tudors [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The Tudors [NoKodi]
 https://videoserver1.org/live/smuSwio7gDQv0IvYC8839w/1507501025/e77bb02d647edb2099cb6ea6fd7f18df.m3u8
 
-#EXTINF:0, The White Queen [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", The White Queen [NoKodi]
 https://videoserver1.org/live/eME5U52gjayN9vhWjP30kg/1507501408/e867325b1b9aafe0945ce0529e1c702f.m3u8
 
-#EXTINF:0, Top Gear UK [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Top Gear UK [NoKodi]
 https://videoserver2.org/live/Cof3p3L7kwCCfsfDobKnMQ/1507500319/0e3ca8eec23db7f7c0c6bf0047e22b0b.m3u8
 
-#EXTINF:0, Trailer Park Boys [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Trailer Park Boys [NoKodi]
 https://videoserver2.org/live/oOznWsce80K18Tr1Rt-kvg/1507500706/d12d2c37e8c211f096ea78fd159643ba.m3u8
 
-#EXTINF:0, Twilight Zone [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Twilight Zone [NoKodi]
 https://videoserver2.org/live/eyfIB3V_OjPDCdOy-GbSOQ/1507501287/563f917670c376b6bd3e97bacc6d1d20.m3u8
 
-#EXTINF:0, Vampire Diaries [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Vampire Diaries [NoKodi]
 https://videoserver2.org/live/4x4KQV62VCe-eFqMxi-JBA/1507500574/52b8a5f24dc760714094959c4b5edb0f.m3u8
 
-#EXTINF:0, Whose Line Is It Anyway? [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Whose Line Is It Anyway? [NoKodi]
 https://videoserver1.org/live/rEC_kSK90H5_Ao1_jJKqqg/1507501412/9185defbf5f091cd98fe4751b66f91b8.m3u8
 
-#EXTINF:0, Workaholics [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", Workaholics [NoKodi]
 https://videoserver2.org/live/5JW0YBErpA5-RiQDJUkgZw/1507500929/742523daef59db4b718409f46de05d0c.m3u8
 
-#EXTINF:0, X Files [NoKodi]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7", X Files [NoKodi]
 https://videoserver2.org/live/JtYqMJDHqqzD3BQ_5FKo4A/1507500714/9fac7d4ab09566d65b4bc06f4b06ba58.m3u8
 
 ///
