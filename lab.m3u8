@@ -11,3 +11,761 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
 ///////
 
+
+#EXTINF:-1 group-title="FILMES",101 DALMATIONS
+http://www.deadlyblogger.com/NewRelease/dal1.mp4
+#EXTINF:-1 group-title="FILMES",A CHRISTMAS CAROL
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 group-title="FILMES",A DISNEY CHRISTMAS GIFT
+http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
+#EXTINF:-1 group-title="FILMES",CINDERELLA (1950)
+http://www.deadlyblogger.com/NewRelease/cinder1.mp4
+#EXTINF:-1 group-title="FILMES",DUCKTALES: TREASURE OF THE LOST LAMP
+http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
+#EXTINF:-1 group-title="FILMES",EPIC (2013)
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 group-title="FILMES",FINDING NEMO
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+#EXTINF:-1 group-title="FILMES",FREE BIRDS
+http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
+#EXTINF:-1 group-title="FILMES",SNOWMAN
+http://www.deadlyblogger.com/NewRelease/snowman1969.mp4
+#EXTINF:-1 group-title="FILMES",FROZEN
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+#EXTINF:-1 group-title="FILMES",HOCUS POCUS
+http://www.deadlyblogger.com/NewRelease/hocuspocus.mp4
+#EXTINF:-1 group-title="FILMES",HOME ALONE 1
+http://www.deadlyblogger.com/NewRelease/homealone1.mp4
+#EXTINF:-1 group-title="FILMES",HOME ALONE 2
+http://www.deadlyblogger.com/NewRelease/homealone2.mp4
+#EXTINF:-1 group-title="FILMES",HOME ALONE 3
+http://www.deadlyblogger.com/NewRelease/homealone3.mp4
+#EXTINF:-1 group-title="FILMES",HOME ALONE 4
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
+#EXTINF:-1 group-title="FILMES",HOW THE GRINCH STOLE CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
+#EXTINF:-1 group-title="FILMES",HOOK
+http://www.deadlyblogger.com/NewRelease/hook1991.mp4
+#EXTINF:-1 group-title="FILMES",JINGLE ALL THE WAY
+http://www.deadlyblogger.com/NewRelease/jinglealltheway.mp4
+#EXTINF:-1 group-title="FILMES",JUMANJI
+http://www.deadlyblogger.com/NewRelease/Jumanji1.mp4
+#EXTINF:-1 group-title="FILMES",LEGO STAR WARS: THE YODA CHRONICLES
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 group-title="FILMES",LION KING
+http://www.deadlyblogger.com/NewRelease/lionking.mp4
+#EXTINF:-1 group-title="FILMES",MICKEY TWICE UPAN A CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
+#EXTINF:-1 group-title="FILMES",MICKEY'S CHRISTMAS CAROL
+http://www.deadlyblogger.com/NewRelease/mchristmascarol.mp4
+#EXTINF:-1 group-title="FILMES",MICKEY'S MAGICAL CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+#EXTINF:-1 group-title="FILMES",MICKEY SAVES SANTA
+http://www.deadlyblogger.com/NewRelease/msavessanta.mp4
+#EXTINF:-1 group-title="FILMES",MIRACLE ON 34th STREET
+http://www.deadlyblogger.com/NewRelease/miracle34.mp4
+#EXTINF:-1 group-title="FILMES",MONSTERS UNIVERSITY
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 group-title="FILMES",MR PEABODY & SHERMAN
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 group-title="FILMES",MY NEIGHBOR TOTORO
+http://www.deadlyblogger.com/NewRelease/totoro.mp4
+#EXTINF:-1 group-title="FILMES",PETER PAN
+http://www.deadlyblogger.com/NewRelease/pan1.mp4
+#EXTINF:-1 group-title="FILMES",PINOCCHIO
+http://www.deadlyblogger.com/NewRelease/pinco1.mp4
+#EXTINF:-1 group-title="FILMES",RATATOUILLE
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 group-title="FILMES",RIO 2
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 group-title="FILMES",ROBIN HOOD
+http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
+#EXTINF:-1 group-title="FILMES",RUDOLPH THE RED NOSED REINDEER
+http://www.deadlyblogger.com/NewRelease/rednose1964.mp4
+#EXTINF:-1 group-title="FILMES",SAVING MR BANKS
+http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
+#EXTINF:-1 group-title="FILMES",SLEEPING BEAUTY
+http://www.deadlyblogger.com/NewRelease/beauty1.mp4
+#EXTINF:-1 group-title="FILMES",SMURFS 2
+http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
+#EXTINF:-1 group-title="FILMES",TANGLED
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 group-title="FILMES",TARZAN & JANE
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
+#EXTINF:-1 group-title="FILMES",TINKER BELL AND THE PIRATE FAIRY
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 group-title="FILMES",THE FOX & THE HOUND
+http://www.deadlyblogger.com/NewRelease/thefox.mp4
+#EXTINF:-1 group-title="FILMES",THE GOONIES
+http://www.deadlyblogger.com/NewRelease/thegoonies.mp4
+#EXTINF:-1 group-title="FILMES",THE GREAT MOUSE DEDECTIVE
+http://www.deadlyblogger.com/NewRelease/dedective.mp4
+#EXTINF:-1 group-title="FILMES",THE JUNGLE BOOK RETURN TO THE JUNGLE
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 group-title="FILMES",THE LITTLE MERMAID
+http://www.deadlyblogger.com/NewRelease/mermaid1.mp4
+#EXTINF:-1 group-title="FILMES",THE MILLION DOLLAR DUCK
+http://www.deadlyblogger.com/NewRelease/dollarduck.mp4
+#EXTINF:-1 group-title="FILMES",THE LOVE BUG
+http://www.deadlyblogger.com/NewRelease/lovebug1.mp4
+#EXTINF:-1 group-title="FILMES",THE GREAT MUPPETS
+http://www.deadlyblogger.com/NewRelease/muppet1981.mp4
+#EXTINF:-1 group-title="FILMES",THE MUPPETS CHRISTMAS CAROL
+http://www.deadlyblogger.com/NewRelease/muppetcarol.mp4
+#EXTINF:-1 group-title="FILMES",THE MUPPETS TAKE MANHATTAN
+http://www.deadlyblogger.com/NewRelease/muppets1984.mp4
+#EXTINF:-1 group-title="FILMES",THE NIGHMARE BEFORE CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/nightmarebefore.mp4
+#EXTINF:-1 group-title="FILMES",THE POLAR EXPRESS
+http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+#EXTINF:-1 group-title="FILMES",THE SECRET GARDEN
+http://www.deadlyblogger.com/NewRelease/garden1993.mp4
+#EXTINF:-1 group-title="FILMES",TOY STORY OF TERROR
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 group-title="FILMES",WHO FRAMED ROGGER RABIT
+http://www.deadlyblogger.com/NewRelease/framed.mp4
+#EXTINF:-1 group-title="FILMES",AMERICAN GANGSTER
+http://www.deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 group-title="FILMES",AMERICAN HUSTLE
+http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
+#EXTINF:-1 group-title="FILMES",BALLER BLOCKIN
+http://www.deadlyblogger.com/NewRelease/blockin.mp4
+#EXTINF:-1 group-title="FILMES",BELLY
+http://www.deadlyblogger.com/NewRelease/belly1998.mp4
+#EXTINF:-1 group-title="FILMES",BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1 group-title="FILMES",BODY HEAT
+http://www.deadlyblogger.com/NewRelease/bodyheat1981.mp4
+#EXTINF:-1 group-title="FILMES",BOYZ N THE HOOD
+http://www.deadlyblogger.com/NewRelease/thehood.mp4
+#EXTINF:-1 group-title="FILMES",COLORS
+http://www.deadlyblogger.com/NewRelease/colors.mp4
+#EXTINF:-1 group-title="FILMES",DANGEROUS MINDS
+http://www.deadlyblogger.com/NewRelease/minds.mp4
+#EXTINF:-1 group-title="FILMES",DEAD PRESIDENTS
+http://www.deadlyblogger.com/NewRelease/deadp.mp4
+#EXTINF:-1 group-title="FILMES",DIRTY
+http://www.deadlyblogger.com/NewRelease/dirty1.mp4
+#EXTINF:-1 group-title="FILMES",FOUR BROTHERS
+http://www.deadlyblogger.com/NewRelease/fourb.mp4
+#EXTINF:-1 group-title="FILMES",IN TOO DEEP / LL COOL J
+http://www.deadlyblogger.com/NewRelease/deep1999.mp4
+#EXTINF:-1 group-title="FILMES",INSIDE MAN
+http://www.deadlyblogger.com/NewRelease/insideman.mp4
+#EXTINF:-1 group-title="FILMES",JAWBREAKER
+http://www.deadlyblogger.com/NewRelease/jawbreaker.mp4
+#EXTINF:-1 group-title="FILMES",JUICE
+http://www.deadlyblogger.com/NewRelease/juice.mp4
+#EXTINF:-1 group-title="FILMES",KILLA SEASON
+http://www.deadlyblogger.com/NewRelease/killa1.mp4
+#EXTINF:-1 group-title="FILMES",KING OF PAPER CHASIN
+http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 group-title="FILMES",LAW ABIDING CITIZEN
+http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
+#EXTINF:-1 group-title="FILMES",MENACE II SOCIETY
+http://www.deadlyblogger.com/NewRelease/menace2.mp4
+#EXTINF:-1 group-title="FILMES",NEW JACK CITY
+http://www.deadlyblogger.com/NewRelease/newjack.mp4
+#EXTINF:-1 group-title="FILMES",NEW JERSEY DRIVE
+http://www.deadlyblogger.com/NewRelease/jerseydrive95.mp4
+#EXTINF:-1 group-title="FILMES",NOW YOU SEE ME
+http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+#EXTINF:-1 group-title="FILMES",PAID IN FULL
+http://www.deadlyblogger.com/NewRelease/paidin.mp4
+#EXTINF:-1 group-title="FILMES",PRISONERS
+http://www.deadlyblogger.com/NewRelease/prisoners.mp4
+#EXTINF:-1 group-title="FILMES",ROMPER STOMPER
+http://www.deadlyblogger.com/NewRelease/romper.mp4
+#EXTINF:-1 group-title="FILMES",RUNNER RUNNER
+http://www.deadlyblogger.com/NewRelease/runnerrunner.mp4
+#EXTINF:-1 group-title="FILMES",SAFE HOUSE
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+#EXTINF:-1 group-title="FILMES",SHAFT
+http://www.deadlyblogger.com/NewRelease/shaft1.mp4
+#EXTINF:-1 group-title="FILMES",SHOTTAS
+http://www.deadlyblogger.com/NewRelease/shottas.mp4
+#EXTINF:-1 group-title="FILMES",SOUTH CENTRAL
+http://www.deadlyblogger.com/NewRelease/southcentral.mp4
+#EXTINF:-1 group-title="FILMES",SPRING BREAKERS
+http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+#EXTINF:-1 group-title="FILMES",THE BLING RING
+http://www.deadlyblogger.com/NewRelease/blingring.mp4
+#EXTINF:-1 group-title="FILMES",THE BONE COLLECTOR
+http://www.deadlyblogger.com/NewRelease/thebone1.mp4
+#EXTINF:-1 group-title="FILMES",THE BONDOCK SAINTS
+http://www.deadlyblogger.com/NewRelease/saints1999.mp4
+#EXTINF:-1 group-title="FILMES",THE CALL
+http://www.deadlyblogger.com/NewRelease/thecall.mp4
+#EXTINF:-1 group-title="FILMES",THE COUNSELOR
+http://www.deadlyblogger.com/NewRelease/thecounselor2013.mp4
+#EXTINF:-1 group-title="FILMES",THE GIRL WITH THE DRAGON TATTOO
+http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
+#EXTINF:-1 group-title="FILMES",THE GODFATHER 1
+http://www.deadlyblogger.com/NewRelease/godfather1.mp4
+#EXTINF:-1 group-title="FILMES",THE GODFATHER 2
+http://www.deadlyblogger.com/NewRelease/godfather2.mp4
+#EXTINF:-1 group-title="FILMES",THE GODFATHER 3
+http://www.deadlyblogger.com/NewRelease/godfather3.mp4
+#EXTINF:-1 group-title="FILMES",THE SIEGE
+http://www.deadlyblogger.com/NewRelease/siege1.mp4
+#EXTINF:-1 group-title="FILMES",THE TAKING OF PELHAM 123
+http://www.deadlyblogger.com/NewRelease/pelham123.mp4
+#EXTINF:-1 group-title="FILMES",THE WOLF OF WALL STREET
+http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
+#EXTINF:-1 group-title="FILMES",TRAINING DAY
+http://www.deadlyblogger.com/NewRelease/training.mp4
+#EXTINF:-1 group-title="FILMES",VERONICA MARS
+http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
+#EXTINF:-1 group-title="FILMES",THE INTERNSHIP
+http://www.deadlyblogger.com/NewRelease/internship2013.mp4
+#EXTINF:-1 group-title="FILMES",TYLER PERRYS MADEAS NEIGHBORS: FROM HELL
+http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
+#EXTINF:-1 group-title="FILMES",THIS IS THE END
+http://www.deadlyblogger.com/NewRelease/theend.mp4
+#EXTINF:-1 group-title="FILMES",THIS IS 40
+http://www.deadlyblogger.com/NewRelease/thisis40.mp4
+#EXTINF:-1 group-title="FILMES",THINK LIKE A MAN
+http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
+#EXTINF:-1 group-title="FILMES",THE WEDDING SINGER
+http://www.deadlyblogger.com/NewRelease/wedding1998.mp4
+#EXTINF:-1 group-title="FILMES",THE STARVING GAMES
+http://www.deadlyblogger.com/NewRelease/starving2013.mp4
+#EXTINF:-1 group-title="FILMES",THE OTHER GUYS
+http://www.deadlyblogger.com/NewRelease/otherguys.mp4
+#EXTINF:-1 group-title="FILMES",THE MONEY PITT
+http://www.deadlyblogger.com/NewRelease/moneypit1986.mp4
+#EXTINF:-1 group-title="FILMES",THE HOUSE BUNNY
+http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
+#EXTINF:-1 group-title="FILMES",THE HEAT
+http://www.deadlyblogger.com/NewRelease/theheat.mp4
+#EXTINF:-1 group-title="FILMES",TALLADEGA NIGHTS
+http://www.deadlyblogger.com/NewRelease/talla.mp4
+#EXTINF:-1 group-title="FILMES",STEP BROTHERS
+http://www.deadlyblogger.com/NewRelease/stepbro.mp4
+#EXTINF:-1 group-title="FILMES",SEMI PRO
+http://www.deadlyblogger.com/NewRelease/semipro.mp4
+#EXTINF:-1 group-title="FILMES",SCHOOL DANCE
+http://www.deadlyblogger.com/NewRelease/schooldance.mp4
+#EXTINF:-1 group-title="FILMES",RIDE ALONG
+http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
+#EXTINF:-1 group-title="FILMES",PROJECT X
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+#EXTINF:-1 group-title="FILMES",POOTIE TANG
+http://www.deadlyblogger.com/NewRelease/pootie.mp4
+#EXTINF:-1 group-title="FILMES",PITCH PERFECT
+http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
+#EXTINF:-1 group-title="FILMES",PEEPLES
+http://www.deadlyblogger.com/NewRelease/peeles.mp4
+#EXTINF:-1 group-title="FILMES",OLD SCHOOL
+http://www.deadlyblogger.com/NewRelease/oldschool1.mp4
+#EXTINF:-1 group-title="FILMES",NAPOLEAN DYNAMITE
+http://www.deadlyblogger.com/NewRelease/napolean.mp4
+#EXTINF:-1 group-title="FILMES",MRS DOUBTFIRE
+http://www.deadlyblogger.com/NewRelease/doubtfire.mp4
+#EXTINF:-1 group-title="FILMES",MEET THE BROWNS
+http://www.deadlyblogger.com/NewRelease/browns1.mp4
+#EXTINF:-1 group-title="FILMES",MALIBU MOST WANTED
+http://www.deadlyblogger.com/NewRelease/malibu1.mp4
+#EXTINF:-1 group-title="FILMES",MADEAS FAMILY REUNION
+http://www.deadlyblogger.com/NewRelease/madea2.mp4
+#EXTINF:-1 group-title="FILMES",MADEA GOES TO JAIL
+http://www.deadlyblogger.com/NewRelease/madea1.mp4
+#EXTINF:-1 group-title="FILMES",LIFE OF BRIAN
+http://www.deadlyblogger.com/NewRelease/lifebrian.mp4
+#EXTINF:-1 group-title="FILMES",LAST VEGAS
+http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
+#EXTINF:-1 group-title="FILMES",LAND OF THE LOST
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+#EXTINF:-1 group-title="FILMES",KICKING AND SCREAMING
+http://www.deadlyblogger.com/NewRelease/kicking.mp4
+#EXTINF:-1 group-title="FILMES",KEVIN HART: LET ME EXPLAIN
+http://www.deadlyblogger.com/NewRelease/kevin.mp4
+#EXTINF:-1 group-title="FILMES",STRIKE BACK
+http://www.deadlyblogger.com/NewRelease/strikeback.mp4
+#EXTINF:-1 group-title="FILMES",JACK
+http://www.deadlyblogger.com/NewRelease/jack1996.mp4
+#EXTINF:-1 group-title="FILMES",JACKASS 3D
+http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
+#EXTINF:-1 group-title="FILMES",IDENTITY THIEF
+http://www.deadlyblogger.com/NewRelease/identitythief.mp4
+#EXTINF:-1 group-title="FILMES",HOT TUB TIME MACHINE
+http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
+#EXTINF:-1 group-title="FILMES",HOT FUZZ
+http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
+#EXTINF:-1 group-title="FILMES",HANG OVER 1
+http://www.deadlyblogger.com/NewRelease/hangover1.mp4
+#EXTINF:-1 group-title="FILMES",HANG OVER 2
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 group-title="FILMES",HANG OVER 3
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+#EXTINF:-1 group-title="FILMES",GROWN UPS
+http://www.deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1 group-title="FILMES",GROWN UPS 2
+http://www.deadlyblogger.com/NewRelease/grown2.mp4
+#EXTINF:-1 group-title="FILMES",A HAUNTED HOUSE 2 (COMEDY)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 group-title="FILMES",ANCHORMAN THE LEGEND OF RON BURGUNDY
+http://www.deadlyblogger.com/NewRelease/anchorman.mp4
+#EXTINF:-1 group-title="FILMES",ANCHORMAN 2: THE LEGEND CONTINUES
+http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
+#EXTINF:-1 group-title="FILMES",A NIGHT AT ROXBURY
+http://www.deadlyblogger.com/NewRelease/roxbury.mp4
+#EXTINF:-1 group-title="FILMES",AUSTIN POWERS
+http://www.deadlyblogger.com/NewRelease/austin1.mp4
+#EXTINF:-1 group-title="FILMES",AUSTIN POWERS: THE SPY WHO SHAGGED ME
+http://www.deadlyblogger.com/NewRelease/austin2.mp4
+#EXTINF:-1 group-title="FILMES",BAD GRANDPA
+http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
+#EXTINF:-1 group-title="FILMES",BEWITCHED
+http://www.deadlyblogger.com/NewRelease/bewitched.mp4
+#EXTINF:-1 group-title="FILMES",BLADES OF GLORY
+http://www.deadlyblogger.com/NewRelease/glory.mp4
+#EXTINF:-1 group-title="FILMES",CLASS ACT
+http://www.deadlyblogger.com/NewRelease/classact.mp4
+#EXTINF:-1 group-title="FILMES",DELIVERY MAN
+http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
+#EXTINF:-1 group-title="FILMES",DOGMA
+http://www.deadlyblogger.com/NewRelease/dogma1999.mp4
+#EXTINF:-1 group-title="FILMES",DONT TELL MOM THE BABYSITTERS DEAD
+http://www.deadlyblogger.com/NewRelease/babysitter1991.mp4
+#EXTINF:-1 group-title="FILMES",DONT BE A MENACE
+http://www.deadlyblogger.com/NewRelease/menace.mp4
+#EXTINF:-1 group-title="FILMES",ELF
+http://www.deadlyblogger.com/NewRelease/elf1.mp4
+#EXTINF:-1 group-title="FILMES",EVERYTHING MUST GO
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 group-title="FILMES",FLUBBER
+http://www.deadlyblogger.com/NewRelease/flubber.mp4
+#EXTINF:-1 group-title="FILMES",PLANET OF THE APES (1968)
+http://www.deadlyblogger.com/NewRelease/apes1.mp4
+#EXTINF:-1 group-title="FILMES",BEANEATH PLANET OF THE APES
+http://www.deadlyblogger.com/NewRelease/apes2.mp4
+#EXTINF:-1 group-title="FILMES",ESCAPE FROM THE PLANET OF THE APES
+http://www.deadlyblogger.com/NewRelease/apes3.mp4
+#EXTINF:-1 group-title="FILMES",CONQUEST OF THE PLANET OF THE APES
+http://www.deadlyblogger.com/NewRelease/apes4.mp4
+#EXTINF:-1 group-title="FILMES",BATTLE FOR THE PLANET OF THE APES
+http://www.deadlyblogger.com/NewRelease/apes5.mp4
+#EXTINF:-1 group-title="FILMES",PLANET OF THE APES
+http://www.deadlyblogger.com/NewRelease/apes6.mp4
+#EXTINF:-1 group-title="FILMES",RISE OF THE PLANET OF THE APES
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+#EXTINF:-1 group-title="FILMES",POMPEII
+http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
+#EXTINF:-1 group-title="FILMES",PROMETHEUS
+http://www.deadlyblogger.com/NewRelease/prometheus.mp4
+#EXTINF:-1 group-title="FILMES",STAR WARS IV (A NEW HOPE)
+http://www.deadlyblogger.com/NewRelease/starwarsiv.mp4
+#EXTINF:-1 group-title="FILMES",STAR WARS V (THE EMPIRE STRIKES BACK)
+http://www.deadlyblogger.com/NewRelease/starwarsv.mp4
+#EXTINF:-1 group-title="FILMES",STAR WARS VI (RETURN OF THE JEDI)
+http://www.deadlyblogger.com/NewRelease/starwarsvi.mp4
+#EXTINF:-1 group-title="FILMES",STAR WARS I (THE PHANTOM MENACE)
+http://www.deadlyblogger.com/NewRelease/starwars1.mp4
+#EXTINF:-1 group-title="FILMES",STAR WARS II (ATTACK OF THE CLONES)
+http://www.deadlyblogger.com/NewRelease/starwars2.mp4
+#EXTINF:-1 group-title="FILMES",STAR WARS III (REVENGE OF THE SITH)
+http://www.deadlyblogger.com/NewRelease/starwars3.mp4
+#EXTINF:-1 group-title="FILMES",SUPERMAN: MAN OF STEELS
+http://www.deadlyblogger.com/NewRelease/steel.mp4
+#EXTINF:-1 group-title="FILMES",TEENAGE MUTANT NINJA TURTLES
+http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
+#EXTINF:-1 group-title="FILMES",TEENAGE MUTANT NINJA TURTLES II
+http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
+#EXTINF:-1 group-title="FILMES",TEENAGE MUTANT NINJA TURTLES III
+http://www.deadlyblogger.com/NewRelease/tmnt3.mp4
+#EXTINF:-1 group-title="FILMES",THE BOURNE IDENTITY
+http://www.deadlyblogger.com/NewRelease/bourne1.mp4
+#EXTINF:-1 group-title="FILMES",THE BOURNE SUPREMACY
+http://www.deadlyblogger.com/NewRelease/bourne2.mp4
+#EXTINF:-1 group-title="FILMES",THE BOURNE ULTIMATUM
+http://www.deadlyblogger.com/NewRelease/bourne3.mp4
+#EXTINF:-1 group-title="FILMES",THE BOURNE LEGACY
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+#EXTINF:-1 group-title="FILMES",THE DAY AFTER TOMORROW
+http://www.deadlyblogger.com/NewRelease/theday2004.mp4
+#EXTINF:-1 group-title="FILMES",THE FAST AND THE FURIOUS
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+#EXTINF:-1 group-title="FILMES",THE FAST AND THE FURIOUS 2
+http://www.deadlyblogger.com/NewRelease/fast2.mp4
+#EXTINF:-1 group-title="FILMES",THE FAST AND THE FURIOUS 3:TOKYO DRIFT
+http://www.deadlyblogger.com/NewRelease/fast3.mp4
+#EXTINF:-1 group-title="FILMES",FAST AND FURIOUS 4
+http://www.deadlyblogger.com/NewRelease/fast4.mp4
+#EXTINF:-1 group-title="FILMES",FAST FIVE
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+#EXTINF:-1 group-title="FILMES",FAST AND THE FURIOUS 6
+http://www.deadlyblogger.com/NewRelease/fast6.mp4
+#EXTINF:-1 group-title="FILMES",THE AMAZING SPIDERMAN 2
+http://www.deadlyblogger.com/NewRelease/amazin2.mp4
+#EXTINF:-1 group-title="FILMES",THE GRANDMASTERS
+http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
+#EXTINF:-1 group-title="FILMES",THE GREY
+http://www.deadlyblogger.com/NewRelease/grey.mp4
+#EXTINF:-1 group-title="FILMES",THE HITLIST
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+#EXTINF:-1 group-title="FILMES",THE HOBBIT AN UNEXPECTED JOURNEY
+http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
+#EXTINF:-1 group-title="FILMES",THE HUNGER GAMES
+http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
+#EXTINF:-1 group-title="FILMES",THE HUNGER GAMES: CATCHING FIRE
+http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
+#EXTINF:-1 group-title="FILMES",THE KICK
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1 group-title="FILMES",THE LAST DRAGON
+http://www.deadlyblogger.com/NewRelease/lastdragon.mp4
+#EXTINF:-1 group-title="FILMES",THE LAST STAND
+http://www.deadlyblogger.com/NewRelease/laststand.mp4
+#EXTINF:-1 group-title="FILMES",THE LONE RANGERS
+http://www.deadlyblogger.com/NewRelease/lone.mp4
+#EXTINF:-1 group-title="FILMES",THE LORD OF THE RINGS:THE FELLOWSHIP OF THE RING
+http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
+#EXTINF:-1 group-title="FILMES",THE LORD OF THE RINGS:THE RETURN OF THE KING
+http://www.deadlyblogger.com/NewRelease/returnking1.mp4
+#EXTINF:-1 group-title="FILMES",THE LORD OF THE RINGS:THE 2 TOWERS
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+#EXTINF:-1 group-title="FILMES",THE MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+#EXTINF:-1 group-title="FILMES",THE MATRIX RELOADED
+http://www.deadlyblogger.com/NewRelease/matrix2.mp4
+#EXTINF:-1 group-title="FILMES",THE MATRIX REVOLUTIONS
+http://www.deadlyblogger.com/NewRelease/matrix3.mp4
+#EXTINF:-1 group-title="FILMES",THE MIGHTY DUCKS 1
+http://www.deadlyblogger.com/NewRelease/mighty1.mp4
+#EXTINF:-1 group-title="FILMES",THE MIGHTY DUCKS 2
+http://www.deadlyblogger.com/NewRelease/mighty2.mp4
+#EXTINF:-1 group-title="FILMES",THE MIGHTY DUCKS 3
+http://www.deadlyblogger.com/NewRelease/mighty3.mp4
+#EXTINF:-1 group-title="FILMES",THE MORTAL INSTRUMENTS CITY OF BONES
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+#EXTINF:-1 group-title="FILMES",THE RUNNING MAN
+http://www.deadlyblogger.com/NewRelease/runningman1987.mp4
+#EXTINF:-1 group-title="FILMES",TRANSFORMERS
+http://www.deadlyblogger.com/NewRelease/transformers1.mp4
+#EXTINF:-1 group-title="FILMES",TRANSFORMERS:REVENGE OF THE FALLEN
+http://www.deadlyblogger.com/NewRelease/transformers2.mp4
+#EXTINF:-1 group-title="FILMES",TRANSFORMERS:DARK OF THE MOON
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+#EXTINF:-1 group-title="FILMES",UNSTOPPABLE
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+#EXTINF:-1 group-title="FILMES",WHITE HOUSE DOWN
+http://www.deadlyblogger.com/NewRelease/white.mp4
+#EXTINF:-1 group-title="FILMES",WILD WILD WEST
+http://www.deadlyblogger.com/NewRelease/wildwest.mp4
+#EXTINF:-1 group-title="FILMES",WORLD WAR Z
+http://www.deadlyblogger.com/NewRelease/world.mp4
+#EXTINF:-1 group-title="FILMES",300 RISE OF AN EMPIRE
+http://www.deadlyblogger.com/NewRelease/300rise.mp4
+#EXTINF:-1 group-title="FILMES",3 NINJA
+http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
+#EXTINF:-1 group-title="FILMES",3 NINJA 2: KICK BACK
+http://www.deadlyblogger.com/NewRelease/3ninja2.mp4
+#EXTINF:-1 group-title="FILMES",3 NINJA 3: KNUCKLE UP
+http://www.deadlyblogger.com/NewRelease/3ninja3.mp4
+#EXTINF:-1 group-title="FILMES",3 NINJA 4: HIGH NOON AT MEGA MOUNTIN
+http://www.deadlyblogger.com/NewRelease/3ninja4.mp4
+#EXTINF:-1 group-title="FILMES",47 RONIN
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 group-title="FILMES",AFTER EARTH
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 group-title="FILMES",ALI
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1 group-title="FILMES",ANIMAL
+http://www.deadlyblogger.com/NewRelease/animal.mp4
+#EXTINF:-1 group-title="FILMES",BAD BOYS
+http://www.deadlyblogger.com/NewRelease/badboys1.mp4
+#EXTINF:-1 group-title="FILMES",BAD BOYS 2
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+#EXTINF:-1 group-title="FILMES",BATTLE OF THE YEAR
+http://www.deadlyblogger.com/NewRelease/battleyear2013.mp4
+#EXTINF:-1 group-title="FILMES",I AM LEGEND
+http://www.deadlyblogger.com/NewRelease/iaml.mp4
+#EXTINF:-1 group-title="FILMES",I ROBOT
+http://www.deadlyblogger.com/NewRelease/irobot.mp4
+#EXTINF:-1 group-title="FILMES",IRON MAN
+http://www.deadlyblogger.com/NewRelease/ironman1.mp4
+#EXTINF:-1 group-title="FILMES",IRON MAN 2
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 group-title="FILMES",IRON MAN 3
+http://www.deadlyblogger.com/NewRelease/ironman3.mp4
+#EXTINF:-1 group-title="FILMES",INDEPENDANCE DAY
+http://www.deadlyblogger.com/NewRelease/indep.mp4
+#EXTINF:-1 group-title="FILMES",KICK ASS 2
+http://www.deadlyblogger.com/NewRelease/kickass2.mp4
+#EXTINF:-1 group-title="FILMES",KILLING SEASON
+http://www.deadlyblogger.com/NewRelease/killings.mp4
+#EXTINF:-1 group-title="FILMES",MAN OF TAI CHI
+http://www.deadlyblogger.com/NewRelease/tai.mp4
+#EXTINF:-1 group-title="FILMES",MEN IN BLACK
+http://www.deadlyblogger.com/NewRelease/mnb1.mp4
+#EXTINF:-1 group-title="FILMES",MEN IN BLACK 2
+http://www.deadlyblogger.com/NewRelease/mnb2.mp4
+#EXTINF:-1 group-title="FILMES",MEN IN BLACK 3
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+#EXTINF:-1 group-title="FILMES",NON STOP
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
+#EXTINF:-1 group-title="FILMES",OLYMPUS HAS FALLEN
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+#EXTINF:-1 group-title="FILMES",ONLY THE STRONG
+http://www.deadlyblogger.com/NewRelease/onlys.mp4
+#EXTINF:-1 group-title="FILMES",SEVEN POUNDS
+http://www.deadlyblogger.com/NewRelease/sevenp.mp4
+#EXTINF:-1 group-title="FILMES",PACIFIC RIM
+http://www.deadlyblogger.com/NewRelease/rim.mp4
+#EXTINF:-1 group-title="FILMES",CHILDS PLAY 1
+http://www.deadlyblogger.com/NewRelease/childsplay1.mp4
+#EXTINF:-1 group-title="FILMES",CHILDS PLAY 2
+http://www.deadlyblogger.com/NewRelease/childsplay2.mp4
+#EXTINF:-1 group-title="FILMES",CHILDS PLAY 3
+http://www.deadlyblogger.com/NewRelease/childsplay3.mp4
+#EXTINF:-1 group-title="FILMES",CHILDS PLAY 4: CURSE OF CHUCKY
+http://www.deadlyblogger.com/NewRelease/curseofchucky.mp4
+#EXTINF:-1 group-title="FILMES",CUJO
+http://www.deadlyblogger.com/NewRelease/cujo.mp4
+#EXTINF:-1 group-title="FILMES",EVIL DEAD
+http://www.deadlyblogger.com/NewRelease/dead.mp4
+#EXTINF:-1 group-title="FILMES",FRIDAY THE 13TH
+http://www.deadlyblogger.com/NewRelease/friday1980.mp4
+#EXTINF:-1 group-title="FILMES",INSIDIOUS
+http://www.deadlyblogger.com/NewRelease/insidious1.mp4
+#EXTINF:-1 group-title="FILMES",INSIDIOUS 2
+http://www.deadlyblogger.com/NewRelease/insidious2.mp4
+#EXTINF:-1 group-title="FILMES",ORPHAN
+http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
+#EXTINF:-1 group-title="FILMES",PARANORMAL ACTIVITY: THE MARKED ONES
+http://www.deadlyblogger.com/NewRelease/markedones.mp4
+#EXTINF:-1 group-title="FILMES",PET SEMATARY
+http://www.deadlyblogger.com/NewRelease/sematary1.mp4
+#EXTINF:-1 group-title="FILMES",PEY SEMATARY 2
+http://www.deadlyblogger.com/NewRelease/sematary2.mp4
+#EXTINF:-1 group-title="FILMES",REPENTANCE
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 group-title="FILMES",CABIN BY THE LAKE
+http://www.deadlyblogger.com/NewRelease/cabin1.mp4
+#EXTINF:-1 group-title="FILMES",RETURN TO CABIN BY THE LAKE
+http://www.deadlyblogger.com/NewRelease/cabin2.mp4
+#EXTINF:-1 group-title="FILMES",SAW 1
+http://www.deadlyblogger.com/NewRelease/saw1.mp4
+#EXTINF:-1 group-title="FILMES",SAW 2
+http://www.deadlyblogger.com/NewRelease/saw2.mp4
+#EXTINF:-1 group-title="FILMES",SAW 3
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 group-title="FILMES",SAW 4
+http://www.deadlyblogger.com/NewRelease/saw4.mp4
+#EXTINF:-1 group-title="FILMES",SAW 5
+http://www.deadlyblogger.com/NewRelease/saw5.mp4
+#EXTINF:-1 group-title="FILMES",SAW 6
+http://www.deadlyblogger.com/NewRelease/saw6.mp4
+#EXTINF:-1 group-title="FILMES",SAW 7
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+#EXTINF:-1 group-title="FILMES",TEXAS CHAINSAW MASSACRE
+http://www.deadlyblogger.com/NewRelease/chainsaw2013.mp4
+#EXTINF:-1 group-title="FILMES",THE CONJURING
+http://www.deadlyblogger.com/NewRelease/conjuring.mp4
+#EXTINF:-1 group-title="FILMES",THE EXORCIST
+http://www.deadlyblogger.com/NewRelease/exorcist1.mp4
+#EXTINF:-1 group-title="FILMES",THE PURGE
+http://www.deadlyblogger.com/NewRelease/purge.mp4
+#EXTINF:-1 group-title="FILMES",THE QUITE ONE
+http://www.deadlyblogger.com/NewRelease/quiteone.mp4
+#EXTINF:-1 group-title="FILMES",THE SHINING
+http://www.deadlyblogger.com/NewRelease/shining.mp4
+#EXTINF:-1 group-title="FILMES",TROLL
+http://www.deadlyblogger.com/NewRelease/.mp4
+#EXTINF:-1 group-title="FILMES",TROLL 2
+http://www.deadlyblogger.com/NewRelease/.mp4
+#EXTINF:-1 group-title="FILMES",WRONG TURN 1
+http://www.deadlyblogger.com/NewRelease/wrongturn1.mp4
+#EXTINF:-1 group-title="FILMES",WRONG TURN 2
+http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
+#EXTINF:-1 group-title="FILMES",WRONG TURN 3
+http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
+#EXTINF:-1 group-title="FILMES",WRONG TURN 4
+http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
+#EXTINF:-1 group-title="FILMES",WRONG TURN 5
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+#EXTINF:-1 group-title="FILMES",YOU'RE NEXT
+http://www.deadlyblogger.com/NewRelease/yournext.mp4
+#EXTINF:-1 group-title="FILMES",CARRIE (1976)
+http://www.deadlyblogger.com/NewRelease/carrie1976.mp4
+#EXTINF:-1 group-title="FILMES",CARRIE (2013)
+http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
+#EXTINF:-1 group-title="FILMES",AFFLICTED
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 group-title="FILMES",28 DAYS LATER
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+#EXTINF:-1 group-title="FILMES",12 YEARS A SLAVE
+http://www.deadlyblogger.com/NewRelease/12slave.mp4
+#EXTINF:-1 group-title="FILMES",DEJA VU
+http://www.deadlyblogger.com/NewRelease/dejavu.mp4
+#EXTINF:-1 group-title="FILMES",DIRTY DANCING (1987)
+http://www.deadlyblogger.com/NewRelease/dirtydancing1987.mp4
+#EXTINF:-1 group-title="FILMES",DIRTY DANCING HAVANA
+http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
+#EXTINF:-1 group-title="FILMES",FALLEN
+http://www.deadlyblogger.com/NewRelease/fallen2.mp4
+#EXTINF:-1 group-title="FILMES",EXPENDABLES 3
+http://www.deadlyblogger.com/NewRelease/expendables3.mp4
+#EXTINF:-1 group-title="FILMES",3 DAYS TO KILL
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 group-title="FILMES",ELM STREET 1
+http://www.deadlyblogger.com/NewRelease/elm1.mp4
+#EXTINF:-1 group-title="FILMES",ELM STREET 2
+http://www.deadlyblogger.com/NewRelease/elm2.mp4
+#EXTINF:-1 group-title="FILMES",ELM STREET 3
+http://www.deadlyblogger.com/NewRelease/elm3.mp4
+#EXTINF:-1 group-title="FILMES",ELM STREET 4
+http://www.deadlyblogger.com/NewRelease/elm4.mp4
+#EXTINF:-1 group-title="FILMES",ELM STREET 5
+http://www.deadlyblogger.com/NewRelease/elm5.mp4
+#EXTINF:-1 group-title="FILMES",ELM STREET 6
+http://www.deadlyblogger.com/NewRelease/elm6.mp4
+#EXTINF:-1 group-title="FILMES",ELM STREET 7
+http://www.deadlyblogger.com/NewRelease/elm7.mp4
+#EXTINF:-1 group-title="FILMES",XMEN 1
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1 group-title="FILMES",XMEN 2
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 group-title="FILMES",XMEN 3
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1 group-title="FILMES",XMEN ORIGIN
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1 group-title="FILMES",XMEN 3
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1 group-title="FILMES",XMEN 4
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1 group-title="FILMES",THE WOLVERINE
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1 group-title="FILMES",FRIDAY 1
+http://www.deadlyblogger.com/NewRelease/friday1.mp4
+#EXTINF:-1 group-title="FILMES",FRIDAY 2
+http://www.deadlyblogger.com/NewRelease/friday2.mp4
+#EXTINF:-1 group-title="FILMES",FRIDAY 3
+http://www.deadlyblogger.com/NewRelease/friday3.mp4
+#EXTINF:-1 group-title="FILMES",3 DAYS
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 group-title="FILMES",AFTER
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 group-title="FILMES",BAD WORDS
+http://www.deadlyblogger.com/NewRelease/badwords.mp4
+#EXTINF:-1 group-title="FILMES",BLADE 1
+http://www.deadlyblogger.com/NewRelease/blade1.mp4
+#EXTINF:-1 group-title="FILMES",BLADE 2
+http://www.deadlyblogger.com/NewRelease/blade2.mp4
+#EXTINF:-1 group-title="FILMES",BLADE 3
+http://www.deadlyblogger.com/NewRelease/blade3.mp4
+#EXTINF:-1 group-title="FILMES",CONGO 1995
+http://www.deadlyblogger.com/NewRelease/congo1995.mp4
+#EXTINF:-1 group-title="FILMES",CRIMSON
+http://www.deadlyblogger.com/NewRelease/crimson.mp4
+#EXTINF:-1 group-title="FILMES",EMPIRE STATE
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4
+#EXTINF:-1 group-title="FILMES",ESCAPE PLAN
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:-1 group-title="FILMES",FLIGHT
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 group-title="FILMES",GRUDGE MATCH
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
+#EXTINF:-1 group-title="FILMES",MALEFICENT
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:-1 group-title="FILMES",NEED FOR SPEED
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:-1 group-title="FILMES",TAMMY
+http://www.deadlyblogger.com/NewRelease/tammy2014.mp4
+#EXTINF:-1 group-title="FILMES",THE FAMILY
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+#EXTINF:-1 group-title="FILMES",HOBBIT THE SMAUG
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1 group-title="FILMES",THE LEGO MOVIE
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 group-title="FILMES",SINGLE MOMS CLUB
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4
+#EXTINF:-1 group-title="FILMES",TURBO
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1 group-title="FILMES",THE MILLERS
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:-1 group-title="FILMES",CHILDREN OF THE CORN 1
+http://www.deadlyblogger.com/NewRelease/corn1984.mp4
+#EXTINF:-1 group-title="FILMES",CHILDREN OF THE CORN 2
+http://www.deadlyblogger.com/NewRelease/corn2.mp4
+#EXTINF:-1 group-title="FILMES",CHILDREN OF THE CORN 3
+http://www.deadlyblogger.com/NewRelease/corn3.mp4
+#EXTINF:-1 group-title="FILMES",CHILDREN OF THE CORN 4
+http://www.deadlyblogger.com/NewRelease/corn4.mp4
+#EXTINF:-1 group-title="FILMES",CHILDREN OF THE CORN 5
+http://www.deadlyblogger.com/NewRelease/corn5.mp4
+#EXTINF:-1 group-title="FILMES",CHILDREN OF THE CORN 6
+http://www.deadlyblogger.com/NewRelease/corn6.mp4
+
+#EXTINF:-1,300 Rise Of An Empire starts
+http://www.deadlyblogger.com/NewRelease/300rise.mp4
+
+#EXTINF:-1,After Earth
+http://www.deadlyblogger.com/NewRelease/after.mp4
+
+#EXTINF:-1,Ali
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+
+#EXTINF:-1,Turbo
+http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+ 
+#EXTINF:-1,The Hobbit The Desolation Of Smaug
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4 
+
+
+#EXTINF:-1,xmen1          
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1,xmen2          
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1,xmen3          
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1,xmen origin    
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1,xmen the last stand  
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1,xmen first class     
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1,The Wolverine (FILM  
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+
+
+#EXTINF:-1,After Earth (FILM)
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1,Bad Boys 2 (FILM)
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+#EXTINF:-1,Bad Words (FILM)
+http://www.deadlyblogger.com/NewRelease/badwords.mp4 
+#EXTINF:-1,Blade 1 (FILM)
+http://www.deadlyblogger.com/NewRelease/blade1.mp4
+#EXTINF:-1,Blade 2 (FILM)
+http://www.deadlyblogger.com/NewRelease/blade2.mp4 
+#EXTINF:-1,Blade 3 (FILM)
+http://www.deadlyblogger.com/NewRelease/blade3.mp4 
+#EXTINF:-1,Congo (FILM)
+http://www.deadlyblogger.com/NewRelease/congo1995.mp4 
+#EXTINF:-1,Crimson Tide (FILM)
+http://www.deadlyblogger.com/NewRelease/crimson.mp4 
+#EXTINF:-1,Empire State (FILM)
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4 
+#EXTINF:-1,Escape Plan (FILM)
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4 
+#EXTINF:-1,Flight (FILM)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4 
+#EXTINF:-1,Grudge Match (FILM)
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4 
+#EXTINF:-1,Maleficent (FILM)
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4 
+#EXTINF:-1,Need For Speed (FILM)
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4 
+#EXTINF:-1,Tammy (FILM)
+http://www.deadlyblogger.com/NewRelease/tammy2014.mp4 
+#EXTINF:-1,The Family (FILM)
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4 
+#EXTINF:-1,The Hobbit The Desolation Of Smaug (FILM)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4 
+#EXTINF:-1,The Lego Movie (FILM)
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4 
+#EXTINF:-1,The Single Moms Club (FILM)
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4 
+#EXTINF:-1,Turbo (FILM)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4 
