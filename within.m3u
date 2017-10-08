@@ -3,8 +3,25 @@
 #EXTINF:-1 tvg-logo="" group-title="LABEL",* Fluxus Within : F*ck OFF!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1,Action test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png" group-title="24/7",Action Movies [NoKodi]
 https://videoserver1.org/live/bJjk0ifr4ieScEkYCIYPqw/1507501864/90ce2364e02379b96643fe4d0f2d7c25.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img03.deviantart.net/5b48/i/2006/047/8/2/animated_movie_logo_by_mikemedia.jpg" group-title="24/7",Animated Movies [NoKodi]
+https://videoserver1.org/live/nkmtA856mDMKzMafDYsX9w/1507500858/7e18e745bf13ed4e73c5e612599b4cf5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/09/anime-cover-page.png " group-title="24/7",Anime Movies [NoKodi]
+https://videoserver2.org/live/5chkV2T4WsaY3DjoROIpjw/1507500964/d4fda09f200a7fcb0c05ad251b18d380.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/06/14.png" group-title="24/7",Classic Cartoons [NoKodi]
+https://videoserver2.org/live/XBW4tT03E3e95x-85KU43A/1507500247/d91af6958918af87d6a057c1cdf5b225.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsplace.com/icons/preview/orange/comedy-256.png" group-title="24/7",Comedy Movies [NoKodi]
+https://videoserver2.org/live/5jD1oMS7gY-34JQb9hl-3g/1507501538/6fd04bc5b53697040f6f43a3c96d7658.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/KO4dno2.jpg" group-title="24/7",Christmas Movies [NoKodi]
+https://videoserver2.org/live/x1BsEkpxaxURXncBGHmvnQ/1507500640/17d6b59f16d493db84234ade495c6ce6.m3u8
+
+//////
 
 #EXTINF:-1 group-title="FILMES",101 DALMATIONS
 http://www.deadlyblogger.com/NewRelease/dal1.mp4
