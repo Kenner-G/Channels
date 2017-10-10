@@ -11,33 +11,33 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
 ///////
 
-#EXTINF:0,#EXTINF:-1,Fox Sports 1
+#EXTINF:-1,Fox Sports 1
 live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=8538
-#EXTINF:0,#EXTINF:-1,ESPN 1 US HD
+#EXTINF:-1,ESPN 1 US HD
 rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
-#EXTINF:0,#EXTINF:-1,ESPN 3 - Not English
+#EXTINF:-1,ESPN 3 - Not English
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
-#EXTINF:0,#EXTINF:-1,Bein USA
+#EXTINF:-1,Bein USA
 rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030 token=#ed%h0#w@1
-#EXTINF:0,#EXTINF:-1,HBO HD ( Link Buffers )
+#EXTINF:-1,HBO HD ( Link Buffers )
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#EXTINF:0,#EXTINF:-1,HBO Comedy
+#EXTINF:-1,HBO Comedy
 http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
-#EXTINF:0,#EXTINF:-1,HBO
+#EXTINF:-1,HBO
 http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
-#EXTINF:0,#EXTINF:-1,Cinemax
+#EXTINF:-1,Cinemax
 http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
-#EXTINF:0,#EXTINF:-1,STAR Movies HD
+#EXTINF:-1,STAR Movies HD
 http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
-#EXTINF:0,#EXTINF:-1,StarWorld HD
+#EXTINF:-1,StarWorld HD
 http://185.27.237.105:8082/TV0056
-#EXTINF:0,#EXTINF:-1,DISNEY XD
+#EXTINF:-1,DISNEY XD
 http://cctv2-lh.akamaihd.net/i/hoadisneyxd_live@125188/master.m3u8
-#EXTINF:0,#EXTINF:-1,I.D. (Investigation Discovery) ( Russia )
+#EXTINF:-1,I.D. (Investigation Discovery) ( Russia )
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
-#EXTINF:0,#EXTINF:-1,Crime Investigation
+#EXTINF:-1,Crime Investigation
 http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8?model=Qpjle6Iumd
-#EXTINF:0,#EXTINF:-1,Best Music HD 720P
+#EXTINF:-1,Best Music HD 720P
 rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:0,#EXTINF:-1,Club HD 720P
 http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
