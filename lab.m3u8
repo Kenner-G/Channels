@@ -128,39 +128,57 @@ http://149.11.34.6:1935/live/pentagon.stream/playlist.m3u8?wowzasessionid=750145
 #EXTINF:0,http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?husham.com
 #EXTINF:-1,Vernnissage TV
 #EXTINF:0,http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+
 #EXTINF:-1 tvg-logo="gmutv.png" , GMU TV
-#EXTINF:0,mms://media.mesa.gmu.edu/capconwhite1?husham.com
+mms://media.mesa.gmu.edu/capconwhite1?husham.com
+
 #EXTINF:-1 tvg-id="CBC TV 8" tvg-logo="USA/CBC_TV_8.png", CBC TV 8 (Barbados)
-#EXTINF:0,rtmp://184.154.57.230/cbcvideo playpath=cbcstream?husham.com
+rtmp://184.154.57.230/cbcvideo playpath=cbcstream?husham.com
+
 #EXTINF:-1,PAC National 1280*720
-#EXTINF:0,http://xrxs.net/video/live-p12netw-2328.m3u8
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
 #EXTINF:-1,PAC National 640*360
 #EXTINF:0,http://xrxs.net/video/live-p12netw-1164.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
 #EXTINF:0,http://xrxs.net/video/live-p12ariz-2328.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Arizona) 640*360
-#EXTINF:0,http://xrxs.net/video/live-p12ariz-1164.m3u8
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
-#EXTINF:0,http://xrxs.net/video/live-p12baya-2328.m3u8
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Los Angeles) 1280*720
-#EXTINF:0,http://xrxs.net/video/live-p12losa-2328.m3u8
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Los Angeles) 640*360
-#EXTINF:0,http://xrxs.net/video/live-p12losa-1164.m3u8
+http://xrxs.net/video/live-p12losa-1164.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
-#EXTINF:0,http://xrxs.net/video/live-p12oreg-2328.m3u8
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Oregon) 640*360
-#EXTINF:0,http://xrxs.net/video/live-p12oreg-1164.m3u8
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Washington) 1280*720
-#EXTINF:0,http://xrxs.net/video/live-p12wash-2328.m3u8
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Washington) 640*360
-#EXTINF:0,http://xrxs.net/video/live-p12wash-1164.m3u8
+http://xrxs.net/video/live-p12wash-1164.m3u8
+
 #EXTINF:-1,Pac Mountain 1920*1080
-#EXTINF:0,http://xrxs.net/video/live-p12moun-4728.m3u8
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Arizona) 1920*1080
-#EXTINF:0,http://xrxs.net/video/live-p12ariz-4728.m3u8
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Bay Area) 1920*1080
-#EXTINF:0,http://xrxs.net/video/live-p12baya-4728.m3u8
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Oregon) 1920*1080
-#EXTINF:0,http://xrxs.net/video/live-p12oreg-4728.m3u8
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
 #EXTINF:-1,PAC-12 Net. (Washington) 1920*1080
-#EXTINF:0,http://xrxs.net/video/live-p12wash-4728.m3u8
+http://xrxs.net/video/live-p12wash-4728.m3u8
