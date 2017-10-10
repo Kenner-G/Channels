@@ -117,10 +117,10 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m
 http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
 
 #EXTINF:-1, Deutsche Welle
-http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8?husham.com
+http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8
 
 #EXTINF:-1, Fashion TV.
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?husham.com
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 
 #EXTINF:-1, HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?husham.com playpath=mp4:420p500kB31
@@ -159,16 +159,16 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
 http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
 
 #EXTINF:-1 tvg-logo="i24news", i24 News (English)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8??husham.com
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
 
 #EXTINF:-1 , Pentagon Channel
 http://149.11.34.6:1935/live/pentagon.stream/playlist.m3u8?wowzasessionid=750145898
 
 #EXTINF:-1 tvg-logo="NASA.png" group-title="Documentries", NASA TV HD
-http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?husham.com
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
 
 #EXTINF:-1,4MUSIC
-http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8?husham.com
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
 
 #EXTINF:-1,HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
@@ -177,16 +177,16 @@ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpa
 http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
 
 #EXTINF:-1,RT America
-http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?husham.com
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8
 
 #EXTINF:-1,Vernnissage TV
 http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="gmutv.png" , GMU TV
-mms://media.mesa.gmu.edu/capconwhite1?husham.com
+mms://media.mesa.gmu.edu/capconwhite1
 
 #EXTINF:-1 tvg-id="CBC TV 8" tvg-logo="USA/CBC_TV_8.png", CBC TV 8 (Barbados)
-rtmp://184.154.57.230/cbcvideo playpath=cbcstream?husham.com
+rtmp://184.154.57.230/cbcvideo
 
 #EXTINF:-1,PAC National 1280*720
 http://xrxs.net/video/live-p12netw-2328.m3u8
