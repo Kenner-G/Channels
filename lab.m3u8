@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 #EXTINF:-1,HD Media 3D Russia?
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
 
+#EXTINF:-1,Malcom
+http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
+
 ///////
 
 #EXTINF:-1,Fox Sports 1*
