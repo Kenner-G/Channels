@@ -68,7 +68,7 @@ rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:O,Eska Rock 720P
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 
-#EXTINF:0,#EXTINF:-1,fix tv HD (Hungary)
+#EXTINF:-1,fix tv HD (Hungary)
 rtmp://video.fixhd.tv/fix/hd.stream
 
 #EXTINF:-1,HD MEDIA 3D 720P
