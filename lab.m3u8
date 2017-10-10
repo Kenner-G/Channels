@@ -12,6 +12,9 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1,Malcom
 http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TvxbcYP.jpg" group-title="24/7",The Cleveland Show
+http://manifest.googlevideo.com/api/manifest/hls_variant/expire/1507697611/maudio/1/source/yt_live_broadcast/playlist_type/DVR/gcr/ch/requiressl/yes/ipbits/0/ip/179.43.188.182/itag/0/key/yt6/go/1/signature/37B531A6A08DD48E0388A6AC4DEE0AD1551841BF.930FBB657AD0D3C5C292352D34B4E9A21816A530/id/9ngv0cIoXxA.1/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Cexpire/file/index.m3u8
+
 ///////
 
 #EXTINF:-1,Press TV
