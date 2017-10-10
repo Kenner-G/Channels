@@ -11,123 +11,176 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
 ///////
 
-#EXTINF:-1,Fox Sports 1
-live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=8538
+#EXTINF:-1,Fox Sports 1*
+http://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=8538
+
 #EXTINF:-1,ESPN 1 US HD
 rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
+
 #EXTINF:-1,ESPN 3 - Not English
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+
 #EXTINF:-1,Bein USA
 rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030 token=#ed%h0#w@1
+
 #EXTINF:-1,HBO HD ( Link Buffers )
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+
 #EXTINF:-1,HBO Comedy
 http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
 #EXTINF:-1,HBO
 http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+
 #EXTINF:-1,Cinemax
 http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+
 #EXTINF:-1,STAR Movies HD
 http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+
 #EXTINF:-1,StarWorld HD
 http://185.27.237.105:8082/TV0056
+
 #EXTINF:-1,DISNEY XD
 http://cctv2-lh.akamaihd.net/i/hoadisneyxd_live@125188/master.m3u8
+
 #EXTINF:-1,I.D. (Investigation Discovery) ( Russia )
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
+
 #EXTINF:-1,Crime Investigation
 http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8?model=Qpjle6Iumd
+
 #EXTINF:-1,Best Music HD 720P
 rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:0,#EXTINF:-1,Club HD 720P
+
+#EXTINF:-1,Club HD 720P
 http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0,#EXTINF:-1,Dance TV HD 720P
+
+#EXTINF:-1,Dance TV HD 720P
 http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
-#EXTINF:0,‪#‎EXTINF‬:-1,Eska Best Music 720P
+
+‪#EXTINF‬:-1,Eska Best Music 720P
 rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:0,#EXTINF:O,Eska Party 720P
+
+#EXTINF:O,Eska Party 720P
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:0,#EXTINF:O,Eska Rock 720P
+
+#EXTINF:O,Eska Rock 720P
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
 #EXTINF:0,#EXTINF:-1,fix tv HD (Hungary)
 rtmp://video.fixhd.tv/fix/hd.stream
-#EXTINF:0,#EXTINF:-1,HD MEDIA 3D 720P
+
+#EXTINF:-1,HD MEDIA 3D 720P
 rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
-#EXTINF:0,#EXTINF:-1,La Sexsta HD 720P (Spanish)
+
+#EXTINF:-1,La Sexsta HD 720P (Spanish)
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:0,#EXTINF:O,MTV Live HD 720P
+
+#EXTINF:O,MTV Live HD 720P
 http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
-#EXTINF:0,#EXTINF:-1,ABC News
+
+#EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0,#EXTINF:-1,CarolCablesTV (Florida) mmsh
+
+#EXTINF:-1,CarolCablesTV (Florida) mmsh
 mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
-#EXTINF:0,#EXTINF:-1,Channel 6 - City of Austin
+
+#EXTINF:-1,Channel 6 - City of Austin
 rtmp://oflash.dfw.swagit.com/live/austintx/live-1?husham.com
-#EXTINF:0,#EXTINF:-1,City of Boston TV English
+
+#EXTINF:-1,City of Boston TV English
 rtmp://streaming.cityofboston.gov/live/cable
-#EXTINF:0,#EXTINF:-1,Optation Action
+
+#EXTINF:-1,Optation Action
 http://198.179.31.181:1935/vodlast/1173.low.m4v/playlist.m3u8
-#EXTINF:0,#EXTINF:-1,Ebru TV
+
+#EXTINF:-1,Ebru TV
 http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
-#EXTINF:0,#EXTINF:-1,Mission TV
+
+#EXTINF:-1,Mission TV
 rtmp://streamer1.streamhost.org/salive/GMImissiontvh
-#EXTINF:0,
+
 #EXTINF:-1,AXN HD
-#EXTINF:0,http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
-#EXTINF:0,#EXTINF:-1,Press TV
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+
+#EXTINF:-1,Press TV
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/presstv/ls_fiber/b_,828,528,264,.m3u8
-#EXTINF:0,#EXTINF:-1, WGN9 (CHICAGO)
+
+#EXTINF:-1, WGN9 (CHICAGO)
 http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8?husham.com
-#EXTINF:0,#EXTINF:-1, CNN International
+
+#EXTINF:-1, CNN International
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:0,#EXTINF:-1, CNN International
+
+#EXTINF:-1, CNN International
 http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
-#EXTINF:0,#EXTINF:-1, Deutsche Welle
+
+#EXTINF:-1, Deutsche Welle
 http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8?husham.com
-#EXTINF:0,#EXTINF:-1, Fashion TV.
+
+#EXTINF:-1, Fashion TV.
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?husham.com
-#EXTINF:0,#EXTINF:-1, HSN
+
+#EXTINF:-1, HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?husham.com playpath=mp4:420p500kB31
-#EXTINF:0,#EXTINF:-1, University of California TV
+
+#EXTINF:-1, University of California TV
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?husham.com
-#EXTINF:0,#EXTINF:-0,FILM ON USA Ch 716
+
+#EXTINF:-0,FILM ON USA Ch 716
 rtmp://mi2.gv.filmon.com:8086/live/716.high.stream
-#EXTINF:0,#EXTINF:-0,FILM ON USA Ch 805
+
+#EXTINF:-0,FILM ON USA Ch 805
 rtmp://mi2.gv.filmon.com:8086/live/805.high.stream
-#EXTINF:0,#EXTINF:-1, JNN
+
+#EXTINF:-1, JNN
 http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
-#EXTINF:0,#EXTINF:-1, Bloomberg
+
+#EXTINF:-1, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,#EXTINF:-1, Bloomberg
+
+#EXTINF:-1, Bloomberg
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-#EXTINF:0,#EXTINF:-1,Flava
+
+#EXTINF:-1,Flava
 http://212.70.155.243:40665/udp/237.100.0.173:4000
-#EXTINF:0,#EXTINF:-1,Bliss
+
+#EXTINF:-1,Bliss
 http://212.70.155.243:40665/udp/237.100.0.174:4000
-#EXTINF:0,#EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News", Russia Today (480)
+
+#EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News", Russia Today (480)
 http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8?Vd?u#bt!25
-#EXTINF:0,
+
 #EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News", Russia Today (720)
-#EXTINF:0,http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
-#EXTINF:-1 , CCTV news
-#EXTINF:0,http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
-#EXTINF:0,#EXTINF:-1 tvg-logo="i24news", i24 News (English)
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,CCTV news
+http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
+
+#EXTINF:-1 tvg-logo="i24news", i24 News (English)
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8??husham.com
-#EXTINF:0,#EXTINF:-1 , Pentagon Channel
+
+#EXTINF:-1 , Pentagon Channel
 http://149.11.34.6:1935/live/pentagon.stream/playlist.m3u8?wowzasessionid=750145898
-#EXTINF:0,
+
 #EXTINF:-1 tvg-logo="NASA.png" group-title="Documentries", NASA TV HD
-#EXTINF:0,http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?husham.com
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?husham.com
+
 #EXTINF:-1,4MUSIC
-#EXTINF:0,http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8?husham.com
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8?husham.com
+
 #EXTINF:-1,HSN
-#EXTINF:0,rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+
 #EXTINF:-1,Pentagon Channel
-#EXTINF:0,http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+
 #EXTINF:-1,RT America
-#EXTINF:0,http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?husham.com
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?husham.com
+
 #EXTINF:-1,Vernnissage TV
-#EXTINF:0,http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="gmutv.png" , GMU TV
 mms://media.mesa.gmu.edu/capconwhite1?husham.com
@@ -139,10 +192,10 @@ rtmp://184.154.57.230/cbcvideo playpath=cbcstream?husham.com
 http://xrxs.net/video/live-p12netw-2328.m3u8
 
 #EXTINF:-1,PAC National 640*360
-#EXTINF:0,http://xrxs.net/video/live-p12netw-1164.m3u8
+http://xrxs.net/video/live-p12netw-1164.m3u8
 
 #EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
-#EXTINF:0,http://xrxs.net/video/live-p12ariz-2328.m3u8
+http://xrxs.net/video/live-p12ariz-2328.m3u8
 
 #EXTINF:-1,PAC-12 Net. (Arizona) 640*360
 http://xrxs.net/video/live-p12ariz-1164.m3u8
