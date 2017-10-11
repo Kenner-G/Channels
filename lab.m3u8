@@ -18,17 +18,41 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo**
 http://tinyurl.com/yd3l4e62
 
-#EXTINF:-1,Vorterix Rocks
-rtmp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
+#EXTINF:-1,sabeidee tv thailand?
+http://stream.rs.co.th/sbd-low/index.m3u8
 
-#EXTINF:-1,Vorterix Rocks
-rtsp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
+#EXTINF:-1,China Weather TV
+http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
 
-#EXTINF:-1,COOL103.7 live TV
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1,DFTV
+http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
 
-#EXTINF:-1,ARG:Canal 12 Zarate
-http://190.151.144.22:8083/canallocal.flv
+#EXTINF:-1,DFTV
+http://w1.livecache.yicai.com/hls/live/dftv_sd/live.m3u8
 
-#EXTINF:-1,CNNi
-http://91.121.244.94:8081/61AEEZam0uYzfuOLZxY6ceuYTZxYy8euQVRINbVI2ND6dQr2/live/cnn_id6748/index.m3u8
+#EXTINF:-1,CBN
+http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8
+
+#EXTINF:-1,CBN
+http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
+
+#EXTINF:-1,旅游卫视
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+
+#EXTINF:-1,旅游卫视
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy2.m3u8
+
+#EXTINF:-1,上海新闻综合
+http://bililive.kksmg.com/hls/xwzhgq/playlist.m3u8
+
+#EXTINF:-1,上海东方卫视
+http://bililive.kksmg.com/hls/dfwsgq/playlist.m3u8
+
+#EXTINF:-1,Vin HD kurd
+http://95.170.220.246:1213/hls/VinHD-M.m3u8
+
+#EXTINF:-1,Vin TV
+http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
+
+#EXTINF:-1,VIN TV*
+http://95.170.203.140:1213/hls/vinlive.m3u8
