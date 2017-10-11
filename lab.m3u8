@@ -20,14 +20,15 @@ http://tinyurl.com/yd3l4e62
 
 #EXTINF:-1,Vorterix Rocks
 rtmp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
+
 #EXTINF:-1,Vorterix Rocks
 rtsp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
-#EXTINF:-1,Vorterix Rocks
-rtsp://r20057.smi.vmf.edge-apps.net/magma-apps/vorterix_video1
 
 #EXTINF:-1,COOL103.7 live TV
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:-1,COOL103.7 live TV
-rtmp://ar.solumedia.com.ar:1935/cool/hd
-#EXTINF:-1,ARG:Canal 12 Zárate
+
+#EXTINF:-1,ARG:Canal 12 Zarate
 http://190.151.144.22:8083/canallocal.flv
+
+#EXTINF:-1,CNNi
+http://91.121.244.94:8081/61AEEZam0uYzfuOLZxY6ceuYTZxYy8euQVRINbVI2ND6dQr2/live/cnn_id6748/index.m3u8
