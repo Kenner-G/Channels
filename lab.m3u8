@@ -17,3 +17,22 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo**
 http://tinyurl.com/yd3l4e62
+
+#EXTINF:-1,Vorterix Rocks
+rtmp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
+#EXTINF:-1,Vorterix Rocks
+rtsp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
+#EXTINF:-1,Vorterix Rocks
+rtsp://r20057.smi.vmf.edge-apps.net/magma-apps/vorterix_video1
+#EXTINF:-1,[ARG]Tv Publica
+rtsp://r20034.smi.vmf.edge-apps.net:554/magma-apps/c7live01-20034_240p
+#EXTINF:-1,[ARG]Tv Publica
+rtmp://r20034.smi.vmf.edge-apps.net/magma-apps/c7live01-20034_240p
+#EXTINF:-1,[ARG]Tv Publica
+rtmp://r20034.smi.vmf.edge-apps.net:554/magma-apps/c7live01-20034_240p
+#EXTINF:-1,COOL103.7 live TV
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1,COOL103.7 live TV
+rtmp://ar.solumedia.com.ar:1935/cool/hd
+#EXTINF:-1,ARG:Canal 12 Zárate
+http://190.151.144.22:8083/canallocal.flv
