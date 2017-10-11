@@ -18,10 +18,10 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo**
 http://tinyurl.com/yd3l4e62
 
-#EXTINF:-1,sabeidee tv thailand?
+#EXTINF:-1,Sabeidee TV thailand?
 http://stream.rs.co.th/sbd-low/index.m3u8
 
-#EXTINF:-1,China Weather TV
+#EXTINF:-1,China Weather TV [NoKodi]
 http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
 
 #EXTINF:-1,DFTV
