@@ -36,23 +36,21 @@ http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8
 #EXTINF:-1,CBN
 http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
 
-#EXTINF:-1,旅游卫视
+#EXTINF:-1,旅游卫视 Travel TV 1
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 
-#EXTINF:-1,旅游卫视
+#EXTINF:-1,旅游卫视 Travel TV 2
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy2.m3u8
 
-#EXTINF:-1,上海新闻综合
+#EXTINF:-1,上海新闻综合 Shanghai News
 http://bililive.kksmg.com/hls/xwzhgq/playlist.m3u8
 
-#EXTINF:-1,上海东方卫视
+#EXTINF:-1,上海东方卫视 Shanghai Oriental TV
 http://bililive.kksmg.com/hls/dfwsgq/playlist.m3u8
 
 #EXTINF:-1,Vin HD kurd
 http://95.170.220.246:1213/hls/VinHD-M.m3u8
 
-#EXTINF:-1,Vin TV
+#EXTINF:-1,Vin TV kurd
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
 
-#EXTINF:-1,VIN TV*
-http://95.170.203.140:1213/hls/vinlive.m3u8
