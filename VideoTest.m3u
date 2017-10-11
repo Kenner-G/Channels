@@ -112,3 +112,64 @@ http://37.75.209.74:8000/play/a0g5/index.m3u8
 http://37.75.209.74:8000/play/a0an/index.m3u8
 #EXTINF:-1,PALESTINIAN TV
 http://37.75.209.74:8000/play/a09x/index.m3u8
+
+#EXTINF:-1,Eurosport 1
+http://62.6.220.50:5000/play/a01e
+#EXTINF:-1,BT Sport Extra 2
+http://62.6.220.50:5000/play/a00r
+#EXTINF:-1,BT Sport Extra 3
+http://62.6.220.50:5000/play/a00s
+#EXTINF:-1,Sky Premiere
+http://62.6.220.50:5000/play/a007
+#EXTINF:-1,BT Sport ESPN
+http://62.6.220.50:5000/play/a00z
+#EXTINF:-1,BT Sport 1
+http://62.6.220.50:5000/play/a016
+#EXTINF:-1,National Geographic
+http://62.6.220.50:5000/play/a01k
+#EXTINF:-1,BT Sport 3
+http://62.6.220.50:5000/play/a017
+#EXTINF:-1,Sky Disney
+http://62.6.220.50:5000/play/a005
+#EXTINF:-1,MUTV
+http://62.6.220.50:5000/play/a01l
+#EXTINF:-1,BT Sport Extra 1
+http://62.6.220.50:5000/play/a018
+#EXTINF:-1,Sky Thriller
+http://62.6.220.50:5000/play/a00k
+#EXTINF:-1,Sky Greats
+http://62.6.220.50:5000/play/a00l
+#EXTINF:-1,Nat Geo WILD
+http://62.6.220.50:5000/play/a01j
+#EXTINF:-1,BT Sport Extra 4
+http://62.6.220.50:5000/play/a00t
+#EXTINF:-1,Sky Action&Adventure
+http://62.6.220.50:5000/play/a004
+#EXTINF:-1,Sky Fi
+http://62.6.220.50:5000/play/a00j
+#EXTINF:-1,BT Sport 2
+http://62.6.220.50:5000/play/a00u
+#EXTINF:-1,At The Races https://iptv.zone
+http://62.6.220.50:5000/play/a01i
+#EXTINF:-1,Sky Comedy
+http://62.6.220.50:5000/play/a00m
+#EXTINF:-1,Sky Sports News
+http://62.6.220.50:5000/play/a01g
+#EXTINF:-1,Sky Family
+http://62.6.220.50:5000/play/a00c
+#EXTINF:-1,Sky Drama & Romance
+http://62.6.220.50:5000/play/a00b
+#EXTINF:-1,Eurosport 2
+http://62.6.220.50:5000/play/a01f
+#EXTINF:-1,Sky Select
+http://62.6.220.50:5000/play/a00n
+#EXTINF:-1,BT Sport Extra 5
+http://62.6.220.50:5000/play/a010
+#EXTINF:-1,FOX
+http://62.6.220.50:5000/play/a01o
+#EXTINF:-1,Comedy Central
+http://62.6.220.50:5000/play/a01r
+#EXTINF:-1,BT Sport 2
+http://62.6.220.50:5000/play/a01n
+#EXTINF:-1,Sky Hits
+http://62.6.220.50:5000/play/a01p
