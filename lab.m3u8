@@ -6,20 +6,14 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1,J Bravo test
 https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
-#EXTINF:-1,HD Media 3D Russia?
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
-
 #EXTINF:-1,Malcom
 http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1QVhpng.jpg" group-title="UK",Boomerang UK
-http://62.6.220.50:8000/play/a03p?.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1QVhpng.jpg" group-title="UK",Boomerang UK*
-http://62.6.220.50:8000/play/a03p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo*
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Eu_xd_games_portal_600x338_n(1).png" group-title="UK",Disney XD UK
-http://62.6.220.50:8000/play/a044?.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Eu_xd_games_portal_600x338_n(1).png" group-title="UK",Disney XD UK*
-http://62.6.220.50:8000/play/a044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo**
+http://tinyurl.com/yd3l4e62
