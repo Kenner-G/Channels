@@ -27,26 +27,11 @@ http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
 #EXTINF:-1,DFTV
 http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
 
-#EXTINF:-1,DFTV
-http://w1.livecache.yicai.com/hls/live/dftv_sd/live.m3u8
-
-#EXTINF:-1,CBN
-http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8
-
 #EXTINF:-1,CBN
 http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
 
-#EXTINF:-1,旅游卫视 Travel TV 1
+#EXTINF:-1,旅游卫视 Travel TV
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
-
-#EXTINF:-1,旅游卫视 Travel TV 2
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy2.m3u8
-
-#EXTINF:-1,上海新闻综合 Shanghai News
-http://bililive.kksmg.com/hls/xwzhgq/playlist.m3u8
-
-#EXTINF:-1,上海东方卫视 Shanghai Oriental TV
-http://bililive.kksmg.com/hls/dfwsgq/playlist.m3u8
 
 #EXTINF:-1,Vin HD kurd
 http://95.170.220.246:1213/hls/VinHD-M.m3u8
