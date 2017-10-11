@@ -24,12 +24,7 @@ rtmp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
 rtsp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
 #EXTINF:-1,Vorterix Rocks
 rtsp://r20057.smi.vmf.edge-apps.net/magma-apps/vorterix_video1
-#EXTINF:-1,[ARG]Tv Publica
-rtsp://r20034.smi.vmf.edge-apps.net:554/magma-apps/c7live01-20034_240p
-#EXTINF:-1,[ARG]Tv Publica
-rtmp://r20034.smi.vmf.edge-apps.net/magma-apps/c7live01-20034_240p
-#EXTINF:-1,[ARG]Tv Publica
-rtmp://r20034.smi.vmf.edge-apps.net:554/magma-apps/c7live01-20034_240p
+
 #EXTINF:-1,COOL103.7 live TV
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 #EXTINF:-1,COOL103.7 live TV
