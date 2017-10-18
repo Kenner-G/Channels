@@ -9,29 +9,35 @@ https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 #EXTINF:-1,Malcom
 http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vZZkY6.png" group-title="Canales Chile",TVN
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KcQ4mOg.png" group-title="Canales Chile" ,Canal 13
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/21fXMuC.png" group-title="Canales Chile" ,Mega
-http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OWEgfFD.png" group-title="Canales Chile" ,Chilevisión
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fsvjejc.png" group-title="Canales Chile" ,La Red
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/faHgn3Q.png" group-title="Canales Chile" ,Canal 9 Bío Bío
-http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jjKObYr.png" group-title="Canales Chile" ,UCV
-http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="URL_LOGO" group-title="Canales Chile" ,Radio Futuro
-http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="Canales Chile" , Carolina TV
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+#EXTINF:-1,MUTV
+http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
+
+
+#EXTINF:-1,tele 5 a
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_2.m3u8
+#EXTINF:-1,tele 5 b
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_3.m3u8
+#EXTINF:-1,tele 5 c
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
+#EXTINF:-1,CUATRO a
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_1.m3u8
+#EXTINF:-1,CUATRO b
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
+#EXTINF:-1,CUATRO c
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_3.m3u8
+#EXTINF:-1,Telecinco HD ?
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8
+#EXTINF:-1,FDF ?
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
+
+#EXTINF:-1,Russia Today Arabic (ARAB)
+http://secure-streams.akamaized.net/rt-arab/index.m3u8
+
+#EXTINF:-1,rt arabic sd
+http://secure-streams.akamaized.net/rt-arab/index1600.m3u8
+
+#EXTINF:-1,rt arabic
+http://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+
+#EXTINF:-1,Qatar tv
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_287s30.m3u8
