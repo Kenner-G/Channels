@@ -6,27 +6,323 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1,J Bravo test
 https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
-#EXTINF:-1,Malcom
-http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/cctvarabia.png" group-title="ARABIC NEWS",CCTV
-http://38.99.146.36:7777/CCTVArabia_HD.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Sky Sports F1
+http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 1
+http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 2
+http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 3
+http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 5
+http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 6
+http://iptv4u.club/site/freeiptv?channel=beinsports6&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 7
+http://iptv4u.club/site/freeiptv?channel=beinsports7&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 8
+http://iptv4u.club/site/freeiptv?channel=beinsports8&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
+///
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="SYRIA",Syria News
-http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+#EXTINF:-1,Supersport 1
+http://91.205.173.193/hls/sports/ss1/stream.m3u8
+#EXTINF:-1,Supersport 2
+http://91.205.173.193/hls/sports/ss2/stream.m3u8
+#EXTINF:-1,Supersport 3
+http://91.205.173.193/hls/sports/ss3/stream.m3u8
+#EXTINF:-1,Supersport 4
+http://91.205.173.193/hls/sports/ss4/stream.m3u8
+#EXTINF:-1,Supersport 1
+http://91.205.173.193/hls/sports/ks1/stream.m3u8
+#EXTINF:-1,Supersport 2
+http://91.205.173.193/hls/sports/ks2/stream.m3u8
+#EXTINF:-1,tring sport 1
+http://91.205.173.193/hls/sports/ts1/stream.m3u8
+#EXTINF:-1,tring sport 2
+http://91.205.173.193/hls/sports/ts2/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
-http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+///
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://toyoraljannah.tv/img/logo-1x.png" group-title="JORDAN",Toyor Al Jannah TV
-http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1507544154&t=.m3u8
+#EXTINF:-1,Sky Sports F1
+http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1507544154&t=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1 ?
-http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
+///
 
-////
+#EXTINF:-1,SPORT 1 SLO
+http://89.212.56.151:8888/udp/239.11.2.120:5000
+#EXTINF:-1,SPORT 2 SLO
+http://89.212.56.151:8888/udp/239.12.2.176:5000
+#EXTINF:-1,SPORT 3 SLO
+http://89.212.56.151:8888/udp/239.12.2.152:5000
+#EXTINF:-1,Sportklub 1
+http://89.212.56.151:8888/udp/239.11.2.118:5000
+#EXTINF:-1,Sportklub 2
+http://89.212.56.151:8888/udp/239.11.2.101:5000
+#EXTINF:-1,Sportklub 3
+http://89.212.56.151:8888/udp/239.12.2.161:5000
+#EXTINF:-1,Sportklub 4
+http://89.212.56.151:8888/udp/239.12.2.162:5000
+#EXTINF:-1,Sportklub 5
+http://89.212.56.151:8888/udp/239.19.2.206:5000
+#EXTINF:-1,Sportklub 6
+http://89.212.56.151:8888/udp/239.19.2.218:5000
+#EXTINF:-1,Eurosport
+http://89.212.56.151:8888/udp/239.11.2.87:5000
+#EXTINF:-1,Eurosport (NEM)
+http://89.212.56.151:8888/udp/239.11.2.89:5000
+#EXTINF:-1,Eurosport 2 NE
+http://89.212.56.151:8888/udp/239.11.2.88:5000
+#EXTINF:-1,Extreme Sports
+http://89.212.56.151:8888/udp/239.19.2.208:5000
+#EXTINF:-1,Motors TV
+http://89.212.56.151:8888/udp/239.12.2.184:5000
+#EXTINF:-1,SPORT1
+http://89.212.56.151:8888/udp/239.11.2.85:5000
+#EXTINF:-1,Fight Sports
+http://89.212.56.151:8888/udp/239.12.2.155:5000
+#EXTINF:-1,Sportklub 2 HD
+http://89.212.56.151:8888/udp/239.19.12.239:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.washingtonpost.com/rf/image_480w/2010-2019/WashingtonPost/2016/10/21/Local/Images/d1477086971.jpg" group-title="NATURE",Humane Rescue Alliance
-http://iphone-streaming.ustream.tv/uhls/13027422/streams/live/iphone/playlist.m3u8
+///
+
+#EXTINF:-1,Brazzers TV Europe
+http://185.39.194.23:19991/BrazzersTVEurope
+#EXTINF:-1,Cento X Cento TV
+http://185.39.194.23:19991/CenoXCentoTV
+#EXTINF:-1,Dorcel TV
+http://185.39.194.23:19991/DorcelTV
+#EXTINF:-1,Dream Porn HD
+http://185.39.194.23:19991/DreamPornHD
+#EXTINF:-1,DUSK
+http://185.39.194.23:19991/DUSK
+#EXTINF:-1,Evil Angel TV
+http://185.39.194.23:19991/EvilAngelTV
+#EXTINF:-1,HOT
+http://185.39.194.23:19991/HOT
+#EXTINF:-1,Hustler HD
+http://185.39.194.23:19991/HustlerHD
+#EXTINF:-1,Hustler TV
+http://185.39.194.23:19991/HustlerTV
+#EXTINF:-1,Passione TV
+http://185.39.194.23:19991/PassioneTV
+#EXTINF:-1,Penthouse 1 HD
+http://185.39.194.23:19991/Penthouse1HD
+#EXTINF:-1,Penthouse 2 HD
+http://185.39.194.23:19991/Penthouse2HD
+#EXTINF:-1,Pinko TV
+http://185.39.194.23:19991/PinkoTV
+#EXTINF:-1,Private TV
+http://185.39.194.23:19991/PrivateTV
+#EXTINF:-1,Reality Kings
+http://185.39.194.23:19991/RealityKings
+#EXTINF:-1,Redlight HD
+http://185.39.194.23:19991/RedlightHD
+#EXTINF:-1,SCT
+http://185.39.194.23:19991/SCT
+#EXTINF:-1,Sextosenso TV Italia
+http://185.39.194.23:19991/SextosensoItalia
+#EXTINF:-1,SuperOne 
+http://185.39.194.23:19991/SuperOne
+#EXTINF:-1,Venus
+http://185.39.194.23:19991/VenusTV
+#EXTINF:-1,Vivid TV Europe
+http://185.39.194.23:19991/VividTVEurope
+#EXTINF:-1,XXL
+http://185.39.194.23:19991/XXL
+#EXTINF:-1,Hustler HD
+http://46.23.158.7:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://46.23.144.225:1234/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://5.100.98.71:4022/udp/224.3.23.26:1234
+#EXTINF:-1,FrenchLover
+http://89.23.190.222:3371/udp/239.1.13.4:1234
+#EXTINF:-1,FrenchLover
+http://89.23.166.122:3371/udp/239.1.13.4:1234
+#EXTINF:-1,FrenchLover
+http://89.23.171.91:3371/udp/239.1.13.4:1234
+#EXTINF:-1,Frenchlover
+http://185.140.162.230:81/udp/225.50.70.7:1234
+#EXTINF:-1,Frenchlover
+http://185.140.161.220:81/udp/225.50.70.7:1234
+#EXTINF:-1,Frenchlover
+http://46.23.158.7:81/udp/239.1.19.140:1234
+#EXTINF:-1,Frenchlover
+http://46.23.144.225:1234/udp/239.1.19.140:1234
+#EXTINF:-1,Frenchlover
+http://37.235.236.233:81/udp/225.50.70.7:1234
+#EXTINF:-1,FRENCHLOVER
+http://31.128.133.176:3371/udp/239.1.13.4:1234
+
+///
+
+#EXTINF:-1,EvilAngel TV
+http://5.32.128.2:7778/udp/239.100.10.79:5000
+#EXTINF:-1,Satisfaction TV
+http://5.32.128.2:7778/udp/239.100.10.85:5000
+#EXTINF:-1,PINK O TV
+http://5.32.128.2:7778/udp/239.100.10.87:5000
+#EXTINF:-1,SESTO SENSO TV
+http://5.32.128.2:7778/udp/239.100.10.88:5000
+#EXTINF:-1,CENTOXCENTO TV
+http://5.32.128.2:7778/udp/239.100.10.89:5000
+#EXTINF:-1,PASSIONXXX
+http://5.32.128.2:7778/udp/239.100.10.90:5000
+#EXTINF:-1,Hustler TV
+http://5.32.128.2:7778/udp/239.10.10.88:5000
+#EXTINF:-1,Dorcel TV HD
+http://5.32.128.2:7778/udp/239.10.10.155:5000
+#EXTINF:-1,Eroxxx HD
+http://5.32.128.2:7778/udp/239.10.10.164:5000
+#EXTINF:-1,Penthouse HD 2
+http://5.32.128.2:7778/udp/239.10.10.165:5000
+#EXTINF:-1,DorcelXXX HD
+http://5.32.128.2:7778/udp/239.10.10.174:5000
+#EXTINF:-1,EXOTICA TV
+http://5.32.128.2:7778/udp/239.10.10.73:5000
+#EXTINF:-1,Redlight HD
+http://5.32.128.2:7778/udp/239.10.10.56:5000
+#EXTINF:-1,Dorcel TV
+http://5.32.128.2:7778/udp/239.10.10.30:5000
+#EXTINF:-1,Penthouse HD 1
+http://5.32.128.2:7778/udp/239.10.10.17:5000
+#EXTINF:-1,Brazzers TV Europe
+http://5.32.128.2:7778/udp/239.100.10.190:5000
+
+#EXTINF:-1,FrenchLover
+http://31.128.134.28:3371/udp/239.1.13.4:1234
+#EXTINF:-1,FrenchLover
+http://31.128.138.164:3371/udp/239.1.13.4:1234
+#EXTINF:-1,Frenchlover
+http://109.237.150.250:1234/udp/239.1.19.140:1234
+#EXTINF:-1,FrenchLover
+http://89.23.184.103:3371/udp/239.1.13.4:1234
+#EXTINF:-1,FrenchLover
+http://89.23.186.248:3371/udp/239.1.13.4:1234
+#EXTINF:-1,Frenchlover TV
+http://79.137.244.175:5050/udp/230.3.4.89:5678
+#EXTINF:-1,FrenchLover TV
+http://176.100.92.196:8881/udp/239.1.1.205:32517
+#EXTINF:-1,FrenchLover TV
+http://176.100.92.196:64128/udp/239.1.1.205:32517
+#EXTINF:-1,FrenchLover TV
+http://176.100.92.196:35555/udp/239.1.1.205:32517
+#EXTINF:-1,Hustler HD
+http://109.237.150.250:1234/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://31.132.208.185:22281/udp/233.166.172.253:1234
+#EXTINF:-1,Hustler HD
+http://5.129.84.117:1234/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://37.195.132.222:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://5.130.29.11:81/udp/239.1.6.35:1234
+
+///
+
+#EXTINF:-1,Balkan Erotic
+http://89.212.56.151:8888/udp/239.18.1.232:5000
+#EXTINF:-1,Private TV
+http://89.212.56.151:8888/udp/239.18.1.239:5000
+#EXTINF:-1,Net XXL
+http://89.212.56.151:8888/udp/239.18.1.237:5000
+#EXTINF:-1,Play House
+http://89.212.56.151:8888/udp/239.18.1.235:5000
+#EXTINF:-1,Hot Pleasure
+http://89.212.56.151:8888/udp/239.18.1.238:5000
+#EXTINF:-1,Exotica TV
+http://89.212.56.151:8888/udp/239.18.1.234:5000
+#EXTINF:-1,Hustler TV
+http://89.212.56.151:8888/udp/239.18.1.240:5000
+#EXTINF:-1,SuperOne
+http://89.212.56.151:8888/udp/239.18.1.242:5000
+#EXTINF:-1,Sexation TV
+http://89.212.56.151:8888/udp/239.14.1.13:5000
+#EXTINF:-1,Bangerz
+http://89.212.56.151:8888/udp/239.15.1.192:5000
+#EXTINF:-1,Lesbian Affair
+http://89.212.56.151:8888/udp/239.15.1.193:5000
+#EXTINF:-1,Fast Boyz
+http://89.212.56.151:8888/udp/239.15.1.196:5000
+#EXTINF:-1,Taboo
+http://89.212.56.151:8888/udp/239.15.1.197:5000
+#EXTINF:-1,Emanuelle
+http://89.212.56.151:8888/udp/239.15.1.198:5000
+#EXTINF:-1,Oldtimer
+http://89.212.56.151:8888/udp/239.15.1.199:5000
+#EXTINF:-1,Hustler TV HD
+http://89.212.56.151:8888/udp/239.18.2.241:5000
+#EXTINF:-1,Hustler TV HD720
+http://89.212.56.151:8888/udp/239.18.14.241:5000
+#EXTINF:-1,Sexation TV HD
+http://89.212.56.151:8888/udp/239.14.12.9:5000
+#EXTINF:-1,Sexation TV HD720 https://iptv.zone
+http://89.212.56.151:8888/udp/239.14.14.9:5000
+#EXTINF:-1,Bangerz HD
+http://89.212.56.151:8888/udp/239.15.12.192:5000
+#EXTINF:-1,Bangerz HD720
+http://89.212.56.151:8888/udp/239.15.14.192:5000
+#EXTINF:-1,Lesbian Affair HD
+http://89.212.56.151:8888/udp/239.15.12.193:5000
+#EXTINF:-1,Lesbian Affair HD720
+http://89.212.56.151:8888/udp/239.15.14.193:5000
+#EXTINF:-1,Fast Boyz HD
+http://89.212.56.151:8888/udp/239.15.12.196:5000
+#EXTINF:-1,Fast Boyz HD720
+http://89.212.56.151:8888/udp/239.15.14.196:5000
+#EXTINF:-1,Taboo HD
+http://89.212.56.151:8888/udp/239.15.12.197:5000
+#EXTINF:-1,Taboo HD720
+http://89.212.56.151:8888/udp/239.15.14.197:5000
+#EXTINF:-1,Emanuelle HD
+http://89.212.56.151:8888/udp/239.15.12.198:5000
+#EXTINF:-1,Emanuelle HD720
+http://89.212.56.151:8888/udp/239.15.14.198:5000
+#EXTINF:-1,Oldtimer HD
+http://89.212.56.151:8888/udp/239.15.12.199:5000
+#EXTINF:-1,Oldtimer HD720
+http://89.212.56.151:8888/udp/239.15.14.199:5000
+
+///
+
+#EXTINF:-1,Frenchlover TV
+http://46.235.64.87:34040/udp/230.3.4.89:5678
+#EXTINF:-1,FrenchLover TV
+http://176.100.86.209:64128/udp/239.1.1.205:32517
+#EXTINF:-1,FrenchLover
+http://37.49.183.235:81/udp/233.12.144.217:5050
+#EXTINF:-1,FrenchLover TV
+http://176.100.86.209:35555/udp/239.1.1.205:32517
+#EXTINF:-1,FrenchLover TV
+http://176.100.86.209:8881/udp/239.1.1.205:32517
+#EXTINF:-1,Frenchlover TV
+http://89.208.197.230:1/udp/230.3.4.89:5678
+#EXTINF:-1,FrenchLover
+http://89.23.183.54:81/udp/239.1.13.4:1234
+#EXTINF:-1,FrenchLover
+http://31.47.175.204:81/udp/233.12.144.217:5050
+#EXTINF:-1,FrenchLover
+http://31.128.139.42:3371/udp/239.1.13.4:1234
+#EXTINF:-1,Frenchlover
+http://178.163.21.131:4022/udp/234.0.0.4:2000
+#EXTINF:-1,FRENCHLOVER
+http://89.23.180.98:3371/udp/239.1.13.4:1234
+#EXTINF:-1,Frenchlover
+http://37.235.135.154:81/udp/225.50.70.7:1234
+#EXTINF:-1,FrenchLover
+http://89.23.175.53:3371/udp/239.1.13.4:1234
+#EXTINF:-1,Frenchlover TV
+http://95.163.214.82:1234/udp/230.3.4.89:5678
