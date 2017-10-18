@@ -8,36 +8,25 @@ https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
 #EXTINF:-1,Malcom
 http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/cctvarabia.png" group-title="ARABIC NEWS",CCTV
+http://38.99.146.36:7777/CCTVArabia_HD.m3u8
 
-#EXTINF:-1,MUTV
-http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="SYRIA",Syria News
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 
-#EXTINF:-1,tele 5 a
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_2.m3u8
-#EXTINF:-1,tele 5 b
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_3.m3u8
-#EXTINF:-1,tele 5 c
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
-#EXTINF:-1,CUATRO a
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_1.m3u8
-#EXTINF:-1,CUATRO b
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
-#EXTINF:-1,CUATRO c
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_3.m3u8
-#EXTINF:-1,Telecinco HD ?
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8
-#EXTINF:-1,FDF ?
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 
-#EXTINF:-1,Russia Today Arabic (ARAB)
-http://secure-streams.akamaized.net/rt-arab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://toyoraljannah.tv/img/logo-1x.png" group-title="JORDAN",Toyor Al Jannah TV
+http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8
 
-#EXTINF:-1,rt arabic sd
-http://secure-streams.akamaized.net/rt-arab/index1600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1 ?
+http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 
-#EXTINF:-1,rt arabic
-http://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+////
 
-#EXTINF:-1,Qatar tv
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_287s30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.washingtonpost.com/rf/image_480w/2010-2019/WashingtonPost/2016/10/21/Local/Images/d1477086971.jpg" group-title="NATURE",Humane Rescue Alliance
+http://iphone-streaming.ustream.tv/uhls/13027422/streams/live/iphone/playlist.m3u8
