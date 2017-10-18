@@ -9,33 +9,29 @@ https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 #EXTINF:-1,Malcom
 http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo
-http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo*
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="LATIN",MEX: Teleritmo**
-http://tinyurl.com/yd3l4e62
-
-#EXTINF:-1,Sabeidee TV thailand?
-http://stream.rs.co.th/sbd-low/index.m3u8
-
-#EXTINF:-1,China Weather TV [NoKodi]
-http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
-
-#EXTINF:-1,DFTV
-http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
-
-#EXTINF:-1,CBN
-http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
-
-#EXTINF:-1,旅游卫视 Travel TV
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
-
-#EXTINF:-1,Vin HD kurd
-http://95.170.220.246:1213/hls/VinHD-M.m3u8
-
-#EXTINF:-1,Vin TV kurd
-http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vZZkY6.png" group-title="Canales Chile",TVN
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcQ4mOg.png" group-title="Canales Chile" ,Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21fXMuC.png" group-title="Canales Chile" ,Mega
+http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWEgfFD.png" group-title="Canales Chile" ,Chilevisión
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fsvjejc.png" group-title="Canales Chile" ,La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faHgn3Q.png" group-title="Canales Chile" ,Canal 9 Bío Bío
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jjKObYr.png" group-title="Canales Chile" ,UCV
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="URL_LOGO" group-title="Canales Chile" ,Radio Futuro
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="Canales Chile" , Carolina TV
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
