@@ -6,230 +6,689 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1,J Bravo test
 https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
-#EXTINF:-1,Sky Sports Premier League
-http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,Sky Sports F1
-http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,Match! Futbol 1
-http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,Match! Futbol 2
-http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,Match! Futbol 3
-http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 1
-http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 2
-http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 3
-http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 4
-http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 5
-http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 6
-http://iptv4u.club/site/freeiptv?channel=beinsports6&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 7
-http://iptv4u.club/site/freeiptv?channel=beinsports7&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-#EXTINF:-1,beIN SPORTS 8
-http://iptv4u.club/site/freeiptv?channel=beinsports8&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-
-///
-
-#EXTINF:-1,Supersport 1
-http://91.205.173.193/hls/sports/ss1/stream.m3u8
-#EXTINF:-1,Supersport 2
-http://91.205.173.193/hls/sports/ss2/stream.m3u8
-#EXTINF:-1,Supersport 3
-http://91.205.173.193/hls/sports/ss3/stream.m3u8
-#EXTINF:-1,Supersport 4
-http://91.205.173.193/hls/sports/ss4/stream.m3u8
-#EXTINF:-1,Supersport 1
-http://91.205.173.193/hls/sports/ks1/stream.m3u8
-#EXTINF:-1,Supersport 2
-http://91.205.173.193/hls/sports/ks2/stream.m3u8
-#EXTINF:-1,tring sport 1
-http://91.205.173.193/hls/sports/ts1/stream.m3u8
-#EXTINF:-1,tring sport 2
-http://91.205.173.193/hls/sports/ts2/stream.m3u8
-
-///
-
-#EXTINF:-1,Sky Sports Premier League
-http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1507544154&t=.m3u8
-#EXTINF:-1,Sky Sports F1
-http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1507544154&t=.m3u8
-
-///
-
-#EXTINF:-1,SPORT 1 SLO
-http://89.212.56.151:8888/udp/239.11.2.120:5000
-#EXTINF:-1,SPORT 2 SLO
-http://89.212.56.151:8888/udp/239.12.2.176:5000
-#EXTINF:-1,SPORT 3 SLO
-http://89.212.56.151:8888/udp/239.12.2.152:5000
-#EXTINF:-1,Sportklub 1
-http://89.212.56.151:8888/udp/239.11.2.118:5000
-#EXTINF:-1,Sportklub 2
-http://89.212.56.151:8888/udp/239.11.2.101:5000
-#EXTINF:-1,Sportklub 3
-http://89.212.56.151:8888/udp/239.12.2.161:5000
-#EXTINF:-1,Sportklub 4
-http://89.212.56.151:8888/udp/239.12.2.162:5000
-#EXTINF:-1,Sportklub 5
-http://89.212.56.151:8888/udp/239.19.2.206:5000
-#EXTINF:-1,Sportklub 6
-http://89.212.56.151:8888/udp/239.19.2.218:5000
-#EXTINF:-1,Eurosport
-http://89.212.56.151:8888/udp/239.11.2.87:5000
-#EXTINF:-1,Eurosport (NEM)
-http://89.212.56.151:8888/udp/239.11.2.89:5000
-#EXTINF:-1,Eurosport 2 NE
-http://89.212.56.151:8888/udp/239.11.2.88:5000
-#EXTINF:-1,Extreme Sports
-http://89.212.56.151:8888/udp/239.19.2.208:5000
-#EXTINF:-1,Motors TV
-http://89.212.56.151:8888/udp/239.12.2.184:5000
-#EXTINF:-1,SPORT1
-http://89.212.56.151:8888/udp/239.11.2.85:5000
-#EXTINF:-1,Fight Sports
-http://89.212.56.151:8888/udp/239.12.2.155:5000
-#EXTINF:-1,Sportklub 2 HD
-http://89.212.56.151:8888/udp/239.19.12.239:5000
-
-///
-
-#EXTINF:-1,Brazzers TV Europe
-http://185.39.194.23:19991/BrazzersTVEurope
-#EXTINF:-1,Cento X Cento TV
-http://185.39.194.23:19991/CenoXCentoTV
-#EXTINF:-1,Dorcel TV
-http://185.39.194.23:19991/DorcelTV
-#EXTINF:-1,Dream Porn HD
-http://185.39.194.23:19991/DreamPornHD
-#EXTINF:-1,DUSK
-http://185.39.194.23:19991/DUSK
-#EXTINF:-1,Evil Angel TV
-http://185.39.194.23:19991/EvilAngelTV
-#EXTINF:-1,HOT
-http://185.39.194.23:19991/HOT
-#EXTINF:-1,Hustler HD
-http://185.39.194.23:19991/HustlerHD
-#EXTINF:-1,Hustler TV
-http://185.39.194.23:19991/HustlerTV
-#EXTINF:-1,Passione TV
-http://185.39.194.23:19991/PassioneTV
-#EXTINF:-1,Penthouse 1 HD
-http://185.39.194.23:19991/Penthouse1HD
-#EXTINF:-1,Penthouse 2 HD
-http://185.39.194.23:19991/Penthouse2HD
-#EXTINF:-1,Pinko TV
-http://185.39.194.23:19991/PinkoTV
-#EXTINF:-1,Private TV
-http://185.39.194.23:19991/PrivateTV
-#EXTINF:-1,Reality Kings
-http://185.39.194.23:19991/RealityKings
-#EXTINF:-1,Redlight HD
-http://185.39.194.23:19991/RedlightHD
-#EXTINF:-1,SCT
-http://185.39.194.23:19991/SCT
-#EXTINF:-1,Sextosenso TV Italia
-http://185.39.194.23:19991/SextosensoItalia
-#EXTINF:-1,SuperOne 
-http://185.39.194.23:19991/SuperOne
-#EXTINF:-1,Venus
-http://185.39.194.23:19991/VenusTV
-#EXTINF:-1,Vivid TV Europe
-http://185.39.194.23:19991/VividTVEurope
-#EXTINF:-1,XXL
-http://185.39.194.23:19991/XXL
-#EXTINF:-1,Hustler HD
-http://46.23.158.7:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://46.23.144.225:1234/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://5.100.98.71:4022/udp/224.3.23.26:1234
-#EXTINF:-1,FrenchLover
-http://89.23.190.222:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover
-http://89.23.166.122:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover
-http://89.23.171.91:3371/udp/239.1.13.4:1234
-#EXTINF:-1,Frenchlover
-http://185.140.162.230:81/udp/225.50.70.7:1234
-#EXTINF:-1,Frenchlover
-http://185.140.161.220:81/udp/225.50.70.7:1234
-#EXTINF:-1,Frenchlover
-http://46.23.158.7:81/udp/239.1.19.140:1234
-#EXTINF:-1,Frenchlover
-http://46.23.144.225:1234/udp/239.1.19.140:1234
-#EXTINF:-1,Frenchlover
-http://37.235.236.233:81/udp/225.50.70.7:1234
-#EXTINF:-1,FRENCHLOVER
-http://31.128.133.176:3371/udp/239.1.13.4:1234
-
-///
-
-#EXTINF:-1,EvilAngel TV
-http://5.32.128.2:7778/udp/239.100.10.79:5000
-#EXTINF:-1,Satisfaction TV
-http://5.32.128.2:7778/udp/239.100.10.85:5000
-#EXTINF:-1,PINK O TV
-http://5.32.128.2:7778/udp/239.100.10.87:5000
-#EXTINF:-1,SESTO SENSO TV
-http://5.32.128.2:7778/udp/239.100.10.88:5000
-#EXTINF:-1,CENTOXCENTO TV
-http://5.32.128.2:7778/udp/239.100.10.89:5000
-#EXTINF:-1,PASSIONXXX
-http://5.32.128.2:7778/udp/239.100.10.90:5000
-#EXTINF:-1,Hustler TV
-http://5.32.128.2:7778/udp/239.10.10.88:5000
-#EXTINF:-1,Dorcel TV HD
-http://5.32.128.2:7778/udp/239.10.10.155:5000
-#EXTINF:-1,Eroxxx HD
-http://5.32.128.2:7778/udp/239.10.10.164:5000
-#EXTINF:-1,Penthouse HD 2
-http://5.32.128.2:7778/udp/239.10.10.165:5000
-#EXTINF:-1,DorcelXXX HD
-http://5.32.128.2:7778/udp/239.10.10.174:5000
-#EXTINF:-1,EXOTICA TV
-http://5.32.128.2:7778/udp/239.10.10.73:5000
-#EXTINF:-1,Redlight HD
-http://5.32.128.2:7778/udp/239.10.10.56:5000
-#EXTINF:-1,Dorcel TV
-http://5.32.128.2:7778/udp/239.10.10.30:5000
-#EXTINF:-1,Penthouse HD 1
-http://5.32.128.2:7778/udp/239.10.10.17:5000
-#EXTINF:-1,Brazzers TV Europe
-http://5.32.128.2:7778/udp/239.100.10.190:5000
-
-#EXTINF:-1,FrenchLover
-http://31.128.134.28:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover
-http://31.128.138.164:3371/udp/239.1.13.4:1234
-#EXTINF:-1,Frenchlover
-http://109.237.150.250:1234/udp/239.1.19.140:1234
-#EXTINF:-1,FrenchLover
-http://89.23.184.103:3371/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover
-http://89.23.186.248:3371/udp/239.1.13.4:1234
-#EXTINF:-1,Frenchlover TV
-http://79.137.244.175:5050/udp/230.3.4.89:5678
-#EXTINF:-1,FrenchLover TV
-http://176.100.92.196:8881/udp/239.1.1.205:32517
-#EXTINF:-1,FrenchLover TV
-http://176.100.92.196:64128/udp/239.1.1.205:32517
-#EXTINF:-1,FrenchLover TV
-http://176.100.92.196:35555/udp/239.1.1.205:32517
-#EXTINF:-1,Hustler HD
-http://109.237.150.250:1234/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://31.132.208.185:22281/udp/233.166.172.253:1234
-#EXTINF:-1,Hustler HD
-http://5.129.84.117:1234/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://37.195.132.222:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler HD
-http://5.130.29.11:81/udp/239.1.6.35:1234
+#EXTM3U
+  
+#EXTINF:-1 tvg-logo="http://yunavision.com/images/yuna2sm.png",  YUNAVISION CANAL 10 REPUBLICA DOMINICANA
+http://ss9.domint.net:1986/yv_str/yuna/chunklist_w2142669924.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-69DQrpOQLlk/T4VhFxz3iWI/AAAAAAAAFow/9xe_MZDVlR8/s400/bonaotv.jpg" , BONAO TV CANAL 12 REPUBLICA DOMINICANA
+http://ss9.domint.net:1988/btv_str/bonao/chunklist_w176943289.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://teleantillas.com.do/files/2013/08/no_imagen.jpg" , TELEANTILLAS CANAL 2 REPUBLICA DOMINICANA
+http://69.64.69.92.:1935/hita-tv-ch2/studio/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.teleradioamerica.com/wp-content/uploads/2015/06/Telemicro-5-Logo.jpg" , TELEMICRO CANAL 5 REPUBLICA DOMINICANA
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WRq-z1cSU50/hqdefault.jpg" , TELEMICRO HD REPUBLICA DOMINICANA
+http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png" , ANTENA LATINA CANAL 7 REPUBLICA DOMINICANA
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b948304.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dominicaninternet.com/uploads/avatarServicio/454.jpg" , COLOR VISION CANAL 9 REPUBLICA DOMINICANA
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="NATIONAL" , MICROVISION CANAL 10 REPUBLICA DOMINICANA
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.mekstream.com/clients/telesistema/telesistema_poster.png" , TELESISTEMA REPUBLICA DOMINICANA
+http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.vidasocial.com.do/wp-content/uploads/2017/02/Canal-25-Santiago.jpg" , CANAL 25 REPUBLICA DOMINICANA
+http://qs1.distream.net:2126/c25_str/canal25/chunklist_w944520119.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/07/rnn-27.jpg" ,  RNN CANAL 27 REPUBLICA DOMINICANA
+http://ss6.domint.net:2042/rnn_str/canal27/chunklist_w1261449614.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://digotv.do/wp-content/uploads/2017/07/Logo-NCDN_CDN-37.jpg" , NOTICIAS CDN CANAL 37 HD REPUBLICA DOMINICANA
+https://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvquisqueya.com/images/2017/07/14/logoweb.fw.png" , TV QUISQUEYA HD REPUBLICA DOMINICANA
+http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/DominicanYorkTV-Logo.jpg" , DOMINICANYORK TV REPUBLICA DOMINICANA
+http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png" , XTREMO TV REPUBLICA DOMINICANA
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" , READY TV HD REPUBLICA DOMINICANA
+http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8" , UNIVISION HD
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/57b458fd86d350dfa0862e96af1d8ed1ef9a723a/189_6.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://s3.mzstatic.com/us/r30/Purple4/v4/e9/89/b0/e989b091-33d2-589f-3c49-aa1e4e53b36a/mzl.gpskoscr.png" , TELEMUNDO 47 HD
+http://142.44.137.100:8080/ch87/video.m3u8?token=9RSGkAgu93
+ 
+#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg" , TELEMUNDO 51 HD
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg" , TELEMUNDO 51 HD
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZQLBWi43msbPVkbQiQ3iRZWc1GIcpZSr9TAwE9i-8ShvLor0OzTfYsD1c0REx5Ep_Uo=w300" , TELEMUNDO 62 HD
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://airecable.com/wp-content/uploads/2013/09/110-Unimas.jpg" , UNIMAS HD
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" , SUN CHANNEL REPUBLICA DOMINICANA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy.jpg" , UNICANAL ARGENTINA
+http://strm.unicanal.com.py/live/unicanal_mid.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://negociosus.files.wordpress.com/2013/10/hola_tv_logo_octubre_2013_1.jpg" , HOLA TV HD VENEZUELA
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/23738_468.jpg" , SHOW BUSiNESS HD VENEZUELA
+http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://coolaruba.com/wp-content/uploads/2014/04/LOGO_LATIN-ANGEL_TRAVEL-2-1018x1024.jpg" , LATIN ANGELS HD VENEZUELA
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.jujuyalmomento.com/upload/img/telefe-logo_1865.jpg" , TELEFE HD ARGENTINA
+http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_6.jpg" , RPC HD ARGENTINA
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840165928994197504/QhLLltX8.jpg" g, TELEMETRO HD ARGENTINA
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", TELPIN HD ARGENTINA
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="INTERNACIONAL", CANAL 4 HD ARGENTINA
+http://190.52.32.13:1935/canal4/live_1/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://static.primiciasya.com/adjuntos/208/imagenes/019/646/0019646035.jpg" , CANAL AMERICA ARGENTINA
+http://ar.watcha.live/ch3/hi.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fjPPuDw8L1k/VwWmrJ0Y5VI/AAAAAAAAA24/lb4bw266h4wpM-TgzGUMXuNATUT-51svg/s1600/Canal%2B9%2BHD.png" , CANAL EL NUEVE ARGENTINA
+http://ar.watcha.live/ch5/hi.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/91/El_Trece.png/revision/latest?cb=20160622232137" , CANAL EL TRECE ARGENTINA
+http://ar.watcha.live/ch7/hi.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" , TEN HD ARGENTINA
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" , LAS ESTRELLAS MEXICO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://st-listas.20minutos.es/images/2012-03/324919/list_640px.jpg?1332878527" , MULTIMEDIOS HD MEXICO
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_Azteca_7_HD_2011.svg" , AZTECA 7 HD MEXICO
+http://server.poweriptv.cl:25461/live/asd123/asd123/12.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-13-hd.png" ,AZTECA 13 HD MEXICO
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236216358508/medium/100/1473533249148a4e4602226294c4e8ae5f00bd69aa.jpg" , AZTECA CLIC HD MEXICO
+https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236215846604/medium/100/1473533066c6061489bc5a34c224fc184cc749ab1f.jpg" , AZTECA CORAZON HD MEXICO
+https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/ADN400.png.02660b73a8c13e8488bc4dd9c3b84363.png" , ADN 40 HD MEXICO
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" , GALA TV MEXICO
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sanjuanenlinea.com/wp-content/uploads/2015/10/ocho-tv.png", OCHO TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-FtoMSw1tx9A/AAAAAAAAAAI/AAAAAAAAAAA/lg-itPfRcrQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" , TELEMAX HD
+http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" , IMAGEN HD
+http://66.70.178.201:25461/live/colombia3/pokpoguv/183.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" , CHILE TV
+http://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_NkxplKALmA8/TEzauMuNqNI/AAAAAAAAAPI/OgWgg0qB9go/s600-c/chv+2006.jpg", CHILEVISION TV
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" , TVN CHILE HD
+http://iptvcanales.ml/hls/channel/tvn_sd.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/873222198160478210/bmIhXmFY_400x400.jpg" , CHILE VTV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-AA9Wd8wCydQ/VP8-IaCpN1I/AAAAAAAAEJU/rcAqwmD4KOQ/s1600/UCV%2BHD%2B1.png" , UCV3 HD CHILE
+http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/livestream1/chunklist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/images/stories/logosenalctv.jpg" , SEÑAL COLOMBIA HD
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/chunklist_b1500000.m3u8?iptvgratis?chile.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://subaalternativa.com/wp-content/uploads/2017/03/Caracol-Logo-7.jpg" , CARACOL TV HD COLOMBIA
+http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/programas/rcntelevisionlogo.jpg" , RCN HD COLOMBIA
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" , TELECARIBE HD COLOMBIA
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.purohuayno.com/images/logotvperu.png" , TV PERU HD
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-gp4mHDz1X2c/UdTUIoldXsI/AAAAAAAAmUI/lhUd1qH4_ts/s469/Wapa+LOGO.png", WAPA TV PUERTO RICO
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8?sd=6&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/08/tvi.jpg", TVI PORTUGAL
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Mnx23sJmt_8/UzyYtBiBY-I/AAAAAAAAAW8/S6_xcgcW45E/s1600/sbt-hd-santa-catarinaewdfx.png" , CANAL SBT BRASIL
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/01/rede-brasil-logo2014-home.png" , REDE TV HD
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c7/TV_Miramar_logo_2012.png/revision/latest?cb=20161129124159" , RECORD HD BRASIL
+http://iphone-streaming.ustream.tv/uhls/22972089/streams/live/playlist.m3u8?
+ 
+ 
+#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/3/2946/15226359327_a17ffc2c01_b.jpg" , CANAL 2 NICARAGUA
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.infopowerecuador.com/wp-content/uploads/2017/04/17457253_1535975266427066_6736938280354289023_n.jpg" , TC HD ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.infopowerecuador.com/wp-content/uploads/2017/04/17457253_1535975266427066_6736938280354289023_n.jpg" , TC HD ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="INTERNACIONAL", OROMAR TV ECUADOR
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+proxy.cablefamilia.com
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YsZwhTVw2_w/TKbs15NIvxI/AAAAAAAAABU/UAx0BaNHDcU/s1600/antena-3-hd2.png" , ANTENA 3 HD ESPAÑA
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cineytele.com/wp-content/uploads/2016/04/Antena-3-Canad%C3%A1.jpg" , ANTENA 3 INTERNACIONAL  ESPAÑA
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.appgrid.accedo.tv/content/file/57f3c7089a28fb021e652c74" , TELECINCO HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27zq/9d8m669471Z8D1/200.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" , ATRESERIES HD  ESPAÑA
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/lasexta_nuevologo_1.jpg" , LA SEXTA HD  ESPAÑA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg" , MEGA HD  ESPAÑA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1 tvg-logo="http://cocolatv.com/stations_files/lmmlogo.png" , LA MEGA MUNDIAL
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://img.blogs.es/zenithmedia/wp-content/uploads/2015/11/atreseries-neox.jpg" , NEOX HD  ESPAÑA
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&amp;rebase=on
+ 
+ 
+#EXTINF:-1 tvg-logo="http://canaltdt.es/wp-content/uploads/2014/12/nova.jpg" , NOVA HD ESPAÑA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/881801937892540417/war8WAEA_400x400.jpg" ,RIGA 24 HD
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png" , NC TV
+http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129" , MOVISTAR ESTRENOS HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/203.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" , MOVISTAR ACCION HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/209.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" , MOVISTAR COMEDIA HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/204.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/112092i92FDC5BE48AFAE8C/image-size/original?v=v2&px=-1" , MOVISTAR SERIES HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/188.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://decine-y-estrenos.esy.es/wp-content/uploads/2016/10/MovistarXtra.png" , MOVISTAR SERIES XTRA HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/187.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2016/06/TNT_Film_HD_Logo.svg_.png", TNT HD ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/182.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://blog.cablevision.net.mx/wp-content/uploads/2011/09/AXN-HD-blanco.jpg" , AXN HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/215.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2014/05/Logo-AXN-WHITE-HD.jpg" , AXN WHITE HD  ESPAÑA
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/214.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mg3-3I9kqMM/TsiOMrt_uaI/AAAAAAAAAIs/sbAFF3x0Ui4/s1600/fox_hd.png" , FOX HD
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/219.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/4/47/Canal_Hollywood_HD.png/revision/latest?cb=20140514123652" , HOLLYWOOD HD
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/211.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2011/10/syfy_hd.png" group-title="INTERNACIONAL", SYFY HD
+http://163.172.52.83:8000/live/74i47z491L27Zq/9d8m669471Z8D1/201.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media2.fdncms.com/sacurrent/imager/hbos-habla-texas-series-speaks-truth/u/original/2330446/1_103jpg" , HBO LATINO
+http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.eltecsa.com/logos/hbo2_lam.png" , HBO 2
+http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://k34.kn3.net/taringa/6/5/3/7/7/3/5/lombos/426.jpg?4903" , CINECANAL
+http://antenatv.tk/hgkhhfyegehjbejhbjkjgg-27-2060720.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-m5Y9Oa2zKjs/VnFfNuE7b-I/AAAAAAAAL2E/Kbajh4Bkayo/s1600/fox%2Baction.PNG" , FOX ACCION
+http://antenatv.tk/hgkhhfyegehjbejhbjkjgg-88-2060138.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg?w=1000&h=563&crop=1" , DESTINATION AMERICA
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" , CDN SPORTSMAX
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.fuentedecantos.eu/wp-content/uploads/2015/08/itv-fuente-de-cantos-932x624.jpg", ITV DEPORTES
+https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_16978.png", CDF PREMIUM HD CHILE
+http://tv.nousiptv.com:25462/live/masivoerwin/Prueba/3052.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3_400x400.jpg", CDO DEPORTES HD
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m870014_DEPORTV-nuevo.png", DEPORT TV
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/c7/8e/9fc78e2232890b34d672578bc9165017--real-madrid-logo-logo-google.jpg", REAL MADRID HD ESPAÑA
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-LasFM7i5lTY/UqWDUaAgS_I/AAAAAAAAAVE/vaXIyogAd-8/s1600/barcelona-fc-hd-logo.png", BARCA TV ESPAÑA
+http://tepo4.telesport.pw/live/barca/index.m3u8?token=7DnBlbq0Djn6YsXPvBaL8w&expires=1508353209
+ 
+ 
+#EXTINF:-1 tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/111638i1580B6528385CB55?v=1.0", MOVISTAR DEPORTES 1 ESPAÑA
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/52b1bcefbc17a04a6d0aa862b0a2e493e1cbeb6f/106_6.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xE8pgIv.png", CHELSEA TV HD
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8?/MartinRTNEWS.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/foxsports2tv.png", FOX SPORTS 2 HD
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/02/FOX_SPORTS.jpg", FOX SPORTS CHILE
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2BpJdmjaKir8pcuL%2BfXx9I7A19%2FYuafIWPKisx%2BS2Wx1f%2F4vPUK43uokpYm%2Byz4To583%2BoR%2BAJWrw%3D%3D
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/02/FOX_SPORTS.jpg", FOX SPORTS 1
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2Fb%2BuLDVMo4RzoXdZVKEESOo5cuiZ%2F9iYo0%2B5pl7AnFBCEvXYZfNnErMIu8MuMEUEpx%2BNJ7WcCL4A%3D%3D
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/02/FOX_SPORTS.jpg", FOX SPORTS 2
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/02/FOX_SPORTS.jpg", FOX SPORTS 3
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2F5LwZ5NzbgvsE7SF1kA4fICvyv08zv%2FwSSFlyMyme0Vic0AH3wXjJtBSSI8%2B1YaeaWfet%2F9dwNWQ%3D%3D  
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png", FOX SPORTS USA 1
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/e82bb84aee58d9b81c515a98d34e815c864f5d3a/331_6.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png", FOX SPORTS USA 2
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/3e82c08da0e3e89aad62fc4e026a4ade355dace8/330_6.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Tsn-logo.png/revision/latest?cb=20150709173924", TSN SPORTS 1
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/2569778a0dcf0cecea796e92f64922c03a614b32/328_6.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://cde.peru.com/ima/0/1/4/1/7/1417179/ufc-network.jpg", UFC Network
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/2ba5e23f76ec3a794ff3f881fa91741060a4715e/78_6.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://mmagdl.zheworldsadecv.netdna-cdn.com/wp-content/uploads/2015/09/espn-logo.jpg", ESPN 1
+http://us.iptvlatino.xyz:25461/live/SR.%20SANTANA/cklNDVpdTq/41.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/14/Logo_ESPN2.png", ESPN 2
+http://server.poweriptv.cl:25461/live/asd123/asd123/42.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-KCvjL7GDtcY/VhLno2ogxmI/AAAAAAAAAZ4/pZGZat4blSQ/s1600/espn_lam_plus_andino.png", ESPN+
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/e77398f68e3124f00a26343bc1d7df2412b7c7fb/97_6.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565552790559141888/6Er9L0J6.png", FORMULA 1
+http://s1.mxl-iptv.services:8190/iptv_data/app/script/tv/eca1495ca995b4b31b8032c98897d23e13bb1cb7/4fac7b481b689b032528d1ba4eb669d423e34625/29_6.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg", Tyc SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/11.png", DIRECTV + SPORTS HD
+http://us.iptvlatino.xyz:25461/live/SR.%20SANTANA/cklNDVpdTq/1369.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.vanguardia.com.mx/sites/default/files/tdn-en-vivo.jpg", DEPORTES TDN HD
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/IT@QF-1011001110010010110100111001101-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9UdVRWU2t5MDE=/visita-exabytetv.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://i.televisa.com/2017/04/utdn.jpg", UNIVISION TDN
+http://us.iptvlatino.xyz:25461/live/SR.%20SANTANA/cklNDVpdTq/139.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://epg.beinsports.com/us_sports/Global.svg", BEIN SPORTS Ñ
+http://us.iptvlatino.xyz:25461/live/SR.%20SANTANA/cklNDVpdTq/1181.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2012/04/logo-movistar-imagenio.jpg", MOVISTAR FUTBOL HD
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/IT@QF-1011001110010010110100111001101-ExabyteTV-holis/canal%2Bfutbol/visita-exabytetv.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png", MLB NETWORK HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn3.uvnimg.com/51/bb/bac077714f97b1c78843e69a024b/logo-2x.png", NFL HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tvonline.com.do/images/sobipro/entries/118/img_nba-online-tv-logo.jpg", NBA TV HD
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://tvonline.com.do/images/sobipro/entries/118/img_nba-online-tv-logo.jpg", MOVISTAR F1 ESPAÑA
+http://piedra11.pedromo.online/live/formula1/index.m3u8?token=UvD_8wDgm71H57Y87Ix3Hg&expires=1508353272
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.alternatv.us/ipublish/data/images/205Logo_AyM_Sports_alta.jpg", AYM SPORTS HD
+http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yqvvvx1433963709.png",BT SPORT 1 HD
+http://185.53.163.205:2700
+ 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png",BT SPORT 2 HD
+http://185.53.163.205:2506
+ 
+ 
+#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png",BT SPORT 3 HD
+http://185.53.163.205:2701
+ 
+ 
+#EXTINF:-1 tvg-logo="http://seenit.co.uk/wp-content/uploads/BT-ESPN.png",BT SPORT ESPN HD
+http://185.53.163.205:2507
+ 
+#EXTINF:-1 tvg-logo="http://www.nsaem.net/wp-content/uploads/2017/07/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-2017.png", AD SPORTS 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.nsaem.net/wp-content/uploads/2017/07/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-2017.png", AD SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/2da78c63e5041d2e40da44ec9d37e62e", OLIMPIC CHANNEL HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8
+live.olympicchannel.com
+ 
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/2da78c63e5041d2e40da44ec9d37e62e", OLIMPIC CHANNEL FULL HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+live.olympicchannel.com
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2f/37/f5/2f37f5daa7bbe8c0123bd472ddee89f3--red-bull-gmbh-energy-drinks.jpg", RED BULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://wikibox.eu/wp-content/uploads/2017/04/Arena-sport-1-1024x384.jpg", ARENA SPORTS 1 HD
+http://smarttv.tvviet.tv/live22/ArenaSport.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+ 
+ 
+#EXTINF:-1 tvg-logo="http://wrest.info/wp-content/uploads/2016/03/logo_as2_black-e1458423889697.jpg", ARENA SPORTS 2 HD
+http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DUoCmrfAFIM/maxresdefault.jpg", ARENA SPORTS 3
+http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7cHFkCJgLpU/maxresdefault.jpg", ARENA SPORTS 4
+http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rIxZ4-6_0l0/hqdefault.jpg", ARENA SPORTS 5
+http://smarttv.tvviet.tv/live52/Arenasport5.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Vdiy9CdCREE/AAAAAAAAAAI/AAAAAAAAAAA/h-s7mnR2KoM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", PAC 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Vdiy9CdCREE/AAAAAAAAAAI/AAAAAAAAAAA/h-s7mnR2KoM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", PAC 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Vdiy9CdCREE/AAAAAAAAAAI/AAAAAAAAAAA/h-s7mnR2KoM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", PAC 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Vdiy9CdCREE/AAAAAAAAAAI/AAAAAAAAAAA/h-s7mnR2KoM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", PAC 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Vdiy9CdCREE/AAAAAAAAAAI/AAAAAAAAAAA/h-s7mnR2KoM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Vdiy9CdCREE/AAAAAAAAAAI/AAAAAAAAAAA/h-s7mnR2KoM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", PAC 12 Whashington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814728645637849088/liai3Jbz.jpg", CGTN CHINA
+http://livees.cgtn.com/1000e/prog_index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault_live.jpg", HISPANTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://satellitetelevisionservices.com/wp-content/uploads/2017/04/Centroamerica-TV.png", CENTRO AMERICA TV
+http://stream.innovandote.com/hch/hch/chunklist_w166252436.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.teleaire.com/wp-content/uploads/2011/08/canal-24-tve.jpg", TVE 24hras
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", CABLE NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://notinor.com/jujuy/wp-content/uploads/2014/11/tntwitter.png", TODO NOTICIAS
+https://www.youtube.com/watch?v=0tek2aa8hAQ
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-qrg2OH0GZMg/AAAAAAAAAAI/AAAAAAAAAAA/WOV2pJbXjr4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", NTN24HD
+http://vivoplay-i.akamaihd.net/hls/live/255326/canal6/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/VenezolanaTV-Logo.jpg", VTV CANAL 8 VENEZUELA
+http://185.23.213.50:1935/vtvweb3/vtvweb3/chunklist_w342894827.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://fedecamarasradio.com/wp-content/uploads/2017/04/vivo-play.jpg", CANAL VIVOPLAY VENEZUELA
+https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/08/TV-Venezuela-En-Vivo-Por-Internet.jpg", TVVENEZUELA
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://runrun.es/wp-content/uploads/2017/01/Globovision.jpg", GLOBOVISION VENEZUELA
+https://www.youtube.com/watch?v=U6LHhyg74sY
+ 
+#EXTINF:-1 tvg-logo="https://img.absolutviajes.com/wp-content/uploads/2013/01/telesur-logo.jpg", TELESUR HD
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://img.absolutviajes.com/wp-content/uploads/2013/01/telesur-logo.jpg", TELESUR HD
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lateletuya.com/Logo%20TELET.png", TLT HD VENEZUELA
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.petarostojic.cl/wp-content/uploads/2015/01/CNN-Chile-logo.jpg", CNN HD CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.a24.com/images/a24-logo.svg", A24 ARGENTINA
+http://ar.watcha.live/ch2/hi.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.batr.org/sitebuildercontent/sitebuilderpictures/Russia_Today.jpg", RT HD RUSIA
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cFtzgE4xm2Q/VIGYWHWVEiI/AAAAAAAAAjM/rkmB5jx23bA/s1600/Logo%2Bcanal%2B26.jpg", CANAL 26 SD ARGENTINA
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cFtzgE4xm2Q/VIGYWHWVEiI/AAAAAAAAAjM/rkmB5jx23bA/s1600/Logo%2Bcanal%2B26.jpg", CANAL 26 HD ARGENTINA
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ckx0imAUUAABKTc.png", CANAL CB24 COSTA RICA
+http://ipointcablertmp.tulix.tv/admin24/myStream.sdp/chunklist_w311458616.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/74537/logo_rede%20record.png", RECORD NOTICIAS HD
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?ValterHD
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/Sky-News-HD.png", SKY NEWS HD
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/69/Discovery_Channel_1995.png/revision/latest?cb=20151004055758&path-prefix=es", DISCOVERY CHANNEL HD
+http://antenatv.tk/qqwejjtyehsdgg-19-2286438.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/69/Discovery_Channel_1995.png/revision/latest?cb=20151004055758&path-prefix=es", DISCOVERY CHANNEL
+http://tepo2.telesport.pw/live/discovery/index.m3u8?token=s8sDjy5LDZEXzAxRwOr1LQ&expires=1508353062
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png", ID DISCOVERY
+http://antenatv.tk/qqwejjtyehsdgg-65-2060611.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", ANIMAL PLANET
+http://c742ef4c-lp-omega.ums.ustream.tv/playlist/directhls/channel/12762028/1/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&sgn=658a2c92c48bbefc619ee2ac1582ab457c4814ef&cdnHost=uhs-akamai.ustream.tv/
+c742ef4c-lp-omega.ums.ustream.tv
+ 
+ 
+#EXTINF:-1 tvg-logo="http://teve.cl/wp-content/uploads/2016/12/natgeo-wild.jpg", NATGEO WILD HD ESPAÑA
+http://tepo4.telesport.pw/live/nationalwild/index.m3u8?token=L4Cmewaotkram1PAvwRKAA&expires=1508352962
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/1000px-Nat_Geo_HD_Logo.svg.png", NATIONAL GEOGRAPHYC HD
+http://tepo6.telesport.pw/live/nationalgeo/index.m3u8?token=rxaQCCLHBI7sM-kZzJiBNA&expires=1508353126
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/985px-History_Logo.svg.png", HISTORY
+http://antenatv.tk/qqwejjtyehsdgg-83-2059653.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.recreoviral.com/wp-content/uploads/2015/09/Nickelodeon-lanza-canal-de-caricaturas-de-90%C2%B4s-2.jpg", NICKELODEON
+http://antenatv.tk/qqwejjtyehsdgg-30-2060521.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
+http://iptv.cs2017.info:9090/live/vaquezs/24/128.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/disney/images/1/13/20120205145922%21Disney_channel_de_hd.png/revision/latest?cb=20140119065624", DISNEY CHANNEL HD
+http://antenatv.tk/qqwejjtyehsdgg-20-1886803.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/38/DISNEY_CHANNEL_HD_2014.png/revision/latest?cb=20140712184013", DISNEY CHANNEL HD
+http://iptv.cs2017.info:9090/live/vaquezs/24/146.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png", CARTOON NETWORK
+http://antenatv.tk/qqwejjtyehsdgg-16-2059781.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/ficha_full/public/enlace_canal_23_1.png?itok=neQgySu9", ENLACE
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/ficha_full/public/enlace_canal_23_1.png?itok=neQgySu9", ENLACE
+https://livestream-f.akamaihd.net/i/2675843_1839332_lsiku8w27kw7p5df1qe_1@305433/index_678_av-b.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1508363589~acl=%2fi%2f2675843_1839332_lsiku8w27kw7p5df1qe_1%40305433%2f*~data=hdntl~hmac=0202acd1a32379b8f591697ffd20fcc8c3518d3d2d0f6f1d454061ecc8ad770d
+ 
+ 
+#EXTINF:-1 tvg-logo="https://infocusmadrid.files.wordpress.com/2016/01/televid1.jpg", TELEVID COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://elsembradorministries.com/esne-mobile/images/esne-logo-main.png", ESNE TV
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/playlist.m3u8
 
 ///
 
