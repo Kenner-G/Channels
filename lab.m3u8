@@ -6,72 +6,10 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1,J Bravo test
 https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
-#EXTM3U
-  
-#EXTINF:-1 tvg-logo="http://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy.jpg" , Unicanal (Paraguay) x
-http://strm.unicanal.com.py/live/unicanal_mid.m3u8
-
-////
-
-#EXTINF:-1 tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_6.jpg" , RPC HD (Panama) x new
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
-
-////
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" , TEN Canal 10 Honduras
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-////
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3_400x400.jpg", CDO Deportes Chile
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_NkxplKALmA8/TEzauMuNqNI/AAAAAAAAAPI/OgWgg0qB9go/s600-c/chv+2006.jpg", Chilevision
-http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/02/FOX_SPORTS.jpg", Fox Sports CHILE
 http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2BpJdmjaKir8pcuL%2BfXx9I7A19%2FYuafIWPKisx%2BS2Wx1f%2F4vPUK43uokpYm%2Byz4To583%2BoR%2BAJWrw%3D%3D
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" , Television Nacional de Chile
-http://iptvcanales.ml/hls/channel/tvn_sd.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-AA9Wd8wCydQ/VP8-IaCpN1I/AAAAAAAAEJU/rcAqwmD4KOQ/s1600/UCV%2BHD%2B1.png" , UCV TV
-http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/livestream1/chunklist.m3u8
-
-///
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" , TELECARIBE HD COLOMBIA x new logo
-http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
-
-///
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" , TC ECUADOR
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" , TC HD ECUADOR
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-
-///
-
-#EXTINF:-1 tvg-logo="https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png" , Latinos NCTV Lat.
-http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
-
-///
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/881801937892540417/war8WAEA_400x400.jpg" ,Rīga TV24 Latvia
-http://player.tvnet.lv/live/amlst:11/playlist.m3u8
-
-///
-
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" , Destination America USA
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-
-///
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" , CDN SportsMax Dom. Rep.
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 
 ////
 
