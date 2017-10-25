@@ -7,20 +7,17 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
 
-#EXTINF:-1,Fox Sports 1 Chile
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2BpJdmjaKir8pcuL%2BfXx9I7A19%2FYuafIWPKisx%2BS2Wx1f%2F4vPUK43uokpYm%2Byz4To583%2BoR%2BAJWrw%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News Channel clean
+http://2007677237.ddns.net/p.m3u8?u=hls/live/200669/fnctve/MED.m3u8
 
-#EXTINF:-1,Fox Sports 1* Chile
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2Fb%2BuLDVMo4RzoXdZVKEESOo5cuiZ%2F9iYo0%2B5pl7AnFBCEvXYZfNnErMIu8MuMEUEpx%2BNJ7WcCL4A%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News Channel
+http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200669%2Ffnctve%2FMED%2Em3u8
 
-#EXTINF:-1,Fox Sports 2 Mexico
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network clean
+http://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 
-#EXTINF:-1,FOX SPORTS 1 Arg. ?
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2F%2B69cTLNcYOYzonMcpqPl0dT6jaWjg9OnSkOH4QGEhUDdE6e6r5%2B5QDRuAMHA7pptbRIAVyQRxfA%3D%3D 
-
-#EXTINF:-1,Fox Sports 3 Arg.
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2F5LwZ5NzbgvsE7SF1kA4fICvyv08zv%2FwSSFlyMyme0Vic0AH3wXjJtBSSI8%2B1YaeaWfet%2F9dwNWQ%3D%3D 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
+http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
 
 ///
 
