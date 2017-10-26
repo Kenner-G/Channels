@@ -17,21 +17,24 @@ http://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
 http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
-#EXTINF:-1,Be MAD HD Sp.
-http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8
-#EXTINF:-1,AZ HONDURAS
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
-#EXTINF:-1,HBO
-http://14.176.2.251:4022/rtp/232.84.1.102:8586
-#EXTINF:-1,FOX Sports 2
-http://14.176.2.251:4022/rtp/232.84.1.249:9468
-#EXTINF:-1,Arena Sport 1 Serbia
-rtmp://139.59.120.168:1935/live/arenasport1.stream
-#EXTINF:-1,Arena Sport 2 Serbia
-rtmp://139.59.120.168:1935/live/arenasport2.stream
-#EXTINF:-1,Arena Sport 3 Serbia
-rtmp://139.59.120.168:1935/live/arenasport3.stream
-#EXTINF:-1,Arena Sport 4 Serbia
-rtmp://139.59.120.168:1935/live/arenasport4.stream
-#EXTINF:-1,Arena Sport 5 Serbia
-rtmp://139.59.120.168:1935/live/arenasport5.stream
+
+#EXTINF:-1,AZTV
+http://85.132.71.6/azeri/aztv/index.m3u8
+#EXTINF:-1,Medeniyyet TV
+http://85.132.71.6/turk/medeniyyet/index.m3u8
+#EXTINF:-1,Idman Azerbaycan TV
+http://85.132.71.6/turk/idman/index.m3u8
+#EXTINF:-1,Içtimai TV
+http://85.132.71.6/iptv_ictimai/index.m3u8
+#EXTINF:-1,Space TV
+http://85.132.71.6/iptv_space/index.m3u8
+#EXTINF:-1,Lider TV
+http://85.132.71.6/iptv_lider/index.m3u8
+#EXTINF:-1,Xezer TV
+http://85.132.71.6/iptv_xazar/index.m3u8
+#EXTINF:-1,Azad Azerbaycan TV
+http://85.132.71.6/iptv_atv_az/index.m3u8
+#EXTINF:-1,CBC Azerbaycan
+http://85.132.71.6/turk/cbc/index.m3u8
+#EXTINF:-1,Dunya TV
+http://85.132.71.6/turk/dunya/index.m3u8
