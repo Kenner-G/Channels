@@ -6,12 +6,6 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1,J Bravo test
 https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
-#EXTINF:-1,The Weather Network
-https://stitcher.prod.pluto.tv/stitch/hls/channel/56747b22218fb5b73692cbd5/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
-#EXTINF:-1,The Weather Network clean
-https://stitcher.prod.pluto.tv/stitch/hls/channel/56747b22218fb5b73692cbd5/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News Channel clean
 http://2007677237.ddns.net/p.m3u8?u=hls/live/200669/fnctve/MED.m3u8
 
@@ -23,6 +17,59 @@ http://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
 http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
+
+#EXTINF:-1,HBO SD PIP
+http://14.176.2.251:4022/rtp/232.84.1.102:8586
+#EXTINF:-1,FOX Sports 2 PIP
+http://14.176.2.251:4022/rtp/232.84.1.249:9468
+EXTINF:-1,Chelsea TV
+http://play.uktvnow.net:1935/live/chelsea.stream/playlist.m3u8
+#EXTINF:-1,NBA TV
+http://play.uktvnow.net:1935/live/nba.stream/playlist.m3u8
+#EXTINF:-1,FOOLBALL TV
+http://play.uktvnow.net:1935/live/skysports-football.stream/playlist.m3u8
+#EXTINF:-1,Sky Sport MIX
+http://play.uktvnow.net:1935/live/skysportsmix.stream/playlist.m3u8
+#EXTINF:-1,TSN 1 HD
+http://play.uktvnow.net:1935/live/tsn11.stream/playlist.m3u8
+#EXTINF:-1,TSN 2 HD 
+http://play.uktvnow.net:1935/live/tsn2.stream/playlist.m3u8
+#EXTINF:-1,TSN 3 HD
+http://play.uktvnow.net:1935/live/tsn3.stream/playlist.m3u8
+#EXTINF:-1,F1 RACE
+http://play.uktvnow.net:1935/live/skysportsf120.stream/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://play.uktvnow.net:1935/live/discovery.stream/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://play.uktvnow.net:1935/live/discoverys.stream/playlist.m3u8
+#EXTINF:-1,History
+http://play.uktvnow.net:1935/live/history.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://play.uktvnow.net:1935/live/natgeowild.stream/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://play.uktvnow.net:1935/live/natgeo.stream/playlist.m3u8
+#EXTINF:-1,Discovery Turbo
+http://play.uktvnow.net:1935/live/discoveryturbo.stream/playlist.m3u8
+#EXTINF:-1,Discovery History
+http://play.uktvnow.net:1935/live/discoveryh.stream/playlist.m3u8
+#EXTINF:-1,Discovery Shed
+http://play.uktvnow.net:1935/live/discoveryshed.stream/playlist.m3u8
+#EXTINF:-1,Discovery Investigation
+http://play.uktvnow.net:1935/live/discoveryi.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo USA
+http://play.uktvnow.net:1935/live/natgeo9.stream/playlist.m3u8
+///RTMP ///
+#EXTINF:-1,Arena Sport 1
+rtmp://139.59.120.168:1935/live/arenasport1.stream
+#EXTINF:-1,Arena Sport 2
+rtmp://139.59.120.168:1935/live/arenasport2.stream
+#EXTINF:-1,Arena Sport 3
+rtmp://139.59.120.168:1935/live/arenasport3.stream
+#EXTINF:-1,Arena Sport 4
+rtmp://139.59.120.168:1935/live/arenasport4.stream
+#EXTINF:-1,Arena Sport 5
+rtmp://139.59.120.168:1935/live/arenasport5.stream
+///
 
 ///
 
