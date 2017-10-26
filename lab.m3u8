@@ -17,152 +17,21 @@ http://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
 http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
-
-#EXTINF:-1,HBO SD PIP
+#EXTINF:-1,Be MAD HD Sp.
+http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8
+#EXTINF:-1,AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:-1,HBO
 http://14.176.2.251:4022/rtp/232.84.1.102:8586
-#EXTINF:-1,FOX Sports 2 PIP
+#EXTINF:-1,FOX Sports 2
 http://14.176.2.251:4022/rtp/232.84.1.249:9468
-#EXTINF:-1,Chelsea TV
-http://play.uktvnow.net:1935/live/chelsea.stream/playlist.m3u8
-#EXTINF:-1,NBA TV
-http://play.uktvnow.net:1935/live/nba.stream/playlist.m3u8
-#EXTINF:-1,FOOLBALL TV
-http://play.uktvnow.net:1935/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport MIX
-http://play.uktvnow.net:1935/live/skysportsmix.stream/playlist.m3u8
-#EXTINF:-1,TSN 1 HD
-http://play.uktvnow.net:1935/live/tsn11.stream/playlist.m3u8
-#EXTINF:-1,TSN 2 HD 
-http://play.uktvnow.net:1935/live/tsn2.stream/playlist.m3u8
-#EXTINF:-1,TSN 3 HD
-http://play.uktvnow.net:1935/live/tsn3.stream/playlist.m3u8
-#EXTINF:-1,F1 RACE
-http://play.uktvnow.net:1935/live/skysportsf120.stream/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://play.uktvnow.net:1935/live/discovery.stream/playlist.m3u8
-#EXTINF:-1,Discovery Science
-http://play.uktvnow.net:1935/live/discoverys.stream/playlist.m3u8
-#EXTINF:-1,History
-http://play.uktvnow.net:1935/live/history.stream/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://play.uktvnow.net:1935/live/natgeowild.stream/playlist.m3u8
-#EXTINF:-1,National Geographic
-http://play.uktvnow.net:1935/live/natgeo.stream/playlist.m3u8
-#EXTINF:-1,Discovery Turbo
-http://play.uktvnow.net:1935/live/discoveryturbo.stream/playlist.m3u8
-#EXTINF:-1,Discovery History
-http://play.uktvnow.net:1935/live/discoveryh.stream/playlist.m3u8
-#EXTINF:-1,Discovery Shed
-http://play.uktvnow.net:1935/live/discoveryshed.stream/playlist.m3u8
-#EXTINF:-1,Discovery Investigation
-http://play.uktvnow.net:1935/live/discoveryi.stream/playlist.m3u8
-#EXTINF:-1,Nat Geo USA
-http://play.uktvnow.net:1935/live/natgeo9.stream/playlist.m3u8
-///RTMP ///
-#EXTINF:-1,Arena Sport 1
+#EXTINF:-1,Arena Sport 1 Serbia
 rtmp://139.59.120.168:1935/live/arenasport1.stream
-#EXTINF:-1,Arena Sport 2
+#EXTINF:-1,Arena Sport 2 Serbia
 rtmp://139.59.120.168:1935/live/arenasport2.stream
-#EXTINF:-1,Arena Sport 3
+#EXTINF:-1,Arena Sport 3 Serbia
 rtmp://139.59.120.168:1935/live/arenasport3.stream
-#EXTINF:-1,Arena Sport 4
+#EXTINF:-1,Arena Sport 4 Serbia
 rtmp://139.59.120.168:1935/live/arenasport4.stream
-#EXTINF:-1,Arena Sport 5
+#EXTINF:-1,Arena Sport 5 Serbia
 rtmp://139.59.120.168:1935/live/arenasport5.stream
-///
-
-///
-
-#EXTINF:-1,Balkan Erotic
-http://89.212.56.151:8888/udp/239.18.1.232:5000
-#EXTINF:-1,Private TV
-http://89.212.56.151:8888/udp/239.18.1.239:5000
-#EXTINF:-1,Net XXL
-http://89.212.56.151:8888/udp/239.18.1.237:5000
-#EXTINF:-1,Play House
-http://89.212.56.151:8888/udp/239.18.1.235:5000
-#EXTINF:-1,Hot Pleasure
-http://89.212.56.151:8888/udp/239.18.1.238:5000
-#EXTINF:-1,Exotica TV
-http://89.212.56.151:8888/udp/239.18.1.234:5000
-#EXTINF:-1,Hustler TV
-http://89.212.56.151:8888/udp/239.18.1.240:5000
-#EXTINF:-1,SuperOne
-http://89.212.56.151:8888/udp/239.18.1.242:5000
-#EXTINF:-1,Sexation TV
-http://89.212.56.151:8888/udp/239.14.1.13:5000
-#EXTINF:-1,Bangerz
-http://89.212.56.151:8888/udp/239.15.1.192:5000
-#EXTINF:-1,Lesbian Affair
-http://89.212.56.151:8888/udp/239.15.1.193:5000
-#EXTINF:-1,Fast Boyz
-http://89.212.56.151:8888/udp/239.15.1.196:5000
-#EXTINF:-1,Taboo
-http://89.212.56.151:8888/udp/239.15.1.197:5000
-#EXTINF:-1,Emanuelle
-http://89.212.56.151:8888/udp/239.15.1.198:5000
-#EXTINF:-1,Oldtimer
-http://89.212.56.151:8888/udp/239.15.1.199:5000
-#EXTINF:-1,Hustler TV HD
-http://89.212.56.151:8888/udp/239.18.2.241:5000
-#EXTINF:-1,Hustler TV HD720
-http://89.212.56.151:8888/udp/239.18.14.241:5000
-#EXTINF:-1,Sexation TV HD
-http://89.212.56.151:8888/udp/239.14.12.9:5000
-#EXTINF:-1,Sexation TV HD720 https://iptv.zone
-http://89.212.56.151:8888/udp/239.14.14.9:5000
-#EXTINF:-1,Bangerz HD
-http://89.212.56.151:8888/udp/239.15.12.192:5000
-#EXTINF:-1,Bangerz HD720
-http://89.212.56.151:8888/udp/239.15.14.192:5000
-#EXTINF:-1,Lesbian Affair HD
-http://89.212.56.151:8888/udp/239.15.12.193:5000
-#EXTINF:-1,Lesbian Affair HD720
-http://89.212.56.151:8888/udp/239.15.14.193:5000
-#EXTINF:-1,Fast Boyz HD
-http://89.212.56.151:8888/udp/239.15.12.196:5000
-#EXTINF:-1,Fast Boyz HD720
-http://89.212.56.151:8888/udp/239.15.14.196:5000
-#EXTINF:-1,Taboo HD
-http://89.212.56.151:8888/udp/239.15.12.197:5000
-#EXTINF:-1,Taboo HD720
-http://89.212.56.151:8888/udp/239.15.14.197:5000
-#EXTINF:-1,Emanuelle HD
-http://89.212.56.151:8888/udp/239.15.12.198:5000
-#EXTINF:-1,Emanuelle HD720
-http://89.212.56.151:8888/udp/239.15.14.198:5000
-#EXTINF:-1,Oldtimer HD
-http://89.212.56.151:8888/udp/239.15.12.199:5000
-#EXTINF:-1,Oldtimer HD720
-http://89.212.56.151:8888/udp/239.15.14.199:5000
-
-///
-
-#EXTINF:-1,Frenchlover TV
-http://46.235.64.87:34040/udp/230.3.4.89:5678
-#EXTINF:-1,FrenchLover TV
-http://176.100.86.209:64128/udp/239.1.1.205:32517
-#EXTINF:-1,FrenchLover
-http://37.49.183.235:81/udp/233.12.144.217:5050
-#EXTINF:-1,FrenchLover TV
-http://176.100.86.209:35555/udp/239.1.1.205:32517
-#EXTINF:-1,FrenchLover TV
-http://176.100.86.209:8881/udp/239.1.1.205:32517
-#EXTINF:-1,Frenchlover TV
-http://89.208.197.230:1/udp/230.3.4.89:5678
-#EXTINF:-1,FrenchLover
-http://89.23.183.54:81/udp/239.1.13.4:1234
-#EXTINF:-1,FrenchLover
-http://31.47.175.204:81/udp/233.12.144.217:5050
-#EXTINF:-1,FrenchLover
-http://31.128.139.42:3371/udp/239.1.13.4:1234
-#EXTINF:-1,Frenchlover
-http://178.163.21.131:4022/udp/234.0.0.4:2000
-#EXTINF:-1,FRENCHLOVER
-http://89.23.180.98:3371/udp/239.1.13.4:1234
-#EXTINF:-1,Frenchlover
-http://37.235.135.154:81/udp/225.50.70.7:1234
-#EXTINF:-1,FrenchLover
-http://89.23.175.53:3371/udp/239.1.13.4:1234
-#EXTINF:-1,Frenchlover TV
-http://95.163.214.82:1234/udp/230.3.4.89:5678
