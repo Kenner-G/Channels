@@ -22,7 +22,7 @@ http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
 http://14.176.2.251:4022/rtp/232.84.1.102:8586
 #EXTINF:-1,FOX Sports 2 PIP
 http://14.176.2.251:4022/rtp/232.84.1.249:9468
-EXTINF:-1,Chelsea TV
+#EXTINF:-1,Chelsea TV
 http://play.uktvnow.net:1935/live/chelsea.stream/playlist.m3u8
 #EXTINF:-1,NBA TV
 http://play.uktvnow.net:1935/live/nba.stream/playlist.m3u8
