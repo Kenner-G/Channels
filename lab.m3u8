@@ -7,34 +7,16 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News Channel clean
-http://2007677237.ddns.net/p.m3u8?u=hls/live/200669/fnctve/MED.m3u8
+https://2007677237.ddns.net/p.m3u8?u=hls/live/200669/fnctve/MED.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News Channel
-http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200669%2Ffnctve%2FMED%2Em3u8
+https://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200669%2Ffnctve%2FMED%2Em3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network clean
-http://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
+https://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
-http://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
+https://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
 
-#EXTINF:-1,AZTV
-http://85.132.71.6/azeri/aztv/index.m3u8
-#EXTINF:-1,Medeniyyet TV
-http://85.132.71.6/turk/medeniyyet/index.m3u8
-#EXTINF:-1,Idman Azerbaycan TV
-http://85.132.71.6/turk/idman/index.m3u8
-#EXTINF:-1,Içtimai TV
-http://85.132.71.6/iptv_ictimai/index.m3u8
-#EXTINF:-1,Space TV
-http://85.132.71.6/iptv_space/index.m3u8
-#EXTINF:-1,Lider TV
-http://85.132.71.6/iptv_lider/index.m3u8
-#EXTINF:-1,Xezer TV
-http://85.132.71.6/iptv_xazar/index.m3u8
-#EXTINF:-1,Azad Azerbaycan TV
-http://85.132.71.6/iptv_atv_az/index.m3u8
-#EXTINF:-1,CBC Azerbaycan
-http://85.132.71.6/turk/cbc/index.m3u8
-#EXTINF:-1,Dunya TV
-http://85.132.71.6/turk/dunya/index.m3u8
+#EXTINF:-1,Sobre Ruedas
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
