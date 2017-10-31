@@ -34,32 +34,50 @@ http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="UK",BBC World News
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [M3U8]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [Opt-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2 [M3U8]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [Opt-2]
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [Opt-3]
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2 [Opt-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="UK",BBC Radio 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2 [Opt-2]
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2 [Opt-3]
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="UK",BBC Radio 3 [Opt-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4 [M3U8]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="UK",BBC Radio 3 [Opt-2]
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4 [Opt-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",BBC Radio 5 Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4 [Opt-2]
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4 [Opt-3]
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",BBC Radio 5 Live [Opt-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="UK",BBC Radio 6 Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",BBC Radio 5 Live [Opt-2]
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="UK",BBC Radio 6 Music [Opt-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="UK",BBC Radio 6 Music [Opt-2]
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney [M3U8]
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
