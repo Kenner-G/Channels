@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free World Radio
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate E2%99%A5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://sc9106.xpx.pl:9106/
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.00.2000
@@ -15,198 +15,189 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="80S",USA: iHeart 80s Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio [M3U8]
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ksgn.com/images/ksgn_logo.png" group-title="CHRISTIAN CONTEMPORARY",USA: KSGN 89.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ksgn.com/images/ksgn_logo.png" group-title="USA",KSGN 89.7 FM
 http://1.ice1.firststreaming.com:8000/ksgn_fm.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="CHRISTIAN ROCK",USA: Lite FM 106.7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="USA",Lite FM 106.7 [M3U8]
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="POP",USA: Nick Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nick Radio [M3U8]
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="CLASSICAL",USA: NPR Illinois
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="USA",NPR Illinois
 http://64.202.98.51:7800/event
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="LATIN",USA: Pulso Digital
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="USA",Pulso Digital
 http://67.227.220.171:8066/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="TOP 40",USA: Z100 Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="USA",Z100 Radio [M3U8]
 http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="NEWS",CAN: CBC Radio One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One [M3U8]
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CLASSICAL",CAN: CBC Radio 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2 [M3U8]
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="NEWS",GBR: BBC World News [AUD]
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="UK",BBC World News
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="POP",GBR: BBC Radio 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [M3U8]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="POP",GBR: BBC Radio 1 [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="ADULT CONTEMPORARY",GBR: BBC Radio 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2 [M3U8]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="ADULT CONTEMPORARY",GBR: BBC Radio 2 [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="CLASSICAL",GBR: BBC Radio 3 [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="UK",BBC Radio 3
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="NEWS",GBR: BBC Radio 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4 [M3U8]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="NEWS",GBR: BBC Radio 4 [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",GBR: BBC Radio 5 Live [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",BBC Radio 5 Live
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="VARIETY",GBR: BBC Radio 6 Music [AUD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="UK",BBC Radio 6 Music
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="TALK",AUS: 2GB Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney [M3U8]
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="TALK",AUS: 2SM Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney [M3U8]
 http://144.140.228.109:8220/mp3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="TALK",AUS: 2UE Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney
 http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="NEWS",AUS: ABC Radio Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney [M3U8]
 http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="NEWS",AUS: ABC Radio Canberra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",AUS: ABC Radio Canberra [M3U8]
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="NEWS",AUS: ABC Radio National
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="NEWS",ABC Radio National [M3U8]
 http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="JAZZ",AUS: ABC Jazz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s273387d.png" group-title="",AUS: Pacific Island Vinyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s273387d.png" group-title="AUSTRALIA",Pacific Island Vinyl
 http://101.176.30.167:8000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="DANCE",DEU: Laut.fm - Zone-Mix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="GERMANY",Laut.fm - Zone-Mix
 http://laut.fm/zone-mix
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="VARIETY",DEU: MagentaMusik 360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360 [M3U8]
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_7/magentamusik1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/sf/fe5e595e2a02bdfe6554964984.jpg" group-title="CLASSIC HITS",DEN: Radio go!FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/sf/fe5e595e2a02bdfe6554964984.jpg" group-title="DENMARK",Radio Go! FM
 http://gofm.radiostreaming.dk:8050/gofm
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/uploads/posts/2016-06/9b10f40c93ed7df04136791ee0757303.png" group-title="CLASSIC HITS",DEN: Radio Nord FM 98.6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/uploads/posts/2016-06/9b10f40c93ed7df04136791ee0757303.png" group-title="DENMARK",Radio Nord FM 98.6
 http://radionord.radiostreaming.dk/DK4schlagerWeb
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.radiovolna.net/_files/uploads/posts/2016-05/a88245113cf2eaec6a3f55b5780e04ba.png" group-title="",DEN: Radio Silkeborg 107.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.radiovolna.net/_files/uploads/posts/2016-05/a88245113cf2eaec6a3f55b5780e04ba.png" group-title="DENMARK",Radio Silkeborg 107.7 FM
 http://silkeborg.radiostreaming.dk/silkeborg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/62/c9/62c94e05fcdcb27298519bfd327665e0.jpg" group-title="POP",FRA: 48FM 105.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/62/c9/62c94e05fcdcb27298519bfd327665e0.jpg" group-title="FRANCE",48FM 105.0
 http://212.129.28.44/48FM.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://studioolinda.com/wp-content/uploads/2016/07/13654302_1767236573490635_4520788958911720813_n.jpg" group-title="JAZZ",FRA: Jazz Box Radio Int'l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://studioolinda.com/wp-content/uploads/2016/07/13654302_1767236573490635_4520788958911720813_n.jpg" group-title="FRANCE",Jazz Box Radio Int'l
 http://91.121.59.45:8053/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="TOP 40",FRA: Radio Club Stars
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="FRANCE",Radio Club Stars
 http://91.121.59.45:8009/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bluemelodyschoolradio.com/upload/design/54c6cfaee9ac06.50082848.png" group-title="GOSPEL",GLP: Blue Melody School Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bluemelodyschoolradio.com/upload/design/54c6cfaee9ac06.50082848.png" group-title="GUADELOUPE",Blue Melody School Radio
 http://212.83.172.22/radio/593/stream/62896
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2488958554/radiopadania-logo_400x400.jpg" group-title="EASY LISTENING",ITA: Radio Padania Libera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2488958554/radiopadania-logo_400x400.jpg" group-title="ITALY",Radio Padania Libera
 http://onair11.xdevel.com:9986/%3Bstream.m4a
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="TOP 40",ITA: Radio Taormina [VID]
-http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-GfeAte-0pDo/VUT_7peB2CI/AAAAAAAARYE/vmHTZV2qVv0/s1600/Radio%2BVaticano.png" group-title="NEWS",ITA: Vatican Radio Europe 93.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-GfeAte-0pDo/VUT_7peB2CI/AAAAAAAARYE/vmHTZV2qVv0/s1600/Radio%2BVaticano.png" group-title="ITALY",Vatican Radio Europe 93.3 FM
 http://174.142.76.50:9002/channel1.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vatican.va/news_services/radio/img/logo-rv.jpg" group-title="NEWS",ITA: Vatican Radio Ch. 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vatican.va/news_services/radio/img/logo-rv.jpg" group-title="ITALY",Vatican Radio Ch. 9
 http://174.142.76.50:9002/channel9.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="SPORTS",ARG: ESPN Radio 107.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ESPN Radio 107.9 [M3U8]
 http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s248163d.png" group-title="NEWS",PER: Radio Activa 107.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s248163d.png" group-title="PERU",Radio Activa 107.1 FM
 http://212.129.33.202:9672
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="VARIETY",MOL: Univers FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="MOLDOVA",Univers FM
 http://92.39.52.207:9000/UniversFm
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CHILL",CZE: ABradio.cz - Chillout
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="DRUM + BASS",CZE: ABradio.cz - ShadowBox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - ShadowBox
 http://ice3.abradio.cz/shadowbox128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CLASSIC HITS",CZE: ABradio.cz - Oldies Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Oldies Radio
 http://ice.abradio.cz/oldiesradio128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ROCK",CZE: ABradio.cz - Oldies Rock
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Oldies Rock
 http://mp3stream4.abradio.cz/oldiesrock128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ALTERNATIVE",CZE: ABradio.cz - Alternative
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Alternative
 http://ice3.abradio.cz/alternative128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="REGGAE",CZE: ABradio.cz - RFX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - RFX
 http://ice3.abradio.cz/rfx128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="COUNTRY",CZE: ABradio.cz - Country
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="COUNTRY",ABradio.cz - Country
 http://mp3stream4.abradio.cz/country128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="ADULT CONTEMPORARY",CZE: ABradio.cz - Blanik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Blanik
 http://ice.abradio.cz/blanikcz128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="FOLK",CZE: ABradio.cz - Folk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Folk
 http://mp3stream2.abradio.cz:8000/folk.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",CZE: ABradio.cz - Relax - Sea
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",CZE: ABradio.cz - Relax - Sea
 http://ice6.abradio.cz/relax-sea128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",CZE: ABradio.cz - Relax - Thunder + Rain
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",CZE: ABradio.cz - Relax - Thunder + Rain
 http://ice6.abradio.cz/relax-thunder-rain128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="AMBIENT",CZE: ABradio.cz - Relax - Fire
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Relax - Fire
 http://ice6.abradio.cz/relax-fire128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CHILDREN",CZE: ABradio.cz - Pohadka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Pohadka
 http://ice3.abradio.cz/pohadka128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CHILDREN",CZE: ABradio.cz - Povidka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Povidka
 http://ice3.abradio.cz/povidka128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.pl/images/broadcasts/2d/54/16118/c175.png" group-title="POP",Open FM - I Love Back2School
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.pl/images/broadcasts/2d/54/16118/c175.png" group-title="POLAND",Open FM - I Love Back2School
 http://gr-relay-lb.gaduradio.pl/170
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="ARMENIAN",ARM: MTV.AM [Video]
-http://mtvam.ru/hlsam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png" group-title="TOP 40",ROU: U TV
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/youfm.png" group-title="TOP 40",GRC: YouFM 100.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/youfm.png" group-title="GREECE",YouFM 100.1
 http://95.85.10.201:8880/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Music128/v4/d4/a8/c1/d4a8c1f6-d0f9-d73d-2af0-6f4034a95167/source/1200x630bb.jpg" group-title="DANCE",TUR: Radio Shazam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Music128/v4/d4/a8/c1/d4a8c1f6-d0f9-d73d-2af0-6f4034a95167/source/1200x630bb.jpg" group-title="TURKEY",Radio Shazam
 http://streaming.radio.co/s0ce169aac/listen
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/01/dibur1.jpg" group-title="HEBREW",ISR: Radio Darom 101.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/01/dibur1.jpg" group-title="ISRAEL",Radio Darom 101.5 FM
 http://audio-darom.ecast.co.il/darom101
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="HINDI",IND: Raagam Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="INDIA",IND: Raagam Radio [M3U8]
 http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunuradiotv.com/wp-content/uploads/2017/06/sud-fm-1.jpg" group-title="AFRICAN",SEN: Sud FM 98.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunuradiotv.com/wp-content/uploads/2017/06/sud-fm-1.jpg" group-title="SENEGAL",Sud FM 98.5
 http://174.142.76.50:9002/senradio
 
