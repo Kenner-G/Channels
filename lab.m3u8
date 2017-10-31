@@ -19,7 +19,7 @@ http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="USA",NPR Illinois
 http://64.202.98.51:7800/event
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="USA",Pulso Digital
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="USA",Pulso Digital [ES]
 http://67.227.220.171:8066/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="USA",Z100 Radio [M3U8]
