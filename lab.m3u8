@@ -21,14 +21,7 @@ https://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
 https://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
 
-#EXTINF:-1,j sport 1
-http://live2.artv.watch/jp-jsports1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Azteca 7
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1659.m3u8
 
-#EXTINF:-1,j sport 2
-http://live2.artv.watch/jp-jsports2/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,j sport 3
-http://live2.artv.watch/jp-jsports3/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,j sport 4
-http://live2.artv.watch/jp-jsports4/tracks-v1a1/index.m3u8
