@@ -24,4 +24,30 @@ https://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
 #EXTINF:-1,Azteca 7
 http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1659.m3u8
 
+#EXTINF:-1,Cartoon Network
+http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.m3u8
 
+#EXTINF:-1,Lifetime
+https://imgur.com/PUaOA0E.png
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+
+#EXTINF:-1,Nick Jr. EN
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1,National Geographic EN
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+
+#EXTINF:-1,NatGeo Wild
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+#EXTINF:-1,A+E EN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+
+#EXTINF:-1,History EN
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+
+#EXTINF:-1,H2 EN
+http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
+
+#EXTINF:-1,Travel HD ?
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
