@@ -18,44 +18,14 @@ https://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
 https://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
 
-#EXTINF:-1,BFM Business
-http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+#EXTINF:-1,j sport 1
+http://live2.artv.watch/jp-jsports1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,TELEMUNDO
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,j sport 2
+http://live2.artv.watch/jp-jsports2/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Univision tdn
-http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_400_ipad.m3u8
+#EXTINF:-1,j sport 3
+http://live2.artv.watch/jp-jsports3/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Univision tdn
-http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
-
-#EXTINF:-1,Univision tdn
-http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1200_ipad.m3u8
-
-#EXTINF:-1,Univision tdn
-http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
-
-#EXTINF:-1,VISION 4
-http://cdn-hls.globecast.tv/live/ramdisk/vision4/hls_video/index.m3u8
-
-#EXTINF:-1,KAY 2
-http://dcunilive24-lh.akamaihd.net:80/i/
-
-#EXTINF:-1,BBC Farsi
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-
-#EXTINF:-1,Arabic: CBC DRAMA
-http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
-
-#EXTINF:-1,Arabic: CBC SOFRA
-http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
-
-#EXTINF:-1,Arabic: Dream 1 AR
-http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
-
-#EXTINF:-1,Arabic: MBC 4-MBC4
-http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
-
-#EXTINF:-1,Arabic: ABODHBI DRAMA
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+#EXTINF:-1,j sport 4
+http://live2.artv.watch/jp-jsports4/tracks-v1a1/index.m3u8
