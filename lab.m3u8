@@ -21,32 +21,26 @@ https://2007677237.ddns.net/p.m3u8?u=hls/live/200667/fbntve/MED.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
 https://2007677237.ddns.net/p.m3u8?u=hls%2Flive%2F200667%2Ffbntve%2FMED%2Em3u8
 
-#EXTINF:-1,Azteca 7
-http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1659.m3u8
+#EXTINF:0,ORF Eins (geo)
+http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
 
-#EXTINF:-1,Cartoon Network
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.m3u8
+#EXTINF:0,ORF Zwei
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 
-#EXTINF:-1,Lifetime
-http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:0,ORF Drei
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 
-#EXTINF:-1,Nick Jr. EN
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:0,ORF Sport +
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
-#EXTINF:-1,National Geographic EN
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1,ORF eins HD (3000 kbps)
+http://185.85.28.20/orf1/q8c.sdp/chunklist.m3u8
 
-#EXTINF:-1,NatGeo Wild
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1,ORF 2 HD (3000 kbps)
+http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
 
-#EXTINF:-1,A+E EN
-http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1,ORF 3 HD (3000 kbps)
+http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
 
-#EXTINF:-1,History EN
-http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
-
-#EXTINF:-1,H2 EN
-http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
-
-#EXTINF:-1,Travel HD ?
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1,ORF Sport+ HD (3000 kbps)
+http://185.85.28.20/orfs/q8c.sdp/chunklist.m3u8
