@@ -358,11 +358,35 @@ http://192.99.2.196:8181/stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B28we1Y.png" group-title="ECUADOR",Radio Spazio 104.7 FM
 http://163.172.231.217:9001/live
 
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Romania-01.png" group-title="LABEL",~ Romania TV ~
+http://www.lengua.com/anthems/Romania.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNTRZ5E.png" group-title="ROMANIA",Radio Manele
+http://217.182.51.104:8888/stream
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Serbia-01.png" group-title="LABEL",~ Serbia TV ~
+http://www.lengua.com/anthems/Serbia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d5d2e4b7-2c50-48b1-8335-0527c8f769c2.png" group-title="SERBIA",Cool Radio
+http://176.9.30.66:80/cool64
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Croatia-01.png" group-title="LABEL",~ Croatia TV ~
+http://www.lengua.com/anthems/Croatia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/16/95/5225/c175.png" group-title="CROATIA",Radio Banovina
+http://136.243.21.140:9998/banovina
+
 #EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
 http://www.lengua.com/anthems/Moldova.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="MOLDOVA",Univers FM
 http://92.39.52.207:9000/UniversFm
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Slovenia-01.png" group-title="LABEL",~ Slovenia TV ~
+http://www.lengua.com/anthems/Slovenia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-wyG78ZwWEts/AAAAAAAAAAI/AAAAAAAAAAA/zOEr3Treqwc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SLOVENIA",Hitradio Center
+http://212.18.63.135:8000/center
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",~ Czech Republic TV ~
 http://www.lengua.com/anthems/CzechRepublic.mp3
@@ -454,8 +478,14 @@ http://audio-darom.ecast.co.il/darom101
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India TV ~
 http://www.lengua.com/anthems/India.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radioonlinelive.com/wp-content/uploads/2015/12/Ilayaraja-Radio.jpg" group-title="INDIA",Ilayaraja Radio
+http://212.83.138.48:8324/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="INDIA",Raagam Radio
 http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s183986d.png" group-title="INDIA",Radio City Hindi
+http://63.143.36.2:8888/Hindi
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",~ Lebanon TV ~
 http://www.lengua.com/anthems/Lebanon.mp3
@@ -484,8 +514,26 @@ http://212.83.172.22/radio/4735/stream/63217
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunuradiotv.com/wp-content/uploads/2017/06/sud-fm-1.jpg" group-title="SENEGAL",Sud FM 98.5
 http://174.142.76.50:9002/senradio
 
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Thailand-01.png" group-title="LABEL",~ Thailand TV ~
+http://www.lengua.com/anthems/Thailand.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://top-radio.org/wp-content/uploads/logo/sukson-radio.jpg" group-title="THAILAND",Sukson Radio
+http://103.246.18.191:9000/SuksonRadio
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Japan-01.png" group-title="LABEL",~ Japan TV ~
+http://www.lengua.com/anthems/Japan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/28/cc/37894/2/c300.png" group-title="JAPAN",J-Pop Powerplay
+http://184.75.223.178:8102/stream
+
 #EXTINF:-1 tvg-logo="https://ai-i2.infcdn.net/icons_siandroid/png/200/3643/3643309.png" group-title="LABEL",~ Philippines TV ~
 http://www.lengua.com/anthems/Philippines.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-retSaf9Q3y8/VF92roImopI/AAAAAAAAAbY/OgqxYfK9-qc/s200/wrock-cebu-amfmph.png" group-title="PHILIPPINES",96.3 WRocK Cebu
+http://37.187.79.93:8248/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestfriendfm.com/assets/img/logo.png" group-title="PHILIPPINES",Bestfriend FM
+http://178.32.62.172:8217/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://eradioportal.com/wp-content/uploads/2012/11/Monster-Radio-Manila.png" group-title="PHILIPPINES",Monster Radio DWRX 93.1 FM
 http://64.202.98.51:8400/live
