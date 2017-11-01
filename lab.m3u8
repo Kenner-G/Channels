@@ -6,12 +6,39 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" group-title="USA",Ambient Sleeping Pill 1
+http://163.172.169.217:80/asp-s
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" group-title="USA",Ambient Sleeping Pill 2
+http://163.172.169.217:80/asp-h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/07/Audio-Noir-Radio.jpg" group-title="USA",Audio Noir Radio
+http://198.245.61.123:8000/noir
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s226064q.png" group-title="USA",Classic Rock 109
+http://209.222.19.108:10042/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/be/01/be01c0a3b0ac6874473933c01f60f8bc.jpg" group-title="USA",Classical WETA 90.9 FM
+http://38.100.128.106:8000/fmlive
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.deephouselounge.com/wp-content/uploads/2016/07/itunespodcast_new.jpg" group-title="USA",Deep House Lounge
+http://198.15.94.34:8024/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/318x318/extaudio/1/c/9/3/523b-ce5f-4fef-b2ae-81129eb9a2c4.jpg" group-title="USA",Dogglounge Deep House Radio
 http://37.97.160.125:9128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/V5lHI3bct5Q/hqdefault.jpg" group-title="USA",Hot 108 JAMZ
+http://66.85.88.174:80/hot108
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio [M3U8]
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 http://37.97.160.125:9128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secureimg.stitcher.com/feedimagesplain328/68797.jpg" group-title="USA",InfoWars - Alex Jones Show
+http://192.240.107.134:80/alexjonesshow
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jewishmusicstream.com/wp-content/uploads/2011/07/icon.jpg" group-title="USA",JewishMusic Stream
+http://stream.jewishmusicstream.com:8000/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ksgn.com/images/ksgn_logo.png" group-title="USA",KSGN 89.7 FM
 http://1.ice1.firststreaming.com:8000/ksgn_fm.mp3
@@ -25,14 +52,29 @@ http://64.202.98.51:7940/kzro
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="USA",Lite FM 106.7 [M3U8]
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/04/Mobb-Report-Radio.jpg" group-title="USA",Mobb Report Radio
+http://198.105.220.12:7638/Live
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nick Radio [M3U8]
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="USA",NPR Illinois
 http://64.202.98.51:7800/event
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.otrnow.com/amazingtales/AmazingTales300.png" group-title="USA",Old Time Radio - Amazing Tales
+http://167.114.64.181:8462/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/c5242b7f3a54328ad2c77568ce5ac4b9/n4/q4yl59f0a8ee68b27202212071.jpg" group-title="USA",Old Time Radio - Crimetime
+http://142.4.217.133:9195/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="USA",Pulso Digital [ES]
 http://67.227.220.171:8066/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" group-title="USA",SmoothJazz.com Global Radio
+http://144.217.153.67:80/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jazzgroove.org/theme/16/img/logo-circle-white1-no-org.png" group-title="USA",The Jazz Groove
+http://199.180.75.116:80/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OcCg9Q1.png" group-title="USA",True Victory Radio
 http://212.83.172.22/radio/56374/stream/93565
