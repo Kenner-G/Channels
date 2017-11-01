@@ -444,7 +444,7 @@ http://158.69.74.18:8081/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/a3/4b/20705/c175.png" group-title="ARGENTINA",Rock + Pop 95.9 FM
 http://blaster.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u
 
-#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/Chile/flag-button-square-250.png" group-title="LABEL",~ Chile TV ~
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Chile-01.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/719191369277927425/NNPKDQ8D.jpg" group-title="CHILE",Cautiva 101.3 FM San Fernando
