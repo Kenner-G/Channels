@@ -246,20 +246,10 @@ http://149.56.157.81:8782/listen.
 
 /// Chile ///
 
-#EXTINF:-1,Candela 95.3 FM Energia Latina
-http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
-#EXTINF:-1,Futuro 88.9 FM
-http://unlimited1-cl.dps.live/futurotv/futurotv.smil/futurotv/livestream3/chunks.m3u8
-#EXTINF:-1,Futuro 88.9 FM
-http://unlimited1-cl.dps.live/futurotv/futurotv.smil/futurotv/livestream2/chunks.m3u8
-#EXTINF:-1,Futuro 88.9 FM HD
-http://unlimited1-cl.dps.live/futurotv/futurotv.smil/futurotv/livestream1/chunks.m3u8
 #EXTINF:-1,PUNTO 9 92.9 FM SAN FERNANDO CHILE
 http://164.77.84.69:8000/online
 #EXTINF:-1,CAUTIVA 101.3 FM SAN FERNANDO CHILE
 http://164.77.84.69:8000/cautiva
-#EXTINF:-1,PUNTO 9 ELITE ONLINE SAN FERNANDO CHILE
-http://164.77.84.69:8000/elite
 #EXTINF:-1,Radio Madero (102.5 FM Antofagasta)
 http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
 #EXTINF:-1,Radio Chilena Concepcion (1030 AM)
@@ -268,28 +258,24 @@ http://unlimited1-cl.digitalproserver.com/chilena/aac/icecast.audio
 http://unlimited1-cl.digitalproserver.com/madero_copiapo/mp3/icecast.audio
 #EXTINF:-1,Madero FM Coquimbo
 http://unlimited1-cl.digitalproserver.com/madero_serena/mp3/icecast.audio
-#EXTINF:-1,Radio Camara de Diputads (Online)
+#EXTINF:-1,Radio Camara de Diputados
 http://www.radiocamara.cl:8000/;stream.mp3/1
-#EXTINF:-1,Radio Camara de Diputads (Online)
+#EXTINF:-1,Radio Camara de Diputados*
 http://www.radiocamara.cl:8000/;stream.mp3/2
-#EXTINF:-1,Radio Camara de Diputads (Online)
+#EXTINF:-1,Radio Camara de Diputados*
 http://www.radiocamara.cl:8000/;stream.mp3/3
-#EXTINF:-1,Enlace Lautaro Temuco
-http://demo.dyndns.biz:8010/;
 #EXTINF:-1,Radio Madero (102.5 FM Antofagasta)
 http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
-#EXTINF:-1,Radio Chilena Concepcion (1030 AM)
-http://unlimited1-cl.digitalproserver.com/chilena/aac/icecast.audio
-#EXTINF:-1,Madero FM Copiapó
-http://unlimited1-cl.digitalproserver.com/madero_copiapo/mp3/icecast.audio
-#EXTINF:-1,Madero FM Coquimbo
-http://unlimited1-cl.digitalproserver.com/madero_serena/mp3/icecast.audio
 #EXTINF:-1,Radio Caramelo Angol Chile
 http://190.196.10.197:8120
-#EXTINF:-1,Radio Cooperativa
+#EXTINF:-1,Radio Cooperativa (106.7 FM)
 http://190.196.10.197:8233
-#EXTINF:-1,Radio Agricultura
+#EXTINF:-1,Radio Agricultura (92.1 FM)
 http://190.196.10.197:7500
+#EXTINF:-1,Cooperativa (106.7 FM)
+http://unlimited1-cl.dps.live/cooperativafm/aac/icecast.audio
+#EXTINF:-1,Agricultura (92.1 FM)
+http://unlimited1-cl.dps.live/agricultura/aac/icecast.audio
 #EXTINF:-1,biobio Concepcion
 http://unlimited1-cl.dps.live/biobioconcepcion/aac/icecast.audio
 #EXTINF:-1,biobio santiago
@@ -306,12 +292,6 @@ http://unlimited1-cl.dps.live/biobiovaldivia/aac/icecast.audio
 http://unlimited1-cl.dps.live/biobioosorno/aac/icecast.audio
 #EXTINF:-1,biobio puerto montt
 http://unlimited1-cl.dps.live/biobiopuertomontt/aac/icecast.audio
-#EXTINF:-1,Cooperativa (106.7 FM)
-http://unlimited1-cl.dps.live/cooperativafm/aac/icecast.audio
-#EXTINF:-1,Agricultura (92.1 FM)
-http://unlimited1-cl.dps.live/agricultura/aac/icecast.audio
-#EXTINF:-1,Radio Universitaria CL
-http://200.9.201.73:8000/
 #EXTINF:-1,FmOkey Arica
 http://186.103.222.235:8000/FmOkAR.aac
 #EXTINF:-1,FmOkey Arica
@@ -337,44 +317,25 @@ http://radio.lancom.gr:8004/stream1
 http://avantifm.live24.gr:80/avantifm
 #EXTINF:-1,Action FM
 http://netradio.live24.gr:80/actionfm
-#EXTINF:-1,GR: 104.5 Crete Island
+#EXTINF:-1,104.5 Crete Island
 http://stream.cretanservers.gr/1045fm
-#EXTINF:-1,Speak Easy Radio
-http://83.212.108.106:8010/speakeasy.mp3
 #EXTINF:-1,Radio Gold
 http://radiogold.live24.gr/radiogold
-#EXTINF:-1,RADIO REVOLT
-http://195.251.129.38:8000/revolt128
 #EXTINF:-1,.::105fm-Aftoorganomeni Radiofonia Mytilinis::.
 http://195.251.129.38:8000/105fm256
 #EXTINF:-1,UOC Radio
 http://147.52.178.164:8000/uoc_128.mp3
 #EXTINF:-1,1431 AM
 http://155.207.18.114:8000/1431high
-#EXTINF:-1,1431 AM
+#EXTINF:-1,1431 AM*
 http://155.207.18.114:8000/1431med
-#EXTINF:-1,1431 AM
+#EXTINF:-1,1431 AM**
 http://155.207.18.114:8000/1431ogg
-#EXTINF:-1,RYTHMOS 94.3 WEB TV RADIO
-http://rythmoscam.dyndns.org:1935/live/myStream/master.m3u8
 
 /// Iran ///
 
 #EXTINF:-1,Radio Baran Tebriz
 http://cdn1.live.irib.ir:1935/e-radio/r-baran.stream/playlist.m3u8
-#EXTINF:-1,Radio maaref
-http://headend1.iranseda.ir/liveHLS/radio-maaref.m3u8
-#EXTINF:-1,Radio English 91.5FM
-http://headend1.iranseda.ir/liveHLS/radio-english.m3u8
-
-/// Jordan ///
-
-#EXTINF:-1,Radio-Rotana
-http://188.247.86.67:8002
-#EXTINF:-1,Radio-Fann
-http://188.247.86.67:8000
-#EXTINF:-1,Radio-Yaqeen
-http://188.247.86.67:8004
 
 /// Luxembourg ///
 
@@ -405,21 +366,12 @@ http://stream.radio-fsn.de:8000/isdn
 #EXTINF:-1,Radio FSN: Rock
 http://stream.radio-fsn.de:8000/rock
 
-/// Mexico ///
-
-#EXTINF:-1,RADIO MVS 102.5 FM
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/live.m3u8
-
 /// Paraguay ///
 
 #EXTINF:-1,Radio Online CU
 http://200.108.136.94:8000/envivo
 #EXTINF:-1,ABC Cardinal 730AM
 http://sc.abc.com.py:8000/;stream.mp3
-#EXTINF:-1,ABC Cardinal 730AM
-http://sc.abc.com.py:8000
-#EXTINF:-1,Radio Medano live
-http://201.217.6.34:8000/live.mp3
 
 //// Poland ///
 
