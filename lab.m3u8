@@ -148,9 +148,6 @@ http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/p8N8ddk5P2.png" group-title="AUSTRALIA",Middle East Radio [AR]
 http://198.178.123.5:7386
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s273387d.png" group-title="AUSTRALIA",Pacific Island Vinyl
-http://101.176.30.167:8000
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/15/bb/7692/c175.png" group-title="AUSTRALIA",Sawt El Ghad [AR]
 http://198.178.123.11:7648
 
