@@ -30,9 +30,17 @@ http://37.97.160.125:9128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/V5lHI3bct5Q/hqdefault.jpg" group-title="USA",Hot 108 JAMZ
 http://66.85.88.174:80/hot108
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeartRadio - 80s
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-http://37.97.160.125:9128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1Jcwc5O.png" group-title="USA",iHeartRadio Countdown
+http://18073.live.streamtheworld.com:80/IHR_IHRCAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qLJiAuy.png" group-title="USA",iHeartRadio - Kids Club
+http://18073.live.streamtheworld.com/IHR_KIDSCLUBAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fezei9Y.png" group-title="USA",iHeartRadio X-Mas
+http://14833.live.streamtheworld.com:80/IHR_IHADAAC.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secureimg.stitcher.com/feedimagesplain328/68797.jpg" group-title="USA",InfoWars - Alex Jones Show
 http://192.240.107.134:80/alexjonesshow
@@ -178,14 +186,20 @@ http://www.lengua.com/anthems/Australia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney [Opt-1]
 http://144.140.228.109:8220/mp3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney [Opt-2]
+http://144.140.228.109:8220/mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney [Opt-1]
 http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney
-http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney [Opt-2]
+http://shout01.stream.hostworks.com.au:/2ue_mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/491755252043898881/cRRs4BMl.jpeg" group-title="AUSTRALIA",4CRB 89.3 FM
+http://stream.4crb.com:8000/stream/1/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",ABC Radio Canberra
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
@@ -193,14 +207,32 @@ http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",ABC Radio National
 http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney
+http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coles.com.au/customer-service/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg" group-title="AUSTRALIA",Coles Radio
+http://coles.streaming.novaentertainment.com.au/sa_nt
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/28488.png" group-title="AUSTRALIA",Curtin FM 100.1
 http://192.99.17.12:6192/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Mix_102.3_logo.png" group-title="AUSTRALIA",Mix 102.3 Adelaide
+http://icy.arn.com.au/au_003_icy
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://valleychamber.com.au/wp-content/uploads/job-manager-uploads/company_logo/2016/04/Nova_1069_logo.svg.png" group-title="AUSTRALIA",Nova 106.9 Brisbane
+http://streaming.novaentertainment.com.au/nova1069
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlinetamilradio.in/img/puradsi-fm.jpg" group-title="AUSTRALIA",Puradsi FM Tamil
 http://107.182.231.73:9994/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/TerritoryFM.png" group-title="AUSTRALIA",Territory FM 104.1 Darwin
+http://streaming.territoryfm.com:8000/TerritoryFM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shop.rrr.org.au/assets/red-logo-detail-230-x-250.jpg" group-title="AUSTRALIA",Triple R 102.7 FM
+http://public-radio1.internode.on.net:8002/114
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
@@ -256,6 +288,24 @@ http://195.154.156.183/radio/8497/stream/18473
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://funkybeatradio.net/settings/logo/fbr250.png" group-title="FRANCE",Funky Beat Radio
 http://195.154.182.216:8146/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Frenchy
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-frenchy-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Hot
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hot-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Metal
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-metal-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - New
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-new-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Sunny
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-sunny-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - VIP
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-vip-128.mp3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://studioolinda.com/wp-content/uploads/2016/07/13654302_1767236573490635_4520788958911720813_n.jpg" group-title="FRANCE",Jazz Box Radio Int'l
 http://91.121.59.45:8053/stream
 
@@ -309,6 +359,9 @@ http://europa.shoutca.st:9053/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/4d/70/42359/1/c175.png" group-title="ITALY",Radio Dance Network
 http://sr2.inmystream.info:8030/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.friend4ever.it/Logo%20friend4ever.png" group-title="ITALY",Radio Friend4Ever
+http://usa12.fastcast4u.com:5684/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s152561d.png" group-title="ITALY",Radio Venere 89.9 FM
 http://onair18.xdevel.com:8018/;stream.m4a
