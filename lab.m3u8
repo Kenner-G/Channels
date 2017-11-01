@@ -250,9 +250,6 @@ http://192.99.2.196:8181/stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B28we1Y.png" group-title="ECUADOR",Radio Spazio 104.7 FM
 http://163.172.231.217:9001/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s248163d.png" group-title="PERU",Radio Activa 107.1 FM
-http://212.129.33.202:9672
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="MOLDOVA",Univers FM
 http://92.39.52.207:9000/UniversFm
 
