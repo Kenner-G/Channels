@@ -377,7 +377,7 @@ http://sc.abc.com.py:8000/;stream.mp3
 
 #EXTINF:-1,Złote Przeboje
 http://bialystok.radio.pionier.net.pl:8000/pl/zloteprzeboje.ogg
-#EXTINF:-1,Złote Przeboje
+#EXTINF:-1,Złote Przeboje*
 http://warszawa1-1.radio.pionier.net.pl:8000/pl/tuba9-1.mp3
 #EXTINF:-1,Radiosilesia
 http://s6.radiohost.pl:8034
@@ -497,8 +497,6 @@ http://mp3.polskieradio.pl:8962
 http://mp3.polskieradio.pl:8964
 #EXTINF:-1,Polskie Radio S.A. -- aac_Radio Dzieciom
 http://mp3.polskieradio.pl:8966
-#EXTINF:-1,100% Białas & Lanek
-http://stream.open.fm/178
 #EXTINF:-1,Radio JURA (128kbps)
 http://188.137.110.167:8000/jura_128kbps_stereo.mp3
 #EXTINF:-1,Radio JURA (64kbps)
@@ -515,48 +513,23 @@ http://188.137.110.167:8000/radio90_96kbps_stereo.mp3
 http://46.171.190.145:8889/club.aac
 #EXTINF:-1,- Radio Rak'n'Roll
 http://gr-relay-lb.gaduradio.pl/168
-#EXTINF:-1,ViennaPLus Radio & Medien
-http://radio.viennaplus.at:8000
-#EXTINF:-1,Radio AM Andrychów 1584 kHz
+#EXTINF:-1,Radio AM Andrychow 1584 kHz
 http://109.95.151.151:8000
 #EXTINF:-1,TurMix FM
 http://91.196.49.252:18012/;stream
-#EXTINF:-1,Radio Jasna Góra
-http://online.radiojasnagora.pl:8000/rjg.m3u
-
-/// Puerto Rico ///
-
-#EXTINF:-1,Radio San Juan
-http://65.23.218.170:8000/stream
 
 ///  Spain ///
 
 #EXTINF:-1,Star People
 http://2.139.144.101:8020/1
-#EXTINF:-1,ROCK FM
-http://195.55.74.212/cope/rockfm-low.mp3
 #EXTINF:-1,RAC 105 RADIO
 http://ios105.radiocat.net
-#EXTINF:-1,Radio Bronka 104.5 FM\Rock-Punk
-http://stream.nonfqdn.net:8000/rbronka.ogg
-#EXTINF:-1,Радио CUAC FM
+#EXTINF:-1,CUAC FM
 http://streaming.cuacfm.org:80/cuacfm.ogg
-#EXTINF:-1,Радио CUAC FM
+#EXTINF:-1,CUAC FM
 http://streaming.cuacfm.org:80/cuacfm.aac
 #EXTINF:-1,UNIKA FM
 http://radio.unika.fm:8010/unk
-#EXTINF:-1,CANAL FIESTA
-http://195.55.74.204/rtva/canalfiestaradio_master.mp3
-#EXTINF:-1,Cope FM SPANISH
-http://195.55.74.208/cope/net1.mp3
-#EXTINF:-1,Cope FM SPANISH
-http://195.55.74.208/cope/net2.mp3
-#EXTINF:-1,Cope FM SPANISH
-http://195.55.74.208/cope/net3.mp3
-#EXTINF:-1,Radio Andalucia
-http://195.55.74.203/rtva/radioandalucia.mp3
-#EXTINF:-1,CanalSur Radio Granada
-http://195.55.74.203/rtva/canalsurradiogranada.mp3
 #EXTINF:-1,RADIO TODOEXITOS - ESPANA (Black Metal / Heavy Metal / Rock /)
 http://hertz.todoexitos.com:8206/stream
 #EXTINF:-1,RADIO TODOEXITOS - ESPANA (oldies)
@@ -569,21 +542,17 @@ http://hertz.todoexitos.com:8204/stream
 http://hertz.todoexitos.com:8222/stream
 #EXTINF:-1,RADIO TODOEXITOS - ESPANA (hits)
 http://hertz.todoexitos.com:8200/stream
-#EXTINF:-1,MegaStar FM 100.7
-http://195.55.74.207/cope/megastar.mp3?GKID=cdf235803d7711e7907d00163e914f69
 #EXTINF:-1,Si Radio - Lugo
 http://82.223.248.142:8080/lugosiradio
 #EXTINF:-1,Radio Oro Marbella
 http://185.23.192.118:8004
 #EXTINF:-1,Radio Radio Network
 http://193.239.13.17:8070/;
-#EXTINF:-1,Almería FM
+#EXTINF:-1,Almeria FM
 http://88.12.59.119:8010/almeriafm
 
 /// Turkey ///
 
-#EXTINF:-1,Adana Süper FM
-http://www.onlineradyotv.net:9000
 #EXTINF:-1,Jazzland
 http://46.20.3.246/stream/56/
 #EXTINF:-1,Radyo Viva
@@ -592,7 +561,7 @@ http://46.20.3.246/stream/103/
 http://46.20.3.246/stream/55/
 #EXTINF:-1,Rockland
 http://46.20.3.246/stream/57/
-#EXTINF:-1,Radyo Müzik 97.6
+#EXTINF:-1,Radyo Muzik 97.6
 http://37.247.100.118/stream/68/
 #EXTINF:-1,RADYO SPOR
 http://37.247.100.118/stream/70/
@@ -604,13 +573,11 @@ http://37.247.100.118/stream/157/
 http://95.173.188.166:9100/stream
 #EXTINF:-1,Turkish: Baba Radyo 105.6
 http://37.247.100.100/best/babaradyo.stream/chunklist.m3u8
-#EXTINF:-1,(Radio-TR) Radyo Seymen
-http://213.128.77.142:8050
-#EXTINF:-1,Türk FM - Easy
+#EXTINF:-1,Turk FM - Easy
 http://95.173.161.134:9100/;stream.mp3
-#EXTINF:-1,CRI Türk FM - Klasik
+#EXTINF:-1,CRI Turk FM - Klasik
 http://95.173.162.185:9100/;stream.mp3
-#EXTINF:-1,CRI Türk FM - Music Plus
+#EXTINF:-1,CRI Turk FM - Music Plus
 http://159.253.39.180:9100/;stream.mp3
 #EXTINF:-1,Power FM Turk
 http://185.28.3.4/power/PowerTurk_mpeg_128_home/icecast.audio
@@ -684,7 +651,7 @@ http://sc.brtk.net:8006/stream
 http://sc.brtk.net:8010/stream
 #EXTINF:-1,RADIO BYRAK RADYO HABER - CYPRUS (news)
 http://sc.brtk.net:8008/stream
-#EXTINF:-1,COPE - Valladolid / Tordesillas 104.5 FMRadio Tabaković Rijeka
+#EXTINF:-1,COPE - Valladolid / Tordesillas 104.5 FM
 http://195.10.10.222/copesedes/valladolid.mp3
 
 
@@ -692,7 +659,7 @@ http://195.10.10.222/copesedes/valladolid.mp3
 
 #EXTINF:-1,Heart London
 http://media-sov.musicradio.com:80/HeartLondonMP3
-#EXTINF:-1,Gold London
+#EXTINF:-1,Gold London @
 http://media-sov.musicradio.com:80/GoldLondonMP3
 #EXTINF:-1,Capital London
 http://media-sov.musicradio.com:80/CapitalMP3
@@ -710,9 +677,9 @@ http://rss-streaming.co.uk:8004/stream
 http://95.154.202.117:8257
 #EXTINF:-1,KYKLADES FM Naxos
 http://95.154.202.117:7468
-#EXTINF:-1,..:::Radio Rakospalota:::...
+#EXTINF:-1,Radio Rakospalota
 http://95.154.254.81:13083/stream
-#EXTINF:-1,..:::Radio Rakospalota:::...
+#EXTINF:-1,Radio Rakospalota*
 http://95.154.254.81:13083/stream_mobil
 #EXTINF:-1,Radio Paradise (EU servers)
 http://stream-uk1.radioparadise.com/mp3-192
@@ -746,11 +713,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO.m
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP_TRUJILLO.mp3
 #EXTINF:-1,Clyde 1
 http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1.mp3
-#EXTINF:-1,Clyde 1
+#EXTINF:-1,Clyde 1*
 http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1.aac
-#EXTINF:-1,Clyde 1
+#EXTINF:-1,Clyde 1**
 http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1low.mp3
-#EXTINF:-1,Clyde 1
+#EXTINF:-1,Clyde 1***
 http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1low.aac
 #EXTINF:-1,HFM 102.3
 http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
@@ -837,7 +804,7 @@ http://poder971.serverroom.net:9242
 http://74.50.122.103:9270/;stream
 #EXTINF:-1,Radio Divya Jyoti
 http://74.50.122.103:9280/;stream
-#EXTINF:-1,• Radio Bons Tempos
+#EXTINF:-1,Radio Bons Tempos
 http://wz3.dnip.com.br/sc_sauda/sc_sauda.stream/playlist.m3u8
 #EXTINF:-1,KCRW Berlin 104.1 FM
 http://edg-ams-kcrw.streamguys1.com/kcrw_192k_mp3_berlin
@@ -845,20 +812,16 @@ http://edg-ams-kcrw.streamguys1.com/kcrw_192k_mp3_berlin
 http://206.190.136.140:9833/;stream
 #EXTINF:-1,Leading Edge Radio Network Oldies Channel 2
 http://206.190.136.140:9901/;stream
-#EXTINF:-1,Dance Wave Retro! - All about Dance before 2000!
+#EXTINF:-1,Dance Wave Retro!
 http://retro.dancewave.online/retrodance.mp3
-#EXTINF:-1,Dance Wave Retro! - All about Dance before 2000!
+#EXTINF:-1,Dance Wave Retro!*
 http://retro.dancewave.online/retrodance.ogg
 #EXTINF:-1,KCGP 106.7 Grants Pass
 http://206.190.136.140:9554/;stream
-#EXTINF:-1,Kpopway Mixtape
-http://206.190.136.140:9809/;stream
 #EXTINF:-1,myusic
 http://74.50.122.103:9154/;stream
 #EXTINF:-1,Radio Voz da Fe
 http://74.50.122.103:9200/;stream
-#EXTINF:-1,Fox 91.4 FM	Radio from Colombo
-http://72.46.136.154:7061
 #EXTINF:-1,2000 FM - Hard Rock
 http://107.155.111.170:8110
 #EXTINF:-1,Radio Maxima FM
@@ -875,8 +838,6 @@ http://206.190.136.140:9542/;stream
 http://74.50.122.103:9048/;stream
 #EXTINF:-1,CvsRadio1 - Reggae Jam
 http://74.50.122.103:9128/;stream
-#EXTINF:-1,Radio Tacachico
-http://198.16.70.181:9002/stream
 #EXTINF:-1,KarcFM
 http://104.236.214.6:80/high
 #EXTINF:-1,Karc FM 105.9
@@ -898,7 +859,7 @@ http://majestic.wavestreamer.com:5562/Live
 
 /// Vietnam ///
 
-#EXTINF:-1,VOH FM 95.6 Mhz
+#EXTINF:-1,VOH FM 95.6 Mhz @
 rtmp://221.132.38.110:1935/live/channel4
 #EXTINF:-1,Đài Tiếng nói VN 1 - VOV1
 rtmp://210.245.60.242:1935/nghehevov2/vov2
@@ -922,12 +883,6 @@ http://118.107.76.15:1983/live/HPradio.stream/playlist.m3u8
 http://118.107.76.15:1983/live/HGradio.stream/playlist.m3u8
 #EXTINF:-1,Sơn La
 http://118.107.76.15:1983/live/SLradio.stream/playlist.m3u8
-#EXTINF:-1,VOV1
-http://210.245.60.242:1935/vov1/vov1/playlist.m3u8
-#EXTINF:-1,VOV2
-http://210.245.60.242:1935/vov2/vov2/playlist.m3u8
-#EXTINF:-1,VOV3
-http://210.245.60.242:1935/vov3/vov3/playlist.m3u8
 #EXTINF:-1,VOH FM 95.6Mhz
 http://221.132.38.110:1935/live//channel1/playlist.m3u8
 #EXTINF:-1,VOH AM 610Khz
@@ -937,14 +892,6 @@ http://221.132.38.110:1935/live//channel3/playlist.m3u8
 
 /// Mixed ///
 
-#EXTINF:-1,Heart London
-http://media-sov.musicradio.com:80/HeartLondonMP3
-#EXTINF:-1,Gold London
-http://media-sov.musicradio.com:80/GoldLondonMP3
-#EXTINF:-1,Capital London
-http://media-sov.musicradio.com:80/CapitalMP3
-#EXTINF:-1,Karc FM 105.9
-http://92.61.114.191:13110/stream
 #EXTINF:-1,Zünd FM
 http://stream.zuend-fm.de:8200
 #EXTINF:-1,Zünd FM
