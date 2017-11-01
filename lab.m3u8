@@ -543,7 +543,7 @@ http://192.99.2.196:8181/stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B28we1Y.png" group-title="ECUADOR",Radio Spazio 104.7 FM
 http://163.172.231.217:9001/live
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",~ Dominican Republic TV ~
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",~ Dominican Republic TV ~
 http://www.lengua.com/anthems/DominicaRepublic.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/cea025dd-4a7a-49e6-903a-2c52349325be.jpg" group-title="DOMINICAN REP",Kabina34 Radio
@@ -573,7 +573,7 @@ http://www.lengua.com/anthems/Moldova.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="MOLDOVA",Univers FM
 http://92.39.52.207:9000/UniversFm
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",~ Ukraine TV ~
+#EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/97/PNG/256/ukraine_flags_flag_17076.png" group-title="LABEL",~ Ukraine TV ~
 http://www.lengua.com/anthems/Ukraine.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s226345d.png" group-title="UKRAINE",E!Rock Radio
@@ -711,7 +711,7 @@ http://212.83.172.22/radio/4735/stream/63217
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunuradiotv.com/wp-content/uploads/2017/06/sud-fm-1.jpg" group-title="SENEGAL",Sud FM 98.5
 http://174.142.76.50:9002/senradio
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",~ Uganda TV ~
+#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/97/PNG/256/uganda_flags_flag_17075.png" group-title="LABEL",~ Uganda TV ~
 http://www.lengua.com/anthems/Uganda.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://volumesup.com/image/logo/71301/ks-radio-mukono.jpg" group-title="UGANDA",KS Radio Mukono
