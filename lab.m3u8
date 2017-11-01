@@ -310,9 +310,6 @@ http://81.219.54.6:8004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s108671q.png" group-title="POLAND",Nirvana Relaxation
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.pl/images/broadcasts/2d/54/16118/c175.png" group-title="POLAND",Open FM - I Love Back2School
-http://gr-relay-lb.gaduradio.pl/170
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.smoothjazz.com.pl/img/sj.jpg" group-title="",SmoothJazz.com.pl
 http://stream4.nadaje.com:11416/
 
