@@ -88,14 +88,23 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
 http://www.lengua.com/anthems/Canada.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54303d.png" group-title="CANADA",Buzzoutroom Radio
+http://149.56.183.178:8034/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One [M3U8]
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2 [M3U8]
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/85500b50-6756-43f5-bef6-66652aa571ea.png" group-title="CANADA",Jammin Vibez Radio
+http://158.69.227.214:8700/stream
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/9a/bb/9abbabb2387286d36125195bda17bbb4.jpg" group-title="UK",Abacus.fm - Mozart Piano
+http://178.33.232.106:8046/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" group-title="UK",BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
@@ -190,6 +199,12 @@ http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/28488.png" group-title="AUSTRALIA",Curtin FM 100.1
+http://192.99.17.12:6192/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlinetamilradio.in/img/puradsi-fm.jpg" group-title="AUSTRALIA",Puradsi FM Tamil
+http://107.182.231.73:9994/stream
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 
@@ -241,11 +256,23 @@ http://www.lengua.com/anthems/France.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/62/c9/62c94e05fcdcb27298519bfd327665e0.jpg" group-title="FRANCE",48FM 105.0
 http://212.129.28.44/48FM.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_988a9826c7792b82df51763ac58d060b/logo200.jpg" group-title="FRANCE",Djam Radio
+http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple118/v4/0a/7c/7c/0a7c7cf4-1cd8-80a1-027f-d5d92d2f8c9a/source/175x175bb.jpg" group-title="FRANCE",FNME-CGT
 http://195.154.156.183/radio/8497/stream/18473
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://funkybeatradio.net/settings/logo/fbr250.png" group-title="FRANCE",Funky Beat Radio
+http://195.154.182.216:8146/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://studioolinda.com/wp-content/uploads/2016/07/13654302_1767236573490635_4520788958911720813_n.jpg" group-title="FRANCE",Jazz Box Radio Int'l
 http://91.121.59.45:8053/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s237777d.png" group-title="FRANCE",Prysm Deep
+http://listen.shoutcast.com/prysmdeep
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pulsradio.com/DANCE.png" group-title="FRANCE",PulsRadio Dance
+http://213.251.190.165:80/pulsHD.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="FRANCE",Radio Club Stars
 http://91.121.59.45:8009/stream
@@ -264,6 +291,18 @@ http://149.202.45.235:8000/stream.mp3
 
 #EXTINF:-1 tvg-logo="http://gevrilgroup.com/images/Baselworld%202012/Switzerland.GIF" group-title="LABEL",~ Switzerland TV ~
 http://www.lengua.com/anthems/Switzerland.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Absolute Top 40
+http://185.33.21.112:80/top40_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Blues
+http://185.33.21.112:80/blues_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Amsterdam Trance
+http://185.33.21.112:80/atr_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Costa Del Mar
+http://185.33.21.112:80/costadelmarchillout_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lh3.ggpht.com/R_2PoiHDvFiITeWBHRd_nbYyym2EqoZRqURlNRrrtLA8a4CoA3AUMyumLCuP3ixt_A=w140" group-title="SWITZERLAND",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
@@ -295,17 +334,32 @@ http://109.123.116.202:8020/stream
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil TV ~
 http://www.lengua.com/anthems/Brazil.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hqqmp5pyymse.jpeg" group-title="BRAZIL",Pajucara FM 103.7 @
-http://slrp.sambavideos.sambatech.com/radio/pajucara5_7fbed8aac5d5d915877e6ec61e3cf0db/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.batera.com.br/contents/noticias/998a45a6-0049-482e-bc3f-6764f742284f.jpg" group-title="BRAZIL",89 FM A Radio Rock
+http://listen.shoutcast.com/89fmaradiorock
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/w6/luen597620e8bf17c582727553.jpg" group-title="BRAZIL",Alpha FM 101.7
+http://listen.shoutcast.com/alphafm101-7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/dH7Ea6pCs6.png" group-title="BRAZIL",Antena 1 FM 94.7
+http://5.135.83.159:80/stream2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radiostreamlive.com/images/logos_radiostreamlive.png" group-title="BRAZIL",RSL - Radio America Latina
 http://tier1.radiostreamlive.com:8080/radioamericalatina_devices
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
+http://www.lengua.com/anthems/Mexico.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/90/8c/3001/c175.png" group-title="MEXICO",Panda Show Radio
+http://listen.radionomy.com:80/pandashowradio
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ESPN Radio 107.9 [M3U8]
 http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fmvida.com.ar/img/fmvida_200x200.png" group-title="ARGENTINA",FM 97.9 VIDA
+http://66.36.240.98:8000/fmvida.mp3
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador TV ~
 http://www.lengua.com/anthems/Ecuador.mp3
