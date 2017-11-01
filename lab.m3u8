@@ -34,7 +34,7 @@ http://67.227.220.171:8066/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OcCg9Q1.png" group-title="USA",True Victory Radio
 http://212.83.172.22/radio/56374/stream/93565
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/WCTG-FM_WICO-FM_2016.png/200px-WCTG-FM_WICO-FM_2016.png" group-title="USA",WCTG 96.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/WCTG-FM_WICO-FM_2016.png/200px-WCTG-FM_WICO-FM_2016.png" group-title="USA",WCTG 96.5 FM @
 http://212.83.172.22/radio/95524/stream/134137
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1-images.myspacecdn.com/images04/2/6ac571914e3e431fb7c3c8251613c94c/300x300.jpg" group-title="USA",WLOY Loyola Radio
@@ -139,10 +139,10 @@ http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/p8N8ddk5P2.png" group-title="AUSTRALIA",Middle East Radio [AR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/p8N8ddk5P2.png" group-title="AUSTRALIA",Middle East Radio [AR] @
 http://198.178.123.5:7386
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/15/bb/7692/c175.png" group-title="AUSTRALIA",Sawt El Ghad [AR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/15/bb/7692/c175.png" group-title="AUSTRALIA",Sawt El Ghad [AR] @
 http://198.178.123.11:7648
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="GERMANY",Laut.fm - Zone-Mix
@@ -166,7 +166,7 @@ http://radionord.radiostreaming.dk/DK4schlagerWeb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.radiovolna.net/_files/uploads/posts/2016-05/a88245113cf2eaec6a3f55b5780e04ba.png" group-title="DENMARK",Radio Silkeborg 107.7 FM
 http://silkeborg.radiostreaming.dk/silkeborg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s133330q.png" group-title="NETHERLANDS",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s133330q.png" group-title="NETHERLANDS",Amsterdam Funk Channel @
 http://62.75.253.116:8504
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio22221_1485860034.jpg" group-title="NETHERLANDS",Direct Life 92.1 FM
@@ -205,7 +205,7 @@ http://europa.shoutca.st:9053/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/4d/70/42359/1/c175.png" group-title="ITALY",Radio Dance Network
 http://sr2.inmystream.info:8030/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2488958554/radiopadania-logo_400x400.jpg" group-title="ITALY",Radio Padania Libera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2488958554/radiopadania-logo_400x400.jpg" group-title="ITALY",Radio Padania Libera @
 http://onair11.xdevel.com:9986/%3Bstream.m4a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s152561d.png" group-title="ITALY",Radio Venere 89.9 FM
@@ -220,7 +220,7 @@ http://174.142.76.50:9002/channel9.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="ITALY",Venice Classic Radio
 http://109.123.116.202:8020/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hqqmp5pyymse.jpeg" group-title="BRAZIL",Pajucara FM 103.7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hqqmp5pyymse.jpeg" group-title="BRAZIL",Pajucara FM 103.7 @
 http://slrp.sambavideos.sambatech.com/radio/pajucara5_7fbed8aac5d5d915877e6ec61e3cf0db/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radiostreamlive.com/images/logos_radiostreamlive.png" group-title="BRAZIL",RSL - Radio America Latina
@@ -292,7 +292,7 @@ http://81.219.54.6:8004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s108671q.png" group-title="POLAND",Nirvana Relaxation
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.smoothjazz.com.pl/img/sj.jpg" group-title="",SmoothJazz.com.pl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.smoothjazz.com.pl/img/sj.jpg" group-title="",SmoothJazz.com.pl @
 http://stream4.nadaje.com:11416/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s268959d.png" group-title="GREECE",Grey Radio
