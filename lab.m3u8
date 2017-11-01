@@ -7,12 +7,10 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 http://198.50.155.189:8005
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/31/9b/30073/c175.png" group-title="",Arab American Radio NY [AR]
-http://198.105.220.12:4313/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s111721q.png" group-title="",Arab Detroit Radio [AR]
-http://72.10.32.32:8000
+http://198.105.220.12:4313
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/318x318/extaudio/1/c/9/3/523b-ce5f-4fef-b2ae-81129eb9a2c4.jpg" group-title="",Dogglounge Deep House Radio
+http://37.97.160.125:9128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio [M3U8]
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
