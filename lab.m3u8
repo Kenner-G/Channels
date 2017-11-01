@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/318x318/extaudio/1/c/9/3/523b-ce5f-4fef-b2ae-81129eb9a2c4.jpg" group-title="",Dogglounge Deep House Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/318x318/extaudio/1/c/9/3/523b-ce5f-4fef-b2ae-81129eb9a2c4.jpg" group-title="USA",Dogglounge Deep House Radio
 http://37.97.160.125:9128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio [M3U8]
@@ -36,9 +36,6 @@ http://67.227.220.171:8066/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OcCg9Q1.png" group-title="USA",True Victory Radio
 http://212.83.172.22/radio/56374/stream/93565
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/WCTG-FM_WICO-FM_2016.png/200px-WCTG-FM_WICO-FM_2016.png" group-title="USA",WCTG 96.5 FM @
-http://212.83.172.22/radio/95524/stream/134137
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1-images.myspacecdn.com/images04/2/6ac571914e3e431fb7c3c8251613c94c/300x300.jpg" group-title="USA",WLOY Loyola Radio
 http://64.202.98.51:8130/live
@@ -151,12 +148,6 @@ http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/p8N8ddk5P2.png" group-title="AUSTRALIA",Middle East Radio [AR] @
-http://198.178.123.5:7386
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/15/bb/7692/c175.png" group-title="AUSTRALIA",Sawt El Ghad [AR] @
-http://198.178.123.11:7648
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 
@@ -217,13 +208,13 @@ http://91.121.59.45:8053/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="FRANCE",Radio Club Stars
 http://91.121.59.45:8009/stream
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",~ Guadeloupe TV ~
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/guadeloupe/guadeloupe_640.png" group-title="LABEL",~ Guadeloupe TV ~
 http://www.lengua.com/anthems/Guadeloupe.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bluemelodyschoolradio.com/upload/design/54c6cfaee9ac06.50082848.png" group-title="GUADELOUPE",Blue Melody School Radio
 http://212.83.172.22/radio/593/stream/62896
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",~ Haiti TV ~
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/haiti/haiti_640.png" group-title="LABEL",~ Haiti TV ~
 http://www.lengua.com/anthems/Guadeloupe.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/565561218476552192/hE4APoYb.jpeg" group-title="HAITI",Radio Galaxie - FM 104.5
@@ -246,9 +237,6 @@ http://europa.shoutca.st:9053/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/4d/70/42359/1/c175.png" group-title="ITALY",Radio Dance Network
 http://sr2.inmystream.info:8030/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2488958554/radiopadania-logo_400x400.jpg" group-title="ITALY",Radio Padania Libera @
-http://onair11.xdevel.com:9986/%3Bstream.m4a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s152561d.png" group-title="ITALY",Radio Venere 89.9 FM
 http://onair18.xdevel.com:8018/;stream.m4a
@@ -352,16 +340,13 @@ http://81.219.54.6:8004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s108671q.png" group-title="POLAND",Nirvana Relaxation
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.smoothjazz.com.pl/img/sj.jpg" group-title="",SmoothJazz.com.pl @
-http://stream4.nadaje.com:11416/
-
 #EXTINF:-1 tvg-logo="http://kordas.gr/img/gr.png" group-title="LABEL",~ Greece TV ~
 http://www.lengua.com/anthems/Greece.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s268959d.png" group-title="GREECE",Grey Radio
 http://144.76.92.208:8442/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s130490q.png" group-title="",Vanilla Radio - Deep Flavors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s130490q.png" group-title="GREECE",Vanilla Radio - Deep Flavors
 http://149.202.79.171/listen/egqwgc0q52mtv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/youfm.png" group-title="GREECE",YouFM 100.1
@@ -406,7 +391,7 @@ http://www.lengua.com/anthems/SouthAfrica.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewordfortoday.co.za/wp-content/uploads/2017/03/Radio-Pulpit-high-res.jpg" group-title="SOUTH AFRICA",Radio 729AM Cape Pulpit
 http://64.202.98.51:8450/live
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",~ Senegal TV ~
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/senegal/senegal_640.png" group-title="LABEL",~ Senegal TV ~
 http://www.lengua.com/anthems/Senegal.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Urum-Bi.jpg" group-title="SENEGAL",Radio Urum-Bi
@@ -415,7 +400,7 @@ http://212.83.172.22/radio/4735/stream/63217
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunuradiotv.com/wp-content/uploads/2017/06/sud-fm-1.jpg" group-title="SENEGAL",Sud FM 98.5
 http://174.142.76.50:9002/senradio
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",~ Philippines TV ~
+#EXTINF:-1 tvg-logo="https://ai-i2.infcdn.net/icons_siandroid/png/200/3643/3643309.png" group-title="LABEL",~ Philippines TV ~
 http://www.lengua.com/anthems/Philippines.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://eradioportal.com/wp-content/uploads/2012/11/Monster-Radio-Manila.png" group-title="PHILIPPINES",Monster Radio DWRX 93.1 FM
