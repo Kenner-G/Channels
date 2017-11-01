@@ -18,20 +18,11 @@ http://198.105.220.12:7638/Live
 #EXTINF:-1,Jammin Vibez Radio
 http://158.69.227.214:8700/stream
 
-#EXTINF:-1,COOLfahrenheit 93*
-http://111.223.51.8:8005/stream
-
 #EXTINF:-1,Alex Jones - Infowars.com
 http://192.240.107.134:80/alexjonesshow
 
-#EXTINF:-1,Hubu.FM - Radio Hunteburg
-http://188.165.194.207:80
-
 #EXTINF:-1,Alpha FM 101.7
 http://listen.shoutcast.com/alphafm101-7
-
-#EXTINF:-1,Ujyaalo 90 Network
-ttp://s9.voscast.com:7710
 
 #EXTINF:-1,ANTENA1 - 94.7 FM
 http://5.135.83.159:80/stream2
@@ -45,9 +36,6 @@ http://listen.radionomy.com:80/pandashowradio
 #EXTINF:-1,Djam Radio
 http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
 
-#EXTINF:-1,Metropolis 95.5
-http://s6.voscast.com:10478
-
 #EXTINF:-1,Amazing Tales
 http://167.114.64.181:8462/stream
 
@@ -56,9 +44,6 @@ http://stream.jewishmusicstream.com:8000/stream
 
 #EXTINF:-1,COOL Radio Serbia
 http://176.9.30.66:80/cool64
-
-#EXTINF:-1,RadioMv.com | Russian Christian Radio
-http://85.90.244.166:2204
 
 #EXTINF:-1,89 FM A RADIO ROCK
 http://listen.shoutcast.com/89fmaradiorock
@@ -90,20 +75,11 @@ http://185.33.21.112:80/blues_128
 #EXTINF:-1,Ambient Sleeping Pill
 http://163.172.169.217:80/asp-s
 
-#EXTINF:-1,Radio Romania Actualitati
-http://89.238.227.6:8000
-
-#EXTINF:-1,70s-90s J-pop Stream
-http://s5.voscast.com:7002
-
 #EXTINF:-1,Radio Manele Romania
 http://217.182.51.104:8888/stream
 
-#EXTINF:-1,Ilayaraja Radio
+#EXTINF:-1,Ilayaraja Radio 
 http://212.83.138.48:8324/stream
-
-#EXTINF:-1,Punjabi Radio USA
-http://s2.voscast.com:7016
 
 #EXTINF:-1,1.FM - ABSOLUTE TOP 40 RADIO
 http://185.33.21.112:80/top40_128
@@ -135,23 +111,11 @@ http://192.99.17.12:6192/stream
 #EXTINF:-1,AbacusFM - Mozart
 http://178.33.232.106:8046/stream
 
-#EXTINF:-1,Siyatha FM
-http://s3.voscast.com:8408
-
 #EXTINF:-1,96.3 WRocK Cebu Philippines
 http://37.187.79.93:8248/stream
 
-#EXTINF:-1,British Comedy Channel - ROK Classic Radio
-http://77.92.76.190:9155
-
 #EXTINF:-1,HITRADIO CENTER
 http://212.18.63.135:8000/center
-
-#EXTINF:-1,ultima.fm
-http://194.190.130.58:8001
-
-#EXTINF:-1,LOUNGE-RADIO.COM
-http://195.141.102.222:8040
 
 #EXTINF:-1,DEEP HOUSE LOUNGE
 http://198.15.94.34:8024/stream
@@ -162,8 +126,6 @@ http://209.222.19.108:10042/stream
 #EXTINF:-1,Radio City - Hindi
 http://63.143.36.2:8888/Hindi
 
-#EXTINF:-1,PONdENDS.COM
-http://s7.voscast.com:7000
 ///
 #EXTINF:-1,Radio kosova1 
 http://82.114.72.2:8088/;stream.mp3
