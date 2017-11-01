@@ -150,26 +150,14 @@ http://144.140.228.109:8220/mp3/master.m3u8
 http://coles.streaming.novaentertainment.com.au/sa_nt
 #EXTINF:-1,5ADD102.3 FM Adelaide SA
 http://icy.arn.com.au/au_003_icy
-#EXTINF:-1,GymRadio Australia @
-http://au1.fastcast4u.com:5050
 #EXTINF:-1,ABC Radio Sydney
 http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
 #EXTINF:-1,2UE Sydney
 http://shout01.stream.hostworks.com.au:/2ue_mp3/master.m3u8
 #EXTINF:-1,ABC Radio National
 http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
-#EXTINF:-1,RADIO 4KQ CLASSIC HITS - AUSTRALIA (oldies) @
-http://icecast.arn.com.au/4kq.aac
-#EXTINF:-1,RADIO 97.3 FM BRISBANE - AUSTRALIA @
-http://icecast.arn.com.au/973.aac
 #EXTINF:-1,NOVA 106.9
 http://streaming.novaentertainment.com.au/nova1069
-#EXTINF:-1,973FM (AAC) @
-http://icecast.arn.com.au/973.aac
-#EXTINF:-1,RADIO 4KQ CLASSIC HITS - AUSTRALIA (oldies) @
-http://icecast.arn.com.au/4kq.aac
-#EXTINF:-1,RADIO CRUISE 1323 RADIO - AUSTRALIA @
-http://icecast.arn.com.au/1323.aac
 #EXTINF:-1,4CRB
 http://stream.4crb.com:8000/stream/1/
 #EXTINF:-1,Territory FM Darwin
