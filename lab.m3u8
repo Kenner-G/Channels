@@ -193,9 +193,6 @@ http://91.121.59.45:8053/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="FRANCE",Radio Club Stars
 http://91.121.59.45:8009/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_031619fe521326addf7e474f215036df/logo200.jpg" group-title="FRANCE",Teufeurs Direct
-http://www.radioking.com/play/teufeurs/63790
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bluemelodyschoolradio.com/upload/design/54c6cfaee9ac06.50082848.png" group-title="GUADELOUPE",Blue Melody School Radio
 http://212.83.172.22/radio/593/stream/62896
 
