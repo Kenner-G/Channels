@@ -46,9 +46,6 @@ http://212.83.172.22/radio/95524/stream/134137
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1-images.myspacecdn.com/images04/2/6ac571914e3e431fb7c3c8251613c94c/300x300.jpg" group-title="USA",WLOY Loyola Radio
 http://64.202.98.51:8130/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000025533373/1accccc2a12c816bb066dc2d2c15a453_400x400.png" group-title="",WNYC FM
-http://167.88.154.169/wnycfm-tunein
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="USA",Z100 Radio [M3U8]
 http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 
@@ -58,10 +55,7 @@ http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2 [M3U8]
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/491YAhYdfZk/hqdefault.jpg" group-title="UK",80s Planet
-http://23.92.61.227:9000/stream.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="UK",BBC World Service
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" group-title="UK",BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [Opt-1]
