@@ -232,9 +232,6 @@ http://174.142.76.50:9002/channel9.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="ITALY",Venice Classic Radio
 http://109.123.116.202:8020/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/y5N7CvYkYv.jpg" group-title="BRAZIL",Radio Bossa Jazz
-http://85.93.89.21:8060/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hqqmp5pyymse.jpeg" group-title="BRAZIL",Pajucara FM 103.7
 http://slrp.sambavideos.sambatech.com/radio/pajucara5_7fbed8aac5d5d915877e6ec61e3cf0db/livestream/playlist.m3u8
 
