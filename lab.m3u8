@@ -30,7 +30,7 @@ http://37.97.160.125:9128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/V5lHI3bct5Q/hqdefault.jpg" group-title="USA",Hot 108 JAMZ
 http://66.85.88.174:80/hot108
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 http://37.97.160.125:9128
 
@@ -49,13 +49,10 @@ http://131.194.66.88:9000/krtu_live-36kb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.floydianslip.com/news/wp-content/uploads/2012/02/kzro.gif" group-title="USA",KZRO Z100fm
 http://64.202.98.51:7940/kzro
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="USA",Lite FM 106.7 [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="USA",Lite FM 106.7
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/04/Mobb-Report-Radio.jpg" group-title="USA",Mobb Report Radio
-http://198.105.220.12:7638/Live
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nick Radio [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="USA",NPR Illinois
@@ -82,7 +79,7 @@ http://212.83.172.22/radio/56374/stream/93565
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1-images.myspacecdn.com/images04/2/6ac571914e3e431fb7c3c8251613c94c/300x300.jpg" group-title="USA",WLOY Loyola Radio
 http://64.202.98.51:8130/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="USA",Z100 Radio [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="USA",Z100 Radio
 http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
@@ -91,10 +88,10 @@ http://www.lengua.com/anthems/Canada.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54303d.png" group-title="CANADA",Buzzoutroom Radio
 http://149.56.183.178:8034/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2 [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/85500b50-6756-43f5-bef6-66652aa571ea.png" group-title="CANADA",Jammin Vibez Radio
@@ -178,22 +175,22 @@ http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_cymru/bbc_radio_cymru.
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/au.png" group-title="LABEL",~ Australia TV ~
 http://www.lengua.com/anthems/Australia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney
 http://144.140.228.109:8220/mp3/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney
 http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney
 http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",ABC Radio Canberra [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",ABC Radio Canberra
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",ABC Radio National [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",ABC Radio National
 http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
@@ -211,9 +208,6 @@ http://www.lengua.com/anthems/Germany.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="GERMANY",Laut.fm - Zone-Mix
 http://laut.fm/zone-mix
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360 [M3U8]
-http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_7/magentamusik1.m3u8
-
 #EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg TV ~
 http://www.lengua.com/anthems/Luxembourg.mp3
 
@@ -222,9 +216,6 @@ http://rcb.zapto.org:8000/mp3
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",~ Netherlands TV ~
 http://www.lengua.com/anthems/Netherlands.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s133330q.png" group-title="NETHERLANDS",Amsterdam Funk Channel @
-http://62.75.253.116:8504
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio22221_1485860034.jpg" group-title="NETHERLANDS",Direct Life 92.1 FM
 http://198.178.123.23:7368/;stream
@@ -325,9 +316,6 @@ http://onair18.xdevel.com:8018/;stream.m4a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-GfeAte-0pDo/VUT_7peB2CI/AAAAAAAARYE/vmHTZV2qVv0/s1600/Radio%2BVaticano.png" group-title="ITALY",Vatican Radio Europe 93.3 FM
 http://174.142.76.50:9002/channel1.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vatican.va/news_services/radio/img/logo-rv.jpg" group-title="ITALY",Vatican Radio Ch. 9
-http://174.142.76.50:9002/channel9.mp3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="ITALY",Venice Classic Radio
 http://109.123.116.202:8020/stream
 
@@ -355,7 +343,7 @@ http://listen.radionomy.com:80/pandashowradio
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ESPN Radio 107.9 [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ESPN Radio 107.9
 http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fmvida.com.ar/img/fmvida_200x200.png" group-title="ARGENTINA",FM 97.9 VIDA
@@ -466,7 +454,7 @@ http://audio-darom.ecast.co.il/darom101
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India TV ~
 http://www.lengua.com/anthems/India.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="INDIA",Raagam Radio [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="INDIA",Raagam Radio
 http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",~ Lebanon TV ~
