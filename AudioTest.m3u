@@ -131,65 +131,16 @@ http://63.143.36.2:8888/Hindi
 /// Argentina ///
 
 #EXTINF:-1,Rock & Pop 95.9 FM
-http://blaster.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u8
-#EXTINF:-1,Radio Telpin
-http://audio.telpin.com.ar/estudioplaya
-#EXTINF:-1,Web Radio La Viglietti
-http://181.10.47.218:9000/laviglietti.mp3
-#EXTINF:-1,FM El Libertador
-http://181.10.47.218:9000/fmellibertador.ogg
-#EXTINF:-1,Cadena Sudeste
-http://190.18.26.154:3000/cadena
-#EXTINF:-1,Cienradios - Rihanna y Art.
-http://buecrplb01.cienradios.com.ar/994_Rihanna_y_Art_Rel_32000.aac
-#EXTINF:-1,Cienradios - Ricardo Montaner y Artistas Relacionados
-http://buecrplb01.cienradios.com.ar/719_Ricardo_Montaner_y_Artistas_Relacionados_32000.aa
-#EXTINF:-1,Cienradios - Ricky Martin
-http://buecrplb01.cienradios.com.ar/762_Ricky_Martin_y_Artistas_Relacionados_32000.aac
+http://blaster.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u
 #EXTINF:-1,Hi-Fi Internet Radio
 http://200.58.118.108:8889/stream
-#EXTINF:-1,Hi-Fi Internet Radio
-http://200.58.118.108:8001/stream
-#EXTINF:-1,Hi-Fi Internet Radio
-http://200.58.118.108:8002/stream
-#EXTINF:-1,Hi-Fi Internet Radio
-http://200.58.118.108:8007/stream
-#EXTINF:-1,Hi-Fi Internet Radio
-http://200.58.118.108:8811/stream
-#EXTINF:-1,Radio Salud La Colmena
-http://200.58.106.247:8404
-#EXTINF:-1,Radio Rural
-http://200.58.106.247:8426
-#EXTINF:-1,Solo FM
-http://200.58.106.247:8420
-#EXTINF:-1,RadioyPunto
-http://200.58.106.247:8428
-#EXTINF:-1,FM 103.5 GENERAL SAN MARTIN
-http://200.58.106.247:8434
-#EXTINF:-1,radio exito 94.5
-http://200.58.106.247:8436
-#EXTINF:-1,Platino Fm 104.3
-http://200.58.106.247:8446
-#EXTINF:-1,La 100 Macia
-http://200.58.106.247:8476
-#EXTINF:-1,Radio En Casa
-http://200.58.106.247:8478
-#EXTINF:-1,Mitre AM590
-http://buecrplb01.cienradios.com.ar/Mitre790.aac
-#EXTINF:-1,RADIO CADENA 3FM
-http://cadena3.activecds.telecommcd.com.ar/am700.mp3
-#EXTINF:-1,RADIO MITRE CBA
-http://buecrplb01.cienradios.com.ar/mitre810.mp3
-#EXTINF:-1,El Zonda
-http://181.239.5.3:8081/zonda
-#EXTINF:-1,FM 91.3 Concepción | Radio UNER Concepción del Uuguay
+#EXTINF:-1,FM 91.3 Concepcion | Radio UNER Concepcion del Uruguay
 http://200.61.248.93:8000/cedelu
 #EXTINF:-1,radio uner concordia
 http://200.61.248.93:8000/concordia
 #EXTINF:-1,UNER - Parana
 http://200.61.248.93:8000/parana
-#EXTINF:-1,La Leñera
-http://131.255.5.133:8000/potrerillos
+
 
 /// Australia ///
 
