@@ -97,10 +97,10 @@ http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bbc.co.uk/staticarchive/44a9d03f481254b8be3b4ed19ed9ddaf36e442cc.jpg" group-title="UK",BBC Radio 4Xtra
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",BBC Radio 5 Live [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="UK",BBC Radio 5 Live [Opt-1]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="NEWS",BBC Radio 5 Live [Opt-2]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" group-title="UK",BBC Radio 5 Live [Opt-2]
 http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.norewind.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="UK",BBC Radio 6 Music [Opt-1]
