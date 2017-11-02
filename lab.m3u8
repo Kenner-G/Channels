@@ -459,6 +459,54 @@ http://bseufm.uesb.br:8000/;stream/2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857680324/logo_uesb_400x400.jpg" group-title="BRAZIL",UESB - FM 97.5 - Vitoria da Conquista**
 http://bseufm.uesb.br:8000/;stream/3
 
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Spain-01.png" group-title="LABEL",~ Spain TV ~
+http://www.lengua.com/anthems/Spain.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cope_-_2.png" group-title="SPAIN",Cadena COPE 99.5 FM Almeria
+http://88.12.59.119:8010/almeriafm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-L9mHNmWyDl8/AAAAAAAAAAI/AAAAAAAAAAA/xmEbjH0Ade4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Cuac FM 103.4 FM Coruna [Opt-1]
+http://streaming.cuacfm.org:80/cuacfm.ogg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-L9mHNmWyDl8/AAAAAAAAAAI/AAAAAAAAAAA/xmEbjH0Ade4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Cuac FM 103.4 FM Coruna [Opt-2]
+http://streaming.cuacfm.org:80/cuacfm.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/674249245386522625/D7JivI5Z_400x400.jpg" group-title="SPAIN",Lugo Si Radio 96.9 FM
+http://82.223.248.142:8080/lugosiradio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/76/a5/76a59c113344fe341011e021bec28c74.jpg" group-title="SPAIN",Unika FM 103.0 Madrid
+http://radio.unika.fm:8010/unk
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Rac105.jpg" group-title="SPAIN",RAC105 FM Barcelona
+http://ios105.radiocat.net
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ed/16/ed164c1fe6ff3d23e76108860f55843f.jpg" group-title="SPAIN",Radio Oro 94.4 FM Marbella
+http://185.23.192.118:8004
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s114420d.png" group-title="SPAIN",Radio Radio Network 98.8 FM Marbella
+http://193.239.13.17:8070/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2e85e8fb-64ab-44a0-a7b0-b88e51f75a5d.jpg" group-title="SPAIN",Star People
+http://2.139.144.101:8020/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",Todoexitos - Black Metal
+http://hertz.todoexitos.com:8206/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",Todoexitos - Hits
+http://hertz.todoexitos.com:8200/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",Todoexitos - Indie
+http://hertz.todoexitos.com:8222/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",Todoexitos - Latino
+http://hertz.todoexitos.com:8204/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",Todoexitos - Oldies
+http://hertz.todoexitos.com:8208/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",Todoexitos - Romantica
+http://hertz.todoexitos.com:8210/stream
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
 http://www.lengua.com/anthems/Mexico.mp3
 
