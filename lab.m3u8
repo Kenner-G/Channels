@@ -471,6 +471,9 @@ http://streaming.cuacfm.org:80/cuacfm.ogg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-L9mHNmWyDl8/AAAAAAAAAAI/AAAAAAAAAAA/xmEbjH0Ade4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Cuac FM 103.4 FM Coruna [Opt-2]
 http://streaming.cuacfm.org:80/cuacfm.aac
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gaztea_Spain.svg/1200px-Gaztea_Spain.svg.png" group-title="SPAIN",Gaztea Irratia
+http://hdstreamflash-lh.akamaihd.net/i/Gaztea_Irratia_1@109222/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/674249245386522625/D7JivI5Z_400x400.jpg" group-title="SPAIN",Lugo Si Radio 96.9 FM
 http://82.223.248.142:8080/lugosiradio
 
