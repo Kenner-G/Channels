@@ -660,17 +660,29 @@ http://www.lengua.com/anthems/Croatia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/16/95/5225/c175.png" group-title="CROATIA",Radio Banovina
 http://136.243.21.140:9998/banovina
 
-#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
-http://www.lengua.com/anthems/Moldova.mp3
+#EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",~ Russia TV ~
+http://www.lengua.com/anthems/Russia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="MOLDOVA",Univers FM
-http://92.39.52.207:9000/UniversFm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pp.userapi.com/c5947/g27141505/a_24f5541d.jpg" group-title="RUSSIA",Piter FM 100.9 FM
+http://cdn.radiopiterfm.ru/piterfm
 
 #EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/97/PNG/256/ukraine_flags_flag_17076.png" group-title="LABEL",~ Ukraine TV ~
 http://www.lengua.com/anthems/Ukraine.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s226345d.png" group-title="UKRAINE",E!Rock Radio
 http://158.69.180.201:9334/;stream
+
+#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
+http://www.lengua.com/anthems/Moldova.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="MOLDOVA",Univers FM
+http://92.39.52.207:9000/UniversFm
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Hungary-01.png" group-title="LABEL",~ Hungary TV ~
+http://www.lengua.com/anthems/Hungary.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/_x6KAIBPUm1g/TTQW0I7UJJI/AAAAAAAAABI/sS9jmjMD9l4/S250/disco%2527s%2Bhit.jpeg" group-title="HUNGARY",Turmix Radio East Side
+http://91.196.49.252:18012/;stream
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Slovenia-01.png" group-title="LABEL",~ Slovenia TV ~
 http://www.lengua.com/anthems/Slovenia.mp3
