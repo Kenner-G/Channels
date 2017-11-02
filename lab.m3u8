@@ -633,6 +633,15 @@ http://www.lengua.com/anthems/DominicaRepublic.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/cea025dd-4a7a-49e6-903a-2c52349325be.jpg" group-title="DOMINICAN REP",Kabina34 Radio
 http://192.95.18.39:5556/;stream
 
+#EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay TV ~
+http://www.lengua.com/anthems/Paraguay.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s157567d.png" group-title="PARAGUAY",Cooperativa Universitaria Asuncion
+http://200.108.136.94:8000/envivo
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/903656719271813121/PwDYvXZD.jpg" group-title="PARAGUAY",ABC Cardinal 730 AM Asuncion
+http://sc.abc.com.py:8000/;stream.mp3
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Romania-01.png" group-title="LABEL",~ Romania TV ~
 http://www.lengua.com/anthems/Romania.mp3
 
