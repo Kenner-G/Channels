@@ -1,70 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,type="stream" tvg-logo="http://www.13maxtv.com/new/img/logo13.png",13 Max Corrientes
-http://coninfo.net:1935/13max/live/chunklist_w649322582.m3u8
+#EXTINF:-1,DW德国之声
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://vivotvhd.com/img/cha/948.gif",5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1,DW AMERIKA
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://k61.kn3.net/E/2/C/5/B/9/8BE.png",Aire de Santa Fe
-http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1,ETV Madhya Pradesh (News) (IN) (Hindi)
+http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_1_av-b.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://bigrez.hol.es/fotosribera/images/15036219182783463749.jpg",CalleAngostaTV San Luis
-http://stream.shockmedia.com.ar:1935/8742/8742/playlist.m3u8
+#EXTINF:-1,ETV Rajasthan (News) (IN) (Hindi)
+http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",Canal 3 Pinamar
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://canal4teleba.com.ar/wp-content/uploads/2016/12/teleba-youtube.jpg",Canal 4 Balcarce
-http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.canal4tv.net/assets/images/canal4-233x128.jpg",Canal 4 Esquel
-http://arcast.tv:1935/envivo/canal4esquel/playlist.m3u8
-
-#EXTINF:-1,type="stream" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg",Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="https://pbs.twimg.com/profile_images/899041603381342209/NhdwgCEj.jpg",Canal 5 Concepcion Tucuman
-http://5.179.201.88:1935/golive/59_179_live/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/4/F/5/2/E/0/882.png",Canal 7 Chubut
-http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal10mdplogo.png",Canal 10 Mar del Plata
-https://58ee6ee476b11.streamlock.net/transcode/ngrp:canal10_all/chunklist_w751304003_b1596000.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/6/8/1/4/9/A/64F.png",Canal 10 Rionegrina
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/LapachoTV-Logo-300x300.jpg",Canal 11 Formosa
-http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
-
-#EXTINF:-1,type="stream" tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",Canal 11 La Rioja
-http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?wowzasessionid=1078160479
-
-#EXTINF:-1 type="stream" tvg-logo="https://k61.kn3.net/A/C/0/B/5/5/DD0.png",Canal 11 Ushuaia TDF
-http://01.solumedia.com.ar:1935/c11/myStream/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.estabueno.com.ar/wp-content/uploads/2015/03/canal-local1.jpg",Canal Local Olavarria
-http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/A/A/9/3/B/B/0F4.png”,CN 24/7
-http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.el1webtv.com.ar/wp-content/uploads/2016/08/logo.png",El 1 Web TV La Matanza
-http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.el10tv.com/images/logo_footer.png",El 10 Salta
-http://173.244.209.235:1935/viviloendirecto/psigroup/chunklist_w349709429.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg",Litus TV Santa Fe
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1,type="stream" tvg-logo="http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png",Radio TV Neuquen
-http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.telejunin.com.ar/images/telejunin%20logo.png",Tele Junin
-http://stream.shockmedia.com.ar:1935/9618/9618/chunklist_w2145169684.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://nomeolvides.org.ar/wp-content/uploads/2015/06/Logo-XFN.png",XFN Canal 41 Mar del Plata
-http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+#EXTINF:-1,ETV Uttar Pradesh (News) (IN) (Hindi)
+http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
