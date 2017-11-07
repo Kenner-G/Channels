@@ -195,11 +195,11 @@ http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_ulster/bbc_radio_ulste
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/BBC_Radio_Cymru_logo.svg/1280px-BBC_Radio_Cymru_logo.svg.png" group-title="UK",BBC Radio Cymru
 http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio=320000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://burnsideradiouk.com/BurnsideRadioWhite.png" group-title="UK",Burnside Radio 105.0 FM Swansea
-http://aries.streaming.zfast.co.uk:8084/burnsideradiouk.aac
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Burst_Red_2012.jpg" group-title="UK",Bristol University Radio Station (Burst)
 http://app-burst.services.bris.ac.uk:8000/Burst
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://burnsideradiouk.com/BurnsideRadioWhite.png" group-title="UK",Burnside Radio 105.0 FM Swansea
+http://aries.streaming.zfast.co.uk:8084/burnsideradiouk.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" group-title="UK",Capital 95.8 FM London
 http://media-sov.musicradio.com:80/CapitalMP3
