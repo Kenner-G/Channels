@@ -246,7 +246,7 @@ http://stream4.radiomonitor.com/Original106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s255316d.png" group-title="UK",Pirate Oldies Cornwall
 http://str1.sad.ukrd.com:80/pirateoldies-low
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Premier-Christian-Radio_reference.jpg" group-title="UK",Premier Christian Radio 1332 AM London
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.premierchristianradio.com/var/ezdemo_site/storage/images/media/images/premier-christian-radio2/8520926-1-eng-GB/Premier-Christian-Radio_reference.jpg" group-title="UK",Premier Christian Radio 1332 AM London
 http://icy-e-05-gos.sharp-stream.com/premiernationallow.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.sndcdn.com/avatars-000062668653-lkxvyg-t500x500.jpg" group-title="UK",Radio Jahani
