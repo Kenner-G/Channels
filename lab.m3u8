@@ -261,9 +261,6 @@ http://edge-audio-03-gos2.sharp-stream.com:80/tcsilk.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/110834_640.png" group-title="UK",Spectrum Radio 558 AM London
 http://edge-audio-03-gos2.sharp-stream.com:80/spectrum1.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/The_Hits_logo_2015.png" group-title="UK",The Hits Radio
-http://5.63.151.52:7031/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.invubu.com/radio/radio_images/logos/powerstationuk/powerstationuk-logo500.png" group-title="UK",The Power Station
 http://5.63.151.52:7032/stream
 
