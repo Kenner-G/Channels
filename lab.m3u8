@@ -732,10 +732,10 @@ http://92.39.52.207:9000/UniversFm
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Hungary-01.png" group-title="LABEL",~ Hungary TV ~
 http://www.lengua.com/anthems/Hungary.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/e0/f8/e0f8876ff4fe4337110b68d3facefbab.jpg" group-title="HUNGARY",Radio Rakospalota [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/pVT1lX1Di3KWFjXa_3kFiEyVee2UaYmCvX5GeXPuuvmYCnDDsV9fdHP7jYf3l3QfOA=w300" group-title="HUNGARY",Radio Rakospalota [Opt-1]
 http://95.154.254.81:13083/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/e0/f8/e0f8876ff4fe4337110b68d3facefbab.jpg" group-title="HUNGARY",Radio Rakospalota [Opt-2]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/pVT1lX1Di3KWFjXa_3kFiEyVee2UaYmCvX5GeXPuuvmYCnDDsV9fdHP7jYf3l3QfOA=w300" group-title="HUNGARY",Radio Rakospalota [Opt-2]
 http://95.154.254.81:13083/stream_mobil
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/_x6KAIBPUm1g/TTQW0I7UJJI/AAAAAAAAABI/sS9jmjMD9l4/S250/disco%2527s%2Bhit.jpeg" group-title="HUNGARY",Turmix Radio East Side
