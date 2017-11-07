@@ -258,10 +258,7 @@ http://stream-uk1.radioparadise.com/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://route2take.co.uk/wp-content/uploads/2014/10/silkBigger1.png" group-title="UK",Silk 106.9 FM
 http://edge-audio-03-gos2.sharp-stream.com:80/tcsilk.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.staffordfm.co.uk/wp-content/uploads/2015/02/logo.png" group-title="UK",Stafford FM
-http://rss-streaming.co.uk:8004/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/110834_640.png" group-title="UK",Spectrum Radio 558 AM London - Arabic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/110834_640.png" group-title="UK",Spectrum Radio 558 AM London
 http://edge-audio-03-gos2.sharp-stream.com:80/spectrum1.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/The_Hits_logo_2015.png" group-title="UK",The Hits Radio
