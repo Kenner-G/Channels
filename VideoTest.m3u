@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png",A24
+#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png",A24 +
 http://ar.watcha.live/ch2/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png",America
+#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png",America +
 http://ar.watcha.live/ch3/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://k61.kn3.net/D/D/1/0/1/0/ED5.png",TV Publica 
+#EXTINF:-1 type="stream" tvg-logo="https://k61.kn3.net/D/D/1/0/1/0/ED5.png",TV Publica +
 http://ar.watcha.live/ch4/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png",El Nueve
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png",El Nueve +
 http://ar.watcha.live/ch5/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png",Telefe
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png",Telefe +
 http://ar.watcha.live/ch6/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png",Canal 13
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png",Canal 13 +
 http://ar.watcha.live/ch7/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png",C5N
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png",C5N +
 http://ar.watcha.live/ch1/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/192.png",Cronica
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/192.png",Cronica +
 http://ar.watcha.live/ch18/full.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.LOGO.png.9f57c6ecb1182dd418546c1f844a26e7.png",CN23
+#EXTINF:-1 type="stream" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.LOGO.png.9f57c6ecb1182dd418546c1f844a26e7.png",CN23 +
 http://ar.watcha.live/ch11/hi.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2000.png",360 TV
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2000.png",360 TV +
 http://ar.watcha.live/ch12/hi.m3u8
 
 #EXTINF:0 type="stream",tvg-logo="https://pbs.twimg.com/profile_images/875694019132751872/nRQYNh5u.jpg",TN Todo Noticias
