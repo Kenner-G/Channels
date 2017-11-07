@@ -1151,9 +1151,6 @@ http://www.lengua.com/anthems/Cyprus.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM 92.1 Nicosia
 http://sc.brtk.net:8002/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM 92.1 Nicosia*
-http://sc.brtk.net:8000/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM - Klasik
 http://sc.brtk.net:8006/stream
 
@@ -1162,6 +1159,9 @@ http://sc.brtk.net:8008/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM - Turk Muzigi
 http://sc.brtk.net:8010/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak - Unknown [?]
+http://sc.brtk.net:8000/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak International 105.0 FM Nicosia
 http://sc.brtk.net:8004/stream
