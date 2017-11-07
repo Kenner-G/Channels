@@ -1142,6 +1142,9 @@ http://sol.trtcdn.com/rd/trtvotwest/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Trt_vot_world.png" group-title="TURKEY",TRT VOT World
 http://sol.trtcdn.com/rd/trtvotworld/hasbahca.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Cyprus-01.png" group-title="LABEL",~ Cyprus TV ~
+http://www.lengua.com/anthems/Cyprus.mp3
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/493882319854653440/IS5djWg6.jpeg" group-title="LABEL",~ Israel TV ~
 http://www.lengua.com/anthems/Israel.mp3
 
