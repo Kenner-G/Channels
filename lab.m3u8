@@ -678,7 +678,7 @@ http://blaster.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Chile-01.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://antofagasta.fm7.cl/wp-content/uploads/2017/07/FM7-ANTOFAGASTA.png" group-title="CHILE",FM7 89.7 FM Antofagasta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lZS2jEH.png" group-title="CHILE",FM7 89.7 FM Antofagasta
 http://198.50.154.235:10258/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/719191369277927425/NNPKDQ8D.jpg" group-title="CHILE",Cautiva 101.3 FM San Fernando
