@@ -462,10 +462,10 @@ http://bseufm.uesb.br:8000/;stream/3
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Spain-01.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cope_-_2.png" group-title="SPAIN",Cadena COPE 99.5 FM Almeria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cope_-_2.png" group-title="SPAIN",COPE 99.5 FM Almeria
 http://88.12.59.119:8010/almeriafm
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cope_-_2.png" group-title="SPAIN",Cadena COPE Valladolid 104.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cope_-_2.png" group-title="SPAIN",COPE Valladolid 104.5 FM
 http://195.10.10.222/copesedes/valladolid.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-L9mHNmWyDl8/AAAAAAAAAAI/AAAAAAAAAAA/xmEbjH0Ade4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Cuac FM 103.4 FM Coruna [Opt-1]
