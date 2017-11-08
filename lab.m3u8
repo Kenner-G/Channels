@@ -14,17 +14,11 @@ http://cast3.serverhost.cl:8764/;
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Canal 95 (88.1 FM Antofagasta)
 http://sonando.us.digitalproserver.com/canal95_aac
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nostalgica (88.1 FM Copiapo)
-http://comunicacionespuntocreativo.cl:8000/nostalgica
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Bio Bio Temuco (88.1 FM Temuco)
 http://ice.dallas.digitalproserver.com/biotemu
 
 #EXTINF:-1 radio="true" tvg-logo="OVl6fRX.jpg" group-title="Radios Chilenas", Concierto (88.5 FM)
 http://19793.live.streamtheworld.com/CONCIERTOAAC.aac
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Amiga (88.5 FM Vallenar)
-http://162.210.39.218:24662/;
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", FM OK (89.3 FM Antofagasta)
 http://streaming.fmokey.cl:8000/FmOkAT.mp3
@@ -38,19 +32,10 @@ http://s3.medionline.cl:7960/;
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", FM Mas (89.1 Arica)
 http://cast.radioservicios.cl:8026/fmmas
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Diferencia (FM 89.3 Salamanca)
-http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Duna (89.7 FM)
 http://tunein.digitalproserver.com/dunabb.aac
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nuble (89.7 FM Chillan)
-http://198.50.154.235:7684
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Carnaval (89.9 FM Viña del Mar)
-http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Colo-colo (90.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Colo-colo (90.1 FM) @
 http://186.103.213.249:9988
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Definitiva (90.5 FM Tocopilla)
@@ -62,34 +47,16 @@ http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Alegria del Transporte (90.9 FM Calama)
 http://s6.medionline.cl:9364/;
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Maray (90.9 FM Copiapo)
-http://162.210.39.218:24250/;
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Mirador (90.9 FM Lautaro)
 http://demo.dyndns.biz:8016/;
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Digital FM (91.1 FM)
 http://mimix.mercurio.cl:8000/digitalfm
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", El Conquistador (91.3 FM)
-http://stream5.eltelon.com/el-conquistador-santiago.aac
-
-#EXTINF:-1 radio="true" tvg-logo="5CqSLQr.png" group-title="Radios Chilenas", ADN (91.7 FM)
-http://17833.live.streamtheworld.com/ADN.mp3
-
-##EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", ADN (91.7 FM) (con Video)
-##http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Centro FM (91.7 FM Gorbea)
-http://184.107.188.38:8040/;
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Desierto FM (92.1 FM Antofagasta)
 http://167.114.208.100:9864/;stream1
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Agricultura (92.1 FM)
-http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Cariñosa (92.1 FM)(1)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Carinosa (92.1 FM)
 http://stream5.eltelon.com/carinosa-chillan.aac
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sur (92.1 FM Los Angeles)
@@ -101,17 +68,14 @@ http://18303.live.streamtheworld.com/ACTIVAAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Romina (92.5 FM Antofagasta)
 http://198.50.154.235:10246/;
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio ? (? FM ?)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Entretenida 92.5 (92.5 FM Vilcun)
 http://167.114.208.100:9844/;
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Entretenida FM (92.5 FM Vilcun)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Gennesis Online
 http://atanua.broadcastchile.cl:7000/;
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Nuevo Amanecer (93.3 FM Fresia)
-http://62.210.203.78:8026/nuevoamanecer?type=.mp3
-
-##EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", La Clave (92.9 FM)
-#rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/laclavetv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", La Clave (92.9 FM) ???
+rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/laclavetv
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Primavera FM (93.5 FM Arica)
 http://cast.radioservicios.cl:9350/web
@@ -152,12 +116,6 @@ http://radio.cic.userena.cl:8000/radio-uls
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio La Discusion (94.7 FM Chillan)
 http://stream5.eltelon.com/radio-la-discusion.aac
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Universal (94.7 FM Pitrufquen)
-http://184.107.188.38/;
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Maxima (94.9 FM)
-http://198.27.65.159:9938/
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Amanda (94.9 FM Buin)
 http://amanda.cmtelcom.com/amanda128
 
@@ -175,12 +133,6 @@ http://tunein.digitalproserver.com/fmtiempobb.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Universidad de Tarapaca (95.9 FM Arica)
 http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Estilo (FM 95.9 Coyhaique)
-http://sc6.digitalproserver.com:7520/;
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Araucana (95.9 FM Temuco)
-http://s6.medionline.cl:9180/;
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Beethoven (96.5 FM)
 http://tunein.digitalproserver.com/beethovenbb.aac
@@ -221,17 +173,11 @@ http://online.radiosol.cl:8000/;
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sol (97.7 FM Antofagasta)(Alt)
 http://stream5.eltelon.com/sol-radio.aac
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sol Austral (97.7 FM Aysen)
-http://162.210.39.218:24934/;
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Ventisqueros (97.7 FM Coyhaique)
 http://stream5.eltelon.com:8000/ventisqueros.aac
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Bio Bio Concepcion (98.1 FM Concepcion)
 http://ice.dallas.digitalproserver.com/bioconcebb.aac
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Camila (98.3 FM Los Angeles)
-http://stream5.eltelon.com:8000/archi-camila.aac
 
 #EXTINF:-1 radio="true" tvg-logo="Et0VpX5.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
 http://18913.live.streamtheworld.com/FMDOSAAC.aac
@@ -248,9 +194,6 @@ http://mimix.mercurio.cl:8000/digitalfm
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Marcela (99.1 FM Huasco)
 http://stream5.eltelon.com/archi-marcela.aac?type=.flv
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Carolina (99.3 FM)
-http://tunein.digitalproserver.com/carolinafmbb.aac
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Arcoiris (99.3 FM Coyhaique)
 http://s6.jcwebnew.com:8120/;
 
@@ -265,15 +208,6 @@ http://unlimited1-cl.dps.live/biobiosantiago/aac/icecast.audio
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Universidad de Antofagasta (99.9 FM)
 http://200.54.114.230:8000/;
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Infinita (100.1 FM)
-http://tunein.digitalproserver.com/infinitabb.aac
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Andina (100.1 FM Arica)
-http://192.198.83.230:9976/;
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Paula FM (100.5 FM)
-http://unlimited3-cl.digitalproserver.com/radiopaula/hls/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nueva Genial (100.5 FM Coyhaique)
 http://s6.jcwebnew.com:7555/stream
@@ -296,9 +230,6 @@ http://cast3.serverhost.cl:8784/;
 #EXTINF:-1 radio="true" tvg-logo="rz44EST.png" group-title="Radios Chilenas", Radio Corazon (101.3 FM)
 http://18493.live.streamtheworld.com/CORAZONAAC.aac
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Revelacion (101.5 FM Canete)
-http://stream5.eltelon.com/doble-r.aac
-
 #EXTINF:-1 radio="true" tvg-logo="6NJOV24.jpg" group-title="Radios Chilenas", Los 40 Principales (101.7 FM)
 http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
 
@@ -311,10 +242,7 @@ http://stream3.rbm.cl:8010/playerweb.aac
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Madero (102.5 FM Antofagasta)
 http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Montecarlo (102.7 FM)
-http://iw.wolchile.net:8048/;
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio La Voz De Yungay (102.7 FM Ñuble)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio La Voz De Yungay (102.7 FM Nuble)
 http://stream5.eltelon.com/archi-yungay.aac?type=.flv
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Las Nieves (102.9 FM Puerto Aysen)
@@ -328,15 +256,6 @@ http://streaming.fmokey.cl:8000/FmOkCP.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Centro FM (103.3 FM Antofagasta)
 http://stream5.eltelon.com/centro.aac
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio UCV FM (103.5 FM Valparaiso)
-rtmp://radio.cl.digitalproserver.com/ucvradio/ucvradiolive/ playpath=ucvradio.stream swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/latest/jwplayer.flash.swf?v=55 live=1 pageUrl=http://media.digitalproserver.com/v2/radio/ucvradio
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Contacto (103.9 FM Talagante)
-http://184.107.188.34:8697
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Romantica (104.1 FM)
-http://tunein.digitalproserver.com/romanticabb.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Disney (104.9)
 rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
@@ -361,9 +280,6 @@ http://stream5.eltelon.com/nativa.aac
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Cooperativa (106.7 FM)
 http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Paula (106.9 FM)
-http://tunein.digitalproserver.com/paulafm.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Plus FM (106.9 FM Antofagasta)
 http://sonando.us.digitalproserver.com/fmplus_aac
@@ -418,9 +334,6 @@ http://play.enhd.co:7024/;
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", FMBox (Online)
 http://stream.fmbox.cl:9994
-
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Candela FM (Online)
-http://tunein.digitalproserver.com/candelabb.aac
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Rockaxis (Online)
 http://radio.cl.mediastre.am/rockaxis.aac
