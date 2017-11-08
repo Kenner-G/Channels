@@ -11,88 +11,88 @@ http://173.192.105.231:8459/Live
 #EXTINF:-1,rockXradio : Canada's Internet Radio Station
 http://158.69.227.214:8000/stream
 
-Punjabi Radio CANADA
+#EXTINF:-1,Punjabi Radio CANADA
 http://174.37.16.73:5270/Live
 
-Radio Bellissima ?
+#EXTINF:-1,Radio Bellissima ?
 http://192.99.62.212:9336/stream
 
-Retro Hits ?
+#EXTINF:-1,Retro Hits ?
 http://149.56.183.178:8300/stream
 
-Radio Stonata ?
+#EXTINF:-1,Radio Stonata ?
 http://149.56.23.7:20144/stream
 
-All Hits 86.6
+#EXTINF:-1,All Hits 86.6
 http://149.56.147.197:8326/stream
 
-..::InBeatRadio.com::. Le beat Du Nightlife Montrealais
+#EXTINF:-1,..::InBeatRadio.com::. Le beat Du Nightlife Montrealais
 http://50.7.99.155:7208/stream
 
-Pulse FM - Hit Music Now
+#EXTINF:-1,Pulse FM - Hit Music Now
 http://176.31.107.8:8946/stream
 
 /// Mexico
 
-Rclasicos: Reproduce tus recuerdos. ((Hermosillo, Sonora, Mexico))
+#EXTINF:-1,Rclasicos: Reproduce tus recuerdos. ((Hermosillo, Sonora, Mexico))
 http://149.56.23.143:9100/stream
 
-Radio Mariachi Stream
+#EXTINF:-1,Radio Mariachi Stream
 http://167.114.64.181:9427/stream
 
-El Chiltepin.mx ((Hermosillo, Sonora, Mexico))
+#EXTINF:-1,El Chiltepin.mx ((Hermosillo, Sonora, Mexico))
 http://198.27.64.106:4024/stream
 
-Proyecto Puente Radio - ((Hermosillo, Sonora, Mexico))
+#EXTINF:-1,Proyecto Puente Radio - ((Hermosillo, Sonora, Mexico))
 http://149.56.23.143:8200/stream
 
-RADIO EXTREMO - TRANSMITIENDO DESDE GUADALAJARA JALISCO MEXICO RADIO EXTREMO 24/7 AMERICA LATINA
+#EXTINF:-1,RADIO EXTREMO - TRANSMITIENDO DESDE GUADALAJARA JALISCO MEXICO RADIO EXTREMO 24/7 AMERICA LATINA
 http://89.46.67.143:9190/stream
 
-JarochosRadio.Com | Sintoniza Tus Sentidos | Network Station Mexico
+#EXTINF:-1,JarochosRadio.Com | Sintoniza Tus Sentidos | Network Station Mexico
 http://65.60.62.181:9900/stream
 
 /// Argentina
 
-Mute Radio - It's a Pop station from Buenos Aires, Argentina!
+#EXTINF:-1,Mute Radio - It's a Pop station from Buenos Aires, Argentina!
 http://199.167.150.105:8100/stream
 
-LatinPOP-radio
+#EXTINF:-1,LatinPOP-radio
 http://51.254.164.158:8176/stream
 
-RADIO DEEJAY - www.RADIODEEJAY.com.ar - Buenos Aires Argentina
+#EXTINF:-1,RADIO DEEJAY - www.RADIODEEJAY.com.ar - Buenos Aires Argentina
 http://178.32.57.127:9638/stream
 
-FM PASION ARGENTINA
+#EXTINF:-1,FM PASION ARGENTINA
 http://178.32.57.127:9346/stream
 
 /// Peru
 
-Radio Disney de Peru
+#EXTINF:-1,Radio Disney de Peru
 http://173.192.105.252:8000/stream
 
-RADIO HUANCAYO Peru, Lima,Arequipa,Trujillo,Chiclayo,Tacna,huancayo
+#EXTINF:-1,RADIO HUANCAYO Peru, Lima,Arequipa,Trujillo,Chiclayo,Tacna,huancayo
 http://212.83.146.67:7208/stream
 
-Radio 1550 - Peru, Junin, Huancayo, Huanuco, Cerro de Pasco, La Merced, Arequipa
+#EXTINF:-1,Radio 1550 - Peru, Junin, Huancayo, Huanuco, Cerro de Pasco, La Merced, Arequipa
 http://212.83.146.67:7212/stream
 
-Radio La Lupa Peru
+#EXTINF:-1,Radio La Lupa Peru
 http://167.114.118.119:7822/stream
 
 /// Lebanon
 
-lbi Radio - Lebanon
+#EXTINF:-1,lbi Radio - Lebanon
 http://37.187.79.93:8192/stream
 
-Radio Delta Lebanon
+#EXTINF:-1,Radio Delta Lebanon
 http://72.52.133.57:9300/stream
 
-Radio Mt Lebanon
+#EXTINF:-1,Radio Mt Lebanon
 http://206.190.133.196:7153/stream
 
-Radio Flash Lebanon R.F.L
+#EXTINF:-1,Radio Flash Lebanon R.F.L
 http://162.244.80.68:8000/stream
 
-Cedars Radio VOL plus
+#EXTINF:-1,Cedars Radio VOL plus
 http://185.105.4.53:8190/stream
