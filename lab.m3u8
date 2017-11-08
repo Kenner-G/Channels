@@ -35,9 +35,6 @@ http://cast.radioservicios.cl:8026/fmmas
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Duna (89.7 FM)
 http://tunein.digitalproserver.com/dunabb.aac
 
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Colo-colo (90.1 FM) @
-http://186.103.213.249:9988
-
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Definitiva (90.5 FM Tocopilla)
 http://192.198.83.230:8772/;
 
