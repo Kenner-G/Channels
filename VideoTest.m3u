@@ -1,2 +1,178 @@
 #EXTM3U
 
+//// UK
+
+#EXTINF:-1,~BBC World News ~
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+
+#EXTINF:-1,~BBC World News ~
+http://bbcwssc.ic.llnwd.net:80/stream/bbcwssc_mp1_ws-einws_backup
+
+//// Belgium
+
+#EXTINF:-1,Satellite FM Paris
+http://streaming.radionomy.com/SatelliteFMParis
+
+#EXTINF:-1,ZEN FOR YOU
+http://streaming.radionomy.com:80/ZEN-FOR-YOU
+
+#EXTINF:-1,Classic Rock Rx
+http://streaming.radionomy.com/ClassicRockRx
+
+#EXTINF:-1,Radio Verbie rRock Blues
+http://streaming.radionomy.com/RadioVerbierRockBlues
+
+#EXTINF:-1,Arnold Old Gold Collectie 50+
+http://streaming.radionomy.com/50
+
+#EXTINF:-1,Hitradio Studio 24
+http://streaming.radionomy.com/HitRadio-Studio-24
+
+#EXTINF:-1,Radio Voce Amica
+http://listen.shoutcast.com:80/radiovoceamicaverbicaro
+
+#EXTINF:-1,Metal Rock Dot FM
+http://streaming.radionomy.com/MetalRockDotFM
+
+#EXTINF:-1,Hitradio Antwerp FM
+http://streaming.radionomy.com/Hitradio-Antwerp-FM
+
+#EXTINF:-1,HUMORzender
+http://streaming.radionomy.com/humorzender
+
+#EXTINF:-1,Radio Muro Flamenco
+http://streaming.radionomy.com/Radio-Muro-Flamenco
+
+/// Denmark
+
+#EXTINF:-1,GO! FM
+http://gofm.radiostreaming.dk:8050/gofm
+
+#EXTINF:-1,Radio Silkeborg
+http://silkeborg.radiostreaming.dk/silkeborg
+
+#EXTINF:-1,DK4 - Schlager
+http://radionord.radiostreaming.dk/DK4schlagerWeb
+
+#EXTINF:-1,Radio ABC - Vi gir dig hits!
+http://abc.radiostreaming.dk:8050/abc
+
+#EXTINF:-1,Radio Alfa
+http://alfa.radiostreaming.dk:8050/alfa
+
+#EXTINF:-1,Radio Nord FM 98.6
+http://radionord.radiostreaming.dk/RadioNord
+
+#EXTINF:-1,Radio ABC
+http://netradio.radioabc.dk/
+
+#EXTINF:-1,Pop FM
+http://stream.popfm.dk/pop128
+
+/// Dominican Rep
+
+#EXTINF:-1,Kairi FM (Dominican) (Pop) ??
+http://199.189.115.207:8000/stream
+
+/// Germany
+
+#EXTINF:-1,eRadio One - Stage Blue
+http://stage-blue-high.eradio-one.de:62005
+
+#EXTINF:-1,Bremen Vier Hurricane Spezial
+http://80.252.104.101:8000/spezial
+
+#EXTINF:-1,ByteFM
+http://bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
+
+#EXTINF:-1,Cafe 80s FM
+http://176.28.10.224:8000
+
+#EXTINF:-1,Casablanca Radio
+http://85.214.234.214:8005
+
+#EXTINF:-1,deutschFM
+http://streamplus7.leonex.de:35466
+
+#EXTINF:-1,Country 108
+http://tuner.country108.com:80
+
+#EXTINF:-1,Radio Bollerwagen
+http://138.201.252.53/radiobollerwagen_192
+
+#EXTINF:-1,Radio Altstadtwelle
+http://46.4.77.85:8002
+
+#EXTINF:-1,Energia FM - Old School Classics
+http://188.40.135.197:8434/listen.
+
+#EXTINF:-1,NDR Plus Schlagerradio
+http://addrad.io/4WRJWn
+
+#EXTINF:-1,Südtirol FM
+http://stream.suedtirolfm.eu:80
+
+/// Netherlands
+
+#EXTINF:-1,Radio Hoogeveen de zender voor iedereen
+http://radiohoogeveen.ic-stream.nl:6014
+
+#EXTINF:-1,FunX Den Haag
+http://icecast.omroep.nl/funx-denhaag-bb-mp3
+#EXTINF:-1,FunX Den Haag
+http://icecast.omroep.nl/funx-denhaag-sb-mp3
+#EXTINF:-1,FunX HipHop
+http://icecast.omroep.nl/funx-hiphop-sb-mp3
+#EXTINF:-1,FunX Latin
+http://icecast.omroep.nl/funx-latin-bb-mp3
+#EXTINF:-1,FunX Latin
+http://icecast.omroep.nl/funx-latin-sb-mp3
+
+/// Romania
+
+#EXTINF:-1,RADIO VOXFM
+http://stream.voxfm.ro:8000/stream/1/
+
+#EXTINF:-1,Friss FM
+http://live.frissfm.ro:8000/highband.ogg
+#EXTINF:-1,Friss FM
+http://live.frissfm.ro:8000/frissfm
+
+#EXTINF:-1,Bucuresti FM
+http://89.238.227.6:8036
+#EXTINF:-1,Bucuresti FM
+http://89.238.227.6:8032
+#EXTINF:-1,Bucuresti FM
+http://89.238.227.6:8030
+
+#EXTINF:-1,Radio Romania Muzical
+http://stream2.srr.ro:8024
+#EXTINF:-1,Radio Romania Muzical
+http://stream2.srr.ro:8026
+#EXTINF:-1,Radio Romania Muzical
+http://stream2.srr.ro:8020
+
+#EXTINF:-1,Radio Romania International 2
+http://89.238.227.6:8066
+#EXTINF:-1,Radio Romania International 2
+http://89.238.227.6:8060
+#EXTINF:-1,Radio Romania International 2
+http://89.238.227.6:8062
+
+#EXTINF:-1,Radio Romania Cultural
+http://stream2.srr.ro:8010
+#EXTINF:-1,Radio Romania Cultural
+http://stream2.srr.ro:8014
+#EXTINF:-1,Radio Romania Cultural
+http://stream2.srr.ro:8016
+
+#EXTINF:-1,Radio FUNKY Manele Romania
+http://live.radiofunky.ro:8888
+#EXTINF:-1,Radio FUNKY Manele Romania
+http://live2.radiofunky.ro:8888
+#EXTINF:-1,Radio FUNKY Manele Romania
+http://asculta.radiofunky.ro:8888
+#EXTINF:-1,Radio FUNKY Danse Romania
+http://dance.radiofunky.ro:7500
+
+/// End
