@@ -209,7 +209,7 @@ http://17933.live.streamtheworld.com/RADIO_UNOAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio FM7 (Calama 97.3, Antofagasta 89.7)
 http://198.50.154.235:10258/stream
 
-#EXTINF:-1, radio="true" tvg-logo="kOx0dlx.png" group-title="Radios Chilenas", Radio Paloma (97.5 FM - Talca)
+#EXTINF:-1 radio="true" tvg-logo="kOx0dlx.png" group-title="Radios Chilenas", Radio Paloma (97.5 FM - Talca)
 http://radio1.us.mediastre.am/paloma.aac
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Zero (97.7 FM)
