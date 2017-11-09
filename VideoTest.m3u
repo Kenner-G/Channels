@@ -1,46 +1,22 @@
 #EXTM3U
 
-/// USA
+#EXTINF:-1,HBO
+http://109.236.91.150:80/HBO/index.m3u8
 
-#EXTINF:-1,Arab Detroit Radio
-http://192.240.102.133:9590/stream
+#EXTINF:-1,HBO2
+http://109.236.91.150:80/HBO2/index.m3u8
 
-/// Germany
+#EXTINF:-1,Nat Geo Wild HD
+http://185.19.188.50:8090/NATGEOWILD/index.m3u8
 
-#EXTINF:-1,Radio PSR Weihnachts-Superhits
-http://regiocast.hoerradar.de/psr-event01-mp3-mq?sABC=56np67n5#0#6r2s6730spp499143pn15p6q7277r432#enqvbfher
+#EXTINF:-1,Eurosport 1
+http://185.19.188.50:8090/Eurosport1/index.m3u8
 
-#EXTINF:-1,RMNchristmas - Das Weihnachtsradio
-http://87.118.82.236:8092/;
+#EXTINF:-1,Eurosport 2
+http://185.19.188.50:8090/Eurosport2/index.m3u8
 
-////
+#EXTINF:-1,arenasport2
+http://195.222.48.168/arenasport2.m3u8
 
-#EXTINF:-1,Miled Radio 98.9 FM Toluca
-http://192.99.34.205:8068/stream
-
-#EXTINF:-1,W Radio 96.9 FM Mexico City
-http://18723.live.streamtheworld.com/W_RADIO_SC
-
-////
-
-#EXTINF:-1,Vanilla Radio - Smooth Flavor 
-http://149.202.69.32/listen/w0b4xf0q52mtv
-
-////
-
-#EXTINF:-1,Radio Sawa 87.7 FM Beirut
-http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamaistream.net/mbn_channel_07
-
-#EXTINF:-1,Radio One 105.5 FM Beirut
-http://rss-streaming.co.uk:8026/;
-
-#EXTINF:-1,Sawt El Mada 92.4 FM Beirut
-http://audiostreaming.itworkscdn.com:9018/;
-
-#EXTINF:-1,Virgin Radio 89.5 FM Beirut
-http://209.15.226.17:9000/stream
-
-#EXTINF:-1,Voice of Charity 105.9 FM Beirut
-http://31.14.40.21:4596/;
-
-//// END
+#EXTINF:-1,arenasport3
+http://195.222.48.168/arenasport3.m3u8
