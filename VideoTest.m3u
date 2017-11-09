@@ -5,58 +5,42 @@
 #EXTINF:-1,Arab Detroit Radio
 http://192.240.102.133:9590/stream
 
-#EXTINF:-1,Radio Mexico Boston
-http://75.144.206.66:8042/
+/// Germany
 
-//// Mexico
+#EXTINF:-1,Radio PSR Weihnachts-Superhits
+http://regiocast.hoerradar.de/psr-event01-mp3-mq?sABC=56np67n5#0#6r2s6730spp499143pn15p6q7277r432#enqvbfher
 
-#EXTINF:-1,Fiesta Mexicana 92.3 FM Guadalajara
-http://radio.promosat.com:8004/stream
+#EXTINF:-1,RMNchristmas - Das Weihnachtsradio
+http://87.118.82.236:8092/;
 
-#EXTINF:-1,La Rancherita del Aire 103.7 FM Piedras Negras
-http://62.210.203.78:7326/
+////
 
-#EXTINF:-1,Milenio 105.1 FM Guadalajara
-http://radio.promosat.com:8018/stream
+#EXTINF:-1,Miled Radio 98.9 FM Toluca
+http://192.99.34.205:8068/stream
 
-#EXTINF:-1,Radio Mujer 1040 AM Guadalajara
-http://radio.promosat.com:8002/stream
+#EXTINF:-1,W Radio 96.9 FM Mexico City
+http://18723.live.streamtheworld.com/W_RADIO_SC
 
-#EXTINF:-1,SalsaMexico
-http://radiolatina.info:7218/
+////
 
-#EXTINF:-1,Tu Musica FM Tijuana
-http://192.254.193.215:8007/;
+#EXTINF:-1,Vanilla Radio - Smooth Flavor 
+http://149.202.69.32/listen/w0b4xf0q52mtv
 
-#EXTINF:-1,Zona Tres 91.5 FM Guadalajara
-http://radio.promosat.com:8006/stream
+////
 
-/// Dominican Rep
+#EXTINF:-1,Radio Sawa 87.7 FM Beirut
+http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamaistream.net/mbn_channel_07
 
-#EXTINF:-1,Concierto 93.1 FM Santiago
-http://199.217.118.215:8234/stream
+#EXTINF:-1,Radio One 105.5 FM Beirut
+http://rss-streaming.co.uk:8026/;
 
-#EXTINF:-1,Escandalo FM 107.3 Santo Domingo
-http://199.217.118.215:8062/stream
+#EXTINF:-1,Sawt El Mada 92.4 FM Beirut
+http://audiostreaming.itworkscdn.com:9018/;
 
-#EXTINF:-1,La Bakana 105.9 FM Santiago
-http://199.217.118.215:8238/stream
+#EXTINF:-1,Virgin Radio 89.5 FM Beirut
+http://209.15.226.17:9000/stream
 
-#EXTINF:-1,Premium FM 101.1 Santiago
-http://69.64.56.8:8210/
+#EXTINF:-1,Voice of Charity 105.9 FM Beirut
+http://31.14.40.21:4596/;
 
-#EXTINF:-1,Radio Merengue 1210 AM Santo Domingo
-http://199.195.194.12:8132/stream
-
-#EXTINF:-1,Raices 102.9 FM Santo Domingo
-http://69.64.56.8:8120/
-
-#EXTINF:-1,Sonido Suave 99.3 FM Santo Domingo
-http://199.189.86.69:8002/
-
-/// Lebanon
-
-#EXTINF:-1,Radio Magic
-http://37.59.28.208:8600/stream
-
-/// END
+//// END
