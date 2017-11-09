@@ -3,3 +3,29 @@
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flat-icons-19/512/Chimestry_flask.png" group-title="LABEL",* Fluxus Lab : F*ck off Morty!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
+#EXTINF:-1,CBS Sports [test]
+http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master.m3u8
+
+#EXTINF:-1,PHL17 Philadelphia
+http://stream.memesyndicate.com/live/thx/index.m3u8
+
+#EXTINF:-1,Comedy Central USA
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+
+#EXTINF:-1,FXX
+http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
+
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+
+#EXTINF:-1,NatGeo Wild
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
