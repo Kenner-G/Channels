@@ -6,26 +6,129 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1,CBS Sports [test]
 http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master.m3u8
 
-#EXTINF:-1,PHL17 Philadelphia
-http://stream.memesyndicate.com/live/thx/index.m3u8
+#EXTINF:-1,O-la-la
+http://94.124.244.103:81/udp/239.195.5.33:1234
 
-#EXTINF:-1,Comedy Central USA
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,Ночной Клуб
+http://94.124.244.103:81/udp/239.195.4.109:1234
 
-#EXTINF:-1,FXX
-http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
+#EXTINF:-1,속풀이쇼 동치미 (259회) (재) / 259 Korea
+http://49.170.184.15:9981/stream/channel/cf44e3ad098c0268208f8de0850d3a78
 
-#EXTINF:-1,Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,U+투데이 Korea
+http://112.153.162.17:9981/stream/channelid/753167824
 
-#EXTINF:-1,truTV
-http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,속풀이쇼 동치미 (259회) / 259 Korea
+http://115.143.155.50:9981/stream/channel/659317c44b6415ab0d14676562ade772
 
-#EXTINF:-1,Velocity
-http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Rai 1
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8
+#EXTINF:-1,Rai 2
+http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8
+#EXTINF:-1,Rai 3
+http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
+#EXTINF:-1,La7
+http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
+#EXTINF:-1,Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,Cielo
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1,Sky Tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,RsiLa 1
+https://srgssruni12ch-lh.akamaihd.net/i/enc12uni_ch@191527/index_1200_av-p.m3u8?id=|x-forwarded-for=85.195.192.12
+#EXTINF:-1,RsiLa 2
+https://srgssruni13ch-lh.akamaihd.net/i/enc13uni_ch@191855/index_1200_av-p.m3u8?id=|x-forwarded-for=85.195.192.12
+#EXTINF:-1,Onda Italiana
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:-1,Radio Italia Tv
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x576_av-p.m3u8
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1,Radio capital Tivù https://iptv.zone
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,La3
+http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8
+#EXTINF:-1,Repubblica TV
+http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8
+#EXTINF:-1,Radio Deejay
+http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+#EXTINF:-1,RAI Premium [288p]
+http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_750_av-p.m3u8
+#EXTINF:-1,RAI Premium [288p]
+http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_750_av-b.m3u8
+#EXTINF:-1,RAI Premium [352p]
+http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,RAI Premium [352p]
+http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1200_av-b.m3u8
+#EXTINF:-1,RAI Premium [396p]
+http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1800_av-p.m3u8
+#EXTINF:-1,RAI Premium [396p]
+http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1800_av-b.m3u8
+#EXTINF:-1,(ESPANHA)
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,Fox News(EUA)
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HIGH.m3u8
+#EXTINF:-1,Fox 23 News (EUA)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1,Fox 30 News (EUA)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1,DW (DEUTSCH)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_3_av-p.m3u8
+#EXTINF:-1,DW (DEUTSCH )
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
+#EXTINF:-1,DW (ESPAÑOL)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,(?????) DW Arabic
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
+#EXTINF:-1,FOX 35 Orlando (EUA)
+http://livestream-f.akamaihd.net/i/6140902_2549335_lsi706oqk7lmpaxflq7_1@408376/index_678_av-p.m3u8?sd=10
 
-#EXTINF:-1,NatGeo Wild
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://185.19.191.244:8090/Eurosport2/index.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://185.19.191.244:8090/Eurosport1/index.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://185.19.191.235:8090/Eurosport2/index.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://185.19.191.235:8090/Eurosport1/index.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://185.19.191.247:8090/Eurosport2/index.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://185.19.191.247:8090/Eurosport1/index.m3u8
 
-#EXTINF:-1,NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,ITV1
+http://185.19.191.32:8090/ITV1/index.m3u8
+#EXTINF:-1,ITV2
+http://185.19.191.32:8090/ITV2/index.m3u8
+#EXTINF:-1,ITV3
+http://185.19.191.32:8090/ITV3/index.m3u8
+#EXTINF:-1,ITV4
+http://185.19.191.32:8090/ITV4/index.m3u8
+#EXTINF:-1,MAX
+http://185.19.191.32:8090/MAX/index.m3u8
+#EXTINF:-1,MORE4
+http://185.19.191.32:8090/MORE4/index.m3u8
+#EXTINF:-1,NATGEO
+http://185.19.191.32:8090/NATGEO/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://185.19.191.32:8090/NATGEOWILD/index.m3u8
+#EXTINF:-1,CartoonNetwork
+http://185.19.191.32:8090/CartoonNetwork/index.m3u8
+
+#EXTINF:-1,arenasport2
+http://195.222.48.168/arenasport2.m3u8
+#EXTINF:-1,arenasport3
+http://195.222.48.168/arenasport3.m3u8
