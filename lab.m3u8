@@ -21,114 +21,93 @@ http://112.153.162.17:9981/stream/channelid/753167824
 #EXTINF:-1,속풀이쇼 동치미 (259회) / 259 Korea
 http://115.143.155.50:9981/stream/channel/659317c44b6415ab0d14676562ade772
 
-#EXTINF:-1,Rai 1
-http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8
-#EXTINF:-1,Rai 2
-http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8
-#EXTINF:-1,Rai 3
-http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
-#EXTINF:-1,La7
-http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
-#EXTINF:-1,Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
-#EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1,Cielo
-http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1,Rai Yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1,Rai News
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
-#EXTINF:-1,Sky Tg24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1,RsiLa 1
-https://srgssruni12ch-lh.akamaihd.net/i/enc12uni_ch@191527/index_1200_av-p.m3u8?id=|x-forwarded-for=85.195.192.12
-#EXTINF:-1,RsiLa 2
-https://srgssruni13ch-lh.akamaihd.net/i/enc13uni_ch@191855/index_1200_av-p.m3u8?id=|x-forwarded-for=85.195.192.12
-#EXTINF:-1,Onda Italiana
-http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
-#EXTINF:-1,Radio Italia Tv
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x576_av-p.m3u8
-#EXTINF:-1,FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1,Radio capital Tivù https://iptv.zone
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,La3
-http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8
-#EXTINF:-1,Repubblica TV
-http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8
-#EXTINF:-1,Radio Deejay
-http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
-#EXTINF:-1,RAI Premium [288p]
-http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_750_av-p.m3u8
-#EXTINF:-1,RAI Premium [288p]
-http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_750_av-b.m3u8
-#EXTINF:-1,RAI Premium [352p]
-http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1,RAI Premium [352p]
-http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1200_av-b.m3u8
-#EXTINF:-1,RAI Premium [396p]
-http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1800_av-p.m3u8
-#EXTINF:-1,RAI Premium [396p]
-http://b2everyrai-lh.akamaihd.net:80/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-1,(ESPANHA)
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1,Fox News(EUA)
-http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HIGH.m3u8
-#EXTINF:-1,Fox 23 News (EUA)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1,Fox 30 News (EUA)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1,DW (DEUTSCH)
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_3_av-p.m3u8
-#EXTINF:-1,DW (DEUTSCH )
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
-#EXTINF:-1,DW (ESPAÑOL)
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1,(?????) DW Arabic
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
-#EXTINF:-1,FOX 35 Orlando (EUA)
-http://livestream-f.akamaihd.net/i/6140902_2549335_lsi706oqk7lmpaxflq7_1@408376/index_678_av-p.m3u8?sd=10
-
-#EXTINF:-1,Eurosport2 HD
-http://185.19.191.244:8090/Eurosport2/index.m3u8
-#EXTINF:-1,Eurosport1 HD
-http://185.19.191.244:8090/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport2 HD
-http://185.19.191.235:8090/Eurosport2/index.m3u8
-#EXTINF:-1,Eurosport1 HD
-http://185.19.191.235:8090/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport2 HD
-http://185.19.191.247:8090/Eurosport2/index.m3u8
-#EXTINF:-1,Eurosport1 HD
-http://185.19.191.247:8090/Eurosport1/index.m3u8
-
-#EXTINF:-1,ITV1
-http://185.19.191.32:8090/ITV1/index.m3u8
-#EXTINF:-1,ITV2
-http://185.19.191.32:8090/ITV2/index.m3u8
-#EXTINF:-1,ITV3
-http://185.19.191.32:8090/ITV3/index.m3u8
-#EXTINF:-1,ITV4
-http://185.19.191.32:8090/ITV4/index.m3u8
-#EXTINF:-1,MAX
-http://185.19.191.32:8090/MAX/index.m3u8
-#EXTINF:-1,MORE4
-http://185.19.191.32:8090/MORE4/index.m3u8
-#EXTINF:-1,NATGEO
-http://185.19.191.32:8090/NATGEO/index.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://185.19.191.32:8090/NATGEOWILD/index.m3u8
-#EXTINF:-1,CartoonNetwork
-http://185.19.191.32:8090/CartoonNetwork/index.m3u8
-
-#EXTINF:-1,arenasport2
-http://195.222.48.168/arenasport2.m3u8
-#EXTINF:-1,arenasport3
-http://195.222.48.168/arenasport3.m3u8
+#EXTINF:-1, Animax
+http://198.16.106.26/jp-animax/index.m3u8?dvr=false&token=29bab6ebd01b0290706b4a0ac5337fa786b0c1dd-ceb1388af2660a0a9b3c5fada23837cf-1510528294-1510506694
+#EXTINF:-1, BS 12
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+#EXTINF:-1, BS Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+#EXTINF:-1, BS Fuji
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+#EXTINF:-1, BS Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+#EXTINF:-1, BS NTV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
+#EXTINF:-1, BS-TBS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
+#EXTINF:-1, CS219
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1, Discovery Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1, Disney Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
+#EXTINF:-1, Eisei Gekijo
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1, Fuji TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
+#EXTINF:-1, Gaora
+http://198.16.106.26/jp-gaora/index.m3u8?dvr=false&token=a14901890afca37983c6c844e6099dd0f3056f62-d39c0e52602ef09f62b7565f5045dc7a-1510528631-1510507031
+#EXTINF:-1, Golf Network
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1, History
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1, J Sports 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1, J Sports 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1, J Sports 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
+#EXTINF:-1, J Sports 4
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
+#EXTINF:-1, Kids Station
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
+#EXTINF:-1, KTV
+http://198.16.106.26/jp-ktv/index.m3u8?dvr=false&token=8a37e6b6cf7d0c2ea75a5908bae40154e8378bf4-83f3a1fee8c3c60db47587cb921c4be9-1510528910-1510507310
+#EXTINF:-1, MBS
+http://198.16.106.26/jp-mbs/index.m3u8?dvr=false&token=b82316b1c965a467e2cb6d9e6041dd5e928243e3-6b95f2c3fb8bc0d87ae6110de583728f-1510529007-1510507407
+#EXTINF:-1, Movie Plus
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+#EXTINF:-1, Music Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+#EXTINF:-1, Nihon Eiga TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1, Nippon TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
+#EXTINF:-1, NHK BS1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
+#EXTINF:-1, NHK BS Premium
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
+#EXTINF:-1, NHK Educational TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
+#EXTINF:-1, NHK General TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
+#EXTINF:-1, Samurai Fighting TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1, Star Channel 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
+#EXTINF:-1, Star Channel 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+#EXTINF:-1, Star Channel 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+#EXTINF:-1, TBS Television
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
+#EXTINF:-1, Tokyo MX
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
+#EXTINF:-1, TV Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
+#EXTINF:-1, TV Osaka
+http://198.16.106.26/jp-tvosaka/index.m3u8?dvr=false&token=e41b912afaa828f3f97b6c062a9f76451fc9e74f-142eb784f501bcbcf694f1b82ccbe90a-1510529271-1510507671
+#EXTINF:-1, TV Tokyo
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
+#EXTINF:-1, WOWOW Cinema
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+#EXTINF:-1, WOWOW Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+#EXTINF:-1, WOWOW Prime
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+#EXTINF:-1, Yomiura TV
+http://198.16.106.26/jp-yomiuritv/index.m3u8?dvr=false&token=4a3eb4b67f124789869f4a5c31b46a7a2833c703-f3df65bd845f90e0c2737f88eba12d36-1510529192-1510507592
+#EXTINF:-1,Japan Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8 
+#EXTINF:-1, Shopping Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
