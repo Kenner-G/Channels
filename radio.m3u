@@ -1,1 +1,101 @@
 #EXTM3U
+
+#EXTM3U
+
+#EXTINF:0, [COLOR yellow]USA RADIO STATIONS [/COLOR]
+h
+
+#EXTINF:0,[COLOR red]90.3[/COLOR] WCPN ideastream
+http://audio1.ideastream.org/wcpn128.mp3
+
+#EXTINF:0,[COLOR red]96.5 [/COLOR] KISS FM RADIO
+http://www.iheart.com/live/965-kiss-fm-1729/?autoplay=true&pname=1665&campid=play_bar&cid=%2Fplaylist%2F
+
+#EXTINF:0,[COLOR Red]Soft Jazz [/COLOR] 
+http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8?listeningSessionID=573aa3a50116edba_230911_zluekKxF_0000000ofY5&downloadSessionID=0&at=0&clientType=web&fb_broadcast=0&init_id=8169&modTime=1463691594128&pname=OrganicWeb&profileid=248665060&birthYear=null&territory=US&host=webapp.US&listenerId=2af9feef0b0210de61e97b0c25264388&uid=1463690853820&gender=null&age=null&amsparams=playerid:iHeartRadioWebPlayer;skey:1463691594&terminalid=159&zipcode=null&awparams=g:null;n:null;ccaud:["10358","10410","10385","10032","10093","10379","10488","10290","10085","10167","10404","10022","10097","10078","10029","10359","10010","10277","all","10018","10275","10202","10019","10028","10396","10407","10008","10043","10094","10030","10393","10103","10017","10088","10468","10086"];companionAds:true&playedFrom=338
+
+
+#EXTINF:0,إذاعة البرنامج العام 
+http://live.sis.gov.eg/live
+
+#EXTINF:0,راديو محطة مصر بث مباشر
+mmsh://205.164.56.70:80/mahatetmasr?MSWMExt=.asf
+
+#EXTINF:0,راديو إذاعة بنها 
+http://streaming.radionomy.com/BanhaCityTarab  
+
+#EXTINF:0,إذاعة صوت الساقية
+http://soundofsakia.serverroom.us:4896/live
+
+#EXTINF:0,إذاعة القاهرة الكبرى بث مباشر
+http://images.listenarabic.com/asx/cairo_radio.asx
+
+
+
+
+ 
+
+#EXTINF:0,إذاعة عمرو دياب 
+http://s7.voscast.com:7888
+ 
+ 
+
+#EXTINF:0,GR8 - Arab Maghreb
+http://192.184.9.158:8086/;stream/1
+
+
+
+#EXTINF:0,GR8 - Arabic Lounge
+http://184.107.202.178:8148/
+
+#EXTINF:0,GR8 - فيروزيات 
+http://184.107.202.178:8118/
+
+#EXTINF:0,GR8 - حليميات
+http://184.107.202.178:8120/
+
+#EXTINF:0,GR8 - Hip Hop Arabic
+http://192.184.9.79:8070/;stream/1
+
+#EXTINF:0,GR8 - خليجي
+http://184.107.202.178:8150/;stream/1
+
+#EXTINF:0,GR8 - إذاعة أم كلثوم 
+http://184.107.202.178:8122/
+
+
+#EXTINF:0,GR8 - طربيات 
+http://184.107.202.178:8140
+
+#EXTINF:0,Mahatet Masr 
+http://stream.mahatetmasr.com/mahatetmasr
+
+#EXTINF:0,Mahatet Masr - Sha3by
+http://stream.mahatetmasr.com/mahatetmasr
+
+#EXTINF:0,Mahatet Masr Music
+http://205.164.56.70/mahatetmasrmusic
+
+#EXTINF:0,Mega 92.7 FM
+http://mgstrm9.twesto.com:7281/stream1.nsv
+
+#EXTINF:0,Nile 104.2 FM
+http://ice31.securenetsystems.net/NILE
+
+#EXTINF:0,Nogoum 100.6 FM
+http://ice31.securenetsystems.net/NOGOUM?
+ 
+#EXTINF:0,Radio Cairo 95.4 FM
+http://images.listenarabic.com/asx/cairo_radio.asx
+
+#EXTINF:0,Radio Hits 88.2
+http://rhstrm8.twesto.com:6365/stream2.nsv
+
+#EXTINF:0,Red Sea Radio Station
+http://www.hostmyradio.com:3000/;stream.nsv
+
+#EXTINF:0,Rehab FM
+http://209.239.114.182:8000/
+
+#EXTINF:0,Rotana
+http://192.184.9.158:8287/;stream.mp3
