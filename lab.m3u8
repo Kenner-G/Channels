@@ -3,24 +3,6 @@
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flat-icons-19/512/Chimestry_flask.png" group-title="LABEL",* Fluxus Lab : F*ck off Morty!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1,CBS Sports [test]
-http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master.m3u8
-
-#EXTINF:-1,O-la-la
-http://94.124.244.103:81/udp/239.195.5.33:1234
-
-#EXTINF:-1,Ночной Клуб
-http://94.124.244.103:81/udp/239.195.4.109:1234
-
-#EXTINF:-1,속풀이쇼 동치미 (259회) (재) / 259 Korea
-http://49.170.184.15:9981/stream/channel/cf44e3ad098c0268208f8de0850d3a78
-
-#EXTINF:-1,U+투데이 Korea
-http://112.153.162.17:9981/stream/channelid/753167824
-
-#EXTINF:-1,속풀이쇼 동치미 (259회) / 259 Korea
-http://115.143.155.50:9981/stream/channel/659317c44b6415ab0d14676562ade772
-
 #EXTINF:-1,My Name is Earl
 https://videoserver2.org/live/Pj7l7QGf3lQd-qMIyiuhbQ/1510651686/a4db3dc62c22b9f449c9f690d870d77f.m3u8
 
@@ -33,14 +15,17 @@ https://videoserver1.org/live/IftFjWeSdSRUsZc__gR7gQ/1510652287/df2c23eb808be09e
 #EXTINF:-1,The Simpsons
 https://videoserver2.org/live/5NrO4N3oXicecJFAcJHd-A/1510652707/43b4dbed3e7f7a4ecba655f3dedcfd21.m3u8
 
-#EXTINF:-1,ABC 7 Sarasota Florida WWSB
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1,WSOC 9 News |Novo*|
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
 
-#EXTINF:-1,Destination America
-https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+#EXTINF:-1,WJAX CBS 47
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
 
-#EXTINF:-1,Investigation Discovery
-https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+#EXTINF:-1,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 
-#EXTINF:-1,ESPN2 Lat
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,foroTV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1,Once ?
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
