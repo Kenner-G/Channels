@@ -21,8 +21,6 @@ http://112.153.162.17:9981/stream/channelid/753167824
 #EXTINF:-1,속풀이쇼 동치미 (259회) / 259 Korea
 http://115.143.155.50:9981/stream/channel/659317c44b6415ab0d14676562ade772
 
-#EXTINF:-1, Animax
-http://198.16.106.26/jp-animax/index.m3u8?dvr=false&token=29bab6ebd01b0290706b4a0ac5337fa786b0c1dd-ceb1388af2660a0a9b3c5fada23837cf-1510528294-1510506694
 #EXTINF:-1, BS 12
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
 #EXTINF:-1, BS Asahi
@@ -45,8 +43,6 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
 #EXTINF:-1, Fuji TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
-#EXTINF:-1, Gaora
-http://198.16.106.26/jp-gaora/index.m3u8?dvr=false&token=a14901890afca37983c6c844e6099dd0f3056f62-d39c0e52602ef09f62b7565f5045dc7a-1510528631-1510507031
 #EXTINF:-1, Golf Network
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
 #EXTINF:-1, History
@@ -61,10 +57,6 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
 #EXTINF:-1, Kids Station
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
-#EXTINF:-1, KTV
-http://198.16.106.26/jp-ktv/index.m3u8?dvr=false&token=8a37e6b6cf7d0c2ea75a5908bae40154e8378bf4-83f3a1fee8c3c60db47587cb921c4be9-1510528910-1510507310
-#EXTINF:-1, MBS
-http://198.16.106.26/jp-mbs/index.m3u8?dvr=false&token=b82316b1c965a467e2cb6d9e6041dd5e928243e3-6b95f2c3fb8bc0d87ae6110de583728f-1510529007-1510507407
 #EXTINF:-1, Movie Plus
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
 #EXTINF:-1, Music Japan
@@ -95,8 +87,6 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
 #EXTINF:-1, TV Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
-#EXTINF:-1, TV Osaka
-http://198.16.106.26/jp-tvosaka/index.m3u8?dvr=false&token=e41b912afaa828f3f97b6c062a9f76451fc9e74f-142eb784f501bcbcf694f1b82ccbe90a-1510529271-1510507671
 #EXTINF:-1, TV Tokyo
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
 #EXTINF:-1, WOWOW Cinema
@@ -105,9 +95,7 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 #EXTINF:-1, WOWOW Prime
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
-#EXTINF:-1, Yomiura TV
-http://198.16.106.26/jp-yomiuritv/index.m3u8?dvr=false&token=4a3eb4b67f124789869f4a5c31b46a7a2833c703-f3df65bd845f90e0c2737f88eba12d36-1510529192-1510507592
-#EXTINF:-1,Japan Channel DX
+#EXTINF:-1,Japan Channel DX x
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8 
-#EXTINF:-1, Shopping Channel
+#EXTINF:-1, Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
