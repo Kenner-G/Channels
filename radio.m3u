@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:0, [COLOR yellow]USA RADIO STATIONS [/COLOR]
-h
-
 #EXTINF:0,[COLOR red]90.3[/COLOR] WCPN ideastream
 http://audio1.ideastream.org/wcpn128.mp3
 
@@ -11,7 +8,6 @@ http://www.iheart.com/live/965-kiss-fm-1729/?autoplay=true&pname=1665&campid=pla
 
 #EXTINF:0,[COLOR Red]Soft Jazz [/COLOR] 
 http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8?listeningSessionID=573aa3a50116edba_230911_zluekKxF_0000000ofY5&downloadSessionID=0&at=0&clientType=web&fb_broadcast=0&init_id=8169&modTime=1463691594128&pname=OrganicWeb&profileid=248665060&birthYear=null&territory=US&host=webapp.US&listenerId=2af9feef0b0210de61e97b0c25264388&uid=1463690853820&gender=null&age=null&amsparams=playerid:iHeartRadioWebPlayer;skey:1463691594&terminalid=159&zipcode=null&awparams=g:null;n:null;ccaud:["10358","10410","10385","10032","10093","10379","10488","10290","10085","10167","10404","10022","10097","10078","10029","10359","10010","10277","all","10018","10275","10202","10019","10028","10396","10407","10008","10043","10094","10030","10393","10103","10017","10088","10468","10086"];companionAds:true&playedFrom=338
-
 
 #EXTINF:0,إذاعة البرنامج العام 
 http://live.sis.gov.eg/live
