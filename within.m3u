@@ -8,26 +8,11 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 ,88.7 - Radio BI
 http://201.159.48.107:2860/
 
-#EXTINF:-1 ,90.5 - UVA @
-http://201.159.48.106:88/broadwave.mp3?src=3&kbps=24
-
 #EXTINF:-1 ,91.3 - La mexicana
 http://tunein.gvstream.net:9042/;
 
-#EXTINF:-1 ,92.7 - Alternativa @
-mms://tv.aguascalientes.gob.mx/RyTA_FM
-
 #EXTINF:-1 ,93.7 - La Mejor
 http://tunein.gvstream.net:9232/;
-
-#EXTINF:-1 ,95.7 - 40 Principales @
-http://zer.zuperdns.net:9570/;
-
-#EXTINF:-1 ,98.3 - Radio Fe bonita @
-http://184.107.179.162:3419/;
-
-#EXTINF:-1 ,98.9 - La Invasora @
-http://201.159.48.106:88/broadwave.mp3?src=2&kbps=24
 
 #EXTINF:-1 ,100.1 - La Sanmarqueña
 http://zer.zuperdns.net:2001/;
