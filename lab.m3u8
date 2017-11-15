@@ -20,6 +20,15 @@ http://75.144.206.66:8042/;stream.mp3
 
 ////
 
+#EXTINF:-1,American Heroes Channel
+https://content-ausw3.uplynk.com/channel/7ba600dabdd44f5a92ffaf9842f1e9e8/h.m3u8
+
+
+#EXTINF:-1,American Heroes Channel orig
+https://content-ausw3.uplynk.com/channel/7ba600dabdd44f5a92ffaf9842f1e9e8/h.m3u8?pbs=cb48fd2666074c06a4ebd1462fb4d565
+
+////
+
 #EXTINF:-1,Đài Tiếng nói VN 1 - VOV1
 rtmp://210.245.60.242:1935/nghehevov2/vov2
 
