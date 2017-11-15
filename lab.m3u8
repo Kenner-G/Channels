@@ -6,8 +6,19 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/96/b5/96b588101f81146429bed9a5e22dc1ca.jpg" group-title="COLOMBIA",Arriba Colombia Cajica w snippet
 http://cdn.instream.audio:9137/;stream.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio36794_1464257209.png" group-title="COLOMBIA",Besame 97.4 FM Bogota without ?
-http://14933.live.streamtheworld.com/BESAME_NACIONALAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s243959q.png" group-title="USA",plain
+http://75.144.206.66:8042/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s243959q.png" group-title="USA",semi
+http://75.144.206.66:8042/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s243959q.png" group-title="USA",half
+http://75.144.206.66:8042/;stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s243959q.png" group-title="USA",full
+http://75.144.206.66:8042/;stream.mp3
+
+////
 
 #EXTINF:-1,Đài Tiếng nói VN 1 - VOV1
 rtmp://210.245.60.242:1935/nghehevov2/vov2
