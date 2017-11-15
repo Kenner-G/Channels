@@ -20,18 +20,55 @@ http://75.144.206.66:8042/;stream.mp3
 
 ////
 
-#EXTINF:-1,TEST 1 orig
-https://manifest.googlevideo.com/api/manifest/hls_variant/id/MBoPt2d5eOo.1/tx/23709506/gcr/ch/expire/1510796481/playlist_type/DVR/source/yt_live_broadcast/requiressl/yes/key/yt6/ip/179.43.188.182/ipbits/0/txs/23709505%2C23709506/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/signature/2CC26AA52806C4809198B0CBCCBCE82444281E9E.983F9842C7A46093F3F466438F395416AF1E28ED/itag/0/maudio/1/beids/%5B9466592%5D/go/1/file/index.m3u8
+#EXTINF:-1,Horror Movies
+https://manifest.googlevideo.com/api/manifest/hls_variant/maudio/1/expire/1510801761/signature/868553478A167722884C17DE87E8E9C3F9093C0A.42B1CB38101A7BE951C7CCF10CDCC34E927F9EB1/go/1/ipbits/0/playlist_type/DVR/gcr/ch/source/yt_live_broadcast/tx/23709506/itag/0/id/MBoPt2d5eOo.1/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/txs/23709505%2C23709506/beids/%5B9466592%5D/requiressl/yes/ip/179.43.188.182/file/index.m3u8
 
-#EXTINF:-1,TEST 2 decoded
-https://manifest.googlevideo.com/api/manifest/hls_variant/id/MBoPt2d5eOo.1/tx/23709506/gcr/ch/expire/1510796481/playlist_type/DVR/source/yt_live_broadcast/requiressl/yes/key/yt6/ip/179.43.188.182/ipbits/0/txs/23709505,23709506/sparams/gcr,go,id,ip,ipbits,itag,maudio,playlist_type,requiressl,source,tx,txs,expire/signature/2CC26AA52806C4809198B0CBCCBCE82444281E9E.983F9842C7A46093F3F466438F395416AF1E28ED/itag/0/maudio/1/beids/[9466592]/go/1/file/index.m3u8
+#EXTINF:-1,Action Movies
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/signature/C847C257DF74A6334102A210A5407046857B2EB3.BA5675E24937DF3C74A117D13A158D3F27808500/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/itag/0/txs/23709505%2C23709506/ip/179.43.188.182/beids/%5B9466592%5D/playlist_type/DVR/maudio/1/key/yt6/expire/1510801102/id/_T2U8onmN60.0/ipbits/0/tx/23709506/requiressl/yes/source/yt_live_broadcast/gcr/ch/file/index.m3u8
 
-#EXTINF:-1,TEST 3 chrome
-https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/expire/1510796901/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/requiressl/yes/signature/50A3284929E35B41365DF5417A25BAFC7EC14FF8.7F976E39DBC3844DDF477A032D9BAA644FA90BDA/playlist_type/DVR/gcr/ch/itag/0/tx/23709506/id/MBoPt2d5eOo.1/beids/%5B9466592%5D/source/yt_live_broadcast/txs/23709505%2C23709506/ip/179.43.188.182/key/yt6/maudio/1/file/index.m3u8
+#EXTINF:-1,Fantasy + Aventure Movies
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/ch/tx/23709506/itag/0/id/tcgX4ROucZg.1/requiressl/yes/ip/179.43.188.182/beids/%5B9466592%5D/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/signature/60C43CA6210F208EE62162D50B5CF23978243E11.9A0684086C597A9D03D6F09DC2CBEDB94FE54B03/go/1/ipbits/0/source/yt_live_broadcast/playlist_type/DVR/expire/1510801161/key/yt6/maudio/1/txs/23709505%2C23709506/file/index.m3u8
 
-#EXTINF:-1,TEST chrome decoded
-https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/expire/1510796901/sparams/gcr,go,id,ip,ipbits,itag,maudio,playlist_type,requiressl,source,tx,txs,expire/ipbits/0/requiressl/yes/signature/50A3284929E35B41365DF5417A25BAFC7EC14FF8.7F976E39DBC3844DDF477A032D9BAA644FA90BDA/playlist_type/DVR/gcr/ch/itag/0/tx/23709506/id/MBoPt2d5eOo.1/beids/[9466592]/source/yt_live_broadcast/txs/23709505,23709506/ip/179.43.188.182/key/yt6/maudio/1/file/index.m3u8
-////
+#EXTINF:-1,Lifetime Movies
+https://manifest.googlevideo.com/api/manifest/hls_variant/source/yt_live_broadcast/go/1/tx/23709506/ip/179.43.188.182/itag/0/maudio/1/ipbits/0/playlist_type/DVR/beids/%5B9466592%5D/signature/CA2C9CC2D120B1645E56947BBD0D632319CE6184.A667745FA53D37791C8CE555654EBEC03B550103/id/sy6ZIbaM0Dc.1/gcr/ch/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/requiressl/yes/txs/23709505%2C23709506/expire/1510801221/file/index.m3u8
+
+#EXTINF:-1,CNBC TV18
+https://manifest.googlevideo.com/api/manifest/hls_variant/beids/%5B9466592%5D/tx/23709506/requiressl/yes/id/AVsKH-QJoNA.0/signature/92E4D8230600CAD1DBAF8504736725A332ED057D.722FBB6FD2434437FEDF874B89BDB3580F93D4B9/force_finished/1/gcr/ch/itag/0/source/yt_live_broadcast/ip/179.43.188.182/txs/23709505%2C23709506/maudio/1/go/1/playlist_type/CLEAN/expire/1510801281/ipbits/0/key/yt6/sparams/force_finished%2Cgcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/file/index.m3u8
+
+#EXTINF:-1,24/7 Mickey Mouse Clubhouse
+https://manifest.googlevideo.com/api/manifest/hls_variant/playlist_type/LIVE/ipbits/0/expire/1510801341/go/1/id/_IYdRGF4HaA.0/txs/23709505%2C23709506/itag/0/gcr/ch/requiressl/yes/ip/179.43.188.182/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/beids/%5B9466592%5D/tx/23709506/maudio/1/key/yt6/signature/A32EBC0126AEA224AA4E7A628AF19E25299525EB.7A70C1F63770A353BC4EA22602C086081669A65A/file/index.m3u8
+
+#EXTINF:-1,24/7 Count Duckula
+https://manifest.googlevideo.com/api/manifest/hls_variant/ip/179.43.188.182/itag/0/ipbits/0/go/1/tx/23709506/id/MOGYULZ9QJw.1/beids/%5B9466592%5D/source/yt_live_broadcast/key/yt6/playlist_type/DVR/expire/1510801341/maudio/1/signature/50863A6E4FDE1A663683FCA7580ADF8FD9230EBE.6EC06471D545DC083B7E58A6B0A2CF95C11CB5B5/txs/23709505%2C23709506/requiressl/yes/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/gcr/ch/file/index.m3u8
+
+#EXTINF:-1,24/7 Peliculas en Espanol
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/go/1/id/9LpJQfoowmQ.1/tx/23709506/key/yt6/ip/179.43.188.182/ipbits/0/playlist_type/DVR/maudio/1/beids/%5B9466592%5D/expire/1510801461/txs/23709505%2C23709506/gcr/ch/itag/0/signature/748541C40DAC3AFBE2418E4014D4C5F8B88D06EA.6D3B86114C757304B7BFD9105FA007B9E1D12555/requiressl/yes/file/index.m3u8
+
+#EXTINF:-1,24/7 My Gym Partner's a Monkey
+https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/ip/179.43.188.182/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/itag/0/go/1/txs/23709505%2C23709506/id/ZLE7wY8AGxg.1/maudio/1/key/yt6/requiressl/yes/expire/1510801521/playlist_type/DVR/tx/23709506/beids/%5B9466592%5D/source/yt_live_broadcast/gcr/ch/signature/B0AC76B9CF39BA1EE00E8D214B2172278ABCF19C.D697FAF7036D80A0D2850C96964C15390B853C57/file/index.m3u8
+
+#EXTINF:-1,24/7 Courage the Cowardly Dog
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/playlist_type/DVR/maudio/1/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/expire/1510801521/ip/179.43.188.182/tx/23709506/id/Fh4rX8xXbYo.25/requiressl/yes/signature/1CDFB2C6ECE4B8454F64A1E68015738AFA054BF4.5D180C9A7E1A391BA8415381CF9549D1BF27F5D6/beids/%5B9466592%5D/source/yt_live_broadcast/itag/0/txs/23709505%2C23709506/gcr/ch/file/index.m3u8
+
+#EXTINF:-1,24/7 Camp Lazlo
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/rK-e9WHZ-SQ.1/signature/58F2F64B522FEE494CD1B92FF958D771EE21CCFF.35C7F14D759C2B8FD152E7F670933033B125B353/tx/23709506/gcr/ch/expire/1510801581/ip/179.43.188.182/key/yt6/source/yt_live_broadcast/maudio/1/go/1/playlist_type/DVR/ipbits/0/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/itag/0/beids/%5B9466592%5D/requiressl/yes/txs/23709505%2C23709506/file/index.m3u8
+
+#EXTINF:-1,24/7 The Grim Adventures of Billy & Mandy
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/signature/060A31F1DC10252F2B4C3055D48F044874BD3B6B.4F92652BBE300E38B31044FA529A1E83AF6B893C/beids/%5B9466592%5D/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/txs/23709505%2C23709506/expire/1510801641/ipbits/0/gcr/ch/tx/23709506/requiressl/yes/id/wBOh5gzVemY.1/playlist_type/DVR/maudio/1/ip/179.43.188.182/itag/0/key/yt6/source/yt_live_broadcast/file/index.m3u8
+
+#EXTINF:-1,24/7 Ed, Edd n Eddy
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/ApKkZbCx3pM.4/tx/23709506/itag/0/requiressl/yes/playlist_type/DVR/signature/4BF11F378178E68482F7B93FBF59CFA979B813C7.6FFF0637DFD68D8B0360A6D4FFF9032624277C58/ip/179.43.188.182/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/gcr/ch/maudio/1/key/yt6/go/1/beids/%5B9466592%5D/expire/1510801401/source/yt_live_broadcast/ipbits/0/txs/23709505%2C23709506/file/index.m3u8
+
+#EXTINF:-1,24/7 Cow and Chicken
+https://manifest.googlevideo.com/api/manifest/hls_variant/signature/2A32C05C7839AA024965F4B57D6EA072B8716CFB.5EE907D33EFF7726975C92086AED067544C58C46/playlist_type/DVR/beids/%5B9466592%5D/ip/179.43.188.182/itag/0/tx/23709506/gcr/ch/ipbits/0/source/yt_live_broadcast/id/Q5581clNIaE.2/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/requiressl/yes/maudio/1/txs/23709505%2C23709506/key/yt6/expire/1510801702/go/1/file/index.m3u8
+
+#EXTINF:-1,24/7 Johnny Bravo
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/id/71H6z5B2_Ok.1/go/1/itag/0/playlist_type/DVR/expire/1510801881/ip/179.43.188.182/key/yt6/ipbits/0/maudio/1/source/yt_live_broadcast/txs/23709505%2C23709506/beids/%5B9466592%5D/gcr/ch/signature/9668849864A164349EA510547922F39719774F83.743A2FB7B1FA43D85A500137B713687666898453/requiressl/yes/tx/23709506/file/index.m3u8
+
+#EXTINF:-1,24/7 Looney Tunes
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/2fUuTLuzJVI.3/go/1/source/yt_live_broadcast/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ip/179.43.188.182/key/yt6/tx/23709506/expire/1510801881/maudio/1/beids/%5B9466592%5D/playlist_type/DVR/ipbits/0/itag/0/requiressl/yes/signature/A545C1B6038BD4CB6002E50A89F793FAEC332A41.D465A67BC0289C02A206843CAF192CEA692E67AA/txs/23709505%2C23709506/gcr/ch/file/index.m3u8
+
+///
 
 #EXTINF:-1,Đài Tiếng nói VN 1 - VOV1
 rtmp://210.245.60.242:1935/nghehevov2/vov2
