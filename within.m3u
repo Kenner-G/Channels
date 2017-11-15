@@ -8,25 +8,25 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 ,88.7 - Radio BI
 http://201.159.48.107:2860/
 
-#EXTINF:-1 ,90.5 - UVA
+#EXTINF:-1 ,90.5 - UVA @
 http://201.159.48.106:88/broadwave.mp3?src=3&kbps=24
 
 #EXTINF:-1 ,91.3 - La mexicana
 http://tunein.gvstream.net:9042/;
 
-#EXTINF:-1 ,92.7 - Alternativa
+#EXTINF:-1 ,92.7 - Alternativa @
 mms://tv.aguascalientes.gob.mx/RyTA_FM
 
 #EXTINF:-1 ,93.7 - La Mejor
 http://tunein.gvstream.net:9232/;
 
-#EXTINF:-1 ,95.7 - 40 Principales
+#EXTINF:-1 ,95.7 - 40 Principales @
 http://zer.zuperdns.net:9570/;
 
-#EXTINF:-1 ,98.3 - Radio Fe bonita
+#EXTINF:-1 ,98.3 - Radio Fe bonita @
 http://184.107.179.162:3419/;
 
-#EXTINF:-1 ,98.9 - La Invasora
+#EXTINF:-1 ,98.9 - La Invasora @
 http://201.159.48.106:88/broadwave.mp3?src=2&kbps=24
 
 #EXTINF:-1 ,100.1 - La Sanmarqueña
@@ -38,428 +38,429 @@ http://tunein.gvstream.net:9038/;
 #EXTINF:-1 ,101.7 - Magia
 http://201.159.48.107:88/broadwave.mp3?src=1&kbps=64
 
-#EXTINF:-1 ,102.9 - La Kaliente last
+#EXTINF:-1 ,102.9 - La Kaliente
 http://zer.zuperdns.net:1021/;
 
 #EXTINF:-1 ,103.7 - Estereo Mendel
-#EXTGRP:---Radios de Aguascalientes---
 http://tunein.gvstream.net:8034/;
+
 #EXTINF:-1 ,104.5 - Amor
-#EXTGRP:---Radios de Aguascalientes---
 http://zer.zuperdns.net:1045/;
+
 #EXTINF:-1 ,105.3 - 105 Digital
-#EXTGRP:---Radios de Aguascalientes---
 http://201.159.48.106:88/broadwave.mp3?
+
 #EXTINF:-1 ,106.1 - La Ranchera
-#EXTGRP:---Radios de Aguascalientes---
 http://zer.zuperdns.net:1006/;
+
 #EXTINF:-1 ,106.9 - Azul
-#EXTGRP:---Radios de Aguascalientes---
 http://tunein.gvstream.net:8282/;
+
 #EXTINF:-1 ,107.3 - 107.3 Mas que Radio
-#EXTGRP:---Radios de Aguascalientes---
 http://50.22.218.197:8783/;
+
 #EXTINF:-1 ,107.7 - La poderosa
-#EXTGRP:---Radios de Aguascalientes---
 http://201.159.48.105:2871/
 
-
-
 #EXTINF:-1 ,89.9 - Vida (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xhsol.mp3?
+
 #EXTINF:-1 ,91.5 - Exa (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://9313.live.streamtheworld.com/XHJCFM_SC
+
 #EXTINF:-1 ,92.3 - La bestia grupera (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xhmmf.mp3?
-#EXTINF:-1 ,96.9 - La poderosa (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
+
+EXTINF:-1 ,96.9 - La poderosa (Mexicali)
 http://stream3.dyndns.org:8000/xhmug.mp3?
+
 #EXTINF:-1 ,101.9 - FM Globo (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://10813.live.streamtheworld.com/XHPFFM
+
 #EXTINF:-1 ,103.3 - La mejor (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://9323.live.streamtheworld.com/XHVGFM
+
 #EXTINF:-1 ,104.9 - @FM (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xhmc.mp3?
+
 #EXTINF:-1 ,105.9 - La dinamica (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xhsu.mp3/;
+
 #EXTINF:-1 ,106.7 - More FM (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://162.144.96.212:8000/morefm1067
+
 #EXTINF:-1 ,850 - Ke buena (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xezf.mp3/;
+
 #EXTINF:-1 ,910 - Radio mexicana (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://s1.radiorama.com.mx:9570/;
+
 #EXTINF:-1 ,940 - 940 Oldies (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://192.95.39.65:5410/;
+
 #EXTINF:-1 ,990 - La rocola (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xecl.mp3?
+
 #EXTINF:-1 ,1050 - La gran D (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xed.mp3?
+
 #EXTINF:-1 ,1150 - Radio formula (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://64.15.187.58:8000/tijuana
+
 #EXTINF:-1 ,1190 - Cadena 1190 (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://162.144.96.212:8000/cadena1190
+
 #EXTINF:-1 ,1370 - Super 1370 (Mexicali)
-#EXTGRP:---Radios de Baja California Norte---
 http://s1.radiorama.com.mx:9564/;
+
 #EXTINF:-1 ,90.3 - Z 90.3 (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://7319.live.streamtheworld.com/XHTZFMAAC
+
 #EXTINF:-1 ,90.7 - La mejor (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://8343.live.streamtheworld.com:3690/XHTIM_SC
+
 #EXTINF:-1 ,91.1 - 91 X (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://13703.live.streamtheworld.com:3690/XTRAFM_SC
+
 #EXTINF:-1 ,91.7 - Exa (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://14643.live.streamtheworld.com/XHGLX
+
 #EXTINF:-1 ,92.5 - Magic (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://14963.live.streamtheworld.com/XHRMFMAAC
+
 #EXTINF:-1 ,94.5 - La invasora (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://50.7.29.178:9308/;
+
 #EXTINF:-1 ,95.3 - La caliente (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://14963.live.streamtheworld.com/LACALIENTE
+
 #EXTINF:-1 ,98.9 - More FM (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://162.144.96.212:8000/morefm989
+
 #EXTINF:-1 ,99.3 - Diego (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://hemnos.cdnstream.com/1446_64
+
 #EXTINF:-1 ,99.7 - La invasora (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://50.7.29.178:9306/;
+
 #EXTINF:-1 ,104.5 - Radio latina (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://14963.live.streamtheworld.com/XLTNFM_SC
+
 #EXTINF:-1 ,105.7 - Max (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://14083.live.streamtheworld.com/XPRSFMAAC
+
 #EXTINF:-1 ,107.3 - Pulsar (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://50.7.29.178:9304/;
+
 #EXTINF:-1 ,107.7 - Los 40 (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://s1.radiorama.com.mx:7118/;
+
 #EXTINF:-1 ,540 - Radio zion (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://166.88.21.98:9736/;
+
 #EXTINF:-1 ,800 - Cadena 800 (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://162.144.96.212:8000/cadena800
+
 #EXTINF:-1 ,860 - La poderosa (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://50.7.29.178:9310/;
+
 #EXTINF:-1 ,950 - Radio formula (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://64.15.187.58:8000/tijuana
+
 #EXTINF:-1 ,1030 - Radio romance (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://67.212.189.122:8272/stream
+
 #EXTINF:-1 ,1090 - Migthy (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://14953.live.streamtheworld.com/XPRSAM_SC
+
 #EXTINF:-1 ,1310 - Radio enciso (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://s7.viastreaming.net:8565/;
+
 #EXTINF:-1 ,1420 - Vida (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://s1.radiorama.com.mx:7564/;
+
 #EXTINF:-1 ,1470 - RCN (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://50.7.29.178:9312/;
+
 #EXTINF:-1 ,1550 - Cadena 1550 (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://162.144.96.212:8000/cadena1550
+
 #EXTINF:-1 ,1630 - UABC radio (Tijuana)
-#EXTGRP:---Radios de Baja California Norte---
 http://148.231.3.56/mxl
+
 #EXTINF:-1 ,89.1 - La bestia grupera (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xhepf.mp3?
+
 #EXTINF:-1 ,92.1 - Vida (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream3.dyndns.org:8000/xhhc.mp3?
+
 #EXTINF:-1 ,92.9 - XS 92.9 (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://108.163.173.130:18300/;
+
 #EXTINF:-1 ,95.5 - UABC radio (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://148.231.3.56/mxl
+
 #EXTINF:-1 ,97.9 - Fiesta mexicana (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://stream2.dyndns.org:8000/xhebc.mp3?
+
 #EXTINF:-1 ,100.3 - Cadena 100.3 (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://162.144.96.212:8000/cadena1010
+
 #EXTINF:-1 ,101.1 - Los 40 (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://s1.radiorama.com.mx:9552/;
+
 #EXTINF:-1 ,103.3 - La mejor (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://10813.live.streamtheworld.com/XHENA
+
 #EXTINF:-1 ,106.9 - Exa (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://14983.live.streamtheworld.com/XHADA_SC
+
 #EXTINF:-1 ,1030 - Radio romance (Ensenada)
-#EXTGRP:---Radios de Baja California Norte---
 http://67.212.189.122:8272/stream
 
 
 
 #EXTINF:-1 ,96.3 - Cabo mil (San Jose del Cabo)
-#EXTGRP:---Radios de Baja California Sur---
 http://50.7.29.178:9976/;
+
 #EXTINF:-1 ,660 - XESJC (San Jose del Cabo)
-#EXTGRP:---Radios de Baja California Sur---
 http://www.kvoz.com:8080/kvoz
+
 #EXTINF:-1 ,90.1 - Alegria mexicana (La paz)
-#EXTGRP:---Radios de Baja California Sur---
 http://www.kvoz.com:8080/alegriamexicana
+
 #EXTINF:-1 ,95.9 - Digimix 95 (80´s) (La paz)
-#EXTGRP:---Radios de Baja California Sur---
 http://www.kvoz.com:8080/digimix95
+
 #EXTINF:-1 ,96.7 - Super Stereo 96 (La paz)
-#EXTGRP:---Radios de Baja California Sur---
 http://www.panoramainformativo.com.mx:8080/Superstereo96
+
 #EXTINF:-1 ,99.1 - 99.1 la paz (La paz)
-#EXTGRP:---Radios de Baja California Sur---
 http://142.4.216.91:8106/;
+
 #EXTINF:-1 ,100.7 - XHZPL romantica (La paz)
-#EXTGRP:---Radios de Baja California Sur---
 http://www.xhzpl.com:8080/xhzpl
+
 #EXTINF:-1 ,790 - Radio formula (La paz)
-#EXTGRP:---Radios de Baja California Sur---
 http://64.15.187.58:8000/lapaz
 
 
 
 #EXTINF:-1 ,90.9 - Radio UAC (Campeche)
-#EXTGRP:---Radios de Campeche---
 http://radio.uacam.mx:8000/;
+
 #EXTINF:-1 ,100.3 - EXA (Campeche)
-#EXTGRP:---Radios de Campeche---
 http://14523.live.streamtheworld.com:443/XHMI_SC
+
 #EXTINF:-1 ,920 - Voces Campeche (Campeche)
-#EXTGRP:---Radios de Campeche---
 http://cast.zuperdns.net:8150/;
+
 #EXTINF:-1 ,1280 - Kiss (Campeche)
-#EXTGRP:---Radios de Campeche---
 http://mediaservicios.com.mx:8040/;
+
 #EXTINF:-1 ,90.9 - Radio Delfin (Ciudad del Carmen)
-#EXTGRP:---Radios de Campeche---
 http://sc1.streamingchoice.com:9085/;
+
 #EXTINF:-1 ,100.3 - Maxima (Ciudad del Carmen)
-#EXTGRP:---Radios de Campeche---
 http://www.tuasesorweb.com:8016/;
+
 #EXTINF:-1 ,920 - La mejor (Ciudad del Carmen)
-#EXTGRP:---Radios de Campeche---
 http://www.tuasesorweb.com:8016/;
+
 #EXTINF:-1 ,1280 - Exa (Ciudad del Carmen)
-#EXTGRP:---Radios de Campeche---
 http://stream3.dyndns.org:8000/xhit.mp3/;
 
 
 
 #EXTINF:-1 ,89.5 - Digital 89 (Arriaga - Tonala)
-#EXTGRP:---Radios de Chiapas---
 http://ice1.smartcast.com.mx:8000/tonala
+
 #EXTINF:-1 ,103.9 - Extremo grupero Villaflores (Arriaga - Tonala)
-#EXTGRP:---Radios de Chiapas---
 http://198.255.100.34:2044/;
+
 #EXTINF:-1 ,89.9 - Brisas de Montebello (Comitan)
-#EXTGRP:---Radios de Chiapas---
 http://ice1.smartcast.com.mx:8000/trinitaria
+
 #EXTINF:-1 ,107.9 - La B grande (Comitan)
-#EXTGRP:---Radios de Chiapas---
 http://imer-edge1.cdnstream.com/1506_64?cb=495913.mp3
+
 #EXTINF:-1 ,1040 - Radio Palenque (Comitan)
-#EXTGRP:---Radios de Chiapas---
 http://ice1.smartcast.com.mx:8000/palenque
+
 #EXTINF:-1 ,90.9 - Tabasco HOY (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://173.236.44.30:8000/;
+
 #EXTINF:-1 ,92.5 - La poderosa (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://stream2.dyndns.org:8000/xhtr.mp3/;
+
 #EXTINF:-1 ,94.9 - Mega 94.9 (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://64.56.64.94:8000/;
+
 #EXTINF:-1 ,95.7 - Ya! FM (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://gpazos.centrocibernetico.com:19020/;
+
 #EXTINF:-1 ,97.3 - Extremo FM (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://216.55.186.61:8043/stream
+
 #EXTINF:-1 ,98.3 - La mejor (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://66.240.202.106:9088/;
+
 #EXTINF:-1 ,99.1 - @FM (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://stream3.dyndns.org:8000/xevht.mp3
+
 #EXTINF:-1 ,101.5 - Los 40 Villahermosa (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://216.55.186.61:8051/stream
+
 #EXTINF:-1 ,106.3 - Capital FM (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://14003.live.streamtheworld.com:3690/XHRV_FM_SC
+
 #EXTINF:-1 ,570 - La grande de Tabasco (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://mediaservicios.com.mx:8048/;
+
 #EXTINF:-1 ,620 - Radio Formula Villahermosa (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://64.15.187.58:8000/villahermosa
+
 #EXTINF:-1 ,720 - XEVA (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://signals.centrocibernetico.com:29030/;
+
 #EXTINF:-1 ,970 - La imagen de la radio (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://www.xevt.com:8000/;
+
 #EXTINF:-1 ,1230 - XETVH (Reforma)
-#EXTGRP:---Radios de Chiapas---
 http://transmisionesdigitales.com:8002/;
 
 
 
 #EXTINF:-1 ,88.5 - @FM (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://stream2.dyndns.org:8000/xhdi.mp3
+
 #EXTINF:-1 ,89.3 - La poderosa (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://stream2.dyndns.org:8000/xhfa.mp3
+
 #EXTINF:-1 ,90.1 - Estereo vida (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://stream2.dyndns.org:8000/xhua.mp3
+
 #EXTINF:-1 ,90.9 - La caliente (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://14023.live.streamtheworld.com/XHAHCFM?
+
 #EXTINF:-1 91.7 - La norteñita, (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://8343.live.streamtheworld.com/XHBUAAC?
+
 #EXTINF:-1 ,93.3 - Magia digital (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://14093.live.streamtheworld.com/XHBWAAC?
+
 #EXTINF:-1 94.9 - D95 (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://10433.live.streamtheworld.com/XHCHHFM?
+
 #EXTINF:-1 ,95.7 - Romance 95.7 (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://13743.live.streamtheworld.com/XHQDAAC?
+
 #EXTINF:-1 ,100.9 - Exa (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://14983.live.streamtheworld.com/XHSBT_SC
+
 #EXTINF:-1 ,Classic - 103.7 (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://4533.live.streamtheworld.com/XHHEMFM_SC
+
 #EXTINF:-1 ,104.5 - Hits FM (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://16693.live.streamtheworld.com/XHCHAFM?
+
 #EXTINF:-1 ,105.3 - Radio universidad (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://148.229.18.59:8000/ru.mp3?
+
 #EXTINF:-1 ,760 - Antena(Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://50.7.29.178:9974/;
+
 #EXTINF:-1 ,1040 - Estereo Sensacion (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://stream2.dyndns.org:8000/xehes.mp3?
+
 #EXTINF:-1 ,1310 - Radio universidad (Chihuahua)
-#EXTGRP:---Radios de Chihuahua---
 http://148.229.18.59:8000/ru.mp3?
+
 #EXTINF:-1 ,90.5 - La caliente (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://50.7.29.178:9964/;
+
 #EXTINF:-1 ,93.7 - Flamingo Stereo (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://usa2.fastcast4u.com:3006/;
+
 #EXTINF:-1 ,94.5 - Fiesta Mexicana (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://radio.promosat.com:8122/;
+
 #EXTINF:-1 ,95.3 - Ke buena (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://192.99.150.52:9536/;
+
 #EXTINF:-1 ,98.9 - La Lupe (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://usa1.fastcast4u.com:2626/;
+
 #EXTINF:-1 ,100.5 - Los 40 principales (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://192.99.150.52:9532/;
+
 #EXTINF:-1 ,101.3 - Like FM (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://50.7.29.178:9970/;
+
 #EXTINF:-1 ,102.1 - Romantica (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://192.99.150.52:9534/;
+
 #EXTINF:-1 ,102.9 - Super FM (Ciudad Delicias)
-#EXTGRP:---Radios de Chihuahua---
 http://usa2.fastcast4u.com:3018/;
+
 #EXTINF:-1 ,92.9 - La campera (Ciudad Camargo)
-#EXTGRP:---Radios de Chihuahua---
 http://212.83.172.242:8054/;
+
 #EXTINF:-1 ,97.5 - La grandota (Ciudad Camargo)
-#EXTGRP:---Radios de Chihuahua---
 http://15383.live.streamtheworld.com/XEERAAC_SC
+
 #EXTINF:-1 ,102.9 - Super FM (Ciudad Camargo)
-#EXTGRP:---Radios de Chihuahua---
 http://usa2.fastcast4u.com:3018/;
+
 #EXTINF:-1 ,104.3 - Halcon Stereo (Ciudad Camargo)
-#EXTGRP:---Radios de Chihuahua---
 http://142.4.216.91:8054/;
+
 #EXTINF:-1 ,105.1 - La tremenda (Ciudad Camargo)
-#EXTGRP:---Radios de Chihuahua---
 http://200.66.39.11:8070/xstream
+
 #EXTINF:-1 ,89.7 - La Ranchera (Ciudad Cuauhtemoc)
-#EXTGRP:---Radios de Chihuahua---
 http://212.83.172.242:8012/;
+
 #EXTINF:-1 ,92.9 - Estereo Romance (Ciudad Cuauhtemoc)
-#EXTGRP:---Radios de Chihuahua---
 http://212.83.172.242:8030/;
+
 #EXTINF:-1 ,98.3 - Hits FM (Ciudad Cuauhtemoc)
-#EXTGRP:---Radios de Chihuahua---
 http://50.7.29.178:9960/;
+
 #EXTINF:-1 ,99.9 - La Caliente (Ciudad Cuauhtemoc)
-#EXTGRP:---Radios de Chihuahua---
 http://4543.live.streamtheworld.com/XHCTCFM?
+
 #EXTINF:-1 ,104.1 - La Sabrosita (Ciudad Cuauhtemoc)
-#EXTGRP:---Radios de Chihuahua---
 http://212.83.172.242:8024/;
+
 #EXTINF:-1 ,550 - La super estacion (Ciudad Cuauhtemoc)
-#EXTGRP:---Radios de Chihuahua---
 http://216.18.212.2:8070/;
+
 #EXTINF:-1 ,98.5 - La capital de la noticia (Hidalgo del Parral)
 http://212.83.172.242:8060/;
+
 #EXTINF:-1 ,99.3 - @FM (Hidalgo del Parral)
 http://stream2.dyndns.org:8000/xhhhi.mp3/;
+
 #EXTINF:-1 ,100.1 - Romantica (Hidalgo del Parral)
 http://stream3.dyndns.org:8000/xhhpc.mp3/;
+
 #EXTINF:-1 ,101.7 - Hits FM (Hidalgo del Parral)
 http://14983.live.streamtheworld.com/XHHPRFM?
+
 #EXTINF:-1 ,102.5 - La Caliente (Hidalgo del Parral)
 http://14983.live.streamtheworld.com/XHHPRFM?
+
 #EXTINF:-1 ,770 - Estereo Fiesta (Hidalgo del Parral)
 http://stream3.dyndns.org:8000/xhehb.mp3
+
 #EXTINF:-1 ,820 - La Mexicana (Hidalgo del Parral)
 http://stream3.dyndns.org:8000/xhsb.mp3/;
-#EXTINF:-1 ,99.1 - Radio Centro (Ciudad Juarez)
+
 #EXTINF:-1 , XHSJ - 103.3 FM La estacion del Gallito
 http://85.17.30.50:8130/;stream.mp3?
+
 #EXTINF:-1 , DIGITAL - 106.5 FM Mas Pop
 http://95.211.115.197:8114/;stream.mp3?
 
+///
