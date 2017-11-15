@@ -56,7 +56,7 @@ http://9313.live.streamtheworld.com/XHJCFM_SC
 #EXTINF:-1 ,92.3 - La bestia grupera (Mexicali)
 http://stream2.dyndns.org:8000/xhmmf.mp3?
 
-EXTINF:-1 ,96.9 - La poderosa (Mexicali)
+#EXTINF:-1 ,96.9 - La poderosa (Mexicali)
 http://stream3.dyndns.org:8000/xhmug.mp3?
 
 #EXTINF:-1 ,101.9 - FM Globo (Mexicali)
