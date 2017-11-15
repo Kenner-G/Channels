@@ -20,13 +20,17 @@ http://75.144.206.66:8042/;stream.mp3
 
 ////
 
-#EXTINF:-1,American Heroes Channel
-https://content-ausw3.uplynk.com/channel/7ba600dabdd44f5a92ffaf9842f1e9e8/h.m3u8
+#EXTINF:-1,TEST 1 orig
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/MBoPt2d5eOo.1/tx/23709506/gcr/ch/expire/1510796481/playlist_type/DVR/source/yt_live_broadcast/requiressl/yes/key/yt6/ip/179.43.188.182/ipbits/0/txs/23709505%2C23709506/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/signature/2CC26AA52806C4809198B0CBCCBCE82444281E9E.983F9842C7A46093F3F466438F395416AF1E28ED/itag/0/maudio/1/beids/%5B9466592%5D/go/1/file/index.m3u8
 
+#EXTINF:-1,TEST 2 decoded
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/MBoPt2d5eOo.1/tx/23709506/gcr/ch/expire/1510796481/playlist_type/DVR/source/yt_live_broadcast/requiressl/yes/key/yt6/ip/179.43.188.182/ipbits/0/txs/23709505,23709506/sparams/gcr,go,id,ip,ipbits,itag,maudio,playlist_type,requiressl,source,tx,txs,expire/signature/2CC26AA52806C4809198B0CBCCBCE82444281E9E.983F9842C7A46093F3F466438F395416AF1E28ED/itag/0/maudio/1/beids/[9466592]/go/1/file/index.m3u8
 
-#EXTINF:-1,American Heroes Channel orig
-https://content-ausw3.uplynk.com/channel/7ba600dabdd44f5a92ffaf9842f1e9e8/h.m3u8?pbs=cb48fd2666074c06a4ebd1462fb4d565
+#EXTINF:-1,TEST 3 chrome
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/expire/1510796901/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/requiressl/yes/signature/50A3284929E35B41365DF5417A25BAFC7EC14FF8.7F976E39DBC3844DDF477A032D9BAA644FA90BDA/playlist_type/DVR/gcr/ch/itag/0/tx/23709506/id/MBoPt2d5eOo.1/beids/%5B9466592%5D/source/yt_live_broadcast/txs/23709505%2C23709506/ip/179.43.188.182/key/yt6/maudio/1/file/index.m3u8
 
+#EXTINF:-1,TEST chrome decoded
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/expire/1510796901/sparams/gcr,go,id,ip,ipbits,itag,maudio,playlist_type,requiressl,source,tx,txs,expire/ipbits/0/requiressl/yes/signature/50A3284929E35B41365DF5417A25BAFC7EC14FF8.7F976E39DBC3844DDF477A032D9BAA644FA90BDA/playlist_type/DVR/gcr/ch/itag/0/tx/23709506/id/MBoPt2d5eOo.1/beids/[9466592]/source/yt_live_broadcast/txs/23709505,23709506/ip/179.43.188.182/key/yt6/maudio/1/file/index.m3u8
 ////
 
 #EXTINF:-1,Đài Tiếng nói VN 1 - VOV1
