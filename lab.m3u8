@@ -2,3 +2,32 @@
 
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flat-icons-19/512/Chimestry_flask.png" group-title="LABEL",* Fluxus Lab : F*ck off Morty!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1,Đài Tiếng nói VN 1 - VOV1
+rtmp://210.245.60.242:1935/nghehevov2/vov2
+#EXTINF:-1,Đài Tiếng nói VN 2 - VOV2
+rtmp://210.245.60.242:1935/nghehevov1/vov1
+#EXTINF:-1,Đài Tiếng nói VN 3 - VOV3
+rtmp://210.245.60.242:1935/nghehevov3/vov3
+#EXTINF:-1,Ninh Bình
+http://117.6.94.35:8001
+#EXTINF:-1,HCM FM 95.6MHz
+rtmp://221.132.38.110:1935/live/channel1
+#EXTINF:-1,VOH AM 610 KHz
+rtmp://221.132.38.110:1935/live/channel2
+#EXTINF:-1,VOH FM 95.6 Mhz
+rtmp://221.132.38.110:1935/live/channel3
+#EXTINF:-1,VOH FM 95.6 Mhz
+rtmp://221.132.38.110:1935/live/channel4
+#EXTINF:-1,Hải Phòng
+http://118.107.76.15:1983/live/HPradio.stream/playlist.m3u8
+#EXTINF:-1,Hải Giang
+http://118.107.76.15:1983/live/HGradio.stream/playlist.m3u8
+#EXTINF:-1,Sơn La
+http://118.107.76.15:1983/live/SLradio.stream/playlist.m3u8
+#EXTINF:-1,VOH FM 95.6Mhz
+http://221.132.38.110:1935/live//channel1/playlist.m3u8
+#EXTINF:-1,VOH AM 610Khz
+http://221.132.38.110:1935/live//channel2/playlist.m3u8
+#EXTINF:-1,VOH FM 99.9Mhz
+http://221.132.38.110:1935/live//channel3/playlist.m3u8
