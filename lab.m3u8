@@ -12,6 +12,9 @@ https://lit-journey-17573.herokuapp.com/hls/29daa1e16727f2d42bb5c5f42ac94cba/151
 #EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/07/20140718155539.jpg" group-title="CANAIS", SBT
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/552133013488685056/_YL6wRw3.jpeg" group-title="ARGENTINA",TyC Sports
+https://tycsportsalive-a.akamaihd.net/fee95c06c9a8473f93d2d09bbefe8ece/sa-east-1/5395474896001/profile_1/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS", GLOBO
 http://165.227.32.151/loadbalance/bobosp/chunks.m3u8?pxAuth=RNtbQqBZZDxZaeWFKnpEs3lPI3vBK5rn
 
