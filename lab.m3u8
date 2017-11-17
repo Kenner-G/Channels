@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/flat-icons-19/512/Chimestry_flask.png" group-title="LABEL",* Fluxus Lab : F*ck off Morty!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTM3U
+#EXTINF:-1,A&E
+https://lit-journey-17573.herokuapp.com/hls/29daa1e16727f2d42bb5c5f42ac94cba/1510889903/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135332f7032702f62623338643930343862376239313730363236343136396130333166333261342e6d3375383f73743d713443763061374f71453648744e57774465686b6d4126653d31353130393034333033.m3u8?e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/07/20140718155539.jpg" group-title="CANAIS", SBT
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
